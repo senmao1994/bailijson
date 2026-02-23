@@ -1,0 +1,70 @@
+{
+  "id": 10084,
+  "name": "奈德丽",
+  "alias": "naideli",
+  "key": "10084",
+  "title": "狂野女猎手",
+  "skins": [
+    {
+      "id": 1008404,
+      "name": "灵魂莲华 奈德丽",
+      "roitName": "Spirit Blossom Nidalee",
+      "sortName": "灵魂莲华",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "捻花",
+      "universe": "灵魂莲华",
+      "pushDate": "",
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nidalee_3.jpg",
+      "splashHDPath": "https://image-5.uhdpaper.com/wallpaper/nidalee-spirit-blossom-skin-lol-wild-rift-splash-art-8k-wallpaper-uhdpaper.com-811@5@i.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_nidalee_skin03.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_SpiritBlossomCircle_WR.png?77898",
+      "chromaPath": null,
+      "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_SpiritBlossomSquare_WR_Special_Edition.png?54264",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008404.png",
+      "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Nidalee_SpiritBlossomLoading_WR_Special_Edition.png?20586",
+      "backstory": "“贤猫”的故事在初生之土各地流转，大部分人相信她是一位聪慧敏捷，饱经历练的存在。而在某些残卷里，她的困惑、她的凶暴、她的野性，以无法被常人理解的狡黠所承载，用利爪和长矛来演说。受害者们相信，她的存在本质上是一种威慑，是对傲慢的人类试图以世俗理解灵魂彼岸的惩戒。",
+      "accessories": [
+        "边框",
+        "姿态：振臂"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "version": {
+        "push": "6.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年10月23日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

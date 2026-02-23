@@ -1,0 +1,74 @@
+{
+  "id": 10092,
+  "name": "锐雯",
+  "alias": "ruiwen",
+  "key": "10092",
+  "title": "放逐之刃",
+  "skins": [
+    {
+      "id": 1009215,
+      "name": "告白气球 锐雯",
+      "roitName": "Love Confession Riven",
+      "sortName": "告白气球",
+      "rarity": "史诗",
+      "raritySubType": "告白气球",
+      "price": "",
+      "priceUnit": "",
+      "skinline": "告白气球",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "",
+      "splashHDPath": "",
+      "squarePath": "",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "",
+      "loadingSpecialEditionPath": "",
+      "backstory": "锐雯因惊人的音乐天资被乐团破格录取，一举打破：“首席必为贵族”的潜律。虽然她的吉他声在乐章中只是微弱一隅，但锐雯明白，她的坚持，会为所有“尚未被听见的声音”带去希望。",
+      "accessories": [
+        "边框",
+        "姿态：肩负",
+        "姿态：即兴表演"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月13日",
+        "endDate": "下架日期暂未公布",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

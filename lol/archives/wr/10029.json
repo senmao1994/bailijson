@@ -1,0 +1,74 @@
+{
+  "id": 10029,
+  "name": "伊芙琳",
+  "alias": "yifulin",
+  "key": "10029",
+  "title": "痛苦之拥",
+  "skins": [
+    {
+      "id": 1002908,
+      "name": "福纳康宁 伊芙琳",
+      "roitName": "Celestial Embroidery Evelynn",
+      "sortName": "福纳康宁",
+      "rarity": "史诗",
+      "raritySubType": "蛇年限定",
+      "price": "1090",
+      "priceUnit": "点券",
+      "skinline": "春辰锦程",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_7.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_evelynn_skin07.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002908.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "人皆以为，绣神降世，吉运随之。故伊芙琳现身，必引来痴狂迷醉。众人争求其绣像，以图财福，其所遗针锋亦成吉兆。此般乱象，伊芙琳甘之如饴……绣神深知，福泽人欲，终为一体两面。",
+      "accessories": [
+        "边框",
+        "姿态：福翼"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年1月27日0点",
+        "endDate": "2025年2月16日 23:59:59",
+        "description": "返场一般为 祈愿抽奖获取",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": 10051,
+  "name": "霞",
+  "alias": "xia",
+  "key": "10051",
+  "title": "逆羽",
+  "skins": [
+    {
+      "id": 1005109,
+      "name": "翩翩绣蕊 霞",
+      "roitName": "Celestial Embroidery Xayah",
+      "sortName": "翩翩绣蕊",
+      "rarity": "传说",
+      "raritySubType": "蛇年限定",
+      "price": "1290",
+      "priceUnit": "点券",
+      "skinline": "春展锦程",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Xayah_8.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_xayah_skin08.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005109.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "神侣霞洛皆善绣蝶，霞工于针法，二人合力所绣之蝶瑰姿夺目。然而霞并不满足于摹形，更求写意，为使所绣之物更蕴坚韧生机，她以茧形替代蝶翼，待绣茧历困苦而化蝶形，这对爱侣终于明了，他们梦寐以求的形神兼备之作已就此而生。",
+      "accessories": [
+        "边框",
+        "姿态：裁蝶翼",
+        "姿态：翩跹刃"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年1月27日0点",
+        "endDate": "2025年2月16日 23:59:59",
+        "description": "返场一般为 祈愿抽奖获取",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1005110,
+      "name": "臻藏 翩翩绣蕊 霞",
+      "roitName": "Prestige Select Celestial Embroidery Xayah",
+      "sortName": "臻藏 翩翩绣蕊",
+      "rarity": "神话",
+      "raritySubType": "臻藏",
+      "price": "1500",
+      "priceUnit": "橙色原石",
+      "skinline": "春辰锦辰",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Xayah_9.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_xayah_skin09.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005110.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "古鸿蒙之初，有生灵者，在天为茧，落凡化蝶，所至之处花开似锦，时人皆叹祥瑞。岂知祥瑞并非玄奇，而是为绣艺倾注心血者，留于世间的一掠缩影。",
+      "accessories": [
+        "边框",
+        "姿态：云景天衣",
+        "姿态：织彩造春"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年1月27日",
+        "endDate": "2月16日23:59",
+        "description": "首周9折兑换 战利品商品春节期间返场销售",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

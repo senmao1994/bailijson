@@ -1,0 +1,68 @@
+{
+  "id": 10028,
+  "name": "莫甘娜",
+  "alias": "moganna",
+  "key": "10028",
+  "title": "堕落天使",
+  "skins": [
+    {
+      "id": 1002815,
+      "name": "流光仙韵 莫甘娜",
+      "roitName": "Lunar Empress Morgana Exquisite Edition",
+      "sortName": "流光仙韵",
+      "rarity": "神话",
+      "raritySubType": "臻宝",
+      "price": "4000",
+      "priceUnit": "限时点券",
+      "skinline": "新序",
+      "universe": "春晖众神",
+      "pushDate": "7.0",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Morgana_14.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_morgana_skin14.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002815.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "曾经身为紫金罗刹的莫甘娜，靠着自己的德行修为，羽化登神位列仙班。如今她被赋予了春晖神女的力量，正在筹办一场新春筵席，广邀神域众神，化解曾经的嫌隙，结交新的朋友。",
+      "accessories": [
+        "边框",
+        "姿态：巡天",
+        "姿态：祥云瑞鹤"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "sell": {
+        "startDate": "2026年1月30日",
+        "endDate": "2026年3月3日",
+        "description": "限时点券商城",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

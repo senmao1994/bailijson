@@ -1,0 +1,72 @@
+{
+  "id": 10002,
+  "name": "亚托克斯",
+  "alias": "yatuokesi",
+  "key": "10002",
+  "title": "暗裔剑魔",
+  "skins": [
+    {
+      "id": 1000212,
+      "name": "天神下凡 亚托克斯",
+      "roitName": "Mecha Aatrox Exquisite Edition",
+      "sortName": "天神下凡",
+      "rarity": "神话",
+      "raritySubType": "天神下凡",
+      "price": "388",
+      "priceUnit": "人民币",
+      "skinline": "the shy",
+      "universe": "",
+      "pushDate": "",
+      "splashPath": "",
+      "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_MechaExquisiteEditionSkin_WR.jpg?7cfe4",
+      "squarePath": "",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Aatrox_MechaExquisiteEditionCircle_WR.png?dd619",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "",
+      "loadingSpecialEditionPath": "",
+      "backstory": "在抵抗最为艰难的时刻，ATRX-1的横空出世为战斗开创了新纪元，他与手中热能利剑定义了一种作战风格、一种进攻策略。为纪念这部机体的卓越战功，现在他被换上纪念性的闪耀涂装，激励着每一个踏入战场之人，并提醒他们这份撼天动地的伟力。",
+      "accessories": [
+        "边框",
+        "队旗",
+        "姿态：裂空",
+        "姿态：一剑破敌"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "version": {
+        "push": "6.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年1月2日",
+        "endDate": "2026年2月15日22:59:59",
+        "description": "游戏内传奇礼包1月16日上架",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

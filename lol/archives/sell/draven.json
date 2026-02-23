@@ -1,0 +1,447 @@
+{
+  "id": "draven",
+  "name": "荣耀行刑官",
+  "alias": "Draven",
+  "key": 119,
+  "title": "德莱文",
+  "skins": [
+    {
+      "id": 119068,
+      "name": "胜利行刑官 德莱文",
+      "roitName": "Victorious Draven",
+      "sortName": null,
+      "rarity": "赛季奖励",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "胜利诸神",
+      "universe": "胜利诸神",
+      "pushDate": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_uncentered_68.skins_draven_skin68.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_tile_68.skins_draven_skin68.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_centered_68.skins_draven_skin68.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119068.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/dravenloadscreen_68.skins_draven_skin68.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "玩家们在排位赛中积累了足够赛段点后，就会获得【胜利行刑官 德莱文】作为奖励。超越了自己的清算者过往，德莱文将整个帝国变成了诺克萨斯人争夺荣耀的一个舞台。力量和精彩程度是这个战场上唯一的通行货币——并且只要德莱文决定前往战斗，就总会是最终的赢家。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "超越了自己的清算者过往，德莱文将整个帝国变成了诺克萨斯人争夺荣耀的一个舞台。力量和精彩程度是这个战场上唯一的通行货币——并且只要德莱文决定前往战斗，就总会是最终的赢家。"
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceTypeChinese": "S15赛季皮肤",
+        "priceStartDay": "2025年8月28日版本更新后",
+        "priceEndDay": "2026年1月7日23:59",
+        "description": "2025年第三主题赛季期间赢得15场排位，赛季结束后开始发放奖励"
+      },
+      "chromas": [
+        {
+          "id": 119069,
+          "name": "胜利行刑官 德莱文 英勇黄铜",
+          "sortName": "英勇黄铜",
+          "colorName": "Bronze",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【英勇黄铜】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【英勇黄铜】段位。"
+          },
+          "riotName": "胜利行刑官 德莱文 英勇黄铜",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119069.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#764D43",
+            "#764D43"
+          ]
+        },
+        {
+          "id": 119070,
+          "name": "胜利行刑官 德莱文 不屈白银",
+          "sortName": "不屈白银",
+          "colorName": "Silver",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【不屈白银】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【不屈白银】段位。"
+          },
+          "riotName": "胜利行刑官 德莱文 不屈白银",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119070.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#AAB5BA",
+            "#AAB5BA"
+          ]
+        },
+        {
+          "id": 119071,
+          "name": "胜利行刑官 德莱文 荣耀黄金",
+          "sortName": "荣耀黄金",
+          "colorName": "Gold",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【荣耀黄金】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【荣耀黄金】段位。"
+          },
+          "riotName": "胜利行刑官 德莱文 荣耀黄金",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119071.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D9C445",
+            "#D9C445"
+          ]
+        },
+        {
+          "id": 119072,
+          "name": "胜利行刑官 德莱文 华贵铂金",
+          "sortName": "华贵铂金",
+          "colorName": "Platinum",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【华贵铂金】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【华贵铂金】段位。"
+          },
+          "riotName": "胜利行刑官 德莱文 华贵铂金",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119072.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#55CDE5",
+            "#55CDE5"
+          ]
+        },
+        {
+          "id": 119073,
+          "name": "胜利行刑官 德莱文 流光翡翠",
+          "sortName": "流光翡翠",
+          "colorName": "Emerald",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【流光翡翠】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【流光翡翠】段位。"
+          },
+          "riotName": "胜利行刑官 德莱文 流光翡翠",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119073.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#26854C",
+            "#26854C"
+          ]
+        },
+        {
+          "id": 119074,
+          "name": "胜利行刑官 德莱文 璀璨钻石",
+          "sortName": "璀璨钻石",
+          "colorName": "Diamond",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【璀璨钻石】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【璀璨钻石】段位。"
+          },
+          "riotName": "胜利行刑官 德莱文 璀璨钻石",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119074.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#65337F",
+            "#65337F"
+          ]
+        },
+        {
+          "id": 119075,
+          "name": "胜利行刑官 德莱文 超凡大师",
+          "sortName": "超凡大师",
+          "colorName": "Master",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【超凡大师】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【超凡大师】段位。"
+          },
+          "riotName": "胜利行刑官 德莱文 超凡大师",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119075.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#9D228D",
+            "#9D228D"
+          ]
+        },
+        {
+          "id": 119076,
+          "name": "胜利行刑官 德莱文 傲世宗师",
+          "sortName": "傲世宗师",
+          "colorName": "Grandmaster",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【傲世宗师】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【傲世宗师】段位。"
+          },
+          "riotName": "胜利行刑官 德莱文 傲世宗师",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119076.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#B31316",
+            "#B31316"
+          ]
+        },
+        {
+          "id": 119077,
+          "name": "胜利行刑官 德莱文 最强王者",
+          "sortName": "最强王者",
+          "colorName": "Challenger",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【最强王者】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【最强王者】段位。"
+          },
+          "riotName": "胜利行刑官 德莱文 最强王者",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119077.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#1D62C8",
+            "#1D62C8"
+          ]
+        }
+      ],
+      "version": {
+        "push": "25.24",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}

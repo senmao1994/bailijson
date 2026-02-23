@@ -1,0 +1,245 @@
+{
+  "id": "xayah",
+  "name": "逆羽",
+  "alias": "Xayah",
+  "key": 498,
+  "title": "霞",
+  "skins": [
+    {
+      "id": 498057,
+      "name": "战斗学院 霞",
+      "roitName": "Battle Academia Xayah",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "战斗学院",
+      "universe": "神之武器",
+      "pushDate": "2025年3月19日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/images/xayah_splash_uncentered_57.skins_xayah_skin57.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/images/xayah_splash_tile_57.skins_xayah_skin57.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/images/xayah_splash_centered_57.skins_xayah_skin57.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498057.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/xayahloadscreen_57.skins_xayah_skin57.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/xayahloadscreen_57_le.skins_xayah_skin57.jpg",
+      "backstory": "巴比隆学院的神之武器选择了霞带领学校队伍参加今年的跨学院锦标赛——他们从未在这个赛事上赢过。身为战斗俱乐部的部长，她很高兴能利用自己的新影响力来指挥队友，并享受这段与洛一起的“假期”，尽管她永远不会承认自己喜欢当领导者。",
+      "accessories": [],
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "6851",
+      "tencent": {
+        "price": 10900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2025年3月20日",
+        "priceEndDay": "2025年4月28日9:59",
+        "description": "皮肤长期销售",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 498058,
+          "name": "战斗学院 霞 不死鸟",
+          "sortName": "不死鸟",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2025年3月20日",
+            "priceEndDay": "4月3日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗学院 霞 不死鸟",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498058.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 498059,
+          "name": "战斗学院 霞 雄狮",
+          "sortName": "雄狮",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗学院 霞 雄狮",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498059.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 498060,
+          "name": "战斗学院 霞 天马",
+          "sortName": "天马",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2025年7月24日",
+            "priceEndDay": "2025年8月17日",
+            "description": "璀璨臻彩召唤202507期",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aeygz3gnz9temh86nbdzaz0bmd1jcqfn.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗学院 霞 天马",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498060.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 498061,
+          "name": "战斗学院 霞 森林龙",
+          "sortName": "森林龙",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年3月20日",
+            "priceEndDay": "4月3日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗学院 霞 森林龙",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498061.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 498062,
+          "name": "战斗学院 霞 逆卫",
+          "sortName": "逆卫",
+          "colorName": "深红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年3月20日",
+            "priceEndDay": "4月3日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗学院 霞 逆卫",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498062.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D35B41",
+            "#5C0439"
+          ]
+        },
+        {
+          "id": 498063,
+          "name": "战斗学院 霞 狮鹫",
+          "sortName": "狮鹫",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年3月20日",
+            "priceEndDay": "4月3日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗学院 霞 狮鹫",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498063.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "25.06",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}

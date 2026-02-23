@@ -1,0 +1,74 @@
+{
+  "id": 10069,
+  "name": "永恩",
+  "alias": "yongen",
+  "key": "10069",
+  "title": "封魔剑魂",
+  "skins": [
+    {
+      "id": 1006911,
+      "name": "蕊雪盈春：欣荣 永恩",
+      "roitName": "Petals of Spring Yone",
+      "sortName": "蕊雪盈春：欣荣",
+      "rarity": "传说",
+      "raritySubType": "马年限定",
+      "price": "1290",
+      "priceUnit": "点券",
+      "skinline": "蕊雪盈春",
+      "universe": "春节",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "",
+      "splashHDPath": "",
+      "squarePath": "",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "",
+      "loadingSpecialEditionPath": "",
+      "backstory": "修剪者斩下枯枝，终于在欣慰中看到，花丛间艳霜花的骨朵正含苞待放。这温暖的红色一如血亲间的羁绊深厚温暖，为他，这流落于此间的凡人指明归乡漫途。永恩知道，待到近在咫尺的下一个春晓，他终能找回自我，与自己在意的人团圆。",
+      "accessories": [
+        "边框",
+        "姿态：福盈满堂",
+        "姿态：崭露锋芒"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月4日",
+        "endDate": "下架时间暂未公布",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

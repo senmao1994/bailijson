@@ -1,0 +1,198 @@
+{
+  "id": 10025,
+  "name": "崔斯特",
+  "alias": "cuisite",
+  "key": "10025",
+  "title": "卡牌大师",
+  "skins": [
+    {
+      "id": 1002507,
+      "name": "星域游侠 崔斯特",
+      "roitName": "Stargazer Twisted Fate",
+      "sortName": "星域游侠",
+      "rarity": "传说",
+      "raritySubType": "",
+      "price": "990",
+      "priceUnit": "点券",
+      "skinline": "启明",
+      "universe": "观星者",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/TwistedFate_6.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_twistedfate_skin06.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002507.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "崔斯特是一位经验老到的时空旅者。他喜欢前往各种不同的次元，提升自己对宇宙的认知。然而他发现，有什么东西正在不断吞噬这些空间。大概过不了多久，他自己所在的次元也会一并消失。哎，要是能让同伴们也相信这真实存在的威胁就好了……",
+      "accessories": [
+        "边框",
+        "姿态：洗牌"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "2.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2021年1月14日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1002509,
+      "name": "星域游侠 圣时豪杰 崔斯特",
+      "roitName": "Stargazer Twisted Fate Mythic Chroma",
+      "sortName": "星域游侠 圣时豪杰",
+      "rarity": "神话",
+      "raritySubType": "限定",
+      "price": "500",
+      "priceUnit": "橙色原石",
+      "skinline": "启明",
+      "universe": "观星者",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Twistedfate_8.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_twistedfate_skin08.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002509.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "崔斯特是一位经验老到的时空旅者。他喜欢前往各种不同的次元，提升自己对宇宙的认知。然而他发现，有什么东西正在不断吞噬这些空间。大概过不了多久，他自己所在的次元也会一并消失。哎，要是能让同伴们也相信这真实存在的威胁就好了……",
+      "accessories": [
+        "边框",
+        "姿态：指向"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "sell": {
+        "startDate": "2023年9月8日0点",
+        "endDate": "战利品商店轮换兑换",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1002510,
+      "name": "怪诞童话 崔斯特",
+      "roitName": "Wondertown Twisted Fate",
+      "sortName": "怪诞童话",
+      "rarity": "史诗",
+      "raritySubType": "峡谷宝典",
+      "price": "360",
+      "priceUnit": "点券",
+      "skinline": "美味甜心",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Twistedfate_9.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_twistedfate_skin09.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002510.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "童话镇街边的一角，是为崔斯特专门预留的宝地，但凡有魔术表演，那里都会人满为患。有人为他的魔术喝彩叫好，也有人认真研究却只为破解；但无人知晓他为何要当街表演，也许是在等人？为了让他等待之人一眼就能望见自己……",
+      "accessories": [
+        "边框",
+        "姿态：优雅",
+        "姿态：魔术大师"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年4月17日",
+        "endDate": "2025年6月12日",
+        "description": "峡谷宝典20级(付费)领取皮肤 75级(精英)领取炫彩诡秘魔术",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

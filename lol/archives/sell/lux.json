@@ -1,0 +1,153 @@
+{
+  "id": "lux",
+  "name": "光辉女郎",
+  "alias": "Lux",
+  "key": 99,
+  "title": "拉克丝",
+  "skins": [
+    {
+      "id": 99007,
+      "name": "大元素使 拉克丝",
+      "roitName": "Elementalist Lux",
+      "sortName": null,
+      "rarity": "终极",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "大元素使",
+      "universe": "大元素使",
+      "pushDate": "2016年11月28日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin07/images/lux_splash_uncentered_7.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin07/images/lux_splash_tile_7.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin07/images/lux_splash_centered_7.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin07/luxloadscreen_7.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin07/luxloadscreen_7_le.jpg",
+      "backstory": "元素在呼唤，命运就在眼前。\r",
+      "accessories": [],
+      "roit": {
+        "price": 3250,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 19900,
+      "icon": "1435",
+      "tencent": {
+        "price": 19900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2016年11月29日",
+        "priceEndDay": "长期销售",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": 10,
+      "forms": [
+        {
+          "name": "光明",
+          "type": "第一形态",
+          "icon": "1425",
+          "image": "",
+          "trigger": "游戏进入时第一阶段默认形态",
+          "description": "所有元素都任我指使\r",
+          "note": ""
+        },
+        {
+          "name": "气旋",
+          "type": "第二形态",
+          "icon": "1428",
+          "image": "",
+          "trigger": "基础形态集赞元素能量100%",
+          "description": "风会卷走一切\r",
+          "note": ""
+        },
+        {
+          "name": "火焰",
+          "type": "第二形态",
+          "icon": "1426",
+          "image": "",
+          "trigger": "基础形态集赞元素能量100%",
+          "description": "好吧，这个地方可不会自己烧起来\r",
+          "note": ""
+        },
+        {
+          "name": "自然",
+          "type": "第二形态",
+          "icon": "1429",
+          "image": "",
+          "trigger": "基础形态集赞元素能量100%",
+          "description": "冲突会种下苦果",
+          "note": ""
+        },
+        {
+          "name": "水流",
+          "type": "第二形态",
+          "icon": "1427",
+          "image": "",
+          "trigger": "基础形态集赞元素能量100%\r",
+          "description": "力挽狂澜，除非你是我才行",
+          "note": ""
+        },
+        {
+          "name": "风暴",
+          "type": "最终形态",
+          "icon": "1431",
+          "image": "",
+          "trigger": "火焰+气旋=风暴\r",
+          "description": "等你听到雷声时，已经太迟了",
+          "note": ""
+        },
+        {
+          "name": "岩浆",
+          "type": "最终形态",
+          "icon": "1430",
+          "image": "",
+          "trigger": "火焰+自然=岩浆",
+          "description": "人人都会害怕，石与火的河流\r",
+          "note": ""
+        },
+        {
+          "name": "秘术",
+          "type": "最终形态",
+          "icon": "1432",
+          "image": "",
+          "trigger": "水流+自然=秘术",
+          "description": "美梦要成真了",
+          "note": ""
+        },
+        {
+          "name": "冰霜",
+          "type": "最终形态",
+          "icon": "1433",
+          "image": "",
+          "trigger": "水流+气旋=冰霜",
+          "description": "我的灵魂容不下半分暖意\r",
+          "note": ""
+        },
+        {
+          "name": "黑暗",
+          "type": "最终形态",
+          "icon": "1434",
+          "image": "",
+          "trigger": "水流+火焰或者气旋+自然",
+          "description": "断绝你的火光\r",
+          "note": ""
+        }
+      ],
+      "version": {
+        "push": "6.23",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "25.07"
+      }
+    }
+  ]
+}

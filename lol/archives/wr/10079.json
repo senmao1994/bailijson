@@ -1,0 +1,76 @@
+{
+  "id": 10079,
+  "name": "艾希",
+  "alias": "aixi",
+  "key": "10079",
+  "title": "寒冰射手",
+  "skins": [
+    {
+      "id": 1007917,
+      "name": "仙灵之息：夜之辉 艾希",
+      "roitName": "Elf Forest Ashe",
+      "sortName": "仙灵之息：夜之辉",
+      "rarity": "典藏",
+      "raritySubType": "",
+      "price": "1800",
+      "priceUnit": "祈愿兑换券",
+      "skinline": "仙灵之息",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "",
+      "splashHDPath": "",
+      "squarePath": "",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "",
+      "loadingSpecialEditionPath": "",
+      "backstory": "“……无光之森，那是生命之树深埋于暗夜的根系，彼岸的女王在那里得见湖水的预言——辉煌的明光终将浸润万物。至此，她踏上远征，寻求辉光，以引领众生。”\n——《明灭创生纪》，卷Ⅱ",
+      "accessories": [
+        "边框",
+        "姿态：华美",
+        "姿态：月下君临",
+        "姿态：幽灵邂逅"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月16日",
+        "endDate": "2026年3月18日",
+        "description": "仙灵之息 逐梦生花 活动",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

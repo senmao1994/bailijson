@@ -1,0 +1,175 @@
+{
+  "id": 10009,
+  "name": "孙悟空",
+  "alias": "sunwukong",
+  "key": "10009",
+  "title": "齐天大圣",
+  "skins": [
+    {
+      "id": 1000911,
+      "name": "斗魂无双 孙悟空",
+      "roitName": "Soul Fighter Wukong",
+      "sortName": "斗魂无双",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "重燃",
+      "universe": "斗魂无双",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Monkeyking_10.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_monkeyking_skin10.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000911.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "彼岸之地有时就是这么神奇，能教顽劣的猕猴变为熟练的斗者！经过洗练的灵魂能否有着与之相配的决心和意志？还是说这个猴子无法克服本心而到头来辱没师门……诸位，敬请见证：悟空！",
+      "accessories": [
+        "边框",
+        "姿态：远眺"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "sell": {
+        "startDate": "2025年4月17日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1000907,
+      "name": "定海神珍：御定乾坤 孙悟空",
+      "roitName": "Jade Dragon Wukong",
+      "sortName": "定海神珍：御定乾坤",
+      "rarity": "神话",
+      "raritySubType": "御定乾坤",
+      "price": "2000",
+      "priceUnit": "橙色原石",
+      "skinline": "稀世奇珍",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/MonkeyKing_6.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_monkeyking_skin06.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000907.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "在获得了远古玉龙之力后，悟空的战斗技巧已臻化境。虽然他的性格依然急躁莽撞，但是他的新能力却毋庸置疑。不过，这份能力也成了师父的心头大患，因为玉龙之力也是一种诅咒。",
+      "accessories": [
+        "边框",
+        "姿态：疏狂"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "sell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "战利品 兑换商店 轮换上线",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1000908,
+      "name": "金猴耀世 孙悟空",
+      "roitName": "Jade Dragon Wukong (Special Edition)",
+      "sortName": "金猴耀世",
+      "rarity": "神话",
+      "raritySubType": "传承",
+      "price": "2000",
+      "priceUnit": "橙色原石",
+      "skinline": "空谷传承",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Monkeyking_7.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_monkeyking_skin07.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000908.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "在获得远古玉龙之力后，悟空的战斗技巧已臻化境。虽然他的性格依然急躁莽撞，但是他的新能力却毋庸置疑。不过，这份能力也成了师父的心头大患，因为玉龙之力也是一种诅咒。",
+      "accessories": [
+        "边框",
+        "姿态：疏狂",
+        "姿态：筋斗云"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "sell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "战利品 兑换商店 轮换上线",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

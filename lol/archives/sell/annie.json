@@ -1,0 +1,2309 @@
+{
+  "id": "annie",
+  "name": "黑暗之女",
+  "alias": "Annie",
+  "key": 1,
+  "title": "安妮",
+  "skins": [
+    {
+      "id": 1040,
+      "name": "北极星使者 安妮",
+      "roitName": "Winterblessed Annie",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "北极星",
+      "universe": "北极光的传说",
+      "pushDate": "2023年12月6日",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_uncentered_40.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_tile_40.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_centered_40.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1040.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40_le.jpg",
+      "backstory": "赛娜启程去寻找北极光，但首先遇到的是一个小女孩——安妮，她正独自站在自家门前。她最珍视的童年伙伴——家中的宠物熊，不久前死掉了。安妮希望北极星能复活他，但赛娜拒绝了，只是给了她一只小熊玩偶。“生离死别在所难免，但他的记忆将寄托在这份礼物身上。”",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "6465",
+      "tencent": {
+        "price": 8900,
+        "priceType": "限定",
+        "priceTypeChinese": "冰雪节",
+        "priceStartDay": "2023年12月8日",
+        "priceEndDay": "2024年1月10日9:59",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 1041,
+          "name": "北极星使者 安妮 激昂脉冲",
+          "sortName": "激昂脉冲",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2023年12月8日",
+            "priceEndDay": "2024年1月10日9:59",
+            "description": "仅随礼包销售",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "",
+            "description": "仅随礼包销售"
+          },
+          "riotName": "北极星使者 安妮 激昂脉冲",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1041.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 1042,
+          "name": "北极星使者 安妮 浪漫帘幕",
+          "sortName": "浪漫帘幕",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2023年12月8日",
+            "priceEndDay": "2024年1月10日9:59",
+            "description": "仅随礼包销售",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星使者 安妮 浪漫帘幕",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1042.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 1043,
+          "name": "北极星使者 安妮 幸运漩涡",
+          "sortName": "幸运漩涡",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2023年12月8日",
+            "priceEndDay": "2024年1月10日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星使者 安妮 幸运漩涡",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1043.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 1044,
+          "name": "北极星使者 安妮 祥和面纱",
+          "sortName": "祥和面纱",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2023年12月8日",
+            "priceEndDay": "2024年1月10日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星使者 安妮 祥和面纱",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1044.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 1045,
+          "name": "北极星使者 安妮 智慧纽带",
+          "sortName": "智慧纽带",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2023年12月8日",
+            "priceEndDay": "2024年1月10日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星使者 安妮 智慧纽带",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1045.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 1046,
+          "name": "北极星使者 安妮 聪颖光弧",
+          "sortName": "聪颖光弧",
+          "colorName": "海蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2023年12月8日",
+            "priceEndDay": "2024年1月10日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星使者 安妮 聪颖光弧",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1046.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 1047,
+          "name": "北极星使者 安妮 七彩光斑",
+          "sortName": "七彩光斑",
+          "colorName": "白色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2024年4月3日",
+            "priceEndDay": "",
+            "description": "第三期皮肤收藏活动 解锁安妮的9款皮肤，即可领取",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/apwqmo6wfda7iye7ls18kbn6r20oxfa2.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星使者 安妮 七彩光斑",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1047.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#C1F2FF",
+            "#C1F2FF"
+          ]
+        },
+        {
+          "id": 1048,
+          "name": "北极星使者 安妮 庄严光冕",
+          "sortName": "庄严光冕",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2023年12月8日",
+            "priceEndDay": "2024年1月10日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星使者 安妮 庄严光冕",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1048.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 1049,
+          "name": "北极星使者 安妮 花冠极光",
+          "sortName": "花冠极光",
+          "colorName": "",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "2024年1月10日",
+            "description": "北极星(2023)通行证",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2023年12月6日",
+            "priceEndDay": "",
+            "description": "北极星(2023)通行证"
+          },
+          "riotName": "北极星使者 安妮 花冠极光",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1049.png",
+          "mythicIcon": "6466",
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#BF2020",
+            "#368B25"
+          ]
+        }
+      ],
+      "version": {
+        "push": "13.24",
+        "update": "13.24",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "25.24"
+      }
+    },
+    {
+      "id": 1050,
+      "name": "战斗公主 安妮",
+      "roitName": "Battle Princess Annie",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "女帝无双",
+      "universe": "女帝无双",
+      "pushDate": "2024-08-28",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_uncentered_50.skins_annie_skin50.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_tile_50.skins_annie_skin50.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_centered_50.skins_annie_skin50.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1050.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/annieloadscreen_50.skins_annie_skin50.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "安妮在泰勒姆王廷前展示了她的魔法天赋，将她亲爱的泰迪熊变成了一位由钢铁与火焰组成的骑士。尽管这对许多贵族来说几乎是一次近乎灾难性的表现，但女帝菲奥娜还是接受了这个孩子的潜力，并指定她作为继任者。安妮为了在未来的加冕礼上取得胜利而不断训练……但也不断给她的王室导师添乱。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2024年8月29日",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 1051,
+          "name": "战斗公主 安妮 纹章之刻印·英勇",
+          "sortName": "纹章之刻印·英勇",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2024年8月29日",
+            "priceEndDay": "2024年9月12日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗公主 安妮 纹章之刻印·英勇",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1051.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 1052,
+          "name": "战斗公主 安妮 纹章之刻印·自信",
+          "sortName": "纹章之刻印·自信",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年8月29日",
+            "priceEndDay": "2024年9月12日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗公主 安妮 纹章之刻印·自信",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1052.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 1053,
+          "name": "战斗公主 安妮 纹章之刻印·威风",
+          "sortName": "纹章之刻印·威风",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年8月29日",
+            "priceEndDay": "2024年9月12日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗公主 安妮 纹章之刻印·威风",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1053.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 1054,
+          "name": "战斗公主 安妮 纹章之刻印·果决",
+          "sortName": "纹章之刻印·果决",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年8月29日",
+            "priceEndDay": "2024年9月12日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗公主 安妮 纹章之刻印·果决",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1054.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 1055,
+          "name": "战斗公主 安妮 纹章之刻印·飒爽",
+          "sortName": "纹章之刻印·飒爽",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年8月29日",
+            "priceEndDay": "2024年9月12日9:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗公主 安妮 纹章之刻印·飒爽",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1055.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 1056,
+          "name": "战斗公主 安妮 纹章之刻印·强运",
+          "sortName": "纹章之刻印·强运",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2025年4月11日",
+            "priceEndDay": "2025年5月5日",
+            "description": "女帝和公主的优雅刻印夺宝活动一等奖",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aw3a0l1ksb4qxup0fqtnq7vsopvon85f.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗公主 安妮 纹章之刻印·强运",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1056.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 1057,
+          "name": "战斗公主 安妮 纹章之刻印·敏锐",
+          "sortName": "纹章之刻印·敏锐",
+          "colorName": "白色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2024年12月01日",
+            "priceEndDay": "2024年12月31日 23:59",
+            "description": "心悦巅峰版第14期",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a80zx0metb0jmkfwybja9ql6e36pxrmq.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗公主 安妮 纹章之刻印·敏锐",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1057.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 1058,
+          "name": "战斗公主 安妮 纹章之刻印·深谋",
+          "sortName": "纹章之刻印·深谋",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "战斗公主 安妮 纹章之刻印·深谋",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1058.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        }
+      ],
+      "version": {
+        "push": "14.17",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "25.24"
+      }
+    },
+    {
+      "id": 1031,
+      "name": "魔域梦魇 安妮",
+      "roitName": "Fright Night Annie",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "魔域梦魇",
+      "universe": "邻家梦魇",
+      "pushDate": null,
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_uncentered_31.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_tile_31.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_centered_31.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1031.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/annieloadscreen_31.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "小安妮每天从学校回家<br>孤独少女没人一起玩耍<br>她的家人们都已不在啦<br>她靠提伯斯将新朋友留下！",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2022年9月23日10:00",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 1032,
+          "name": "魔域梦魇 安妮 红夜梦境",
+          "sortName": "红夜梦境",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2022年9月23日10:00",
+            "priceEndDay": "2022年10月7日10:00",
+            "description": "随礼包销售",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔域梦魇 安妮 红夜梦境",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1032.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 1033,
+          "name": "魔域梦魇 安妮 糖果梦境",
+          "sortName": "糖果梦境",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2022年9月23日10:00",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔域梦魇 安妮 糖果梦境",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1033.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 1034,
+          "name": "魔域梦魇 安妮 荆棘梦境",
+          "sortName": "荆棘梦境",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2022年9月23日10:00",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔域梦魇 安妮 荆棘梦境",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1034.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 1035,
+          "name": "魔域梦魇 安妮 幽潭梦境",
+          "sortName": "幽潭梦境",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2022年9月23日10:00",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔域梦魇 安妮 幽潭梦境",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1035.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 1036,
+          "name": "魔域梦魇 安妮 舞会梦境",
+          "sortName": "舞会梦境",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年9月23日10:00",
+            "priceEndDay": "2022年10月7日10:00",
+            "description": "随礼包销售",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔域梦魇 安妮 舞会梦境",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1036.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 1037,
+          "name": "魔域梦魇 安妮 惊情梦境",
+          "sortName": "惊情梦境",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2022年9月23日10:00",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔域梦魇 安妮 惊情梦境",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1037.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 1038,
+          "name": "魔域梦魇 安妮 歌影梦境",
+          "sortName": "歌影梦境",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2022年9月23日10:00",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔域梦魇 安妮 歌影梦境",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1038.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 1039,
+          "name": "魔域梦魇 安妮 飞帚梦境",
+          "sortName": "飞帚梦境",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2022年9月23日10:00",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔域梦魇 安妮 飞帚梦境",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1039.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        }
+      ],
+      "version": {
+        "push": "12.18",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1022,
+      "name": "咖啡甜心 安妮",
+      "roitName": "Cafe Cuties Annie",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "咖啡甜心",
+      "universe": "咖啡甜心",
+      "pushDate": "2021年12月2日",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_uncentered_22.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_tile_22.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_centered_22.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1022.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/annieloadscreen_22.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/annieloadscreen_22_le.jpg",
+      "backstory": "作为咖啡馆老板的女儿和一位多才多艺的糕点法师神童，安妮对甜食有着不容忽视的酷爱。虽然她偶尔因肚饿而发脾气时，会派她施了魔法的小熊软糖在咖啡馆里搜寻适合主人吃的任何食物，但饱餐后的安妮就像糖一样甜！",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "5188",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2021年12月3日 10:00",
+        "priceEndDay": "长期销售",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 1023,
+          "name": "咖啡甜心 安妮 草莓戚风",
+          "sortName": "草莓戚风",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2021年12月3日 10:00",
+            "priceEndDay": "2022年1月2日 23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "咖啡甜心 安妮 草莓戚风",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1023.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 1024,
+          "name": "咖啡甜心 安妮 吉子芝士",
+          "sortName": "吉子芝士",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年12月3日 10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "咖啡甜心 安妮 吉子芝士",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1024.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 1025,
+          "name": "咖啡甜心 安妮 抹茶巧克力",
+          "sortName": "抹茶巧克力",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年12月3日 10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "咖啡甜心 安妮 抹茶巧克力",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1025.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 1026,
+          "name": "咖啡甜心 安妮 蓝莓朱古力",
+          "sortName": "蓝莓朱古力",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年12月3日 10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "咖啡甜心 安妮 蓝莓朱古力",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1026.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 1027,
+          "name": "咖啡甜心 安妮 提子班戟",
+          "sortName": "提子班戟",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年12月3日 10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "咖啡甜心 安妮 提子班戟",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1027.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 1028,
+          "name": "咖啡甜心 安妮 酒醉樱桃",
+          "sortName": "酒醉樱桃",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年12月3日 10:00",
+            "priceEndDay": "2021年12月17日9:59",
+            "description": "随礼包出售首发限时1点券",
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ajsxfr55s448kuvg19qzrknjwxalwhnq.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "咖啡甜心 安妮 酒醉樱桃",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 1029,
+          "name": "咖啡甜心 安妮 核桃巴菲",
+          "sortName": "核桃巴菲",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年12月3日 10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "咖啡甜心 安妮 核桃巴菲",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1029.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 1030,
+          "name": "咖啡甜心 安妮 焦糖布丁",
+          "sortName": "焦糖布丁",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年12月3日 10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "咖啡甜心 安妮 焦糖布丁",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1030.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        }
+      ],
+      "version": {
+        "push": "11.23",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1013,
+      "name": "福牛守护者 安妮",
+      "roitName": "Lunar Beast Annie",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "福牛守护者",
+      "universe": "春节",
+      "pushDate": "2021年2月4日",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/images/annie_splash_uncentered_13.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/images/annie_splash_tile_13.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/images/annie_splash_centered_13.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1013.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/annieloadscreen_13.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/annieloadscreen_13_le.jpg",
+      "backstory": "当安妮被选为福牛守护者的技术特工时，所有人都震惊了。安妮是一个早熟的神童，职责是团队的侦查战略家，确保巡游路线上没有平民。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "4868",
+      "tencent": {
+        "price": 9900,
+        "priceType": "直售",
+        "priceTypeChinese": "牛年限定",
+        "priceStartDay": "2021年2月5日12:00",
+        "priceEndDay": "2022年2月5日9:59",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 1014,
+          "name": "福牛守护者 安妮 贺岁",
+          "sortName": "贺岁",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年2月5日12:00",
+            "priceEndDay": "3月9日23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 安妮 贺岁",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1014.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 1015,
+          "name": "福牛守护者 安妮 如意",
+          "sortName": "如意",
+          "colorName": "福牛守护者(2021)",
+          "tencent": {
+            "price": 2000,
+            "priceType": "神话商店",
+            "priceStartDay": "2021年2月5日12:00",
+            "priceEndDay": "3月9日23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 安妮 如意",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1015.png",
+          "mythicIcon": "4874",
+          "wildRiftSell": null,
+          "colors": [
+            "#88FF00",
+            "#9B1520"
+          ]
+        },
+        {
+          "id": 1016,
+          "name": "福牛守护者 安妮 迎春",
+          "sortName": "迎春",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年2月5日12:00",
+            "priceEndDay": "3月9日23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 安妮 迎春",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1016.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 1017,
+          "name": "福牛守护者 安妮 进宝",
+          "sortName": "进宝",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年2月5日12:00",
+            "priceEndDay": "3月9日23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 安妮 进宝",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1017.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 1018,
+          "name": "福牛守护者 安妮 纳福",
+          "sortName": "纳福",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年2月5日12:00",
+            "priceEndDay": "3月9日23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 安妮 纳福",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1018.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 1019,
+          "name": "福牛守护者 安妮 吉祥",
+          "sortName": "吉祥",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年2月5日12:00",
+            "priceEndDay": "3月9日23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 安妮 吉祥",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1019.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 1020,
+          "name": "福牛守护者 安妮 团圆",
+          "sortName": "团圆",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年2月5日12:00",
+            "priceEndDay": "2月19日10:00",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 安妮 团圆",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1020.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        }
+      ],
+      "version": {
+        "push": "11.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1000,
+      "name": "黑暗之女",
+      "roitName": "The Dark Child Annie",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "符文大陆",
+      "universe": "",
+      "pushDate": "‌2009年4月10日‌",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/base/images/annie_splash_uncentered_0.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/base/images/annie_splash_tile_0.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/base/images/annie_splash_centered_0.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/base/annieloadscreen.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "拥有危险夺命的能力，却长着一幅小大人儿的可爱模样，这就是掌握深不可测占火魔法的女孩——安妮。安妮生活在诺克萨斯北边的山脚下，但即便是在这种地方，她也依然是魔法师中的异类。她与火焰的紧密关系与生俱来——最初那些火焰是伴随着喜怒无常的冲动情绪出现的，后来她学会了如何掌握这些“好玩的小把戏”。其中，安妮最喜欢的就是她召唤亲爱的泰迪熊提伯斯——那头狂野的守护火兽。如今安妮已经迷失在了永恒的天真里，她在黑暗森林中游荡，寻觅着能陪自己玩耍的人。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "5999",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2023年9月1日10:00",
+        "priceEndDay": "10月7日9:59",
+        "description": "安妮 肖像图标"
+      },
+      "chromas": [],
+      "version": {
+        "push": "首发",
+        "update": "10.3",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 1002,
+      "name": "小红帽 安妮",
+      "roitName": "Red Riding Annie",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "故事书",
+      "universe": "",
+      "pushDate": "2010年4月27日",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/images/annie_splash_uncentered_2.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/images/annie_splash_tile_2.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/images/annie_splash_centered_2.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/annieloadscreen_2.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "安妮要越过河流和丛林，赶往外婆家里，在路上想要阻止她的人可不止沃里克一个。当然，沃里克并不清楚安妮可以发射火球或召唤烈焰巨熊，所以这绝对是极大的交流问题。",
+      "accessories": [],
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 1000,
+      "icon": "",
+      "tencent": {
+        "price": 1000,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年4月27日",
+        "priceEndDay": "直售已下架",
+        "description": ""
+      },
+      "chromas": [],
+      "version": {
+        "push": "",
+        "update": "10.3",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 1001,
+      "name": "哥特萝莉 安妮",
+      "roitName": "Goth Annie",
+      "sortName": null,
+      "rarity": null,
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "哥特",
+      "universe": "邻家梦魇",
+      "pushDate": " 2009年10月27日",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_uncentered_1.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_tile_1.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_centered_1.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/annieloadscreen_1.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "她的母亲死了。她的父亲死了。但安妮还活着，领会着暗中之美。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "典藏",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "典藏"
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceTypeChinese": "开拓者的卓识",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "2011年公测期间通过参与活动或达到25级免费获取 现抽奖获取"
+      },
+      "chromas": [],
+      "version": {
+        "push": "",
+        "update": "10.3",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 1003,
+      "name": "安妮梦游仙境",
+      "roitName": "Annie in Wonderland",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "故事书",
+      "universe": "",
+      "pushDate": null,
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/images/annie_splash_uncentered_3.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/images/annie_splash_tile_3.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/images/annie_splash_centered_3.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/annieloadscreen_3.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "安妮在兔子洞内不断下落，追着大白兔的踪迹一直走到河岸，直到她发现这个世界要比自己所在的世界有趣得多。“或许我应该留下来，”她这样对自己说道-而她也确实这么做了。",
+      "accessories": [],
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 19900,
+      "icon": "",
+      "tencent": {
+        "price": 19900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "国服1周年限定",
+        "priceStartDay": "2010年8月16",
+        "priceEndDay": "商城已下架 可抽奖福袋获取",
+        "description": ""
+      },
+      "chromas": [],
+      "version": {
+        "push": "",
+        "update": "10.3",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1004,
+      "name": "舞会公主 安妮",
+      "roitName": "Prom Queen Annie",
+      "sortName": null,
+      "rarity": "",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "职场精英",
+      "universe": "磨砺",
+      "pushDate": null,
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/images/annie_splash_uncentered_4.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/images/annie_splash_tile_4.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/images/annie_splash_centered_4.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/annieloadscreen_4.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "",
+      "accessories": [],
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "",
+      "tencent": {
+        "price": 9900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "TGC限定",
+        "priceStartDay": "2013年11月22日",
+        "priceEndDay": "2013年11月24日",
+        "description": ""
+      },
+      "chromas": [],
+      "version": {
+        "push": "",
+        "update": "10.3",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1005,
+      "name": "冰霜烈焰 安妮",
+      "roitName": "Frostfire Annie",
+      "sortName": null,
+      "rarity": "",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "冬季仙境",
+      "universe": "冰雪节",
+      "pushDate": null,
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/images/annie_splash_uncentered_5.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/images/annie_splash_tile_5.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/images/annie_splash_centered_5.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/annieloadscreen_5.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "安妮是冬季仙境的一个奇才；她的先天魔力和灵体守护神是与生俱来的，这在很多代同族中还是第一个。尽管仍然年轻，她却已经成为了魄罗王大厅中的欢乐使者。",
+      "accessories": [],
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "",
+      "tencent": {
+        "price": 9900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年5月24日",
+        "priceEndDay": "商城已下架",
+        "description": ""
+      },
+      "chromas": []
+    },
+    {
+      "id": 1006,
+      "name": "安伯斯与提妮",
+      "roitName": "Reverse Annie",
+      "sortName": null,
+      "rarity": null,
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "珍宝",
+      "universe": "",
+      "pushDate": null,
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/images/annie_splash_uncentered_6.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/images/annie_splash_tile_6.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/images/annie_splash_centered_6.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/annieloadscreen_6.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "",
+      "accessories": [],
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "限时直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年9月6日",
+        "priceEndDay": "商城已下架",
+        "description": ""
+      },
+      "chromas": [],
+      "version": {
+        "push": "",
+        "update": "10.3",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1007,
+      "name": "科学怪熊的新娘 安妮",
+      "roitName": "FrankenTibbers Annie",
+      "sortName": null,
+      "rarity": null,
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "不给糖就捣蛋",
+      "universe": "峡谷传说",
+      "pushDate": "2011年10月19日",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin07/images/annie_splash_uncentered_7.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin07/images/annie_splash_tile_7.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin07/images/annie_splash_centered_7.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin07/annieloadscreen_7.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin07/annieloadscreen_7_le.jpg",
+      "backstory": "他是科学和魔术混合的参天憎恶。她是一个留着蜂巢头并有尚未确诊的纵火癖。你能说出一个更有标志性的组合吗？我会一直等你的",
+      "accessories": [],
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "限时直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2016年11月1日",
+        "priceEndDay": "11月7日23:59",
+        "description": "作为大提魔节“惊怖四人礼包”的组成部分限时销售"
+      },
+      "chromas": [],
+      "version": {
+        "push": "1.0.0.127",
+        "update": "10.3",
+        "updateChinese": "特效更新",
+        "updateName": "VFX",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1008,
+      "name": "“你看见过我的熊猫吗？”安妮",
+      "roitName": "Panda Annie",
+      "sortName": null,
+      "rarity": null,
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "春节庆典：神龙烈焰",
+      "universe": "春节",
+      "pushDate": "2013年2月08",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin08/images/annie_splash_uncentered_8.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin08/images/annie_splash_tile_8.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin08/images/annie_splash_centered_8.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin08/annieloadscreen_8.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "安妮在春节庆典活动中担任着重要的角色，那就是用她的控火术去发射大量的高强度烟花。她的熊猫熊提伯斯会将火箭甩给她，并暴力劝退那些想要顺走烟花的坏人，就连再小的烟花也不容顺走！",
+      "accessories": [],
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 17900,
+      "icon": "",
+      "tencent": {
+        "price": 17900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "蛇年限定",
+        "priceStartDay": "2013年2月4日",
+        "priceEndDay": "2013年2月18日",
+        "description": ""
+      },
+      "chromas": [],
+      "version": {
+        "push": "3.01",
+        "update": "10.3",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1009,
+      "name": "甜心宝贝 安妮",
+      "roitName": "Sweetheart Annie",
+      "sortName": null,
+      "rarity": null,
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "情人节",
+      "universe": "属于我的",
+      "pushDate": "2015年2月13日",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin09/images/annie_splash_uncentered_9.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin09/images/annie_splash_tile_9.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin09/images/annie_splash_centered_9.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin09/annieloadscreen_9.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "糖果、香味、还有所有美好的东西：就是这些东西组成了甜心宝贝安妮！提伯斯则由抗火棉混纺和暗影熊的无尽饥渴所组成，但他仍然有能力来一两次熊抱。实际上，很多时候一次熊抱已经足够了。",
+      "accessories": [],
+      "roit": {
+        "price": 750,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 19900,
+      "icon": "775",
+      "tencent": {
+        "price": 19900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "情人节",
+        "priceStartDay": "2015年2月14日",
+        "priceEndDay": "2015年2月27日",
+        "description": "首周五折9950点券 限时销售"
+      },
+      "chromas": [],
+      "version": {
+        "push": "5.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1010,
+      "name": "海克斯科技 安妮",
+      "roitName": "Hextech Annie",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "海克斯科技",
+      "universe": "海克斯科技",
+      "pushDate": "2016年3月15日\r",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/images/annie_splash_uncentered_10.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/images/annie_splash_tile_10.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/images/annie_splash_centered_10.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/annieloadscreen_10.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "即使在海克斯科技复兴运动的高智识人士中，安妮也称得上是一个科学天才。她美丽、鲜活的战熊们足以跻身于该纪元最有价值的发明。她最神秘的创造物“提伯斯”总是呆在她身边——作为她的知己、好友和凶暴的保镖。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 125,
+      "icon": "",
+      "tencent": {
+        "price": 125,
+        "priceType": "神话商店",
+        "priceTypeChinese": "海克斯",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "神话商店 每两周随机轮换上线"
+      },
+      "chromas": [],
+      "version": {
+        "push": "6.5",
+        "update": "13.24",
+        "updateChinese": "特效修复",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1011,
+      "name": "银河魔装机神 安妮",
+      "roitName": "Super Galaxy Annie",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "银河魔装机神",
+      "universe": "银河魔装机神",
+      "pushDate": "2017年10月16日",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/images/annie_splash_uncentered_11.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/images/annie_splash_tile_11.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/images/annie_splash_centered_11.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/annieloadscreen_11.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "那一天，安妮将她的泰迪熊改装成自律机器人，以此证明了她的实力，并成为了超级银河战队中最年轻的学员。﻿尽管人们对于机械泰迪那高度易燃的设计和极不稳定的程序设定表示严重担忧，安妮的机械泰迪还是投入了全面生产。﻿毕竟绝望的非常规时代也需要颇具毁灭性的非常规手段。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "3172",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2017年10月18日11:00",
+        "priceEndDay": "长期销售",
+        "description": ""
+      },
+      "chromas": [],
+      "version": {
+        "push": "7.20",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 1012,
+      "name": "十周年纪念 安妮",
+      "roitName": "Annie-Versary",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "惊悚派对",
+      "universe": "磨砺",
+      "pushDate": "2019年10月27日",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/images/annie_splash_uncentered_12.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/images/annie_splash_tile_12.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/images/annie_splash_centered_12.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/annieloadscreen_12.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/annieloadscreen_12_le.jpg",
+      "backstory": "十年之间，无数场经典战役、翻盘好戏和激烈厮杀，联盟因为每一位召唤师的加入而精彩纷呈。安妮已经准备好迎接庆典了，而站在她后面的……是大块头提莫？和安妮一起共庆十周年快乐吧！",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "十周年"
+      },
+      "tencentPrice": 0,
+      "icon": "4379",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "英雄联盟十周年",
+        "priceStartDay": "2019年10月28日4:00",
+        "priceEndDay": "11月20日3:00",
+        "description": "限时日期登录并完成对局可获得该皮肤"
+      },
+      "chromas": [],
+      "version": {
+        "push": "9.21",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.01"
+      }
+    }
+  ]
+}

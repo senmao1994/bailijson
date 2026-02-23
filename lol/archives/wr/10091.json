@@ -1,0 +1,64 @@
+{
+  "id": 10091,
+  "name": "娜美",
+  "alias": "namei",
+  "key": "10091",
+  "title": "唤潮鲛姬",
+  "skins": [
+    {
+      "id": 1009109,
+      "name": "幻灵特战闪鳞 娜美",
+      "roitName": "Battle Dolphin Nami",
+      "sortName": "幻灵特战闪鳞",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "奇袭",
+      "universe": "幻灵战队",
+      "pushDate": "",
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nami_8.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_nami_skin08.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009109.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "幻灵科技借鉴了海魔人的构造，造就了闪鳞这般独特的存在。黑暗、压迫、未知的暗涌湍流之间，闪鳞总能找到生存与进攻的路径。汹涌诡谲的深海，她就是那道最锋锐、最无法忽视的破局之光。",
+      "accessories": [
+        "边框",
+        "姿态：潮起",
+        "炫彩"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "sell": {
+        "startDate": "2025年12月5日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

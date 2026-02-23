@@ -1,0 +1,75 @@
+{
+  "id": 10087,
+  "name": "吉格斯",
+  "alias": "jigesi",
+  "key": "10087",
+  "title": "爆破鬼才",
+  "skins": [
+    {
+      "id": 1008711,
+      "name": "百沸鲜香 吉格斯",
+      "roitName": "Food Spirits Ziggs",
+      "sortName": "百沸鲜香",
+      "rarity": "史诗",
+      "raritySubType": "峡谷宝典",
+      "price": "360",
+      "priceUnit": "点券(精英版680点券)",
+      "skinline": "美味甜心",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ziggs_10.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ziggs_skin10.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008711.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "锅盖在地上，汤汁在天花板上——没人知道这位炸厨房专家是怎么当上厨师的。可令人意想不到的是，当烟雾散尽，那锅沸腾的酸甜浓汤竟鲜香四溢，连最挑剔的食客都忍不住举箸称奇。",
+      "accessories": [
+        "边框",
+        "姿态：备菜",
+        "姿态：辣到上头",
+        "炫彩1个"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年1月22日",
+        "endDate": "2026年3月8日",
+        "description": "峡谷宝典20级(付费)领取皮肤 75级(精英)领取炫彩热辣升级",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,2261 @@
+{
+  "id": "twistedfate",
+  "name": "卡牌大师",
+  "alias": "Twistedfate",
+  "key": 4,
+  "title": "崔斯特",
+  "skins": [
+    {
+      "id": 4045,
+      "name": "胜利之运 崔斯特",
+      "roitName": "Victorious Twisted Fate",
+      "sortName": null,
+      "rarity": "赛季奖励",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "胜利诸神",
+      "universe": "胜利诸神",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_uncentered_45.skins_twistedfate_skin45.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_tile_45.skins_twistedfate_skin45.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_centered_45.skins_twistedfate_skin45.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4045.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/twistedfateloadscreen_45.skins_twistedfate_skin45.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "玩家们在排位赛中积累了足够赛段点后，就会获得【胜利之运 崔斯特】作为奖励。没有哪种运气游戏——无论是卡牌、骰子还是硬币——不能让崔斯特变得对他有利。即便如此，现在让他兴奋的并非胜利，而是东山再起——看看自己能在承受后果之前，将运气发挥到何种程度。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【坚韧黑铁】段位。"
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceTypeChinese": "S15赛季皮肤",
+        "priceStartDay": "2025年1月9日版本更新后",
+        "priceEndDay": "2026年4月28日23:59",
+        "description": "2025年第一主题赛季期间赢得15场排位，赛季结束后开始发放奖励"
+      },
+      "chromas": [
+        {
+          "id": 4046,
+          "name": "胜利之运 崔斯特 英勇黄铜",
+          "sortName": "英勇黄铜",
+          "colorName": "Bronze",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【英勇黄铜】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2025 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【英勇黄铜】段位"
+          },
+          "riotName": "胜利之运 崔斯特 英勇黄铜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4046.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#764D43",
+            "#764D43"
+          ]
+        },
+        {
+          "id": 4047,
+          "name": "胜利之运 崔斯特 不屈白银",
+          "sortName": "不屈白银",
+          "colorName": "Silver",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【不屈白银】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2025 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【不屈白银】段位"
+          },
+          "riotName": "胜利之运 崔斯特 不屈白银",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4047.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#AAB5BA",
+            "#AAB5BA"
+          ]
+        },
+        {
+          "id": 4048,
+          "name": "胜利之运 崔斯特 荣耀黄金",
+          "sortName": "荣耀黄金",
+          "colorName": "Gold",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【荣耀黄金】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2025 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【荣耀黄金】段位"
+          },
+          "riotName": "胜利之运 崔斯特 荣耀黄金",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4048.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D9C445",
+            "#D9C445"
+          ]
+        },
+        {
+          "id": 4049,
+          "name": "胜利之运 崔斯特 华贵铂金",
+          "sortName": "华贵铂金",
+          "colorName": "Platinum",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【华贵铂金】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2025 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【华贵铂金】段位"
+          },
+          "riotName": "胜利之运 崔斯特 华贵铂金",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4049.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#55CDE5",
+            "#55CDE5"
+          ]
+        },
+        {
+          "id": 4050,
+          "name": "胜利之运 崔斯特 流光翡翠",
+          "sortName": "流光翡翠",
+          "colorName": "Emerald",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【流光翡翠】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2025 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【流光翡翠】段位"
+          },
+          "riotName": "胜利之运 崔斯特 流光翡翠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4050.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#26854C",
+            "#26854C"
+          ]
+        },
+        {
+          "id": 4051,
+          "name": "胜利之运 崔斯特 璀璨钻石",
+          "sortName": "璀璨钻石",
+          "colorName": "Diamond",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【璀璨钻石】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2025 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【璀璨钻石】段位"
+          },
+          "riotName": "胜利之运 崔斯特 璀璨钻石",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4051.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#65337F",
+            "#65337F"
+          ]
+        },
+        {
+          "id": 4052,
+          "name": "胜利之运 崔斯特 超凡大师",
+          "sortName": "超凡大师",
+          "colorName": "Master",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【超凡大师】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2025 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【超凡大师】段位"
+          },
+          "riotName": "胜利之运 崔斯特 超凡大师",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4052.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#9D228D",
+            "#9D228D"
+          ]
+        },
+        {
+          "id": 4053,
+          "name": "胜利之运 崔斯特 傲世宗师",
+          "sortName": "傲世宗师",
+          "colorName": "Grandmaster",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【傲世宗师】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2025 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【傲世宗师】段位"
+          },
+          "riotName": "胜利之运 崔斯特 傲世宗师",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4053.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#B31316",
+            "#B31316"
+          ]
+        },
+        {
+          "id": 4054,
+          "name": "胜利之运 崔斯特 最强王者",
+          "sortName": "最强王者",
+          "colorName": "Challenger",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【最强王者】段位。",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2025 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【最强王者】段位"
+          },
+          "riotName": "胜利之运 崔斯特 最强王者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4054.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#1D62C8",
+            "#1D62C8"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "25.08",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4013,
+      "name": "奥德赛 崔斯特",
+      "roitName": "Odyssey Twisted Fate",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "奥德赛",
+      "universe": "奥德赛",
+      "pushDate": "2020年10月15日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin13/images/twistedfate_splash_uncentered_13.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin13/images/twistedfate_splash_tile_13.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin13/images/twistedfate_splash_centered_13.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4013.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin13/twistedfateloadscreen_13.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin13/twistedfateloadscreen_13_le.jpg",
+      "backstory": "崔斯特是一个以谨慎而闻名的太空走私者。他与他那艘不太出名的飞船“万能牌号”，已被卡尔玛雇佣，前去从一些太空海盗手中解救一些圣堂武士。他才刚刚开始注意到，其他从事这项工作的雇佣兵更出名的是干湿活，而不是简单的盗宝……",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "4770",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2020年10月16日",
+        "priceEndDay": "长期销售",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 4014,
+          "name": "奥德赛 崔斯特 银河征服者",
+          "sortName": "银河征服者",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2020年10月16日",
+            "priceEndDay": "2020年10月30日23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "奥德赛 崔斯特 银河征服者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4014.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 4015,
+          "name": "奥德赛 崔斯特 宇宙探索者",
+          "sortName": "宇宙探索者",
+          "colorName": "全球总决赛(2020)",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2020年10月30日12:00",
+            "priceEndDay": "11月20日9:59",
+            "description": "全球总决赛(2020)通行证代币炫彩",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "奥德赛 崔斯特 宇宙探索者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4015.png",
+          "mythicIcon": "4775",
+          "wildRiftSell": null,
+          "colors": [
+            "#0C0C0F",
+            "#9B1520"
+          ]
+        },
+        {
+          "id": 4016,
+          "name": "奥德赛 崔斯特 巨行星搬运者",
+          "sortName": "巨行星搬运者",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "奥德赛 崔斯特 巨行星搬运者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4016.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 4017,
+          "name": "奥德赛 崔斯特 彗星追赶者",
+          "sortName": "彗星追赶者",
+          "colorName": "浅蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "奥德赛 崔斯特 彗星追赶者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4017.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 4018,
+          "name": "奥德赛 崔斯特 小行星带探险者",
+          "sortName": "小行星带探险者",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "奥德赛 崔斯特 小行星带探险者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4018.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 4019,
+          "name": "奥德赛 崔斯特 星光守卫者",
+          "sortName": "星光守卫者",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "奥德赛 崔斯特 星光守卫者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4019.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 4020,
+          "name": "奥德赛 崔斯特 虫洞穿行者",
+          "sortName": "虫洞穿行者",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "奥德赛 崔斯特 虫洞穿行者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4020.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 4021,
+          "name": "奥德赛 崔斯特 星云环游者",
+          "sortName": "星云环游者",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "奥德赛 崔斯特 星云环游者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4021.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 4022,
+          "name": "奥德赛 崔斯特 恒星游历者",
+          "sortName": "恒星游历者",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2020年10月16日12:00",
+            "priceEndDay": "2020年10月30日23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "奥德赛 崔斯特 恒星游历者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4022.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "10.21",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4036,
+      "name": "太空律动 “万能舞王” 崔斯特",
+      "roitName": "Space Groove Twisted Fate",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "太空律动",
+      "universe": "太空律动",
+      "pushDate": null,
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin36/images/twistedfate_splash_uncentered_36.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin36/images/twistedfate_splash_tile_36.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin36/images/twistedfate_splash_centered_36.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4036.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin36/twistedfateloadscreen_36.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "崔斯特可能是个无赖，但他因能够办好各种事情而闻名整个银河系。但即使是他也找不到他那位失散多年的搭档——格雷福斯——的踪迹。因此，当一些喵星人向他提供有关格雷福斯下落的情报，来换取传说中的地下迪斯科“酱酱舞会”的位置时，他高兴地答应了。不过，一些不速之客是什么意思？",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2022年11月18日",
+        "priceEndDay": "长期销售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 4037,
+          "name": "“万能舞王” 崔斯特 传送抢个红",
+          "sortName": "“万能舞王” 崔斯特 传送抢个红",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2022年11月18日",
+            "priceEndDay": "长期销售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "“万能舞王” 崔斯特 传送抢个红",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4037.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 4038,
+          "name": "“万能舞王” 崔斯特 传送蹲草丛",
+          "sortName": "“万能舞王” 崔斯特 传送蹲草丛",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "“万能舞王” 崔斯特 传送蹲草丛",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4038.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 4039,
+          "name": "“万能舞王” 崔斯特 传送拆个家",
+          "sortName": "“万能舞王” 崔斯特 传送拆个家",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2022年11月18日",
+            "priceEndDay": "2022年12月2日10:00",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "“万能舞王” 崔斯特 传送拆个家",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4039.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 4040,
+          "name": "“万能舞王” 崔斯特 传送抢个车",
+          "sortName": "“万能舞王” 崔斯特 传送抢个车",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "“万能舞王” 崔斯特 传送抢个车",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4040.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 4041,
+          "name": "“万能舞王” 崔斯特 传送抢个蟹",
+          "sortName": "“万能舞王” 崔斯特 传送抢个蟹",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "“万能舞王” 崔斯特 传送抢个蟹",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4041.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 4042,
+          "name": "“万能舞王” 崔斯特 传送抢先锋",
+          "sortName": "“万能舞王” 崔斯特 传送抢先锋",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "“万能舞王” 崔斯特 传送抢先锋",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4042.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 4043,
+          "name": "“万能舞王” 崔斯特 传送抢男爵",
+          "sortName": "“万能舞王” 崔斯特 传送抢男爵",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "“万能舞王” 崔斯特 传送抢男爵",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4043.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 4044,
+          "name": "“万能舞王” 崔斯特 传送拆水晶",
+          "sortName": "“万能舞王” 崔斯特 传送拆水晶",
+          "colorName": "浅蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "“万能舞王” 崔斯特 传送拆水晶",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4044.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#C1F2FF",
+            "#C1F2FF"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.22",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.04"
+      }
+    },
+    {
+      "id": 4025,
+      "name": "地下都市 梦魇 崔斯特",
+      "roitName": "Crime City Nightmare Twisted Fate",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "地下都市 梦魇",
+      "universe": "地下都市 梦魇",
+      "pushDate": "2021年8月26日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin25/images/twistedfate_splash_uncentered_25.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin25/images/twistedfate_splash_tile_25.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin25/images/twistedfate_splash_centered_25.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4025.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin25/twistedfateloadscreen_25.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "没人知道“神秘绅士”到底是人类还是其它的存在，但他以某种方式将自己注入了瓦洛兰城的每一个地下家族中。靠着甜言蜜语和骗子的笑容，他说服了他们所有人拥抱“超界”的恐怖之物……现在唯一要做的就是坐着看他们将彼此撕成碎片。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2021年8月27日10:00",
+        "priceEndDay": "长期销售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 4026,
+          "name": "地下都市 梦魇 崔斯特 红莲",
+          "sortName": "红莲",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2021年8月27日10:00",
+            "priceEndDay": "长期销售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "2021年8月27日10:00",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "地下都市 梦魇 崔斯特 红莲",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4026.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 4027,
+          "name": "地下都市 梦魇 崔斯特 青木",
+          "sortName": "青木",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "地下都市 梦魇 崔斯特 青木",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4027.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 4028,
+          "name": "地下都市 梦魇 崔斯特 幻魅",
+          "sortName": "幻魅",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2021年8月27日10:00",
+            "priceEndDay": "2021年9月10日10:00",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "地下都市 梦魇 崔斯特 幻魅",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 4029,
+          "name": "地下都市 梦魇 崔斯特 蓝霜",
+          "sortName": "蓝霜",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "地下都市 梦魇 崔斯特 蓝霜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4029.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 4030,
+          "name": "地下都市 梦魇 崔斯特 琥珀",
+          "sortName": "琥珀",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "地下都市 梦魇 崔斯特 琥珀",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4030.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 4031,
+          "name": "地下都市 梦魇 崔斯特 黛夜",
+          "sortName": "黛夜",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "地下都市 梦魇 崔斯特 黛夜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4031.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 4032,
+          "name": "地下都市 梦魇 崔斯特 白影",
+          "sortName": "白影",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "地下都市 梦魇 崔斯特 白影",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4032.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 4033,
+          "name": "地下都市 梦魇 崔斯特 黑曜",
+          "sortName": "黑曜",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "地下都市 梦魇 崔斯特 黑曜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4033.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 4034,
+          "name": "地下都市 梦魇 崔斯特 孽影",
+          "sortName": "孽影",
+          "colorName": "魔女(2021)通行证",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2021年8月27日10:00",
+            "priceEndDay": "2021年9月14日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "地下都市 梦魇 崔斯特 孽影",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4034.png",
+          "mythicIcon": "5060",
+          "wildRiftSell": null,
+          "colors": [
+            "#181121",
+            "#53022D"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "11.17",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.04"
+      }
+    },
+    {
+      "id": 4023,
+      "name": "DWG 崔斯特",
+      "roitName": "DWG Twisted Fate",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "全球总冠军：2020",
+      "universe": "电竞",
+      "pushDate": " 2021年4月29日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/images/twistedfate_splash_uncentered_23.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/images/twistedfate_splash_tile_23.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/images/twistedfate_splash_centered_23.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4023.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/twistedfateloadscreen_23.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/twistedfateloadscreen_23_le.jpg",
+      "backstory": "以此致敬ShowMaker在2020全球总决赛中使用崔斯特的夺胜表现。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "4933",
+      "tencent": {
+        "price": 7900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "冠军限定",
+        "priceStartDay": "2021年4月30日12:00",
+        "priceEndDay": "6月16日9:59",
+        "description": "皮肤每年世界赛期间返场销售",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 4024,
+          "name": "DWG 崔斯特 精锐",
+          "sortName": "精锐",
+          "colorName": "全球总决赛2020",
+          "tencent": {
+            "price": 13900,
+            "priceType": "礼包",
+            "priceStartDay": "2021年4月30日12:00",
+            "priceEndDay": "6月16日9:59 ",
+            "description": "礼包专属炫彩",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "DWG 崔斯特 精锐",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4024.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#050B19",
+            "#0055FF"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "11.9",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.04"
+      }
+    },
+    {
+      "id": 4011,
+      "name": "未来战士 崔斯特",
+      "roitName": "Pulsefire Twisted Fate",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "未来战士",
+      "universe": "未来战士",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/images/twistedfate_splash_uncentered_11.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/images/twistedfate_splash_tile_11.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/images/twistedfate_splash_centered_11.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4011.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/twistedfateloadscreen_11.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "通过欺骗时间执法者，崔斯特因其跨越多条时间线同时进行大规模抢劫而闻名。﻿他熟知逃生最快的时间胡同，因此总能在执法者到来的前一刻携带着偷来的财宝逃生……",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "3465",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2018年5月22日",
+        "priceEndDay": "长期销售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 4012,
+          "name": "未来战士 崔斯特 无尽永前",
+          "sortName": "无尽永前",
+          "colorName": "未来战士(2020)",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2020年5月15日12:00",
+            "priceEndDay": "6月16日6:59",
+            "description": "未来战士(2020)通行证战利品专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "未来战士 崔斯特 无尽永前",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4012.png",
+          "mythicIcon": "4596",
+          "wildRiftSell": null,
+          "colors": [
+            "#162D57",
+            "#A50031"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "8.10",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4010,
+      "name": "腥红之月 崔斯特",
+      "roitName": "Blood Moon Twisted Fate",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "腥红之月",
+      "universe": "艾欧尼亚诸月",
+      "pushDate": "2017年2月9日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin10/images/twistedfate_splash_uncentered_10.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin10/images/twistedfate_splash_tile_10.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin10/images/twistedfate_splash_centered_10.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin10/twistedfateloadscreen_10.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "血月教派的真正领导人一直隐藏于重重迷雾之中，他是史上通过面具试炼的第一人，献祭活人血肉来召唤恶魔实体的秘密也是由他散播的。无论他还是否算是人类，他注将永远隐藏于幕后，时刻注视着一切。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "1590",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2017年2月",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4009,
+      "name": "逍遥赌侠 崔斯特",
+      "roitName": "Cutpurse Twisted Fate",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "比尔吉沃特：焰浪之潮",
+      "universe": "符文之地时代",
+      "pushDate": "2015年7月21日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin09/images/twistedfate_splash_uncentered_9.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin09/images/twistedfate_splash_tile_9.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin09/images/twistedfate_splash_centered_9.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin09/twistedfateloadscreen_9.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "准备找一些打手来扩展你的生意范围么？崔斯特和他的搭档格雷福斯就是你最好的选择，这二人只要价格合适(任何价格都行)，他们会对任何人(我指的是任何人)做出任何事(我指的是任何事)，详情请于店内咨询。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2015年7月21日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "5.14",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4008,
+      "name": "逆转裁判 崔斯特",
+      "roitName": "Red Card Twisted Fate",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": " 足球杯",
+      "universe": "磨砺",
+      "pushDate": "2014年6月18日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin08/images/twistedfate_splash_uncentered_8.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin08/images/twistedfate_splash_tile_8.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin08/images/twistedfate_splash_centered_8.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin08/twistedfateloadscreen_8.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "托比尔斯花费了大量闲暇时间来充当秩联比赛的裁判。当然，你可以在玩纸牌时作弊，也可以在赌场诈骗，但这些都比不上一场激烈的球赛对抗。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2014年1月18日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "4.10",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4007,
+      "name": "地底世界 崔斯特",
+      "roitName": "Underworld Twisted Fate",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "不给糖就捣蛋",
+      "universe": "峡谷传说",
+      "pushDate": "2012年10月26日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin07/images/twistedfate_splash_uncentered_7.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin07/images/twistedfate_splash_tile_7.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin07/images/twistedfate_splash_centered_7.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin07/twistedfateloadscreen_7.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "对那些畏惧与死亡那不可避免的相遇的人来说，崔斯特提供了另一条路。如果赢了他的赌局，就会有奢华的生活等待着。如果输了，崔斯特就会欣然将又一张卡牌添加到他那日益增长的、由凄惨灵魂组成的牌组中。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "限定",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 12900,
+      "icon": "",
+      "tencent": {
+        "price": 12900,
+        "priceType": "限定",
+        "priceTypeChinese": "超越勇者限定",
+        "priceStartDay": "2012年10月26日",
+        "priceEndDay": "不定期返场销售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.150",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4006,
+      "name": "皇家火枪手 崔斯特",
+      "roitName": "Musketeer Twisted Fate",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "寓言",
+      "universe": "寓言",
+      "pushDate": "2011年11月21日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin06/images/twistedfate_splash_uncentered_6.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin06/images/twistedfate_splash_tile_6.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin06/images/twistedfate_splash_centered_6.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin06/twistedfateloadscreen_6.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "崔斯特从来不应该属于火枪手卫队，尤其是因为他来自一个低微的家庭。但他的魅力和机智——以及他的战斗技巧——帮助他从一场卑鄙的阴谋中拯救了君主，为他赢得了精英阶层的一席之地。对他们来说很不幸的是，他更喜欢惊心动魄的冒险而不是他的实际职责。",
+      "accessories": [],
+      "roit": {
+        "price": 750,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年11月21日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.129",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4005,
+      "name": "西部牛仔 崔斯特",
+      "roitName": "High Noon Twisted Fate",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "西部风云",
+      "universe": "西部魔影 厄运金属",
+      "pushDate": "2011年5月17日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin05/images/twistedfate_splash_uncentered_5.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin05/images/twistedfate_splash_tile_5.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin05/images/twistedfate_splash_centered_5.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin05/twistedfateloadscreen_5.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "在高境之边每一个骰子坊和赌棚里常驻的，是“逆命”托比亚斯·费利克斯。他喜欢在秃鹰峡谷或者更加文明的边境小镇浪掷时间。赌场里总会有亲切且天真的新面孔，而“逆命”的专长则是击碎这些人的心灵和银行账户，两者之间不分先后。 ",
+      "accessories": [],
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年5月17日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.118",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4004,
+      "name": "探戈灵魂 崔斯特",
+      "roitName": "Tango Twisted Fate",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "上流社会",
+      "universe": "磨砺",
+      "pushDate": "2010年10月5日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin04/images/twistedfate_splash_uncentered_4.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin04/images/twistedfate_splash_tile_4.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin04/images/twistedfate_splash_centered_4.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin04/twistedfateloadscreen_4.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "在高境之边每一个骰子坊和赌棚里常驻的，是“逆命”托比亚斯·费利克斯。他喜欢在秃鹰峡谷或者更加文明的边境小镇浪掷时间。赌场里总会有亲切且天真的新面孔，而“逆命”的专长则是击碎这些人的心灵和银行账户，两者之间不分先后。 ",
+      "accessories": [],
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 3500,
+      "icon": "",
+      "tencent": {
+        "price": 3500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年10月5日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.102",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4003,
+      "name": "魔幻卡牌 崔斯特",
+      "roitName": "The Magnificent Twisted Fate",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "珍宝",
+      "universe": "珍宝",
+      "pushDate": "2010年5月17日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin03/images/twistedfate_splash_uncentered_3.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin03/images/twistedfate_splash_tile_3.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin03/images/twistedfate_splash_centered_3.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin03/twistedfateloadscreen_3.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "",
+      "accessories": [],
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年5月17日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.85",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4002,
+      "name": "红桃杰克 崔斯特",
+      "roitName": "Jack of Hearts Twisted Fate",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "孤注一掷",
+      "universe": "故事书",
+      "pushDate": " 2010年2月10日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin02/images/twistedfate_splash_uncentered_2.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin02/images/twistedfate_splash_tile_2.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin02/images/twistedfate_splash_centered_2.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin02/twistedfateloadscreen_2.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "第二是杰克，气势如电掣，<br>转瞬可将命喉扼！<br>算尽全场出胜策，<br>屡屡倾倒路过者。",
+      "accessories": [],
+      "roit": {
+        "price": 520,
+        "priceType": "限定",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceTypeChinese": "QQ会员",
+        "priceStartDay": "2011年不删档测试期间",
+        "priceEndDay": "该皮肤商店未开放直购",
+        "description": "不删档期间QQ会员等级VIP3且游戏角色25级",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.74",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4001,
+      "name": "蓝色忧郁 崔斯特",
+      "roitName": "PAX Twisted Fate",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "PAX",
+      "universe": "PAX游戏展",
+      "pushDate": "2009年9月3日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin01/images/twistedfate_splash_uncentered_1.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin01/images/twistedfate_splash_tile_1.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin01/images/twistedfate_splash_centered_1.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin01/twistedfateloadscreen_1.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "一款特殊的事件皮肤，在PAX2009上发放。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceTypeChinese": "蓝钻贵族",
+        "priceStartDay": "2009年9月3日",
+        "priceEndDay": "该皮肤商店无法直售",
+        "description": "PAX游戏展限量CDK | 曾蓝钻会员专属奖励",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "0.9.22.16",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 4000,
+      "name": "卡牌大师",
+      "roitName": "Twisted Fate",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "比尔吉沃特",
+      "universe": "",
+      "pushDate": "2009年2月21日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/base/images/twistedfate_splash_uncentered_0.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/base/images/twistedfate_splash_tile_0.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/base/images/twistedfate_splash_centered_0.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/base/twistedfateloadscreen.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "崔斯特是一名声名狼藉的诈骗惯犯，他让那些富人既羡慕又嫉恨，这世上任何有人烟之地都有过这位纸牌高手施展“魅力”与赌艺的足迹。他鲜少会认真干一件事，总是用一抹轻蔑的微笑和一副漫不经心的样子面对每一天。但无论什么情况，崔斯特的袖子里永远都会藏着一张王牌。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "6216",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2023年9月1日10:00",
+        "priceEndDay": "10月7日9:59",
+        "description": "崔斯特 肖像图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "首发英雄",
+        "update": "12.10",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}

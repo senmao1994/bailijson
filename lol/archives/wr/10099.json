@@ -1,0 +1,376 @@
+{
+  "id": 10099,
+  "name": "加里奥",
+  "alias": "jialiao",
+  "key": "10099",
+  "title": "正义巨像",
+  "skins": [
+    {
+      "id": 1009907,
+      "name": "霸天战鹰 加里奥",
+      "roitName": "Mecha Galio",
+      "sortName": "霸天战鹰",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "争端",
+      "universe": "霸天",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Galio_6.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_galio_skin06.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009907.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "机甲单位GAL-10是抵御威胁的最后一道防线。这台机甲应用了相对自主性技术，用于守护坚壁内的都市。在最近的一次入侵结束后，GAL-10并没有重新进入待机，而是切换成了主动的“索敌”状态。它离开了自己的岗哨，向着不明的威胁所在的方向进发。",
+      "accessories": [
+        "边框",
+        "姿态：充能",
+        "姿态：裂空战翼！出击！"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 100990701,
+          "name": "霸天战鹰 加里奥 隐秘伏击",
+          "sortName": "Pink",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "隐藏款",
+              "price": "2000",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "隐藏款",
+            "price": "2000",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#FF69B4",
+            "#FF69B4"
+          ]
+        },
+        {
+          "id": 100990702,
+          "name": "霸天战鹰 加里奥 远旅骑兵",
+          "sortName": "Purple",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#9370DB",
+            "#9370DB"
+          ]
+        },
+        {
+          "id": 100990703,
+          "name": "霸天战鹰 加里奥 光学伪装",
+          "sortName": "Brass",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#FF8C00",
+            "#FF8C00"
+          ]
+        },
+        {
+          "id": 100990704,
+          "name": "霸天战鹰 加里奥 无畏勇士",
+          "sortName": "Green",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#32CD32",
+            "#32CD32"
+          ]
+        },
+        {
+          "id": 100990705,
+          "name": "霸天战鹰 加里奥 深海突袭",
+          "sortName": "Aqua",
+          "colorName": "青色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#E0FFFF",
+            "#E0FFFF"
+          ]
+        },
+        {
+          "id": 100990706,
+          "name": "霸天战鹰 加里奥 近地侦察",
+          "sortName": "Gold",
+          "colorName": "金色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#FFD700",
+            "#FFD700"
+          ]
+        },
+        {
+          "id": 100990707,
+          "name": "霸天战鹰 加里奥 暴风护卫",
+          "sortName": "Vermilion",
+          "colorName": "红色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "4.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2023年8月25日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

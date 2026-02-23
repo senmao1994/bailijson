@@ -1,0 +1,60 @@
+{
+  "id": "taliyah",
+  "name": "岩雀",
+  "alias": "Taliyah",
+  "key": 163,
+  "title": "塔莉垭",
+  "skins": [
+    {
+      "id": 163024,
+      "name": "杜朗传人 塔莉垭",
+      "roitName": "Durand's Legacy Taliyah",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "石之法则",
+      "universe": "符文之地时代",
+      "pushDate": "2026年1月8日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin24/images/taliyah_splash_uncentered_24.skins_taliyah_skin24.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin24/images/taliyah_splash_tile_24.skins_taliyah_skin24.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin24/images/taliyah_splash_centered_24.skins_taliyah_skin24.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin24/taliyahloadscreen_24.skins_taliyah_skin24.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin24/taliyahloadscreen_24_le.skins_taliyah_skin24.jpg",
+      "backstory": "几个世纪以来，德玛西亚的石匠和工匠们一直对杜朗的那些以禁魔石为媒介的无匹巨作心怀敬畏——并且年轻的学徒们远道而来，拜于大师门下以精进技艺。但如果将这种技艺与元素魔法结合起来，又会创造出怎样的可能性呢……？",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "7058",
+      "tencent": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceTypeChinese": "通行证专属",
+        "priceStartDay": "2026年1月8日版本更新后",
+        "priceEndDay": "2026年4月15日",
+        "description": "2026第一主题赛季第1幕通行证8/24级奖励"
+      },
+      "chromas": [],
+      "version": {
+        "push": "26.01",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}

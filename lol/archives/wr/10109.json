@@ -1,0 +1,139 @@
+{
+  "id": 10109,
+  "name": "丽桑卓",
+  "alias": "lisangzhuo",
+  "key": "10109",
+  "title": "冰霜女巫",
+  "skins": [
+    {
+      "id": 1010906,
+      "name": "蕊雪盈春：淑瑞 丽桑卓",
+      "roitName": "Petals of Spring Lissandra",
+      "sortName": "蕊雪盈春：淑瑞",
+      "rarity": "史诗",
+      "raritySubType": "马年限定",
+      "price": "1090",
+      "priceUnit": "点券",
+      "skinline": "蕊雪盈春",
+      "universe": "春节",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lissandra_5.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_lissandra_skin05.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010906.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "丽桑卓的锋锐指尖划过花丛枝干，她心中对眼前的盛景毫无波澜，是的，土地的创伤被治愈了。但这仅是一时，丽桑卓相信只要年轮向前，冲突与分离就如同无可避免的寒冬般终会降临……能解决这一痛苦轮回的方法唯有永远驻足于此刻，在冰雪的笼罩下长眠……",
+      "accessories": [
+        "边框",
+        "姿态：瑞雪报春",
+        "姿态：红梅映雪"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月4日",
+        "endDate": "下架时间暂未公布",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1010907,
+      "name": "傲霜盛放 丽桑卓",
+      "roitName": "Exquisite Petals of Spring Lissandra",
+      "sortName": "傲霜盛放",
+      "rarity": "神话",
+      "raritySubType": "臻宝",
+      "price": "500",
+      "priceUnit": "橙色原石",
+      "skinline": "蕊雪盈春",
+      "universe": "春节",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lissandra_6.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_lissandra_skin06.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010907.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "丽桑卓的锋锐指尖划过花丛枝干，她心中对眼前的盛景毫无波澜，是的，土地的创伤被治愈了。但这仅是一时，丽桑卓相信只要年轮向前，冲突与分离就如同无可避免的寒冬般终会降临……能解决这一痛苦轮回的方法唯有永远驻足于此刻，在冰雪的笼罩下长眠……",
+      "accessories": [
+        "边框",
+        "姿态：傲霜",
+        "姿态：金枝玉叶"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月4日",
+        "endDate": "下架时间暂未公布",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

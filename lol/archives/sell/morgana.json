@@ -1,0 +1,90 @@
+{
+  "id": "morgana",
+  "name": "堕落天使",
+  "alias": "Morgana",
+  "key": 25,
+  "title": "莫甘娜",
+  "skins": [
+    {
+      "id": 25081,
+      "name": "至臻 蒙面女郎 莫甘娜",
+      "roitName": "Prestige Veiled Lady Morgana",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "编年史",
+      "universe": "符文之地时代",
+      "pushDate": "2026年1月8日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/images/morgana_splash_uncentered_81.skins_morgana_skin81.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/images/morgana_splash_tile_81.skins_morgana_skin81.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/images/morgana_splash_centered_81.skins_morgana_skin81.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25081.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/morganaloadscreen_81.skins_morgana_skin81.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/morganaloadscreen_81_le.skins_morgana_skin81.jpg",
+      "backstory": "“噢，蒙面女郎，请聆听我的祈求。当光明与正义遥不可及，愿迷途者和迷失者在您的荫庇下找到宽恕与新生的力量。愿您的神圣慈悲指引他们反思那些束缚我们彼此的枷锁，并知道即便在我们最黑暗的时刻，也总有一条通往救赎的道路。”——德玛西亚传统祈祷文",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "7064",
+      "tencent": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2026年1月8日版本更新后",
+        "priceEndDay": "2026年4月15日",
+        "description": "2026第一主题赛季第1幕通行证48级奖励"
+      },
+      "chromas": [
+        {
+          "id": 25082,
+          "name": "至臻 蒙面女郎 莫甘娜 全开",
+          "sortName": "全开",
+          "colorName": "通行证礼包",
+          "tencent": {
+            "price": 17575,
+            "priceType": "礼包",
+            "priceStartDay": "2026年1月8日版本更新后",
+            "priceEndDay": "2026年4月15日",
+            "description": "【为了德玛西亚：第1幕通行证】通行证礼包发售",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 2440,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "这个炫彩曾在【为了德玛西亚：第1幕通行证】中作为战利品专属来发布。 "
+          },
+          "riotName": "至臻 蒙面女郎 莫甘娜 全开",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25082.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#3D266C",
+            "#E89DFE"
+          ]
+        }
+      ],
+      "version": {
+        "push": "26.01",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}

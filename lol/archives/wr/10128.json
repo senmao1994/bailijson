@@ -1,0 +1,73 @@
+{
+  "id": 10128,
+  "name": "泰隆",
+  "alias": "tailong",
+  "key": "10128",
+  "title": "刀锋之影",
+  "skins": [
+    {
+      "id": 1012809,
+      "name": "银龙裁决 泰隆",
+      "roitName": "Dragonblade Talon",
+      "sortName": "银龙裁决",
+      "rarity": "史诗",
+      "raritySubType": "限定",
+      "price": "50000",
+      "priceUnit": "点券",
+      "skinline": "春节庆典",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Talon_8.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_talon_skin08.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012809.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "据说泰隆的刀锋是在暗影巨龙的火焰中铸造而成的，之后他用这把刀割开了他已被腐化的家主的喉咙。从此泰隆的刀锋在消失于阴影之前总能轻易消灭它的对手，许多人相信每当强者欺凌弱者时，刀锋总会显现。",
+      "accessories": [
+        "边框",
+        "姿态：裁决"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年1月22日",
+        "endDate": "2026年3月3日",
+        "description": "新春消费好礼活动 消费50000点券领取皮肤、边框和姿态",
+        "activityTitle": "新春消费好礼",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 10024,
+  "name": "辛德拉",
+  "alias": "xindela",
+  "key": "10024",
+  "title": "暗黑元首",
+  "skins": [
+    {
+      "id": 1002407,
+      "name": "春晖神裔 辛德拉",
+      "roitName": "Lunar Empress Syndra",
+      "sortName": "春晖神裔",
+      "rarity": "传说",
+      "raritySubType": "限定",
+      "price": "1090",
+      "priceUnit": "点券",
+      "skinline": "新序",
+      "universe": "春晖众神",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Syndra_6.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_syndra_skin06.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002407.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "初代神裔辛德拉为抗下界之敌，汲取春晖神力为己用。此举被天域视为逾矩，而导致她被封印百年。光阴流转，新晋神女莫甘娜登神设宴，封印松动，辛德拉得以破封而出。为调停干戈，莫甘娜亲递金柬邀辛德拉赴会。这位忿怨神裔将审视这片新天地——若不遂其心，她丝毫不介意教它地覆天翻！",
+      "accessories": [
+        "边框",
+        "姿态：玉旋",
+        "姿态：莲泛绿漪"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年1月22日",
+        "endDate": "2026年3月3日 23:59",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

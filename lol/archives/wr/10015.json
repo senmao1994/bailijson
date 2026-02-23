@@ -1,0 +1,72 @@
+{
+  "id": 10015,
+  "name": "泰达米尔",
+  "alias": "taidamier",
+  "key": "10015",
+  "title": "蛮族之王",
+  "skins": [
+    {
+      "id": 1001511,
+      "name": "兄弟已百暴！ 泰达米尔",
+      "roitName": "Garden Party Tryndamere",
+      "sortName": "兄弟已百暴！",
+      "rarity": "特效",
+      "raritySubType": "乐斗专属",
+      "price": "3000",
+      "priceUnit": "乐斗积分",
+      "skinline": "万乐庆典",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Tryndamere_10.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_tryndamere_skin10.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001511.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "泰达米尔是游园会行走的“欢乐导航”！他立誓要扫清所有游客的迷茫，将无尽精力倾注于制造快乐。只见他轻车熟路地穿梭于摊位间，时而用震耳欲聋的粗嗓门进行热情广播，时而一个后空翻拦住走神游客，用夸张的肢体语言精准将其“护送”至魄罗商人的摊位前。这份百分百的投入，让他成了乐园里最受欢迎的风景。",
+      "accessories": [
+        "炫彩"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年1月22日",
+        "endDate": "3个月(乐斗赛季)",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

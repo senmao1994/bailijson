@@ -1,0 +1,74 @@
+{
+  "id": 10052,
+  "name": "洛",
+  "alias": "luo",
+  "key": "10052",
+  "title": "幻翎",
+  "skins": [
+    {
+      "id": 1005209,
+      "name": "翼翼飞花 洛",
+      "roitName": "Celestial Embroidery Rakan1",
+      "sortName": "翼翼飞花",
+      "rarity": "史诗",
+      "raritySubType": "蛇年限定",
+      "price": "1090",
+      "priceUnit": "点券",
+      "skinline": "春展锦程",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Rakan_8.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_rakan_skin08.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005209.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "神侣霞洛皆善绣蝶，洛尤精于配色。不过为了完成所爱之人对于绣物坚韧神韵的追求，洛最终舍弃了对蝶翼配色的执着，他藏万千色泽于绣茧之中，以期破茧成蝶之时，所绣之作抵达形神兼备的至臻之境。  ",
+      "accessories": [
+        "边框",
+        "姿态：锦衣"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年1月27日0点",
+        "endDate": "2025年2月16日 23:59:59",
+        "description": "返场一般为 祈愿抽奖获取",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

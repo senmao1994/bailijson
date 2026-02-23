@@ -1,0 +1,59 @@
+{
+  "id": "nami",
+  "name": "唤潮鲛姬",
+  "alias": "Nami",
+  "key": 267,
+  "title": "娜美",
+  "skins": [
+    {
+      "id": 267068,
+      "name": "沉溺暗影 娜美",
+      "roitName": "Sunken Shadows Nami",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "沉溺暗影",
+      "universe": "深渊回响",
+      "pushDate": "2025年12月3日",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin68/images/nami_splash_uncentered_68.skins_nami_skin68.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin68/images/nami_splash_tile_68.skins_nami_skin68.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin68/images/nami_splash_centered_68.skins_nami_skin68.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin68/namiloadscreen_68.skins_nami_skin68.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin68/namiloadscreen_68_le.skins_nami_skin68.jpg",
+      "backstory": "娜美统治着一个潜藏在海浪之下的幽灵王国，直到她的魔法吊坠——她的女王之国的关键物品——在战斗中被夺走。经过多年在诸海的寻觅，她终于从一位寻找失散爱人的海盗口中得知了自己吊坠的下落。不久之后，娜美将夺回失去的一切——并将那个德不配位的窃贼拖入她的水下厄运。",
+      "accessories": [],
+      "roit": {
+        "price": 40,
+        "priceType": "圣堂抽奖",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 40,
+      "icon": "7056",
+      "tencent": {
+        "price": 40,
+        "priceType": "圣堂抽奖",
+        "priceTypeChinese": "神话幻想",
+        "priceStartDay": "2025年12月5日10:00",
+        "priceEndDay": "2026年1月21日版本更新前",
+        "description": "S阶奖池皮肤 A阶奖池为魔女系列"
+      },
+      "chromas": [],
+      "version": {
+        "push": "25.24",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}

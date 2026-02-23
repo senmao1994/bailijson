@@ -1,0 +1,63 @@
+{
+  "id": 10067,
+  "name": "泽丽",
+  "alias": "zeli",
+  "key": "10067",
+  "title": "祖安花火",
+  "skins": [
+    {
+      "id": 1006707,
+      "name": "幻灵特战迅鼠 泽丽",
+      "roitName": "Battle Squirrel Zeri",
+      "sortName": "幻灵特战迅鼠",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "奇袭",
+      "universe": "幻灵战队",
+      "pushDate": "",
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zeri_6.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_zeri_skin06.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006707.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "迅鼠与灵猫的训练常常以意气之争收场，但一旦踏入真正的战斗，这对天敌又立刻展现出绝佳的默契。迅鼠先行探路、制造混乱，而灵猫紧随其后，精准击破——这就是幻灵特战队最危险却最可靠的双人搭档。",
+      "accessories": [
+        "边框",
+        "姿态：无妨"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "sell": {
+        "startDate": "2025年12月5日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

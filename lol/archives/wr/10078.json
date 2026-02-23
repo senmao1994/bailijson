@@ -1,0 +1,63 @@
+{
+  "id": 10078,
+  "name": "纳尔",
+  "alias": "naer",
+  "key": "10078",
+  "title": "迷失之牙",
+  "skins": [
+    {
+      "id": 1007804,
+      "name": "山海绘卷 纳尔",
+      "roitName": "Shan Hai Scrolls Gnar",
+      "sortName": "山海绘卷",
+      "rarity": "限定",
+      "raritySubType": "史诗",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "漩流",
+      "universe": "山海绘卷",
+      "pushDate": "",
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gnar_3.jpg",
+      "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/Gnar_ShanHaiScrollsSkin_WR_HD.jpg?5da80",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_gnar_skin03.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Gnar_ShanHaiScrollsCircle_WR.png?6189b",
+      "chromaPath": null,
+      "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Gnar_ShanHaiScrollsSquare_WR_Special_Edition.png?63e4f",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007804.png",
+      "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Gnar_ShanHaiScrollsLoading_WR_Special_Edition.png?f5959",
+      "backstory": "纳尔是绘卷中最古老的精魂之一，被守护者们感化而成为助力之灵。平日，他的力量内敛，化为娇小聪慧的灵兽于绘卷山水中跃动，而他庞大的古兽真形，乃是画中山川地脉之怒的化身，当封印被严重破坏时便会苏醒，以滔天之力碾碎威胁。",
+      "accessories": [
+        "边框",
+        "姿态：旋镖"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "sell": {
+        "startDate": "2025年12月11日0点",
+        "endDate": "2026年1月3日23:59",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

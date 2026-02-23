@@ -1,0 +1,63 @@
+{
+  "id": 10072,
+  "name": "格雷福斯",
+  "alias": "geleifusi",
+  "key": "10072",
+  "title": "枪火狂徒",
+  "skins": [
+    {
+      "id": 1007212,
+      "name": "幻灵特战猛虎 格雷福斯",
+      "roitName": "Battle Tiger Graves",
+      "sortName": "幻灵特战猛虎",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "奇袭",
+      "universe": "幻灵战队",
+      "pushDate": "",
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Graves_11.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_graves_skin11.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007212.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "新型变异海魔人如潮水般涌来，老兵格雷福斯咧嘴一笑，手中改装能量炮发出震天虎啸。“让它们明白，恐惧源于火力不足！”将敌人轰成碎渣后，他从容掷出烟雾弹，掩护冒进队友撤离。虽然他的档案有不少“黑历史”，但特战队的每个人都明白——在战场上，没有比这位硬汉更靠谱的队友。",
+      "accessories": [
+        "边框",
+        "姿态：掩护"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "sell": {
+        "startDate": "2025年12月5日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

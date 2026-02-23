@@ -1,0 +1,74 @@
+{
+  "id": 10138,
+  "name": "斯莫德",
+  "alias": "simode",
+  "key": "10138",
+  "title": "炽炎雏龙",
+  "skins": [
+    {
+      "id": 1013802,
+      "name": "蕊雪盈春：聚珍 斯莫德",
+      "roitName": "Petals of Spring Smolder",
+      "sortName": "蕊雪盈春：聚珍",
+      "rarity": "史诗",
+      "raritySubType": "马年限定",
+      "price": "1090",
+      "priceUnit": "点券",
+      "skinline": "蕊雪盈春",
+      "universe": "春节",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Smolder_1.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_smolder_skin01.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013802.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "冬去春来的祥瑞征兆唤来了一个活泼热烈的神奇生灵，斯莫德抖落双翼的风霜，将好奇的眼神悉数投向花园里的艳霜花。此间生灵的不懈努力使得春日得以绽放，而斯莫德的小脑袋还无法理解这种纷扰，他只想和更多新的朋友享用春节的乐趣（当然还有他如影随形的妈妈）！",
+      "accessories": [
+        "边框",
+        "姿态：马到成功",
+        "姿态：破空俯冲"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月4日",
+        "endDate": "下架时间暂未公布",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

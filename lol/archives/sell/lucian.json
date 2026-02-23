@@ -1,0 +1,59 @@
+{
+  "id": "lucian",
+  "name": "圣枪游侠",
+  "alias": "Lucian",
+  "key": 236,
+  "title": "卢锡安",
+  "skins": [
+    {
+      "id": 236072,
+      "name": "沉溺暗影 卢锡安",
+      "roitName": "Sunken Shadows Lucian",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "沉溺暗影",
+      "universe": "深渊回响",
+      "pushDate": "2025年12月3日",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin72/images/lucian_splash_uncentered_72.skins_lucian_skin72.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin72/images/lucian_splash_tile_72.skins_lucian_skin72.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin72/images/lucian_splash_centered_72.skins_lucian_skin72.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin72/lucianloadscreen_72.skins_lucian_skin72.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin72/lucianloadscreen_72_le.skins_lucian_skin72.jpg",
+      "backstory": "令很多人畏惧但受所有人尊敬的海盗王卢锡安率领着他的船员们穿越任何风暴。但当他的妻子在海上失踪后，他向一种超自然力量寻求帮助：海巫娜美。现在，他的双眼已被打开，得以看到一个潜藏在波涛之下的神奇世界。新型幽魂双枪在手的他，将净化挡在他和他的海盗女王之间的任何人。",
+      "accessories": [],
+      "roit": {
+        "price": 40,
+        "priceType": "圣堂抽奖",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 40,
+      "icon": "7057",
+      "tencent": {
+        "price": 40,
+        "priceType": "圣堂抽奖",
+        "priceTypeChinese": "神话幻想",
+        "priceStartDay": "2025年12月5日10:00",
+        "priceEndDay": "2026年1月21日版本更新前",
+        "description": "S阶奖池皮肤 A阶奖池为西部魔影系列"
+      },
+      "chromas": [],
+      "version": {
+        "push": "25.24",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}

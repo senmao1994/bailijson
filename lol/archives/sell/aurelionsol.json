@@ -1,0 +1,283 @@
+{
+  "id": "aurelionsol",
+  "name": "铸星龙王",
+  "alias": "Aurelionsol",
+  "key": 136,
+  "title": "奥瑞利安·索尔",
+  "skins": [
+    {
+      "id": 136038,
+      "name": "开天龙神 青花瓷 奥瑞利安 · 索尔",
+      "roitName": "Divine Architect Porcelain Aurelion Sol",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "青花瓷",
+      "universe": null,
+      "pushDate": "2026年2月18日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_uncentered_38.skins_aurelionsol_skin38.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_tile_38.skins_aurelionsol_skin38.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_centered_38.skins_aurelionsol_skin38.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/aurelionsolloadscreen_38.skins_aurelionsol_skin38.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/aurelionsolloadscreen_38_le.skins_aurelionsol_skin38.jpg",
+      "backstory": "在创世之初，一条拥有无穷力量的巨龙守护着世界。他以无穷的智慧，精心打造了十二件青花瓷圣物，用来存放他自己——以及其生肖神卫——的宇宙力量。这些神器被赠予他们的后代，以便他们能够将先人的传承发扬光大，并颂扬他们的神性。",
+      "accessories": [],
+      "roit": {
+        "price": 40,
+        "priceType": "圣堂抽奖",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 40,
+      "icon": "7076",
+      "tencent": {
+        "price": 40,
+        "priceType": "圣堂抽奖",
+        "priceTypeChinese": "神话幻想",
+        "priceStartDay": "2026年2月4日",
+        "priceEndDay": "暂无下架日期",
+        "description": "圣堂保底88000点券 A阶奖池青花瓷史诗皮肤"
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.03",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 136031,
+      "name": "青花瓷 奥瑞利安 · 索尔",
+      "roitName": "Porcelain Protector Aurelion Sol",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "青花瓷",
+      "universe": "春节",
+      "pushDate": null,
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin31/images/aurelionsol_splash_uncentered_31.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin31/images/aurelionsol_splash_tile_31.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin31/images/aurelionsol_splash_centered_31.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/136/136031.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin31/aurelionsolloadscreen_31.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin31/aurelionsolloadscreen_31_le.jpg",
+      "backstory": "在生肖神卫铸造他们的各种圣物时，奥瑞利安 · 索尔就在场。和他一起的，还有另外十一个：他们是第一批承担起守护圣物任务的，也是第一批被赋予力量的。几个世纪后，奥瑞利安 · 索尔被他的龙类后辈召唤出来，渴求他的帮助来对抗他非常熟悉的某个古老威胁。",
+      "accessories": [],
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "6556",
+      "tencent": {
+        "price": 10900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 136032,
+          "name": "青花瓷 奥瑞利安 · 索尔 牡丹",
+          "sortName": "牡丹",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2024年2月27日",
+            "priceEndDay": "3月12日9:59",
+            "description": "礼包专属",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "礼包专属"
+          },
+          "riotName": "青花瓷 奥瑞利安 · 索尔 牡丹",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/136/136032.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 136033,
+          "name": "青花瓷 奥瑞利安 · 索尔 飘逸",
+          "sortName": "飘逸",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年2月27日",
+            "priceEndDay": "3月12日9:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "青花瓷 奥瑞利安 · 索尔 飘逸",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/136/136033.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 136034,
+          "name": "青花瓷 奥瑞利安 · 索尔 锦鲤",
+          "sortName": "锦鲤",
+          "colorName": "青花瓷(2024)",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2024年2月27日",
+            "priceEndDay": "3月12日9:59",
+            "description": "战利品专属",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "青花瓷 奥瑞利安 · 索尔 锦鲤",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/136/136034.png",
+          "mythicIcon": "6557",
+          "wildRiftSell": null,
+          "colors": [
+            "#3AC8B1",
+            "#B0412A"
+          ]
+        },
+        {
+          "id": 136035,
+          "name": "青花瓷 奥瑞利安 · 索尔 墨色",
+          "sortName": "墨色",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年2月27日",
+            "priceEndDay": "3月12日9:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "青花瓷 奥瑞利安 · 索尔 墨色",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/136/136035.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 136036,
+          "name": "青花瓷 奥瑞利安 · 索尔 含苞",
+          "sortName": "含苞",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "青花瓷 奥瑞利安 · 索尔 含苞",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/136/136036.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 136037,
+          "name": "青花瓷 奥瑞利安 · 索尔 金辉玉洁",
+          "sortName": "金辉玉洁",
+          "colorName": "金色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "青花瓷 奥瑞利安 · 索尔 金辉玉洁",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/136/136037.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": []
+    }
+  ]
+}

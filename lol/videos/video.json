@@ -1,0 +1,257 @@
+[
+  {
+    "id": "annie",
+    "name": "安妮",
+    "key": "1",
+    "skins": [
+      {
+        "name": "北极星使者 安妮",
+        "bv": "BV1ou4y137GZ",
+        "bvImageId": "ee7d99e0edbc8a423121bb0ffb4be333e150cb3a",
+        "date": "2023年12月08日 01:06:52"
+      },
+      {
+        "name": "战斗公主 安妮",
+        "bv": "BV1P7s3etErz",
+        "bvImageId": "1db748127160bb8f5755a62a66b0acb8c51e790e",
+        "date": "2024年08月29日 00:47:55"
+      }
+    ],
+    "other": [
+      {
+        "name": "哥特萝莉 安妮",
+        "bv": "BV1nq4y1C7gj",
+        "bvImageId": "2d0cf4d52b0c28606461c8d47df665264a65c73d"
+      },
+      {
+        "name": "海克斯科技 安妮",
+        "bv": "BV1zzAsePEeE",
+        "bvImageId": "eee8bbf620b0200f582dfdf36515e368ef4ef12f"
+      },
+      {
+        "name": "魔域梦魇 安妮",
+        "bv": "BV1N14y1v71H",
+        "bvImageId": "e2482c217ace35eff45499513bfd5d5fa6d16c4d"
+      }
+    ],
+    "mobile": []
+  },
+  {
+    "id": "zaahen",
+    "name": "亚恒",
+    "key": "904",
+    "skins": [
+      {
+        "name": "不落魔锋 亚恒",
+        "bv": "BV1n9CYBqE4J",
+        "bvImageId": "e10220f8d41ac13a01b55992aaf795ba04fd1ea4",
+        "date": "2025年11月17日 12:10:14"
+      },
+      {
+        "name": "玉剑传说 海龙王 亚恒",
+        "bv": "BV1wBCiBLE89",
+        "bvImageId": "205ee4a47d6dd3a8c1f8c12607ba7ea4704adcc2",
+        "date": "2025年11月17日 21:36:14"
+      }
+    ]
+  },
+  {
+    "id": "ahri",
+    "name": "阿狸",
+    "key": "103",
+    "skins": [],
+    "other": []
+  },
+  {
+    "id": "gwen",
+    "name": "格温",
+    "key": "83",
+    "skins": [
+      {
+        "name": "青蛙雨衣 格温",
+        "bv": "BV173yGBzEAa",
+        "bvImageId": "1b32d77b97d7d1d61cd8ac4ed99315d49d357fec",
+        "date": "2025年11月18日 20:55:41"
+      }
+    ],
+    "other": []
+  },
+  {
+    "id": "tristana",
+    "name": "麦林炮手",
+    "key": "18",
+    "skins": [
+      {
+        "name": "青蛙雨衣 崔丝塔娜",
+        "bv": "BV1hry3BFEf8",
+        "bvImageId": "91e91cea87e15492597c64dd56e2492505b1b2c9",
+        "date": "2025年11月18日 22:20:16"
+      }
+    ],
+    "other": []
+  },
+  {
+    "id": "jinx",
+    "name": "暴走萝莉",
+    "key": "222",
+    "skins": [
+      {
+        "name": "双城之战2 破碎者 金克丝",
+        "bv": "BV1KUC2BEEjd",
+        "bvImageId": "05c7baf4def693a9c9a4078035b6925dfc8d29bd",
+        "date": "2025年11月15日 22:49:59",
+        "isRecommended": true
+      }
+    ],
+    "other": []
+  },
+  {
+    "id": "morgana",
+    "name": "堕落天使",
+    "key": "25",
+    "skins": [
+      {
+        "name": "黎明使者 莫甘娜",
+        "bv": "BV1HQ4y1k7jU",
+        "bvImageId": "89e308420f10484a5234c12a3fc02c865ead52e6",
+        "date": "2021年09月18日 01:59:32"
+      },
+      {
+        "name": "至臻 魅惑女巫 莫甘娜",
+        "bv": "BV1CQ4y1Q7bd",
+        "bvImageId": "57a6fc0c9e3acca5bb8eb52cb845cf00e8b9bb2c",
+        "date": "2021年10月02日 22:25:29"
+      },
+      {
+        "name": "星之吞噬者 莫甘娜",
+        "bv": "BV16T411J7JU",
+        "bvImageId": "9449a97f194e3fb3e2c4afd723c4c0e880e97b59",
+        "date": "2022年07月16日 20:30:27"
+      },
+      {
+        "name": "紫金罗刹 莫甘娜",
+        "bv": "BV1DG4y1E7k9",
+        "bvImageId": "03ddf6a6d98dd34ff9c6cd96a7020989811e4a56",
+        "date": "2022年12月19日 20:46:20"
+      },
+      {
+        "name": "净雪之月 莫甘娜",
+        "bv": "BV1fc411P7PU",
+        "bvImageId": "30b82b1f6a2f9d1b6bdd90217ff92a50b818bcbd",
+        "date": "2023年05月15日 13:55:28"
+      },
+      {
+        "name": "玉剑传说 苍鸾 莫甘娜",
+        "bv": "BV1HN41187xd",
+        "bvImageId": "5b6e68d46163cc726357da4b0203bcfe1e768280",
+        "date": "2023年08月10日 16:26:27"
+      },
+      {
+        "name": "青花瓷 莫甘娜",
+        "bv": "BV1Jw4m1f7zg",
+        "bvImageId": "b1ebc3884ab165fe8fb6b408b44dbf26bccafd72",
+        "date": "2024年02月27日 02:41:54"
+      },
+      {
+        "name": "堕落天使 莫甘娜",
+        "bv": "BV13F4m1A7Bp",
+        "bvImageId": "d8456e41ff0e7a564b926c1f4cd4868f06501a18",
+        "date": "2024年04月23日 21:44:10"
+      },
+      {
+        "name": "刀锋女王 莫甘娜",
+        "bv": "BV1Hi42117q6",
+        "bvImageId": "e0b66875dc45056e956acdbedd29b597ddaa8293",
+        "date": "2024年04月24日 12:40:00"
+      },
+      {
+        "name": "杀戮天使昔拉 莫甘娜",
+        "bv": "BV1h1421R7a2",
+        "bvImageId": "2c940fcd0aa71f3ae442e143129ab56606c67596",
+        "date": "2024年04月24日 13:00:05"
+      },
+      {
+        "name": "地狱厨房 莫甘娜",
+        "bv": "BV1QH4y1A7br",
+        "bvImageId": "e57702c9ae1a0fecd9927a4f7a24cd4d35d95c6a",
+        "date": "2024年04月24日 13:43:14"
+      },
+      {
+        "name": "黑色荆棘 莫甘娜",
+        "bv": "BV1Fi421m7dJ",
+        "bvImageId": "200df645869a5081fab628e759e7578d7d572c79",
+        "date": "2024年04月24日 21:39:43"
+      },
+      {
+        "name": "鬼魂新娘 莫甘娜",
+        "bv": "BV1mm41127di",
+        "bvImageId": "12d8d01d43863df85ad012df7cb93c9cc5481ad7",
+        "date": "2024年04月24日 22:29:22"
+      },
+      {
+        "name": "胜利女神 莫甘娜",
+        "bv": "BV12E421K7du",
+        "bvImageId": "89e2bfb65e71cfafcf8731e2ecb500f8d9403eb0",
+        "date": "024年04月24日 23:40:19"
+      },
+      {
+        "name": "魅惑女巫 莫甘娜",
+        "bv": "BV1cm411m7hy",
+        "bvImageId": "2d0b627e3a830bac9ffdda6db4f88cb2bd51f926",
+        "date": "2024年04月25日 23:36:35"
+      },
+      {
+        "name": "至尊魔女 莫甘娜",
+        "bv": "BV11m411y7px",
+        "bvImageId": "330e2870976079273131a4ca1821071a8f4f1598",
+        "date": "2024年04月26日 12:00:00"
+      },
+      {
+        "name": "灵魂莲华 莫甘娜",
+        "bv": "BV1YkKLzhEwz",
+        "bvImageId": "92fc6f9f5e645b054ddcc3ad55b5feef94665821",
+        "date": "2025年06月25日 08:22:30"
+      }
+    ],
+    "other": [],
+    "mobile": [
+      {
+        "name": "至臻 深海奇域 莫甘娜",
+        "bv": "BV19dkrB5E8o",
+        "bvImageId": "15cf99f8ff2a689dd180cc2f90c583757a978460"
+      },
+      {
+        "name": "深海奇域 莫甘娜",
+        "bv": "BV1JpkkBdEDB",
+        "bvImageId": "9678b67227ee61adec4f74c420ae163ba2914e08"
+      },
+      {
+        "name": "春晖神女 莫甘娜",
+        "bv": "BV1Hg4y1U7A3",
+        "bvImageId": "4293227fa029a89c285be2c2e20730d41475449e"
+      }
+    ]
+  },
+  {
+    "id": "viktor",
+    "name": "机械先驱",
+    "key": "112",
+    "skins": [
+      {
+        "name": "双城之战2 救世主 维克托",
+        "bv": "BV1sHqNY9Eek",
+        "bvImageId": "01393726d9a8cf95e66c0bee1e3f7aa87b2964e2",
+        "date": "2024年12月09日 21:25:10",
+        "isRecommended": true
+      },
+      {
+        "name": "机械先驱 维克托",
+        "bv": "BV1MVyfBXEKE",
+        "bvImageId": "d53052d7be553ebc7b195e8ba5166a6924d5b897",
+        "date": "2025年11月02日 23:22:47"
+      }
+    ],
+    "other": [],
+    "mobile": []
+  }
+]

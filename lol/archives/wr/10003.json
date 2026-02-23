@@ -1,0 +1,205 @@
+{
+  "id": 10003,
+  "name": "拉克丝",
+  "alias": "lakesi",
+  "key": "10003",
+  "title": "光辉女郎",
+  "skins": [
+    {
+      "id": 1000322,
+      "name": "臻藏 告白气球 拉克丝",
+      "roitName": "Prestige Love Confession Lux",
+      "sortName": "臻藏 告白气",
+      "rarity": "神话",
+      "raritySubType": "臻藏",
+      "price": "1500",
+      "priceUnit": "浪漫之心",
+      "skinline": "告白气球",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lux_21.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_lux_skin21.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000322.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "亲爱的拉克丝：\n……你走到今天的每一步，老师都看在眼里……如今将团长之任交付于你，愿你能带领乐团开拓新的道路，去证明音乐的无限可能。\n                                                                                ——永远相信你的 梅尔",
+      "accessories": [
+        "边框",
+        "姿态：企盼",
+        "姿态：恋曲排练",
+        "姿态：恋爱进行曲"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月13日",
+        "endDate": "2026年3月15日",
+        "description": "告白气球·星愿 抽奖活动",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1000321,
+      "name": "告白气球 拉克丝",
+      "roitName": "Love Confession Lux",
+      "sortName": "告白气球",
+      "rarity": "传说",
+      "raritySubType": "告白气球",
+      "price": "1800",
+      "priceUnit": "点券随机保底1款",
+      "skinline": "告白气球",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lux_20.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_lux_skin20.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000321.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "拉克丝曾是维洛利亚最耀眼的钢琴新星，如今以指挥家的身份接任维洛利亚皇家乐团团长，外界议论纷纷。不过，拉克丝并不急于为自己辩解，她将以这曲告白协奏回应所有的质疑与期待。",
+      "accessories": [
+        "边框",
+        "姿态：聆音",
+        "姿态：结缘乐章"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月14日",
+        "endDate": "2026年3月15日",
+        "description": "告白气球·协奏 抽奖活动",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1000318,
+      "name": "桃映暖春 拉克丝",
+      "roitName": "Celestial Embroidery Lux",
+      "sortName": "桃映暖春",
+      "rarity": "史诗",
+      "raritySubType": "蛇年限定",
+      "price": "1090",
+      "priceUnit": "点券",
+      "skinline": "春辰锦程",
+      "universe": "3",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lux_17.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_lux_skin17.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000318.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "彼时春令不显，四时失序。明辉绣神不忍世间凋敝，以纺丝破寒霜之殆。其遍历人间，每至寒峭之境，便起针于绢，终以一片桃夭，唤回生机万象，赓续四时之辉。",
+      "accessories": [
+        "边框",
+        "姿态：待春"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年1月27日0点",
+        "endDate": "2025年2月16日 23:59:59",
+        "description": "返场一般为 祈愿抽奖获取",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "aatrox",
+  "name": "暗裔剑魔",
+  "alias": "Aatrox",
+  "key": 266,
+  "title": "亚托克斯",
+  "skins": [
+    {
+      "id": 266007,
+      "name": "腥红之月 亚托克斯",
+      "roitName": "Blood Moon Aatrox",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "腥红之月",
+      "universe": "艾欧尼亚诸月",
+      "pushDate": "2019年1月10日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin07/images/aatrox_splash_uncentered_7.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin07/images/aatrox_splash_tile_7.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin07/images/aatrox_splash_centered_7.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/266/266007.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin07/aatroxloadscreen_7.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "追踪着腥红之月的轨迹的诸多古代手稿都形容它不是一个天体现象，而是一个星界子宫。随着各个季节的变短和邪教活跃度不断提升，一些人担心它将孕育出一种新型恶魔——一种有助于引发腥红之月自身的黑暗降世的生物。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "3890",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2019年1月15日",
+        "priceEndDay": "长期销售",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 266040,
+          "name": "腥红之月 亚托克斯 至强",
+          "sortName": "至强",
+          "colorName": "圣堂炫彩",
+          "tencent": {
+            "price": 10,
+            "priceType": "圣堂抽奖",
+            "priceStartDay": "2026年1月22日版本更新后",
+            "priceEndDay": "随冥王 佛耶戈下架",
+            "description": " 冥王 佛耶戈 圣堂A阶奖池",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 10,
+            "priceType": "圣堂抽奖",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": " "
+          },
+          "riotName": "腥红之月 亚托克斯 至强",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/266/266040.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#B0B3EE",
+            "#6599EF"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "9.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.02"
+      }
+    }
+  ]
+}

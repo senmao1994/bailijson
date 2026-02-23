@@ -1,0 +1,139 @@
+{
+  "id": 10034,
+  "name": "萨勒芬妮",
+  "alias": "salefenni",
+  "key": "10034",
+  "title": "星籁歌姬",
+  "skins": [
+    {
+      "id": 1003415,
+      "name": "至臻 蕊雪盈春：韶朗 萨勒芬妮",
+      "roitName": "Prestige Petals of Spring Seraphine",
+      "sortName": "至臻 蕊雪盈春：韶朗",
+      "rarity": "神话",
+      "raritySubType": "至臻",
+      "price": "1000",
+      "priceUnit": "橙色原石",
+      "skinline": "蕊雪盈春",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "",
+      "splashHDPath": "",
+      "squarePath": "",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "",
+      "loadingSpecialEditionPath": "",
+      "backstory": "华服、瑞兽，没有谁比萨勒芬妮更受这艳霜花的宠爱···就让这闪耀的歌伶纵情歌唱吧，你听，春天的脚步已经近了。",
+      "accessories": [
+        "边框",
+        "姿态：迎风",
+        "姿态：春日欢歌"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月4日",
+        "endDate": "限时下架",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1003414,
+      "name": "蕊雪盈春：韶朗 萨勒芬妮",
+      "roitName": "Petals of Spring Seraphine",
+      "sortName": "蕊雪盈春：韶朗",
+      "rarity": "史诗",
+      "raritySubType": "马年限定",
+      "price": "1090",
+      "priceUnit": "点券",
+      "skinline": "蕊雪盈春",
+      "universe": "春节",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Seraphine_13.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_seraphine_skin13.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003414.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "旧日的忆梦迎来重生，而新的灵魂也伴随着节气流转于春晓间现身。萨勒芬妮的歌声洞穿了既存的冰雪，也连结起将至的希望。土地的化身与辛勤的生灵都聚集到她的歌声旁，毕竟，没有什么是比一场华丽的歌会更美好的迎新盛事了。",
+      "accessories": [
+        "边框",
+        "姿态：迎春",
+        "姿态：迎春序曲"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月4日",
+        "endDate": "下架时间暂未公布",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

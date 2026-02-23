@@ -1,0 +1,332 @@
+{
+  "id": 10057,
+  "name": "佛耶戈",
+  "alias": "foyege",
+  "key": "10057",
+  "title": "破败之王",
+  "skins": [
+    {
+      "id": 1005702,
+      "name": "电玩魔爵 佛耶戈",
+      "roitName": "Arcade Viego",
+      "sortName": "电玩魔爵",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "勇者",
+      "universe": "电玩",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_1.jpg",
+      "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_ArcadeSkin_WR_HD.jpg/2880px-Viego_ArcadeSkin_WR_HD.jpg?5f759",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin01.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Viego_ArcadeCircle_WR.png?44b79",
+      "chromaPath": null,
+      "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_ArcadeSquare_WR_Special_Edition.png/240px-Viego_ArcadeSquare_WR_Special_Edition.png?3159f",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005702.png",
+      "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Viego_ArcadeLoading_WR_Special_Edition.png?ce854",
+      "backstory": "在大热JRPG游戏《洛泽斗恶龙 I》中，佛耶戈是王国的救世主与大英雄。他从不后悔守卫子民的付出，但他也无法忍受失去伴侣的痛苦，所以他与独眼恶魔达成协议，只为复活心爱的妻子。 如今续作《洛泽斗恶龙 II》依旧表现不俗，佛耶戈却已成为了被独眼恶魔附身的暗夜骑士。但独眼恶魔不知道的是，佛耶戈也在不断汲取魔能，以增巨他自己的力量。他究竟在筹谋着什么呢？",
+      "accessories": [
+        "边框",
+        "姿态：拟态",
+        "姿态：光剑游戏"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "5.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2024年5月24日",
+        "endDate": "长期销售(伴生皮肤)",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1005703,
+      "name": "水晶玫瑰 佛耶戈",
+      "roitName": "Crystal Rose Viego",
+      "sortName": "水晶玫瑰",
+      "rarity": "史诗",
+      "raritySubType": "限定",
+      "price": "1800",
+      "priceUnit": "点券保底随机一款",
+      "skinline": "绽放",
+      "universe": "水晶玫瑰",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_2.jpg",
+      "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_CrystalRoseSkin_WR_HD.jpg/2880px-Viego_CrystalRoseSkin_WR_HD.jpg?96f58",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin02.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Viego_CrystalRoseCircle_WR.png?acdb3",
+      "chromaPath": null,
+      "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_CrystalRoseSquare_WR_Special_Edition.png/240px-Viego_CrystalRoseSquare_WR_Special_Edition.png?fcba5",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005703.png",
+      "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Viego_CrystalRoseLoading_WR_Special_Edition.png?3d347",
+      "backstory": "佛耶戈在上流圈子里素来声名不佳，只因他求爱时的张狂言语与夸张行径……虽然也不乏有人将其视作一种热诚与单纯的美好品质并加以爱慕。但总之，这位年轻王子现在带着特大号的玫瑰剑刃闯入了派对，希望在这浪漫夜晚寻到他长久以来求之不得的伊苏尔德。",
+      "accessories": [
+        "边框",
+        "姿态：情深"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "5.2",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2024年8月8日",
+        "endDate": "2024年8月21日",
+        "description": "水晶玫瑰2024",
+        "activityTitle": "水晶玫瑰2024",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1005704,
+      "name": "黎明使者 佛耶戈",
+      "roitName": "Dawnbringer Viego",
+      "sortName": "黎明使者",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "交锋",
+      "universe": "秩序对决混沌",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_3.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin03.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005704.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "佛耶戈对秩序的偏执追求使他发动了一场灾难性的战争，但随之而来的失败也让他的王后陨落于混沌之中。从深渊中回返的他誓要铲除一切混乱，不惜任何代价，为了他的信念，他的爱人，他失去过以及将被他夺回的一切。",
+      "accessories": [
+        "边框",
+        "姿态：审视"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1版本",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年5月30日",
+        "endDate": "长期销售",
+        "description": "2025年5月23日超前体验",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1005705,
+      "name": "黎明使者 破晓之殇 佛耶戈",
+      "roitName": "Dawnbringer Viego Mythic Chroma",
+      "sortName": "黎明使者 破晓之殇",
+      "rarity": "神话",
+      "raritySubType": "限定",
+      "price": "500",
+      "priceUnit": "橙色原石",
+      "skinline": "交锋",
+      "universe": "秩序对决混沌",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_4.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin04.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Viego_DawnbringerMythicChromaCircle_WR.png?c1d1f",
+      "chromaPath": null,
+      "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_DawnbringerMythicChromaSquare_WR_Special_Edition.png/240px-Viego_DawnbringerMythicChromaSquare_WR_Special_Edition.png?09710",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005705.png",
+      "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_DawnbringerMythicChromaLoading_WR_Special_Edition.png/140px-Viego_DawnbringerMythicChromaLoading_WR_Special_Edition.png?ee05e",
+      "backstory": "佛耶戈对秩序的偏执追求使他发动了一场灾难性的战争，但随之而来的失败也让他的王后陨落于混沌之中。从深渊中回返的他誓要铲除一切混乱，不惜任何代价，为了他的信念，他的爱人，他失去过以及将被他夺回的一切。",
+      "accessories": [
+        "边框",
+        "姿态：豪情",
+        "姿态：灼情"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年7月4日",
+        "endDate": "战利品商品轮换",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1005706,
+      "name": "纵横墨澜 佛耶戈",
+      "roitName": "Calligraphia Viego",
+      "sortName": "纵横墨澜",
+      "rarity": "传说",
+      "raritySubType": "兰亭序",
+      "price": "1800",
+      "priceUnit": "保底随机一款",
+      "skinline": "悬笔",
+      "universe": "兰亭墨韵",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_5.jpg",
+      "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_CalligraphiaSkin_WR_HD.jpg/2880px-Viego_CalligraphiaSkin_WR_HD.jpg?d8f76",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin05.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Viego_CalligraphiaCircle_WR.png?11631",
+      "chromaPath": null,
+      "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_CalligraphiaSquare_WR_Special_Edition.png/240px-Viego_CalligraphiaSquare_WR_Special_Edition.png?5acc5",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005706.png",
+      "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Viego_CalligraphiaLoading_WR_Special_Edition.png?5d7d4",
+      "backstory": "佛耶戈，一世贤王、一代狂主，功过是非本已长埋深潭渊底……但因人们临渊求索，愿念会聚，墨魂又起，墨仙重光。狂主视其为爱人再世，不惜掀起怒涛，只求那一缕芳魂……可谁言道，自是君王长恨，墨潭长东。",
+      "accessories": [
+        "边框",
+        "姿态：剑意",
+        "姿态：墨澜情心"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.2",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年9月29日",
+        "endDate": "2025年11月2日",
+        "description": "兰亭墨韵2025",
+        "activityTitle": "兰亭墨韵",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

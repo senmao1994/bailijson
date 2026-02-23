@@ -1,0 +1,1618 @@
+{
+  "id": "viego",
+  "name": "破败之王",
+  "alias": "Viego",
+  "key": 234,
+  "title": "佛耶戈",
+  "skins": [
+    {
+      "id": 234001,
+      "name": "福牛守护者 佛耶戈",
+      "roitName": "Lunar Beast Viego",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "福牛守护者",
+      "universe": "春节",
+      "pushDate": "2021年1月21日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin01/images/viego_splash_uncentered_1.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin01/images/viego_splash_tile_1.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin01/images/viego_splash_centered_1.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234001.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin01/viegoloadscreen_1.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin01/viegoloadscreen_1_le.jpg",
+      "backstory": "佛耶戈曾是以前的一支福牛守护者小队的队长。他做出决定，他们要与年兽作战并最终击败它。他的计划以悲剧收场：他眼睁睁地看着他的队友们被吞噬——包括他的妻子。多年来，佛耶戈一直对这些损失耿耿于怀，怪罪着除他自己之外的所有人——包括今年的福牛守护者小队。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "4886",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "伴生皮肤",
+        "priceStartDay": "2021年1月22日10:00",
+        "priceEndDay": "长期销售",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 234002,
+          "name": "福牛守护者 佛耶戈 贺喜",
+          "sortName": "贺喜",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2021年1月22日",
+            "priceEndDay": "长期销售",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 佛耶戈 贺喜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234002.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 234003,
+          "name": "福牛守护者 佛耶戈 桃灯",
+          "sortName": "桃灯",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2021年1月22日",
+            "priceEndDay": "2021年2月5日9:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 佛耶戈 桃灯",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234003.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 234004,
+          "name": "福牛守护者 佛耶戈 进宝",
+          "sortName": "进宝",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 佛耶戈 进宝",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234004.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 234005,
+          "name": "福牛守护者 佛耶戈 元灯",
+          "sortName": "元灯",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 佛耶戈 元灯",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234005.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 234006,
+          "name": "福牛守护者 佛耶戈 祈福",
+          "sortName": "祈福",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 佛耶戈 祈福",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234006.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 234007,
+          "name": "福牛守护者 佛耶戈 除岁",
+          "sortName": "除岁",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "福牛守护者 佛耶戈 除岁",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234007.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 234008,
+          "name": "福牛守护者 佛耶戈 如意",
+          "sortName": "如意",
+          "colorName": "福牛守护者(2021)",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2021年2月5日12:00",
+            "priceEndDay": "2021年3月9日23:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2021年2月5日12:00",
+            "priceEndDay": "2021年3月9日23:59",
+            "description": ""
+          },
+          "riotName": "福牛守护者 佛耶戈 如意",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234008.png",
+          "mythicIcon": "4885",
+          "wildRiftSell": null,
+          "colors": [
+            "#88FF00",
+            "#9B1520"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "11.2",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 234010,
+      "name": "五杀摇滚之噪音 佛耶戈",
+      "roitName": "Dissonance of Pentakill Viego",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "五杀摇滚 III：遗失的章节",
+      "universe": "拳头唱片",
+      "pushDate": " 2021年9月9日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/images/viego_splash_uncentered_10.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/images/viego_splash_tile_10.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/images/viego_splash_centered_10.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234010.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/viegoloadscreen_10.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "只有心碎之人才知道悲痛的真谛，那就是其他人闻所未闻的对完美的向往。 佛耶戈生活在一个充满了灰烬和阴影的世界里，而它本该充满光明，而现在，他的目光穿越了这些灰色的天际线，想要寻找新的声音和影像来实现它……",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 79,
+      "icon": "",
+      "tencent": {
+        "price": 79,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2021年9月10日10:00",
+        "priceEndDay": "长期销售",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 234011,
+          "name": "五杀摇滚之噪音 佛耶戈 热血",
+          "sortName": "热血",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": " 2021年9月9日",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "五杀摇滚之噪音 佛耶戈 热血",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234011.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 234012,
+          "name": "五杀摇滚之噪音 佛耶戈 叛逆",
+          "sortName": "叛逆",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": " 2021年9月9日",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "五杀摇滚之噪音 佛耶戈 叛逆",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234012.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 234013,
+          "name": "五杀摇滚之噪音 佛耶戈 自在",
+          "sortName": "自在",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": " 2021年9月9日",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "五杀摇滚之噪音 佛耶戈 自在",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234013.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 234014,
+          "name": "五杀摇滚之噪音 佛耶戈 迷幻",
+          "sortName": "迷幻",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": " 2021年9月9日",
+            "priceEndDay": "9月24日9:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "五杀摇滚之噪音 佛耶戈 迷幻",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234014.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 234015,
+          "name": "五杀摇滚之噪音 佛耶戈 前卫",
+          "sortName": "前卫",
+          "colorName": "棕褐色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": " 2021年9月9日",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "五杀摇滚之噪音 佛耶戈 前卫",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234015.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DED6B0",
+            "#DED6B0"
+          ]
+        },
+        {
+          "id": 234016,
+          "name": "五杀摇滚之噪音 佛耶戈 澎湃",
+          "sortName": "澎湃",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": " 2021年9月9日",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "五杀摇滚之噪音 佛耶戈 澎湃",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234016.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 234017,
+          "name": "五杀摇滚之噪音 佛耶戈 硬核",
+          "sortName": "硬核",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": " 2021年9月9日",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "五杀摇滚之噪音 佛耶戈 硬核",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234017.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 234018,
+          "name": "五杀摇滚之噪音 佛耶戈 黑暗",
+          "sortName": "黑暗",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": " 2021年9月9日",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "五杀摇滚之噪音 佛耶戈 黑暗",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234018.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "11.18",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.02"
+      }
+    },
+    {
+      "id": 234019,
+      "name": "EDG 佛耶戈",
+      "roitName": "EDG Viego",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "全球总冠军：2021",
+      "universe": "电竞",
+      "pushDate": "2022年5月12日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_uncentered_19.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_tile_19.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_centered_19.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234019.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/viegoloadscreen_19.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/viegoloadscreen_19_le.jpg",
+      "backstory": "以此致敬Jiejie在2021全球总决赛中使用佛耶戈的夺胜表现。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 79,
+      "icon": "5312",
+      "tencent": {
+        "price": 79,
+        "priceType": "限时直售",
+        "priceTypeChinese": "冠军限定",
+        "priceStartDay": "2022年5月13日4:00",
+        "priceEndDay": "2022年6月14日23:59",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 234020,
+          "name": "EDG 佛耶戈 破军",
+          "sortName": "破军",
+          "colorName": "冠军炫彩",
+          "tencent": {
+            "price": 45870,
+            "priceType": "臻彩",
+            "priceStartDay": "2022年5月13日4:00",
+            "priceEndDay": "2022年6月14日23:59",
+            "description": "这个炫彩曾在季中冠军赛(2022)期间作为礼包专属发布。",
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a43f6rq1cefn99om0yhng1igr8hil25e.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "这个炫彩曾在季中冠军赛(2022)期间作为礼包专属发布。"
+          },
+          "riotName": "EDG 佛耶戈 破军",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234020.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#131521",
+            "#9E1517"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.9",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.02"
+      }
+    },
+    {
+      "id": 234021,
+      "name": "国王 佛耶戈",
+      "roitName": "King Viego",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "破败之咒",
+      "universe": "符文之地时代",
+      "pushDate": "2022年9月9日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/images/viego_splash_uncentered_21.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/images/viego_splash_tile_21.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/images/viego_splash_centered_21.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234021.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/viegoloadscreen_21.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "作为卡玛维亚的继承人，王者之刃的持有者，佛耶戈渴望追随他父亲的脚步。当裁决圣所中回荡起剑刃的低语，他的参谋卡莉丝塔在他加冕之前就已经看穿了他心中的犹疑。然而，佛耶戈还是戴上了烁银王冠，握住了王者之刃“穆清”。他将让卡玛维亚的一切敌人畏惧臣服。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2022年9月9日",
+        "priceEndDay": "长期销售",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 234022,
+          "name": "国王 佛耶戈 红鸾",
+          "sortName": "红鸾",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2022年9月9日10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "国王 佛耶戈 红鸾",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234022.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 234023,
+          "name": "国王 佛耶戈 金风",
+          "sortName": "金风",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年9月9日10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "国王 佛耶戈 金风",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234023.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 234024,
+          "name": "国王 佛耶戈 玉露",
+          "sortName": "玉露",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年9月9日10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "国王 佛耶戈 玉露",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234024.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 234025,
+          "name": "国王 佛耶戈 碧海",
+          "sortName": "碧海",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年9月9日10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "国王 佛耶戈 碧海",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234025.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 234026,
+          "name": "国王 佛耶戈 同心",
+          "sortName": "同心",
+          "colorName": "棕色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年9月9日10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "国王 佛耶戈 同心",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234026.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#5F432B",
+            "#5F432B"
+          ]
+        },
+        {
+          "id": 234027,
+          "name": "国王 佛耶戈 月下",
+          "sortName": "月下",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年9月9日10:00",
+            "priceEndDay": "2022年9月23日9:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "国王 佛耶戈 月下",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234027.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 234028,
+          "name": "国王 佛耶戈 白露",
+          "sortName": "白露",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年9月9日10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "国王 佛耶戈 白露",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 234029,
+          "name": "国王 佛耶戈 锦瑟",
+          "sortName": "锦瑟",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年9月9日10:00",
+            "priceEndDay": "14.5版本",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "国王 佛耶戈 锦瑟",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234029.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.17",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.02"
+      }
+    },
+    {
+      "id": 234037,
+      "name": "2024 全球总决赛 佛耶戈",
+      "roitName": "Worlds 2024 Viego",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "全球总决赛冠军",
+      "universe": "电竞",
+      "pushDate": " 2024年9月25日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_uncentered_37.skins_viego_skin37.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_tile_37.skins_viego_skin37.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_centered_37.skins_viego_skin37.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234037.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/viegoloadscreen_37.skins_viego_skin37.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/viegoloadscreen_37_le.skins_viego_skin37.jpg",
+      "backstory": "以此庆祝2024年在伦敦举办的全球总决赛。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "6729",
+      "tencent": {
+        "price": 8900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "全球总决赛",
+        "priceStartDay": "2024年9月26日",
+        "priceEndDay": "2024年11月19日09:59",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 234038,
+          "name": "2024 全球总决赛 佛耶戈 一骑绝尘",
+          "sortName": "一骑绝尘",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2024年9月26日",
+            "priceEndDay": "2024年11月19日09:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "2024 全球总决赛 佛耶戈 一骑绝尘",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234038.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 234039,
+          "name": "2024 全球总决赛 佛耶戈 眼见为实",
+          "sortName": "眼见为实",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 790,
+            "priceType": "典藏礼盒",
+            "priceStartDay": "2024年9月26日",
+            "priceEndDay": "2024年11月19日09:59",
+            "description": "2024全球总决赛典藏礼盒购买获得",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/agr9wfvnffjlssp30278rpdpc37l7lv7.jpg"
+          },
+          "roit": {
+            "price": 790,
+            "priceType": "典藏礼盒",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2024全球总决赛典藏礼盒购买获得"
+          },
+          "riotName": "2024 全球总决赛 佛耶戈 眼见为实",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234039.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 234040,
+          "name": "2024 全球总决赛 佛耶戈 顶峰相见",
+          "sortName": "顶峰相见",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年9月26日",
+            "priceEndDay": "2024年11月19日09:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "2024 全球总决赛 佛耶戈 顶峰相见",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234040.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 234041,
+          "name": "2024 全球总决赛 佛耶戈 铁血丹心",
+          "sortName": "铁血丹心",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年9月26日",
+            "priceEndDay": "2024年11月19日09:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "2024 全球总决赛 佛耶戈 铁血丹心",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234041.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 234042,
+          "name": "2024 全球总决赛 佛耶戈 英勇决胜",
+          "sortName": "英勇决胜",
+          "colorName": "全球总决赛(2024)",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2024年9月26日",
+            "priceEndDay": "2024年11月19日09:59",
+            "description": "",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "2024 全球总决赛 佛耶戈 英勇决胜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234042.png",
+          "mythicIcon": "6728",
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#B2C6D7",
+            "#B9916B"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.19",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    },
+    {
+      "id": 234030,
+      "name": "斗魂觉醒 佛耶戈",
+      "roitName": "Soul Fighter Viego",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "斗魂觉醒",
+      "universe": "斗魂觉醒",
+      "pushDate": "2023年8月3日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/images/viego_splash_uncentered_30.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/images/viego_splash_tile_30.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/images/viego_splash_centered_30.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234030.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/viegoloadscreen_30.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/viegoloadscreen_30_le.jpg",
+      "backstory": "彬彬有礼——但过分深居简出——的斗魂武道大会举办人欢迎所有人来到他的竞技场！看呀，他现在就在擂台上方，在他的王座之室里注视着比赛！他的孤寂有没有让你们生起一丝悲伤呢，伙计们？真希望他从那座塔上跳下来，然后把这种伤感变成无拘无束的怒火！佛——耶——戈——！",
+      "accessories": [],
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "5938",
+      "tencent": {
+        "price": 10900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "拯救者限定",
+        "priceStartDay": "2023年8月4日10:00",
+        "priceEndDay": "8月31日10:00",
+        "description": ""
+      },
+      "chromas": [
+        {
+          "id": 234031,
+          "name": "斗魂觉醒 佛耶戈 烈之魂焰",
+          "sortName": "烈之魂焰",
+          "colorName": "红色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 佛耶戈 烈之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234031.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 234032,
+          "name": "斗魂觉醒 佛耶戈 韧之魂焰",
+          "sortName": "韧之魂焰",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 7800,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月4日10:00",
+            "priceEndDay": "2023年8月31日10:00",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 佛耶戈 韧之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234032.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 234033,
+          "name": "斗魂觉醒 佛耶戈 毅之魂焰",
+          "sortName": "毅之魂焰",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 7800,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月4日10:00",
+            "priceEndDay": "2023年8月31日10:00",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 佛耶戈 毅之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234033.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 234034,
+          "name": "斗魂觉醒 佛耶戈 狡之魂焰",
+          "sortName": "狡之魂焰",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 7800,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月4日10:00",
+            "priceEndDay": "2023年8月31日10:00",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 佛耶戈 狡之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234034.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 234035,
+          "name": "斗魂觉醒 佛耶戈 燃之魂焰",
+          "sortName": "燃之魂焰",
+          "colorName": "棕色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 佛耶戈 燃之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234035.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#5F432B",
+            "#5F432B"
+          ]
+        },
+        {
+          "id": 234036,
+          "name": "斗魂觉醒 佛耶戈 无限斗志",
+          "sortName": "无限斗志",
+          "colorName": "斗魂觉醒(2023)",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2023年8月4日10:00",
+            "priceEndDay": "2023年9月5日9:59",
+            "description": "",
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 佛耶戈 无限斗志",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234036.png",
+          "mythicIcon": "5933",
+          "wildRiftSell": null,
+          "colors": [
+            "#C8D0CE",
+            "#AF65D1"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "13.15",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.02"
+      }
+    },
+    {
+      "id": 234000,
+      "name": "破败之王",
+      "roitName": "The Ruined King Viego",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "暗影岛",
+      "universe": null,
+      "pushDate": "2021年1月21日\r",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/images/viego_splash_uncentered_0.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/images/viego_splash_tile_0.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/images/viego_splash_centered_0.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/viegoloadscreen.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "失落千年的王国之主——佛耶戈，为了让亡妻死而复生，引发了一场被后世称为“破败之咒”的魔灾，自己也不幸因此殒命。如今的佛耶戈已经变成了一个强大的幽魂，依然执着地迷恋着几百年前便已死去的王后。他号称破败之王，操纵着夺命的蚀魂夜，在符文之地上不懈地搜寻着，希望有朝一日能将她追回。无穷无尽的黑雾从他早已支离的心中涌出，扫除他面前的一切阻碍。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "6226",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2023年9月1日10:00",
+        "priceEndDay": "2023年10月7日9:59",
+        "description": "佛耶戈 肖像图标"
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "11.2",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.01"
+      }
+    },
+    {
+      "id": 234043,
+      "name": "冥王 佛耶戈",
+      "roitName": "Revenant Reign Viego",
+      "sortName": null,
+      "rarity": "圣堂",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "影之王冕",
+      "universe": null,
+      "pushDate": "2026年1月22日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/images/viego_splash_uncentered_43.skins_viego_skin43.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/images/viego_splash_tile_43.skins_viego_skin43.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/images/viego_splash_centered_43.skins_viego_skin43.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/viegoloadscreen_43.skins_viego_skin43.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "“我以你破碎的灵魂起誓，我的爱人，<br><br>我要猎杀那六个将你从我身边夺走的人。<br><br>我要杀死那些叛誓骑士，夺回他们的剑，<br><br>他们夺走了一位正直国王的美丽妻子。<br><br>复仇甚至能让死亡本身躁动起来。<br><br>我不在乎是否会看到我的王国被夷为平地。<br><br>一千名亡灵将在我的指挥下行军，<br><br>我的血肉将化为你的陵墓，我的灵魂将化为你的坟冢。”",
+      "accessories": [],
+      "roit": {
+        "price": 80,
+        "priceType": "圣堂抽奖",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 80,
+      "icon": "7070",
+      "tencent": {
+        "price": 80,
+        "priceType": "圣堂抽奖",
+        "priceTypeChinese": "",
+        "priceStartDay": "2026年1月22日版本更新后",
+        "priceEndDay": "2026年3月18日",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": 7,
+      "forms": [
+        {
+          "name": "冥刃",
+          "type": "默认",
+          "icon": "",
+          "image": "",
+          "trigger": "初始武器-完成15次占据以解锁所有背叛者之剑",
+          "description": "六柄剑封印了他的女神新娘。",
+          "note": "",
+          "colors": [
+            "#7A132F",
+            "#FF0000"
+          ]
+        },
+        {
+          "name": "铁心剑",
+          "type": "坦克",
+          "icon": "",
+          "image": "",
+          "trigger": "参与击杀坦克英雄并占据他的灵魂",
+          "description": "六名骑士背叛了佛耶戈的王座。",
+          "note": "",
+          "colors": [
+            "#985431",
+            "#FF6347"
+          ]
+        },
+        {
+          "name": "赫炎剑",
+          "type": "战士",
+          "icon": "",
+          "image": "",
+          "trigger": "参与击杀战士英雄并占据他的灵魂",
+          "description": "去夺取你的王国，成为冥王吧。",
+          "note": "",
+          "colors": [
+            "#FFD700",
+            "#FFFF00"
+          ]
+        },
+        {
+          "name": "夜影剑",
+          "type": "刺客",
+          "icon": "",
+          "image": "",
+          "trigger": "参与击杀刺客英雄并占据他的灵魂",
+          "description": "死神的王后虽已被杀害，但他仍听得到她的哭喊——",
+          "note": "",
+          "colors": [
+            "#352655",
+            "#800080"
+          ]
+        },
+        {
+          "name": "霹雳剑",
+          "type": "法师",
+          "icon": "",
+          "image": "",
+          "trigger": "参与击杀法师英雄并占据他的灵魂",
+          "description": "起来吧，我的爱人，让我的灵魂有埋葬之所！",
+          "note": "",
+          "colors": [
+            "#071E66",
+            "#0000FF"
+          ]
+        },
+        {
+          "name": "摧镝剑",
+          "type": "射手",
+          "icon": "",
+          "image": "",
+          "trigger": "参与击杀射手英雄并占据他的灵魂",
+          "description": "六柄剑，六名骑士，一次你理应索取的复仇。",
+          "note": "",
+          "colors": [
+            "#0C2121",
+            "#32CD32"
+          ]
+        },
+        {
+          "name": "绝美剑",
+          "type": "辅助",
+          "icon": "",
+          "image": "",
+          "trigger": "参与击杀辅助英雄并占据他的灵魂",
+          "description": "让他们想起他们曾经立下的神圣誓言。",
+          "note": "",
+          "colors": [
+            "#884E7D",
+            "#FF1493"
+          ]
+        }
+      ],
+      "version": {
+        "push": "26.02",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}

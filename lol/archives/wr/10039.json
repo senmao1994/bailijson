@@ -1,0 +1,129 @@
+{
+  "id": 10039,
+  "name": "劫",
+  "alias": "jie",
+  "key": "10039",
+  "title": "影流之主",
+  "skins": [
+    {
+      "id": 1003911,
+      "name": "魔王圣铠 劫",
+      "roitName": "Galaxy Slayer Zed Exquisite Edition",
+      "sortName": "魔王圣铠",
+      "rarity": "神话",
+      "raritySubType": "魔王圣铠",
+      "price": "388",
+      "priceUnit": "魔王之印兑换",
+      "skinline": "Faker",
+      "universe": "",
+      "pushDate": "",
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zed_10.jpg",
+      "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zed_GalaxySlayerExquisiteEditionSkin_WR_HD.jpg/2880px-Zed_GalaxySlayerExquisiteEditionSkin_WR_HD.jpg?38ad9",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_zed_skin10.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Zed_GalaxySlayerExquisiteEditionCircle_WR.png?999c4",
+      "chromaPath": null,
+      "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Zed_GalaxySlayerExquisiteEditionSquare_WR_Special_Edition.png?8dc9c",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003911.png",
+      "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Zed_GalaxySlayerExquisiteEditionLoading_WR_Special_Edition.png?5ec46",
+      "backstory": "魔王所行之处，人皆望而却步……现在，历经银河系中无数的争斗，双刃久经磨砺，心智超凡入圣。我们就是他们年少幻想的完美映照……也是观众对未来的全部定义。我们是……不死魔王。",
+      "accessories": [
+        "图标",
+        "边框",
+        "队旗",
+        "头像框",
+        "姿态：逢魔",
+        "姿态：王座誓言"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "version": {
+        "push": "6.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年12月15日",
+        "endDate": "2026年1月14日",
+        "description": "致敬传奇 魔王圣铠 Faker纪念皮肤",
+        "activityTitle": "致敬传奇 魔王圣铠",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1003907,
+      "name": "超武乾坤：虹影 劫",
+      "roitName": "Supreme Cells Zed",
+      "sortName": "超武乾坤：虹影",
+      "rarity": "典藏",
+      "raritySubType": "",
+      "price": "2000",
+      "priceUnit": "橙色原石",
+      "skinline": "武道",
+      "universe": "超武乾坤",
+      "pushDate": "",
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zed_6.jpg",
+      "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zed_SupremeCellsSkin_WR_HD.jpg/2880px-Zed_SupremeCellsSkin_WR_HD.jpg?34883",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_zed_skin06.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Zed_SupremeCellsCircle_WR.png?b6188",
+      "chromaPath": null,
+      "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Zed_SupremeCellsSquare_WR_Special_Edition.png?30e17",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003907.png",
+      "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Zed_SupremeCellsLoading_WR_Special_Edition.png?24a91",
+      "backstory": "劫关于元气收集禁术的试验终于取得了成果。他从一个废弃的动源气场吸收元气，获得了强大的力量。尽管他的身体已经难以承受这股力量，但他还是不满足。劫现在正鼓动汲流教团向动源派发起挑战，举办雷子超武会，以此决定哪一方可以完全控制动源。",
+      "accessories": [
+        "边框",
+        "姿态：提防",
+        "姿态：魔膀"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "sell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "战利品商店轮换上架兑换",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

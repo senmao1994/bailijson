@@ -1,0 +1,125 @@
+{
+  "id": 10135,
+  "name": "莉莉娅",
+  "alias": "liliya",
+  "key": "10135",
+  "title": "含羞蓓蕾",
+  "skins": [
+    {
+      "id": 1013504,
+      "name": "兔宝宝 莉莉娅",
+      "roitName": "Cottontail Lillia",
+      "sortName": "兔宝宝",
+      "rarity": "普通",
+      "raritySubType": "",
+      "price": "120",
+      "priceUnit": "点券(保底兑换)",
+      "skinline": "兔宝宝",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lillia_3.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_lillia_skin03.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013504.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "托起柔软的长耳，背上新鲜的胡萝卜，莉莉娅的惊喜变装即将亮相：她可以四肢着地、像真正的兔宝宝一样蹦跳（要知道很多人都忽略了这点！），也能同时腾出双手来寻找藏在毛茸茸森林中的彩蛋（裁判方认为这一切公平公正），还有什么能阻挡莉莉娅成为一只优秀的彩蛋猎兔呢？",
+      "accessories": [
+        "边框",
+        "姿态：彩蛋"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "sell": {
+        "startDate": "2024年12月20日 10:00:00",
+        "endDate": "2024年12月26日 23:59:59",
+        "description": "徽记集-兔宝宝莉莉娅活动",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    },
+    {
+      "id": 1013508,
+      "name": "蕊雪盈春：福乐 莉莉娅",
+      "roitName": "Petals of Spring Lillia",
+      "sortName": "蕊雪盈春：福乐",
+      "rarity": "传说",
+      "raritySubType": "马年限定",
+      "price": "1290",
+      "priceUnit": "点券",
+      "skinline": "蕊雪盈春",
+      "universe": "春节",
+      "pushDate": "7.0",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lillia_7.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_lillia_skin07.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013508.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "莉莉娅在春晓的梦中醒来，见到枝头星星点点的红色，恍惚间以为自己尚在梦中，但气流中的暖意和他人脸上的笑容都在诉说着——这并非幻梦，而是土地与心灵即将复苏的现实。现在，就算是像莉莉娅一样羞怯的人也耐不住心中欣喜，撒欢的时候到了！在这寒冬的末尾，在新一个春天的黎明！",
+      "accessories": [
+        "边框",
+        "姿态：迎春",
+        "姿态：踏雪寻梅"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "sell": {
+        "startDate": "2026年2月4日",
+        "endDate": "下架时间暂未公布",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

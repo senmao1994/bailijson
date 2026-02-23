@@ -1,0 +1,74 @@
+{
+  "id": 10094,
+  "name": "艾瑞莉娅",
+  "alias": "airuiliya",
+  "key": "10094",
+  "title": "刀锋舞者",
+  "skins": [
+    {
+      "id": 1009411,
+      "name": "金玉贺吉 艾瑞莉娅",
+      "roitName": "Celestial Embroidery Irelia",
+      "sortName": "金玉贺吉",
+      "rarity": "史诗",
+      "raritySubType": "蛇年限定",
+      "price": "1090",
+      "priceUnit": "点券",
+      "skinline": "春辰锦程",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Irelia_10.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_irelia_skin10.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009411.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "绣神制绣，非止针线之舞，更为寓吉于人。有无德之辈窥伺其技，夺绣品而行恶谋。此辈行径，艾瑞莉娅深恶痛绝，誓以针芒护绣道清明。凡心怀赤诚者，持其绣品，可得吉运绵延；而心术不正者，则见锋即惧，退避三舍。",
+      "accessories": [
+        "边框",
+        "姿态：凌刃"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年1月27日0点",
+        "endDate": "2025年2月16日 23:59:59",
+        "description": "返场一般为 祈愿抽奖获取",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

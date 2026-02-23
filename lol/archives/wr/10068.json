@@ -1,0 +1,73 @@
+{
+  "id": 10068,
+  "name": "瑟提",
+  "alias": "seti",
+  "key": "10068",
+  "title": "腕豪",
+  "skins": [
+    {
+      "id": 1006812,
+      "name": "中霆之擎 瑟提",
+      "roitName": "Lunar Guardian Sett",
+      "sortName": "中霆之擎",
+      "rarity": "史诗",
+      "raritySubType": "限定",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "新序",
+      "universe": "春晖众神",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sett_11.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_sett_skin11.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006812.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "瑟提是由凡间愿力凝聚的守护之神，作为天界守将，他理解辛德拉的初衷，却无法坐视她带来的险恶后果。于是，拳随心动，碎岳崩山，域外爪牙弹指湮灭，凡间太平百年得享。而如今旧日神裔破封归来，与现任神女莫甘娜对峙……瑟提暗中蓄势，只为两界的安宁局面不被动摇。",
+      "accessories": [
+        "边框",
+        "姿态：擎天"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年1月22日",
+        "endDate": "2026年3月3日 23:59",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

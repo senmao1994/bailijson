@@ -1,0 +1,63 @@
+{
+  "id": 10086,
+  "name": "菲兹",
+  "alias": "feizi",
+  "key": "10086",
+  "title": "潮汐海灵",
+  "skins": [
+    {
+      "id": 1008609,
+      "name": "山海绘卷 菲兹",
+      "roitName": "Shan Hai Scrolls Fizz",
+      "sortName": "山海绘卷",
+      "rarity": "超级联赛",
+      "raritySubType": "史诗",
+      "price": "20",
+      "priceUnit": "山海币保底",
+      "skinline": "漩流",
+      "universe": "山海绘卷",
+      "pushDate": "",
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Fizz_8.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_fizz_skin08.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008609.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "因恶作剧而被封入绘卷的浪迹之灵菲兹，与异兽伙伴悠游于山水之间，于无意间撞见龙神与灾兽之争。趁乱流涌动，他将争斗焦点：那枚法宝珍珠信手窃取，只为增添一件新奇玩物。但这绘卷世界脆弱的平衡却因一次无意的嬉闹而彻底打破。",
+      "accessories": [
+        "边框",
+        "姿态：侠客"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "sell": {
+        "startDate": "2025年12月05日",
+        "endDate": "2025年12月28日",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}

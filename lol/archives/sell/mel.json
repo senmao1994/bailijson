@@ -1,0 +1,103 @@
+{
+  "id": "mel",
+  "name": "流光镜影",
+  "alias": "Mel",
+  "key": 800,
+  "title": "梅尔",
+  "skins": [
+    {
+      "id": 800010,
+      "name": "至臻 北极星神 梅尔",
+      "roitName": "Prestige Winterblessed Mel",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "北极星",
+      "universe": "北极光的传说",
+      "pushDate": "2025年12月3日",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/images/mel_splash_uncentered_10.skins_mel_skin10.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/images/mel_splash_tile_10.skins_mel_skin10.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/images/mel_splash_centered_10.skins_mel_skin10.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800010.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/melloadscreen_10.skins_mel_skin10.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/melloadscreen_10_le.skins_mel_skin10.jpg",
+      "backstory": "梅尔是一位严厉的北极星神的女儿，天生具有驾驭极光魔法的能力。但这份赐福是有代价的：她母亲的生命。如今，梅尔以自己的方式承载着家族的传承，以同情心为领导风格，并奖励那些证明自己忠诚的人。",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "7040",
+      "tencent": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2025年12月4日版本更新后",
+        "priceEndDay": "2026年1月21日版本更新前",
+        "description": "首发神话商店精选栏兑换"
+      },
+      "chromas": [
+        {
+          "id": 800011,
+          "name": "至臻 北极星神 梅尔 全开",
+          "sortName": "全开",
+          "colorName": "至臻皮肤",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2025年12月4日版本更新后",
+            "priceEndDay": "2026年1月21日版本更新前",
+            "description": "神话商店精选栏兑换 无图标",
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "至臻 北极星神 梅尔 全开",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800011.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#F44EDB",
+            "#F3AE71"
+          ]
+        }
+      ],
+      "version": {
+        "push": "25.24",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}

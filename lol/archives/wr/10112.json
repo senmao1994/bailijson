@@ -1,0 +1,74 @@
+{
+  "id": 10112,
+  "name": "凯特琳",
+  "alias": "kaitelin",
+  "key": "10112",
+  "title": "皮城女警",
+  "skins": [
+    {
+      "id": 1011217,
+      "name": "告白气球 凯特琳",
+      "roitName": "Love Confession Caitlyn",
+      "sortName": "告白气球",
+      "rarity": "史诗",
+      "raritySubType": "告白气球",
+      "price": "",
+      "priceUnit": "",
+      "skinline": "告白气球",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "",
+      "splashHDPath": "",
+      "squarePath": "",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "",
+      "loadingSpecialEditionPath": "",
+      "backstory": "凯特琳自小便在庄园中接受最严苛的古典乐训练，是典型的学院派长笛演奏者。她的加入为这支年轻乐团的恣意风格注入了沉稳厚重的秩序感，只是与伊泽瑞尔的管弦磨合之路坎坷重重……",
+      "accessories": [
+        "边框",
+        "姿态：驻足",
+        "姿态：心动彩排"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年2月13日",
+        "endDate": "下架日期暂未公布",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
