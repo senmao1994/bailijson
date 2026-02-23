@@ -1572,8 +1572,8 @@
           "tencent": {
             "price": 400,
             "priceType": "通行证",
-            "priceStartDay": "2016年10月1日",
-            "priceEndDay": "限时销售(已下架)",
+            "priceStartDay": "2019年1月29日",
+            "priceEndDay": "3月6日5:59",
             "description": "首次通行证兑换 | 腾讯服臻彩",
             "hasFullGiftPack": false,
             "wildRiftSell": null,
