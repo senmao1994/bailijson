@@ -1339,6 +1339,265 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 5005,
+      "name": "赵云 子龙",
+      "roitName": "Warring Kingdoms Xin Zhao",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "春节庆典：纷争国度",
+      "universe": "纷争国度",
+      "pushDate": null,
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin05/images/xinzhaorework_splash_uncentered_5.xinzhaorework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin05/images/xinzhaorework_splash_tile_5.xinzhaorework.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin05/images/xinzhaorework_splash_centered_5.xinzhaorework.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5005.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin05/xinzhaoreworkloadscreen_5.xinzhaorework.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "身为传说般的勇士与受人敬仰的将军，赵云横行三国，拯救万民于水火他责无旁贷。长枪一冲其势破天，枪锋一扫万雷奔腾。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 19900,
+      "icon": "",
+      "tencent": {
+        "price": 19900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 5007,
+          "name": "不败战神 赵云",
+          "sortName": "不败战神 赵云",
+          "colorName": "红色",
+          "tencent": {
+            "price": 1500,
+            "priceType": "限时直售",
+            "priceStartDay": "2016年10月1日",
+            "priceEndDay": "限时销售(已下架)",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "不败战神 赵云",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5007.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 5008,
+          "name": "征南将军 赵云",
+          "sortName": "征南将军 赵云",
+          "colorName": "浅绿色",
+          "tencent": {
+            "price": 1500,
+            "priceType": "限时直售",
+            "priceStartDay": "2016年10月1日",
+            "priceEndDay": "限时销售(已下架)",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "征南将军 赵云",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5008.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#B6E084",
+            "#B6E084"
+          ]
+        },
+        {
+          "id": 5009,
+          "name": "镇东将军 赵云",
+          "sortName": "镇东将军 赵云",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 1500,
+            "priceType": "限时直售",
+            "priceStartDay": "2016年10月1日",
+            "priceEndDay": "限时销售(已下架)",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "镇东将军 赵云",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5009.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 5010,
+          "name": "虎威将军 赵云",
+          "sortName": "虎威将军 赵云",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "虎威将军 赵云",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5010.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 5011,
+          "name": "禁军统帅 赵云",
+          "sortName": "禁军统帅 赵云",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "禁军统帅 赵云",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5011.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 5012,
+          "name": "常胜将军 赵云",
+          "sortName": "常胜将军 赵云",
+          "colorName": "白色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "常胜将军 赵云",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5012.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 5026,
+          "name": "赵云 子龙 炫金将军",
+          "sortName": "炫金将军",
+          "colorName": "金色",
+          "tencent": {
+            "price": 400,
+            "priceType": "通行证",
+            "priceStartDay": "2016年10月1日",
+            "priceEndDay": "限时销售(已下架)",
+            "description": "首次通行证兑换 | 腾讯服臻彩",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/af2airhrzr9yklc57jc565d7426zpc4z.jpg"
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": " "
+          },
+          "riotName": "赵云 子龙 炫金将军",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5026.png",
+          "mythicIcon": "3881",
+          "wildRiftSell": null,
+          "colors": [
+            "#FFC948",
+            "#FFC948"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": []
     }
   ]
 }
