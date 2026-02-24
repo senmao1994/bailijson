@@ -1760,6 +1760,60 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 5002,
+      "name": "皇家守卫 赵信",
+      "roitName": "Imperial Xin Zhao",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "珍宝",
+      "universe": "珍宝",
+      "pushDate": "2010年7月13日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin02/images/xinzhao_splash_uncentered_2.xinzhaorework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin02/images/xinzhao_splash_tile_2.xinzhaorework.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin02/images/xinzhao_splash_centered_2.xinzhaorework.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin02/xinzhaoloadscreen_2.xinzhaorework.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "",
+      "accessories": [],
+      "roit": {
+        "price": 750,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 1000,
+      "icon": "",
+      "tencent": {
+        "price": 1000,
+        "priceType": "直售",
+        "priceTypeChinese": "伴生皮肤",
+        "priceStartDay": "2010年7月13日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.96 ",
+        "update": "25.17",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
