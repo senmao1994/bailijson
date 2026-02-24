@@ -1652,6 +1652,60 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 5004,
+      "name": "翼骑统领 赵信",
+      "roitName": "Winged Hussar Xin Zhao",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "世界奇观",
+      "universe": "世界奇观",
+      "pushDate": "2011年9月26日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin04/images/xinzhao_splash_uncentered_4.xinzhaorework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin04/images/xinzhao_splash_tile_4.xinzhaorework.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin04/images/xinzhao_splash_centered_4.xinzhaorework.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin04/xinzhaoloadscreen_4.xinzhaorework.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "赵信是骄矜翼骑兵的一名成员，也是一个军事组织的最后一批旗手之一，这个组织可追溯到17世纪晚期。当然，他的先辈们并没有骑着黑色具装飞马加入战斗，但你知道这是怎样的场面。",
+      "accessories": [],
+      "roit": {
+        "price": 750,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "",
+      "tencent": {
+        "price": 6900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年9月26日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.125",
+        "update": "25.17",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
