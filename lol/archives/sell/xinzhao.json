@@ -1598,6 +1598,60 @@
       ],
       "formsCount": null,
       "forms": []
+    },
+    {
+      "id": 5006,
+      "name": "秘密特工 赵信",
+      "roitName": "Secret Agent Xin Zhao",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "警与盗",
+      "universe": "磨砺",
+      "pushDate": "2015年5月16日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin06/images/xinzhaorework_splash_uncentered_6.xinzhaorework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin06/images/xinzhaorework_splash_tile_6.xinzhaorework.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin06/images/xinzhaorework_splash_centered_6.xinzhaorework.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5005.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin06/xinzhaoreworkloadscreen_6.xinzhaorework.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "大多数接触过赵信的人，对他们遭遇之后的记忆都有一段空白。 这可能是最好的，因为他参与的大多数遭遇战往往包括第三类近距离遭遇战，在其中保护平民免受可怕的外星入侵者的伤害，或者躲避好斗的UFO俯冲轰炸机。",
+      "accessories": [],
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4900,
+      "icon": "",
+      "tencent": {
+        "price": 4900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2015年5月16日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "5.5",
+        "update": "25.17",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
