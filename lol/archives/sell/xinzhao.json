@@ -1706,6 +1706,60 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 5003,
+      "name": "绞肉机角斗士 赵信",
+      "roitName": "Viscero Xin Zhao",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "编年史",
+      "universe": "符文之地时代",
+      "pushDate": "2010年11月22日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin03/images/xinzhaorework_splash_uncentered_3.xinzhaorework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin03/images/xinzhaorework_splash_tile_3.xinzhaorework.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin03/images/xinzhaorework_splash_centered_3.xinzhaorework.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin03/xinzhaoreworkloadscreen_3.xinzhaorework.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "",
+      "accessories": [],
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 5900,
+      "icon": "",
+      "tencent": {
+        "price": 5900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年11月22日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.105",
+        "update": "25.17",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
