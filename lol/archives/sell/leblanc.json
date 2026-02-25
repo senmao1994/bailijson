@@ -1,0 +1,126 @@
+{
+  "id": "leblanc",
+  "name": "诡术妖姬",
+  "alias": "Leblanc",
+  "key": 7,
+  "title": "乐芙兰",
+  "skins": [
+    {
+      "id": 7055,
+      "name": "殿堂传奇 乐芙兰",
+      "roitName": "Risen Legend LeBlanc",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "殿堂传奇",
+      "universe": "名人堂",
+      "pushDate": "2024年6月12日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_uncentered_55.leblanc_rework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_tile_55.leblanc_rework.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_centered_55.leblanc_rework.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7055.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/leblancloadscreen_55.leblanc_rework.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "记住，乐芙兰，你是隐忍的守护者。你代表着谋略、理性、和巧思，用诡术欺骗那些自以为是的人，守护我的力量。我们的力量。  最重要的是，引领我的天选者历经试炼，让世人永远铭记不死大魔王。",
+      "accessories": [],
+      "roit": {
+        "price": 1950,
+        "priceType": "通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "6633",
+      "tencent": {
+        "price": 10900,
+        "priceType": "通行证",
+        "priceTypeChinese": "",
+        "priceStartDay": "2024年6月13日",
+        "priceEndDay": "2024年7月30日",
+        "description": "10级解锁皮肤 30级解锁边框 98级解锁图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 7056,
+          "name": "殿堂传奇 乐芙兰 登神",
+          "sortName": "登神",
+          "colorName": "名人堂(2024)通行证",
+          "tencent": {
+            "price": 10900,
+            "priceType": "通行证",
+            "priceStartDay": "2024年6月13日",
+            "priceEndDay": "2024年7月30日",
+            "description": "名人堂(2024)通行证 100级解锁",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aq5pwqylzs3ia9ckpk6r87qwa0t7qyc2.jpg"
+          },
+          "roit": {
+            "price": 1950,
+            "priceType": "通行证",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "这个图标曾作为专属奖励发布，用于奖励那些完成了致敬Faker的2024名人堂通行证的玩家。"
+          },
+          "riotName": "殿堂传奇 乐芙兰 登神",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7056.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#059849",
+            "#C89600"
+          ]
+        },
+        {
+          "id": 7057,
+          "name": "殿堂传奇 乐芙兰 至强",
+          "sortName": "至强",
+          "colorName": "名人堂(2024)签名版礼包",
+          "tencent": {
+            "price": 328650,
+            "priceType": "礼包",
+            "priceStartDay": "2024年6月13日",
+            "priceEndDay": "2024年7月29日",
+            "description": "签名版 联盟不朽 阿狸 臻藏礼包",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aq5pwqylzs3ia9ckpk6r87qwa0t7qyc2.jpg"
+          },
+          "roit": {
+            "price": 59260,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "这个图标曾作为专属奖励发布，用于奖励那些已拥有致敬Faker的2024名人堂签名版收藏礼包的玩家。"
+          },
+          "riotName": "殿堂传奇 乐芙兰 至强",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7057.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#64DCC8",
+            "#E446F7"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.12",
+        "update": "25.07",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
