@@ -76,7 +76,7 @@
             "priceType": "通行证",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "这个图标曾作为专属奖励发布，用于奖励那些完成了致敬Faker的2024名人堂通行证的玩家。"
+            "description": ""
           },
           "riotName": "殿堂传奇 乐芙兰 登神",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7056.png",
@@ -104,7 +104,7 @@
             "priceType": "礼包",
             "priceStartDay": "2024年6月13日",
             "priceEndDay": "2024年7月29日",
-            "description": "签名版 联盟不朽 阿狸 臻藏礼包",
+            "description": "签名版 臻藏礼包",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -121,7 +121,7 @@
             "priceType": "礼包",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "这个图标曾作为专属奖励发布，用于奖励那些已拥有致敬Faker的2024名人堂签名版收藏礼包的玩家。"
+            "description": ""
           },
           "riotName": "殿堂传奇 乐芙兰 至强",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7057.png",
@@ -147,6 +147,7 @@
           "type": "签名版",
           "icon": "6637",
           "image": "",
+          "loadingPath": "",
           "trigger": "",
           "description": "签名版 联盟不朽 阿狸 臻藏礼包",
           "note": "",
