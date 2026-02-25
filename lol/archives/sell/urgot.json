@@ -558,6 +558,60 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 6001,
+      "name": "深渊巨蟹 厄加特",
+      "roitName": "Giant Enemy Crabgot",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "怪兽",
+      "universe": "霸天机甲",
+      "pushDate": "2010年8月24日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin01/images/urgot_splash_uncentered_1.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin01/images/urgot_splash_tile_1.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin01/images/urgot_splash_centered_1.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin01/urgotloadscreen_1.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "作为第一个来自深海的巨兽威胁，深渊巨蟹厄加特从未被人类彻底打败。当他出现时，最好的结果是暂时阻挡他的前进，将这个巨大的甲壳类生物扔回大海，直到他再次出现。",
+      "accessories": [],
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "伴生皮肤",
+        "priceStartDay": "2010年8月24日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.99",
+        "update": "7.15",
+        "updateChinese": "2018年6月",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
