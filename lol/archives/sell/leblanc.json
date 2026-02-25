@@ -8,7 +8,7 @@
     {
       "id": 7055,
       "name": "殿堂传奇 乐芙兰",
-      "roitName": "Risen Legend LeBlanc",
+      "roitName": "",
       "sortName": null,
       "rarity": "神话",
       "raritySubType": null,
@@ -21,7 +21,7 @@
       "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_uncentered_55.leblanc_rework.jpg",
       "splashHDPath": "",
       "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_tile_55.leblanc_rework.jpg",
-      "iconPath": null,
+      "iconPath": "",
       "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_centered_55.leblanc_rework.jpg",
       "circlePath": "",
       "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7055.png",
@@ -32,7 +32,7 @@
       "accessories": [],
       "roit": {
         "price": 1950,
-        "priceType": "通行证",
+        "priceType": "名人堂通行证",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
@@ -41,7 +41,7 @@
       "icon": "6633",
       "tencent": {
         "price": 10900,
-        "priceType": "通行证",
+        "priceType": "名人堂通行证",
         "priceTypeChinese": "",
         "priceStartDay": "2024年6月13日",
         "priceEndDay": "2024年7月30日",
@@ -61,7 +61,14 @@
             "priceEndDay": "2024年7月30日",
             "description": "名人堂(2024)通行证 100级解锁",
             "hasFullGiftPack": false,
-            "wildRiftSell": null,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aq5pwqylzs3ia9ckpk6r87qwa0t7qyc2.jpg"
           },
           "roit": {
@@ -74,7 +81,14 @@
           "riotName": "殿堂传奇 乐芙兰 登神",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7056.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#059849",
             "#C89600"
@@ -92,7 +106,14 @@
             "priceEndDay": "2024年7月29日",
             "description": "签名版 联盟不朽 阿狸 臻藏礼包",
             "hasFullGiftPack": false,
-            "wildRiftSell": null,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aq5pwqylzs3ia9ckpk6r87qwa0t7qyc2.jpg"
           },
           "roit": {
@@ -105,15 +126,33 @@
           "riotName": "殿堂传奇 乐芙兰 至强",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7057.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#64DCC8",
             "#E446F7"
           ]
         }
       ],
-      "formsCount": null,
-      "forms": [],
+      "formsCount": 1,
+      "forms": [
+        {
+          "name": "殿堂传奇 乐芙兰 签名版",
+          "type": "签名版",
+          "icon": "6637",
+          "image": "",
+          "trigger": "",
+          "description": "签名版 联盟不朽 阿狸 臻藏礼包",
+          "note": "",
+          "colors": []
+        }
+      ],
       "version": {
         "push": "14.12",
         "update": "25.07",
