@@ -163,6 +163,301 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 7045,
+      "name": "魅惑女巫 乐芙兰",
+      "roitName": "Bewitching LeBlanc",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "魅惑女巫",
+      "universe": "峡谷传说",
+      "pushDate": "2022年10月20日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_uncentered_45.leblanc_rework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_tile_45.leblanc_rework.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_centered_45.leblanc_rework.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7045.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/leblancloadscreen_45.leblanc_rework.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/leblancloadscreen_45_le.leblanc_rework.jpg",
+      "backstory": "每个人都在分享着今年的庆典主持人乐芙兰的恐怖故事！据说她喜欢制造痛苦；她可以把任何南瓜灯的笑容颠倒过来。但她也有温柔的一面，也是她试图隐藏起来的一面，甚至藏到自己也找不到。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "5561",
+      "tencent": {
+        "price": 8900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "万圣节",
+        "priceStartDay": "2022年10月21日10:00",
+        "priceEndDay": "2022年11月15日23:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 7046,
+          "name": "魅惑女巫 乐芙兰 热情化身",
+          "sortName": "热情化身",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2022年10月21日10:00",
+            "priceEndDay": "2022年11月15日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "万圣节期间返场"
+          },
+          "riotName": "魅惑女巫 乐芙兰 热情化身",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7046.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 7047,
+          "name": "魅惑女巫 乐芙兰 明艳化身",
+          "sortName": "明艳化身",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年10月21日10:00",
+            "priceEndDay": "2022年11月15日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "万圣节期间返场"
+          },
+          "riotName": "魅惑女巫 乐芙兰 明艳化身",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7047.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 7048,
+          "name": "魅惑女巫 乐芙兰 青春化身",
+          "sortName": "青春化身",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年10月21日10:00",
+            "priceEndDay": "2022年11月15日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "万圣节期间返场"
+          },
+          "riotName": "魅惑女巫 乐芙兰 青春化身",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7048.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 7049,
+          "name": "魅惑女巫 乐芙兰 典雅化身",
+          "sortName": "典雅化身",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年10月21日10:00",
+            "priceEndDay": "2022年11月15日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "万圣节期间返场"
+          },
+          "riotName": "魅惑女巫 乐芙兰 典雅化身",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7049.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 7050,
+          "name": "魅惑女巫 乐芙兰 浪漫化身",
+          "sortName": "浪漫化身",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2022年10月21日10:00",
+            "priceEndDay": "2022年11月4日10:00",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "万圣节期间返场"
+          },
+          "riotName": "魅惑女巫 乐芙兰 浪漫化身",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7050.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 7051,
+          "name": "魅惑女巫 乐芙兰 知性化身",
+          "sortName": "知性化身",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年10月21日10:00",
+            "priceEndDay": "2022年11月15日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "万圣节期间返场"
+          },
+          "riotName": "魅惑女巫 乐芙兰 知性化身",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7051.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 7052,
+          "name": "魅惑女巫 乐芙兰 高冷化身",
+          "sortName": "高冷化身",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年10月21日10:00",
+            "priceEndDay": "2022年11月15日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "万圣节期间返场"
+          },
+          "riotName": "魅惑女巫 乐芙兰 高冷化身",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7052.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 7053,
+          "name": "魅惑女巫 乐芙兰 纯真化身",
+          "sortName": "纯真化身",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年10月21日10:00",
+            "priceEndDay": "2022年11月15日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "万圣节期间返场"
+          },
+          "riotName": "魅惑女巫 乐芙兰 纯真化身",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7053.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.20",
+        "update": "25.07",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
