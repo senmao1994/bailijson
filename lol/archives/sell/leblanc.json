@@ -783,6 +783,60 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 7033,
+      "name": "至臻 魔女 乐芙兰",
+      "roitName": "Prestige Coven LeBlanc",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "魔女",
+      "universe": "日月之蚀",
+      "pushDate": "2021年8月12日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_uncentered_33.leblanc_rework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_tile_33.leblanc_rework.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_centered_33.leblanc_rework.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/leblancloadscreen_33.leblanc_rework.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/leblancloadscreen_33_le.leblanc_rework.jpg",
+      "backstory": "乐芙兰被黑鹤复活，怀着全新的目的加入了她的姐妹们——然而古神的赠礼不会没有代价。当乐芙兰的身体扭曲成全新且奇怪的形式时，她发现自己只是躯壳，而她所属的逝去之神将经由这副躯体回归，并且它已赋予了她不可能的力量。",
+      "accessories": [],
+      "roit": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "5040",
+      "tencent": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2021年8月13日",
+        "priceEndDay": "2021年9月14日23:59",
+        "description": "魔女2021通行证首发 | 神话轮换(无边框和图标)",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "11.16",
+        "update": "25.07",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
