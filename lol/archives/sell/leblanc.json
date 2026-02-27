@@ -982,6 +982,331 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 7020,
+      "name": "魔女 乐芙兰",
+      "roitName": "Prestige Coven LeBlanc",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "魔女",
+      "universe": "日月之蚀",
+      "pushDate": "2020年4月16日10:00",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_uncentered_20.leblanc_rework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_tile_20.leblanc_rework.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_centered_20.leblanc_rework.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7020.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/leblancloadscreen_20.leblanc_rework.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/leblancloadscreen_20_le.leblanc_rework.jpg",
+      "backstory": "它们来到乐芙兰身边，仿佛在某些失传的旋律中——那是黑鹤的歌唱，并且它那巨大的心脏长期囚禁在永恒之森的最深处。她的姐妹们倒在森林的守卫者们面前，但乐芙兰确实找到了她的奖赏……现在，她的恩主开始苏醒了，正在从几个无信世纪以来的无梦沉睡中萌生。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "4539",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2020年4月17日10:00",
+        "priceEndDay": "2020年5月1日9:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 7021,
+          "name": "魔女 乐芙兰 欲望",
+          "sortName": "欲望",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2020年4月17日10:00",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔女 乐芙兰 欲望",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7021.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 7022,
+          "name": "魔女 乐芙兰 倦怠",
+          "sortName": "倦怠",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2020年4月17日10:00",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔女 乐芙兰 倦怠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7022.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 7023,
+          "name": "魔女 乐芙兰 傲慢",
+          "sortName": "傲慢",
+          "colorName": "浅蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2020年4月17日10:00",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔女 乐芙兰 傲慢",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7023.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 7024,
+          "name": "魔女 乐芙兰 贪婪",
+          "sortName": "贪婪",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2020年4月17日10:00",
+            "priceEndDay": "2020年5月1日10:00",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔女 乐芙兰 贪婪",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7024.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 7025,
+          "name": "魔女 乐芙兰 饕餮",
+          "sortName": "饕餮",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2020年4月17日10:00",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔女 乐芙兰 饕餮",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7025.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 7026,
+          "name": "魔女 乐芙兰 愤怒",
+          "sortName": "愤怒",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2020年4月17日10:00",
+            "priceEndDay": "2020年5月1日10:00",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔女 乐芙兰 愤怒",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7026.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 7027,
+          "name": "魔女 乐芙兰 嫉妒",
+          "sortName": "嫉妒",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "创作者的观众赠品",
+            "priceStartDay": "2020年4月17日10:00",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔女 乐芙兰 嫉妒",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7027.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 7028,
+          "name": "魔女 乐芙兰 虚荣",
+          "sortName": "虚荣",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2020年4月17日10:00",
+            "priceEndDay": "14.5版本下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔女 乐芙兰 虚荣",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 7034,
+          "name": "魔女 乐芙兰 狂信",
+          "sortName": "狂信",
+          "colorName": "魔女(2021)",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2020年4月17日10:00",
+            "priceEndDay": "14.5版本下架",
+            "description": "魔女(2021)战利品专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "魔女 乐芙兰 狂信",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7034.png",
+          "mythicIcon": "5053",
+          "wildRiftSell": null,
+          "colors": [
+            "#162B30",
+            "#8E0A38"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "10.8",
+        "update": "25.07",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
