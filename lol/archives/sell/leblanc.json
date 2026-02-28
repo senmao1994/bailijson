@@ -1839,6 +1839,60 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 7004,
+      "name": "邪鸦魅影 乐芙兰",
+      "roitName": "Ravenborn LeBlanc",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "不给糖就捣蛋",
+      "universe": "峡谷传说",
+      "pushDate": "2014年10月28日",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_uncentered_4.leblanc_rework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_tile_4.leblanc_rework.jpg",
+      "iconPath": "",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_centered_4.leblanc_rework.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/leblancloadscreen_4.leblanc_rework.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "乐芙兰最爱的就是在年度假日庆典上向她的上流社会竞争者们炫耀。除此之外，以当季最时尚女巫的身份去兜风，将教给杜·克卡奥们不要抢她游园会的风头。",
+      "accessories": [],
+      "roit": {
+        "price": 975,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "",
+      "tencent": {
+        "price": 6900,
+        "priceType": "直售",
+        "priceTypeChinese": "万圣节",
+        "priceStartDay": "2014年10月28日",
+        "priceEndDay": "该皮肤已下架直售渠道",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "4.8",
+        "update": "25.07",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
