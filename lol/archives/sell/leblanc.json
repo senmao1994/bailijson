@@ -1387,8 +1387,8 @@
           "tencent": {
             "price": 35,
             "priceType": "神话商店",
-            "priceStartDay": "2020年4月17日10:00",
-            "priceEndDay": "14.5版本下架",
+            "priceStartDay": "2021年8月13日",
+            "priceEndDay": "2021年9月14日23:59",
             "description": "魔女(2021)战利品专属",
             "hasFullGiftPack": false,
             "wildRiftSell": {
