@@ -1346,10 +1346,10 @@
         "price": 7900,
         "priceType": "限时直售",
         "priceTypeChinese": "冠军限定",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
-        "hasFullGiftPack": false
+        "priceStartDay": "2019年4月24日4:00",
+        "priceEndDay": "6月6日23:59",
+        "description": "签名版礼包和皮肤均为限时销售，皮肤每年S赛期间返场",
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
@@ -1416,7 +1416,14 @@
         }
       ],
       "formsCount": null,
-      "forms": []
+      "forms": [],
+      "version": {
+        "push": "9.8",
+        "update": "25.07",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
