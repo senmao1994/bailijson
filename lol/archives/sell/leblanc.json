@@ -1785,6 +1785,60 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 7005,
+      "name": "永恒之森 乐芙兰",
+      "roitName": "Elderwood LeBlanc",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "永恒之森",
+      "universe": "日月之蚀",
+      "pushDate": "2016年5月10日10:00",
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_uncentered_5.leblanc_rework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_tile_5.leblanc_rework.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_centered_5.leblanc_rework.jpg",
+      "circlePath": "",
+      "chromaPath": "",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/leblancloadscreen_5.leblanc_rework.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "当魔女会首次掌权时，她们渴望得到永恒之森的生命魔力——这是一个工具，她们相信，可用于她们黑暗主顾们的复兴。就这样，她们开始进攻这片宏伟的森林，并且屠杀它的子嗣们……直到一个独行木精灵站出来对抗她们，并偷取这些女巫的生命、魔法、甚至名字。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "",
+      "tencent": {
+        "price": 9900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "MSI限定",
+        "priceStartDay": "2016年6月1日10:00",
+        "priceEndDay": "2016年6月14日23:59",
+        "description": "2016年上海季中冠军赛纪念·腾讯服不定期返场销售",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.5",
+        "update": "25.07",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
