@@ -1297,10 +1297,10 @@
           "sortName": "嫉妒",
           "colorName": "绿色",
           "tencent": {
-            "price": 2000,
+            "price": 10000,
             "priceType": "创作者的观众赠品",
-            "priceStartDay": "2020年4月17日10:00",
-            "priceEndDay": "14.5版本下架",
+            "priceStartDay": "",
+            "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -1313,8 +1313,8 @@
             }
           },
           "roit": {
-            "price": 290,
-            "priceType": "直售",
+            "price": 10000,
+            "priceType": "创作者的观众赠品",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": ""
