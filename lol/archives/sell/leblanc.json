@@ -1550,6 +1550,241 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 7012,
+      "name": "源代码 乐芙兰",
+      "roitName": "",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "源代码",
+      "universe": "源计划",
+      "pushDate": null,
+      "series": null,
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_uncentered_12.leblanc_rework.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_tile_12.leblanc_rework.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_centered_12.leblanc_rework.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7012.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/leblancloadscreen_12.leblanc_rework.jpg",
+      "loadingSpecialEditionPath": "",
+      "backstory": "乐芙兰创造出的目的是为了一款外交软件化身进行营销，她是能与人类进行无缝交流的高级智能，她与身自来的一种能力就是欺骗。现在，她已经潜伏在世界上很多超级公司网络，等待着她的最后命令。",
+      "accessories": [],
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceTypeChinese": "巅峰的荣耀",
+        "priceStartDay": "2018年11月15日",
+        "priceEndDay": "12月15日",
+        "description": "谨纪念iG战队夺得LPL赛区首个全球总决赛冠军。",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 7013,
+          "name": "源代码 乐芙兰 极境主宰",
+          "sortName": "极境主宰",
+          "colorName": "",
+          "tencent": {
+            "price": 2000,
+            "priceType": "蓝色精萃",
+            "priceStartDay": "2018年11月22日10:00",
+            "priceEndDay": "2018年12月5日23:59",
+            "description": "仅开放一次兑换时间",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": " "
+          },
+          "riotName": "源代码 乐芙兰 极境主宰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7013.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 7014,
+          "name": "源代码 乐芙兰 澎湃攻势",
+          "sortName": "澎湃攻势",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "蓝色精萃",
+            "priceStartDay": "2018年11月22日10:00",
+            "priceEndDay": "2018年12月5日23:59",
+            "description": "仅开放一次兑换时间",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源代码 乐芙兰 澎湃攻势",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7014.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 7015,
+          "name": "源代码 乐芙兰 梦幻闪击",
+          "sortName": "梦幻闪击",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "蓝色精萃",
+            "priceStartDay": "2018年11月22日10:00",
+            "priceEndDay": "2018年12月5日23:59",
+            "description": "仅开放一次兑换时间",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源代码 乐芙兰 梦幻闪击",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7015.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 7016,
+          "name": "源代码 乐芙兰 铁血战意",
+          "sortName": "铁血战意",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "蓝色精萃",
+            "priceStartDay": "2018年11月22日10:00",
+            "priceEndDay": "2018年12月5日23:59",
+            "description": "仅开放一次兑换时间",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源代码 乐芙兰 铁血战意",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7016.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 7017,
+          "name": "源代码 乐芙兰 冷酷杀机",
+          "sortName": "冷酷杀机",
+          "colorName": "浅蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "蓝色精萃",
+            "priceStartDay": "2018年11月22日10:00",
+            "priceEndDay": "2018年12月5日23:59",
+            "description": "仅开放一次兑换时间",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源代码 乐芙兰 冷酷杀机",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7017.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#C1F2FF",
+            "#C1F2FF"
+          ]
+        },
+        {
+          "id": 7018,
+          "name": "源代码 乐芙兰 丛林死神",
+          "sortName": "丛林死神",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "蓝色精萃",
+            "priceStartDay": "2018年11月22日10:00",
+            "priceEndDay": "2018年12月5日23:59",
+            "description": "仅开放一次兑换时间",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": " "
+          },
+          "riotName": "源代码 乐芙兰 丛林死神",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7018.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "8.22",
+        "update": "25.07",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
