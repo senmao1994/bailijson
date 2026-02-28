@@ -1299,7 +1299,7 @@
           "tencent": {
             "price": 10000,
             "priceType": "创作者的观众赠品",
-            "priceStartDay": "",
+            "priceStartDay": "蓝色精萃商店开发期间",
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
