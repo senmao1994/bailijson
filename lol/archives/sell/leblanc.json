@@ -1024,7 +1024,7 @@
         "priceStartDay": "2020年4月17日10:00",
         "priceEndDay": "2020年5月1日9:59",
         "description": "",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
