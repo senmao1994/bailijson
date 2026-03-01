@@ -1,0 +1,383 @@
+{
+  "id": 10102,
+  "name": "厄加特",
+  "alias": "ejiate",
+  "key": "10102",
+  "title": "无畏战车",
+  "skins": [
+    {
+      "id": 1010206,
+      "name": "霸天战车 厄加特",
+      "roitName": "Mecha Urgot",
+      "sortName": "霸天战车",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "争端",
+      "universe": "霸天",
+      "pushDate": "",
+      "series": null,
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Urgot_5.jpg",
+      "splashHDPath": "",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_urgot_skin05.png",
+      "iconPath": "",
+      "centeredPath": "",
+      "circlePath": "",
+      "chromaPath": null,
+      "specialEditionPath": "",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010206.png",
+      "loadingSpecialEditionPath": "",
+      "backstory": "经过针对深渊巨蟹相关数据的逆向工程，一台不可抵挡的霸天战车由此诞生。战地机甲UR-907不费吹灰之力就能夷平整座城市。这台机甲所装配的无差别大规模毁灭级武器，会让即便最好战的将军也不禁质疑这种手段的伦理规范。",
+      "accessories": [
+        "边框",
+        "姿态：烬灭"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 101020601,
+          "name": "霸天战车 厄加特 极致魅影",
+          "sortName": "极致魅影",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": "点券"
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": "点券"
+          },
+          "colors": [
+            "#FF69B4",
+            "#FF69B4"
+          ]
+        },
+        {
+          "id": 101020602,
+          "name": "霸天战车 厄加特 幽灵幻影",
+          "sortName": "幽灵幻影",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": "点券"
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": "点券"
+          },
+          "colors": [
+            "#000000",
+            "#000000"
+          ]
+        },
+        {
+          "id": 101020603,
+          "name": "霸天战车 厄加特 悠然翠影",
+          "sortName": "悠然翠影",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": "点券"
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": "点券"
+          },
+          "colors": [
+            "#32CD32",
+            "#32CD32"
+          ]
+        },
+        {
+          "id": 101020604,
+          "name": "霸天战车 厄加特 星河迷影",
+          "sortName": "星河迷影",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": "点券"
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": "点券"
+          },
+          "colors": [
+            "#1E90FF",
+            "#1E90FF"
+          ]
+        },
+        {
+          "id": 101020605,
+          "name": "霸天战车 厄加特 扶光烈影",
+          "sortName": "扶光烈影",
+          "colorName": "金色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": "点券"
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": "点券"
+          },
+          "colors": [
+            "#FFD700",
+            "#FFD700"
+          ]
+        },
+        {
+          "id": 101020606,
+          "name": "霸天战车 厄加特 风驰疾影",
+          "sortName": "风驰疾影",
+          "colorName": "红色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": "点券"
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": "点券"
+          },
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 101020607,
+          "name": "霸天战车 厄加特 霜临秘影",
+          "sortName": "霜临秘影",
+          "colorName": "银色",
+          "tencent": {
+            "price": 0,
+            "priceType": "",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "2024年8月2日",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "240",
+              "priceUnit": "点券"
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": null,
+          "chromasPath": null,
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "2024年8月2日",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "240",
+            "priceUnit": "点券"
+          },
+          "colors": [
+            "#C0C0C0",
+            "#C0C0C0"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "4.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2023年8月25日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
