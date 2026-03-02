@@ -1319,6 +1319,207 @@
         "updateName": "",
         "video": "26.05"
       }
+    },
+    {
+      "id": 6009,
+      "name": "西部魔影 厄加特",
+      "roitName": "High Noon Urgot",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "西部风云",
+      "universe": "西部魔影 厄运金属",
+      "pushDate": null,
+      "series": null,
+      "backstory": "耶利米·詹姆斯曾是一位著名的铁路大亨和腰缠万贯的实业家，他在一次赌博中用自己的心脏做赌注……最终输了。当他被遗弃在荒漠中等死的时候，他与一个路过的恶魔达成交易，将他不朽的灵魂交换成一个扭曲，怪异的机械之躯。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin09/images/urgot_splash_uncentered_9.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin09/images/urgot_splash_tile_9.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin09/images/urgot_splash_centered_9.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/6/6009.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin09/urgotloadscreen_9.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin09/urgotloadscreen_9_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "3596",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2018年9月4日",
+        "priceEndDay": "",
+        "description": "边框和炫彩礼包已下架",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 6010,
+          "name": "西部魔影 厄加特 邪金霸权",
+          "sortName": "邪金霸权",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 厄加特 邪金霸权",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/6/6010.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 6011,
+          "name": "西部魔影 厄加特 瘟疫原体",
+          "sortName": "瘟疫原体",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 厄加特 瘟疫原体",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/6/6011.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 6012,
+          "name": "西部魔影 厄加特 嗜血魔头",
+          "sortName": "嗜血魔头",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2018年9月4日",
+            "priceEndDay": "炫彩礼包已下架",
+            "description": " ",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": " "
+          },
+          "riotName": "西部魔影 厄加特 嗜血魔头",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/6/6012.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 6013,
+          "name": "西部魔影 厄加特 黄沙火花",
+          "sortName": "黄沙火花",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 厄加特 黄沙火花",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/6/6013.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 6014,
+          "name": "西部魔影 厄加特 怒焰死神",
+          "sortName": "怒焰死神",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 厄加特 怒焰死神",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/6/6014.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "8.17",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.05"
+      }
     }
   ]
 }
