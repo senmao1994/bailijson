@@ -387,6 +387,101 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 37075,
+      "name": "至臻 安魂曲 娑娜",
+      "roitName": "Prestige Requiem Sona",
+      "sortName": null,
+      "rarity": null,
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "编年史",
+      "universe": "符文之地时代",
+      "pushDate": "2026年3月4日",
+      "series": null,
+      "backstory": "娑娜身着最华丽的葬礼装束，演奏着一位英雄的挽歌。无声的双手奏出一段旋律，这段旋律先是逐渐递进到凯旋的强音中，然后逐渐转进至由轻柔哀愁组成的苦乐参半的阴影，这是她对一位逝世好友的致敬。通过这次演出，她将把他的故事谱写成一首歌曲，一首永不消逝、永不被遗忘的歌曲。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/images/sona_splash_uncentered_75.skins_sona_skin75.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/images/sona_splash_tile_75.skins_sona_skin75.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/images/sona_splash_centered_75.skins_sona_skin75.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/37/37075.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/sonaloadscreen_75.skins_sona_skin75.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/sonaloadscreen_75_le.skins_sona_skin75.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "7099",
+      "tencent": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2026年3月5日版本更新后",
+        "priceEndDay": "2026年4月30日",
+        "description": "2026第一主题赛季第2幕通行证48级奖励",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 37076,
+          "name": "至臻 安魂曲 娑娜 至强",
+          "sortName": "至强",
+          "colorName": "通行证礼包",
+          "tencent": {
+            "price": 17575,
+            "priceType": "礼包",
+            "priceStartDay": "2026年3月5日版本更新后",
+            "priceEndDay": "2026年4月30日",
+            "description": "【为了德玛西亚：第2幕通行证】通行证礼包发售",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 2440,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "至臻 安魂曲 娑娜 至强",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/37/37076.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#F05541",
+            "#B9B9C3"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.05",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
