@@ -2174,6 +2174,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 7003,
+      "name": "幸福女神 乐芙兰",
+      "roitName": "Mistletoe LeBlanc",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "冰雪节大对决",
+      "universe": "冰雪节",
+      "pushDate": "2011年12月14日\r",
+      "series": null,
+      "backstory": "乐芙兰的邪恶幻象在冰雪节更加强大，因为在这个关于馈赠的季节里，人们也变得更加容易中计。她令人着迷的外表也会引来更多痴人，成为她神秘游戏棋子。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_uncentered_3.leblanc_rework.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_tile_3.leblanc_rework.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_centered_3.leblanc_rework.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/leblancloadscreen_3.leblanc_rework.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "冰雪节",
+        "priceStartDay": "2011年12月14日\r",
+        "priceEndDay": "限时直售 | 不定期返场",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.131",
+        "update": "25.07",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
