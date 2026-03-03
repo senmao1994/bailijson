@@ -1,0 +1,58 @@
+{
+  "id": "maokai",
+  "name": "扭曲树精",
+  "alias": "Maokai",
+  "key": 57,
+  "title": "茂凯",
+  "skins": [
+    {
+      "id": 57035,
+      "name": "腐化禁魔石巨像 茂凯",
+      "roitName": "Corrupted Petricite Maokai",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "石之法则",
+      "universe": "符文之地时代",
+      "pushDate": "2026年3月5日",
+      "series": null,
+      "backstory": "虽然这棵古树曾经在某个被人遗忘的禁魔石林中熠熠生辉，但野性魔法的突然绽放，使它的枝干和心材重新焕发了生机。如今它四处游荡，顽强地保护着它的那些被施附魔的幼苗，使其免受不断扩张的德玛西亚定居点对荒林的侵袭。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin35/images/maokai_splash_uncentered_35.skins_maokai_skin35.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin35/images/maokai_splash_tile_35.skins_maokai_skin35.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin35/images/maokai_splash_centered_35.skins_maokai_skin35.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin35/maokailoadscreen_35.skins_maokai_skin35.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin35/maokailoadscreen_35_le.skins_maokai_skin35.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "7100",
+      "tencent": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceTypeChinese": "通行证专属",
+        "priceStartDay": "2026年3月5日版本更新后",
+        "priceEndDay": "2026年4月30日",
+        "description": "2026第一主题赛季第2幕通行证8级奖励",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.05",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
