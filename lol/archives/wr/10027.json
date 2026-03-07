@@ -62,6 +62,46 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1002702,
+      "name": "斗魂无双 尼菈",
+      "roitName": "Soul Fighter Nilah",
+      "sortName": "斗魂无双",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "backstory": "上次我们看到她的时候，她正与其他斗魂战士一起联手对抗千眼魔神——据说她甚至取下了一只魔眼为她所用！把你们的双手高举头顶，合十称颂！这位弑神的勇士，带着世间最灿烂的笑容，是我们，纵情快意的——尼菈！",
+      "accessories": [],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nilah_1.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_nilah_skin01.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002702.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": []
     }
   ]
 }
