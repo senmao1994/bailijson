@@ -1,0 +1,67 @@
+{
+  "id": 10027,
+  "name": "尼菈",
+  "alias": "ni菈",
+  "key": "10027",
+  "title": "不羁之悦",
+  "skins": [
+    {
+      "id": 1002705,
+      "name": "神龙尊者 欢悦之龙 尼菈",
+      "roitName": "Dragonmancer Nilah",
+      "sortName": "神龙尊者 欢悦之龙",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "龙行",
+      "universe": "神龙尊者",
+      "pushDate": "",
+      "series": null,
+      "backstory": "世间惨遭魔龙荼毒，唯有苦行者尼菈征伐的舞步迎向黑暗，伴着那份标志性的欣快龙吟。没人理解欢悦神龙的赐福因何加诸于她，而腐化之物却在那绚烂奔放、目不暇接的激烈战斗中接连倒下。或许，正是尼菈面对绝境时迸发的生命欢愉，与神龙之力产生了最深切的共鸣。",
+      "accessories": [
+        "边框",
+        "姿态：鞭旋"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nilah_4.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_nilah_skin04.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002705.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年3月3日",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
