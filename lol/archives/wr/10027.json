@@ -69,15 +69,19 @@
       "roitName": "Soul Fighter Nilah",
       "sortName": "斗魂无双",
       "rarity": "史诗",
-      "raritySubType": "",
+      "raritySubType": "伴生皮肤",
       "price": "890",
       "priceUnit": "点券",
-      "skinline": "",
-      "universe": "",
+      "skinline": "登场",
+      "universe": "斗魂无双",
       "pushDate": "",
       "series": null,
       "backstory": "上次我们看到她的时候，她正与其他斗魂战士一起联手对抗千眼魔神——据说她甚至取下了一只魔眼为她所用！把你们的双手高举头顶，合十称颂！这位弑神的勇士，带着世间最灿烂的笑容，是我们，纵情快意的——尼菈！",
-      "accessories": [],
+      "accessories": [
+        "边框",
+        "姿态：悦心",
+        "姿态：鞭舞"
+      ],
       "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nilah_1.jpg",
       "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_nilah_skin01.png",
       "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002702.png",
@@ -101,7 +105,22 @@
       },
       "chromas": [],
       "formsCount": null,
-      "forms": []
+      "forms": [],
+      "version": {
+        "push": "4.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2023年7月19日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
