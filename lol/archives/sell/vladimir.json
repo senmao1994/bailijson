@@ -586,6 +586,55 @@
         "updateName": "",
         "video": "26.06"
       }
+    },
+    {
+      "id": 8048,
+      "name": "黑色玫瑰假面舞会 弗拉基米尔",
+      "roitName": "Masque of the Black Rose Vladimir",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "黑色玫瑰假面舞会",
+      "universe": "符文之地时代",
+      "pushDate": "2025年1月9日",
+      "series": null,
+      "backstory": "弗拉基米尔领主，请您出席即将到来的“银丝舞会”。您可能会认为这样的聚会有失身份，或着比不上您举办的那些喧闹酒宴。请不要担心，这场化妆舞会不会侵扰您的领地。我们的女主人只是需要您的血气，来为我们的宏伟布局注入新鲜血液。——伊莉丝夫人",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin48/images/vladimir_splash_uncentered_48.skins_vladimir_care_skin48.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin48/images/vladimir_splash_tile_48.skins_vladimir_care_skin48.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin48/images/vladimir_splash_centered_48.skins_vladimir_care_skin48.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin48/vladimirloadscreen_48.skins_vladimir_care_skin48.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin48/vladimirloadscreen_48_le.skins_vladimir_care_skin48.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "6809",
+      "tencent": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceTypeChinese": "通行证专属",
+        "priceStartDay": "2025年1月9日",
+        "priceEndDay": "2025年3月5日18:00",
+        "description": "2025第一主题赛季第1幕通行证10级奖励",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "25.01",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "25.11"
+      }
     }
   ]
 }
