@@ -925,6 +925,237 @@
         "updateName": "",
         "video": "26.06"
       }
+    },
+    {
+      "id": 8014,
+      "name": "黑夜使者 弗拉基米尔",
+      "roitName": "Nightbringer Vladimir",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "黑夜使者和黎明使者",
+      "universe": "对决",
+      "pushDate": null,
+      "series": null,
+      "backstory": "弗拉基米尔是夜晚的混沌之王，作为不确定性和狂欢的人格化而存在。他在未知的阴影中茁壮成长，以在凡人心灵中找到的生命精华和黑暗为食。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin14/images/vladimir_splash_uncentered_14.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin14/images/vladimir_splash_tile_14.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin14/images/vladimir_splash_centered_14.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8014.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin14/vladimirloadscreen_14.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin14/vladimirloadscreen_14_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "4455",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceTypeChinese": "峡谷之巅第五赛季限定皮肤",
+        "priceStartDay": "2020年1月1日10:00",
+        "priceEndDay": "2020年2月29日23:59",
+        "description": "峡谷之巅 |星穹耀夜抽奖1500星穹币兑换",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 8015,
+          "name": "黑夜使者 弗拉基米尔 绝顶之巅",
+          "sortName": "绝顶之巅",
+          "colorName": "黑夜与黎明2019",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2020年1月1日10:00",
+            "priceEndDay": "2020年2月29日23:59",
+            "description": "峡谷之巅第五赛季奖励 | 星穹耀夜抽奖",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "黑夜使者 弗拉基米尔 绝顶之巅",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8015.png",
+          "mythicIcon": "4460",
+          "wildRiftSell": null,
+          "colors": [
+            "#C33C3E",
+            "#0C0E15"
+          ]
+        },
+        {
+          "id": 8016,
+          "name": "黑夜使者 弗拉基米尔 超凡之势",
+          "sortName": "超凡之势",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 0,
+            "priceType": "抽奖兑换",
+            "priceStartDay": "2020年1月1日10:00",
+            "priceEndDay": "2020年2月29日23:59",
+            "description": "峡谷之巅第五赛季奖励 | 星穹耀夜抽奖",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "黑夜使者 弗拉基米尔 超凡之势",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8016.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 8017,
+          "name": "黑夜使者 弗拉基米尔 最强之尊",
+          "sortName": "最强之尊",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 0,
+            "priceType": "抽奖兑换",
+            "priceStartDay": "2020年1月1日10:00",
+            "priceEndDay": "2020年2月29日23:59",
+            "description": "峡谷之巅第五赛季奖励 | 星穹耀夜抽奖",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "黑夜使者 弗拉基米尔 最强之尊",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8017.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 8018,
+          "name": "黑夜使者 弗拉基米尔 登临之锐",
+          "sortName": "登临之锐",
+          "colorName": "红色",
+          "tencent": {
+            "price": 0,
+            "priceType": "抽奖兑换",
+            "priceStartDay": "2020年1月1日10:00",
+            "priceEndDay": "2020年2月29日23:59",
+            "description": "峡谷之巅第五赛季奖励 | 星穹耀夜抽奖",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "黑夜使者 弗拉基米尔 登临之锐",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8018.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 8019,
+          "name": "黑夜使者 弗拉基米尔 宁夜",
+          "sortName": "宁夜",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 10000,
+            "priceType": "创作者的观众赠品",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "黑夜使者 弗拉基米尔 宁夜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8019.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 8020,
+          "name": "黑夜使者 弗拉基米尔 傲视之威",
+          "sortName": "傲视之威",
+          "colorName": "青色",
+          "tencent": {
+            "price": 0,
+            "priceType": "抽奖兑换",
+            "priceStartDay": "2020年1月1日10:00",
+            "priceEndDay": "2020年2月29日23:59",
+            "description": "峡谷之巅第五赛季奖励 | 星穹耀夜抽奖",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "黑夜使者 弗拉基米尔 傲视之威",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8020.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "9.24",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.06"
+      }
     }
   ]
 }
