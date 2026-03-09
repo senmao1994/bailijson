@@ -1101,7 +1101,7 @@
             "wildRiftSell": null
           },
           "roit": {
-            "price": 10000,
+            "price": 0,
             "priceType": "创作者的观众赠品",
             "priceStartDay": "",
             "priceEndDay": "",
