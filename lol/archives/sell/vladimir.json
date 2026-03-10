@@ -1516,6 +1516,54 @@
         "updateName": "",
         "video": "26.06"
       }
+    },
+    {
+      "id": 8006,
+      "name": "摄魂男爵 弗拉基米尔",
+      "roitName": "Soulstealer Vladimir",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "摄魂者",
+      "universe": "摄魂者",
+      "pushDate": "2014年7月9日",
+      "series": null,
+      "backstory": "",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin06/images/vladimir_splash_uncentered_6.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin06/images/vladimir_splash_tile_6.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin06/images/vladimir_splash_centered_6.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin06/vladimirloadscreen_6.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "",
+      "tencent": {
+        "price": 6900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2014年7月9日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "4.11",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.06"
+      }
     }
   ]
 }
