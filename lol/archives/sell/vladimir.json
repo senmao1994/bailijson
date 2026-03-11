@@ -1564,6 +1564,54 @@
         "updateName": "",
         "video": "26.06"
       }
+    },
+    {
+      "id": 8005,
+      "name": "血石领主 弗拉基米尔",
+      "roitName": "Blood Lord Vladimir",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "血石",
+      "universe": "血石",
+      "pushDate": "2011年11月21日",
+      "series": null,
+      "backstory": "弗拉基米尔是一个血石教团的前任领导者，参加过一个献祭了他的人性的仪式——连同一些受害者的血一起——来将这个曾经时髦的贵族变成黑夜里的恐怖存在。为了满足他对鲜血的渴望，他阔步于城市街道的迷宫，搜寻着不幸的猎物。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin05/images/vladimir_splash_uncentered_5.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin05/images/vladimir_splash_tile_5.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin05/images/vladimir_splash_centered_5.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin05/vladimirloadscreen_5.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 12900,
+      "icon": "",
+      "tencent": {
+        "price": 12900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2012年10月18日",
+        "priceEndDay": "14.5版本已下架商城直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.129",
+        "update": "6.9",
+        "updateChinese": "游戏玩法",
+        "updateName": "",
+        "video": "26.06"
+      }
     }
   ]
 }
