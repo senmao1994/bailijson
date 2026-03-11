@@ -1612,6 +1612,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 8004,
+      "name": "霹雳游侠 弗拉基米尔",
+      "roitName": "Vandal Vladimir",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "暴走族",
+      "universe": "高速路异端",
+      "pushDate": "2011年1月24日",
+      "series": null,
+      "backstory": "弗拉基米尔是恶名昭著的暴走帮的领袖。他所受的残留辐射，让他可以控制有机活体的血液。如果他想的话，他就能治愈这疾病废土中的每一个生物——但他反而带着他的帮派成员们四处洗劫定居点。凡事都有个优先级嘛。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin04/images/vladimir_splash_uncentered_4.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin04/images/vladimir_splash_tile_4.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin04/images/vladimir_splash_centered_4.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin04/vladimirloadscreen_4.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年1月24日",
+        "priceEndDay": "14.5版本商城已下架",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.109",
+        "update": "6.9",
+        "updateChinese": "游戏玩法",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
