@@ -17,17 +17,14 @@
       "skinline": "青蛙雨衣",
       "universe": "",
       "pushDate": "2025年11月19日",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/images/tristana_splash_uncentered_70.skins_tristana_skin70.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/images/tristana_splash_tile_70.skins_tristana_skin70.jpg",
-      "iconPath": null,
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/images/tristana_splash_centered_70.skins_tristana_skin70.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18070.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/tristanaloadscreen_70.skins_tristana_skin70.jpg",
-      "loadingSpecialEditionPath": "",
+      "series": null,
       "backstory": "崔丝塔娜是在土地干涸时第一个去牧雨者报到的。她最好的朋友瑞比每晚都会唱歌哄她入睡，但现在他的嗓子哑了，只能呱呱地叫。这样根本不对！瑞比帮助过她，而现在她要帮助他恢复说话能力，即使这意味着她要亲自前往宏大池塘。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/images/tristana_splash_uncentered_70.skins_tristana_skin70.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/images/tristana_splash_tile_70.skins_tristana_skin70.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/images/tristana_splash_centered_70.skins_tristana_skin70.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18070.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin70/tristanaloadscreen_70.skins_tristana_skin70.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -43,7 +40,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2025年11月20日版本更新后",
         "priceEndDay": "",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -56,7 +54,16 @@
             "priceType": "礼包",
             "priceStartDay": "2025年11月20日",
             "priceEndDay": "2025年12月4日09:59",
-            "description": ""
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -67,7 +74,19 @@
           },
           "riotName": "青蛙雨衣 崔丝塔娜 红雨",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18071.png",
-          "mythicIcon": null
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
         },
         {
           "id": 18072,
@@ -79,7 +98,16 @@
             "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": ""
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -90,7 +118,19 @@
           },
           "riotName": "青蛙雨衣 崔丝塔娜 沁雨",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18072.png",
-          "mythicIcon": null
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
         },
         {
           "id": 18073,
@@ -102,7 +142,16 @@
             "priceType": "限时直售",
             "priceStartDay": "2025年11月20日",
             "priceEndDay": "2025年12月4日09:59",
-            "description": ""
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -113,7 +162,19 @@
           },
           "riotName": "青蛙雨衣 崔丝塔娜 泽雨",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18073.png",
-          "mythicIcon": null
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
         },
         {
           "id": 18074,
@@ -125,7 +186,16 @@
             "priceType": "限时直售",
             "priceStartDay": "2025年11月20日",
             "priceEndDay": "2025年12月4日09:59",
-            "description": ""
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -136,7 +206,19 @@
           },
           "riotName": "青蛙雨衣 崔丝塔娜 梦雨",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18074.png",
-          "mythicIcon": null
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
         },
         {
           "id": 18075,
@@ -148,7 +230,16 @@
             "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": ""
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -159,7 +250,19 @@
           },
           "riotName": "青蛙雨衣 崔丝塔娜 桃雨",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18075.png",
-          "mythicIcon": null
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
         },
         {
           "id": 18076,
@@ -171,7 +274,16 @@
             "priceType": "限时直售",
             "priceStartDay": "2025年11月20日",
             "priceEndDay": "2025年12月4日09:59",
-            "description": ""
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -182,7 +294,19 @@
           },
           "riotName": "青蛙雨衣 崔丝塔娜 烟雨",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18076.png",
-          "mythicIcon": null
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
         },
         {
           "id": 18077,
@@ -194,7 +318,16 @@
             "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": ""
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -205,7 +338,19 @@
           },
           "riotName": "青蛙雨衣 崔丝塔娜 丝雨",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18077.png",
-          "mythicIcon": null
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
         },
         {
           "id": 18078,
@@ -217,7 +362,16 @@
             "priceType": "限时直售",
             "priceStartDay": "2025年11月20日",
             "priceEndDay": "2025年12月4日09:59",
-            "description": ""
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -228,9 +382,23 @@
           },
           "riotName": "青蛙雨衣 崔丝塔娜 夜雨",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18078.png",
-          "mythicIcon": null
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "25.23",
         "update": "",
