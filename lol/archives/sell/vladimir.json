@@ -1757,6 +1757,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 8001,
+      "name": "弗拉基米尔伯爵",
+      "roitName": "Count Vladimir",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "故事书",
+      "universe": "故事书",
+      "pushDate": "2010年7月27日",
+      "series": null,
+      "backstory": "曾经有段时间，在一座黑暗阴郁的城堡的中心，生活着一个青春永驻、受人们惧怕的伯爵。每个夜晚，一团可怕的红雾就会渗入各个村庄，而一些可怜的灵魂就会不留痕迹地消失——又一条性命失落在弗拉基米尔不断增长的食欲中。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin01/images/vladimir_splash_uncentered_1.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin01/images/vladimir_splash_tile_1.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin01/images/vladimir_splash_centered_1.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin01/vladimirloadscreen_1.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 2300,
+      "icon": "",
+      "tencent": {
+        "price": 2300,
+        "priceType": "直售",
+        "priceTypeChinese": "伴生皮肤",
+        "priceStartDay": "2010年7月27日",
+        "priceEndDay": "商城直售已下架",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.97",
+        "update": "6.9",
+        "updateChinese": "游戏玩法",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
