@@ -1709,6 +1709,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 8002,
+      "name": "弗拉基米尔侯爵",
+      "roitName": "Marquis Vladimir",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "上流社会",
+      "universe": "磨砺",
+      "pushDate": "2010年7月27",
+      "series": null,
+      "backstory": "在他参加的最后一场舞会中，弗拉基米尔偷走了每个人的心。说来也奇怪，自那以后没人听过或见过那些出席者。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin02/images/vladimir_splash_uncentered_2.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin02/images/vladimir_splash_tile_2.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin02/images/vladimir_splash_centered_2.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin02/vladimirloadscreen_2.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "伴生皮肤",
+        "priceStartDay": "2010年7月27",
+        "priceEndDay": "商城直售已下架",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.97",
+        "update": "6.9",
+        "updateChinese": "游戏玩法",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
