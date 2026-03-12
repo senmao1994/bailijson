@@ -1660,6 +1660,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 8003,
+      "name": "诺斯费拉图  弗拉基米尔",
+      "roitName": "Nosferatu Vladimir",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "不给糖就捣蛋",
+      "universe": "峡谷传说",
+      "pushDate": "2010年10月19日",
+      "series": null,
+      "backstory": "看哪，这家伙是一个影迷。那又如何？血术师们也有喜欢的东西。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin03/images/vladimir_splash_uncentered_3.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin03/images/vladimir_splash_tile_3.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin03/images/vladimir_splash_centered_3.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin03/vladimirloadscreen_3.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin03/vladimirloadscreen_3_le.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "Riot公司两周年 | 万圣节限定",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.103",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
