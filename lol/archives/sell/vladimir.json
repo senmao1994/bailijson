@@ -1805,6 +1805,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 8000,
+      "name": "猩红收割者",
+      "roitName": "The Crimson Reaper Vladimir",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "诺克萨斯",
+      "universe": "英雄联盟宇宙",
+      "pushDate": "2010年7月27日",
+      "series": null,
+      "backstory": "弗拉基米尔是一个渴望凡人鲜血的魔鬼，早在诺克萨斯帝国建立之初，他就开始干涉帝国内政。他熟练掌握的血巫术，不仅能超越自然规律延长其寿命，还能让他随心所欲地控制他人的身体和思想。他用这个能力在诺克萨斯贵族奢华的沙龙聚会上聚拢了一群狂热的教众，也让他在社会底层的后巷里吸干了敌人的鲜血。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/base/images/vladimir_splash_uncentered_0.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/base/images/vladimir_splash_tile_0.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/base/images/vladimir_splash_centered_0.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/base/vladimirloadscreen.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "6228",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年7月27日",
+        "priceEndDay": "10月7日9:59",
+        "description": "弗拉基米尔 肖像图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.99",
+        "update": "6.9",
+        "updateChinese": "游戏玩法",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
