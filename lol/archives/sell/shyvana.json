@@ -49,27 +49,42 @@
           "id": 102018,
           "name": "玉剑传说 舞龙卫 胭脂",
           "sortName": "胭脂",
-          "colorName": "",
+          "colorName": "红色",
           "tencent": {
             "price": 0,
-            "priceType": "礼包",
+            "priceType": "臻彩",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "这个炫彩曾在2023年期间作为礼包专属发布。",
+            "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aq9s0silki39o1ap380e7lsbnj1ffe31.jpg"
           },
           "roit": {
-            "price": 0,
+            "price": 290,
             "priceType": "直售",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "这个炫彩曾在2023年期间作为礼包专属发布。"
+            "description": ""
           },
           "riotName": "玉剑传说 舞龙卫 胭脂",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102018.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -79,18 +94,25 @@
           "id": 102019,
           "name": "玉剑传说 舞龙卫 珐琅",
           "sortName": "珐琅",
-          "colorName": "",
+          "colorName": "蓝色",
           "tencent": {
             "price": 0,
-            "priceType": "",
+            "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
-            "price": 0,
+            "price": 290,
             "priceType": "直售",
             "priceStartDay": "",
             "priceEndDay": "",
@@ -99,7 +121,14 @@
           "riotName": "玉剑传说 舞龙卫 珐琅",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102019.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -109,18 +138,25 @@
           "id": 102020,
           "name": "玉剑传说 舞龙卫 翡翠",
           "sortName": "翡翠",
-          "colorName": "",
+          "colorName": "绿色",
           "tencent": {
             "price": 0,
-            "priceType": "创作者的观众赠品",
+            "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
-            "price": 0,
+            "price": 290,
             "priceType": "直售",
             "priceStartDay": "",
             "priceEndDay": "",
@@ -129,7 +165,14 @@
           "riotName": "玉剑传说 舞龙卫 翡翠",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102020.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2DA130",
             "#2DA130"
@@ -139,18 +182,25 @@
           "id": 102021,
           "name": "玉剑传说 舞龙卫 黄栌",
           "sortName": "黄栌",
-          "colorName": "",
+          "colorName": "黄色",
           "tencent": {
             "price": 0,
-            "priceType": "",
+            "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
-            "price": 0,
+            "price": 290,
             "priceType": "直售",
             "priceStartDay": "",
             "priceEndDay": "",
@@ -159,7 +209,14 @@
           "riotName": "玉剑传说 舞龙卫 黄栌",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102021.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFEE59",
             "#FFEE59"
@@ -169,18 +226,25 @@
           "id": 102022,
           "name": "玉剑传说 舞龙卫 紫檀",
           "sortName": "紫檀",
-          "colorName": "",
+          "colorName": "紫色",
           "tencent": {
             "price": 0,
-            "priceType": "",
+            "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
-            "price": 0,
+            "price": 290,
             "priceType": "直售",
             "priceStartDay": "",
             "priceEndDay": "",
@@ -189,7 +253,14 @@
           "riotName": "玉剑传说 舞龙卫 紫檀",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102022.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#54209B",
             "#54209B"
@@ -199,18 +270,25 @@
           "id": 102023,
           "name": "玉剑传说 舞龙卫 墨云",
           "sortName": "墨云",
-          "colorName": "",
+          "colorName": "黑色",
           "tencent": {
             "price": 0,
-            "priceType": "",
+            "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
-            "price": 0,
+            "price": 290,
             "priceType": "直售",
             "priceStartDay": "",
             "priceEndDay": "",
@@ -219,7 +297,14 @@
           "riotName": "玉剑传说 舞龙卫 墨云",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102023.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#27211C",
             "#27211C"
@@ -229,18 +314,25 @@
           "id": 102024,
           "name": "玉剑传说 舞龙卫 丁香",
           "sortName": "丁香",
-          "colorName": "",
+          "colorName": "粉色",
           "tencent": {
             "price": 0,
-            "priceType": "礼包",
+            "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
-            "price": 0,
+            "price": 290,
             "priceType": "直售",
             "priceStartDay": "",
             "priceEndDay": "",
@@ -249,7 +341,14 @@
           "riotName": "玉剑传说 舞龙卫 丁香",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102024.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#E58BA5",
             "#E58BA5"
@@ -259,18 +358,26 @@
           "id": 102025,
           "name": "玉剑传说 舞龙卫 珠光",
           "sortName": "珠光",
-          "colorName": "",
+          "colorName": "白色",
           "tencent": {
             "price": 0,
-            "priceType": "",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
+            "priceType": "臻彩",
+            "priceStartDay": "2026年2月4日",
+            "priceEndDay": "2026年4月1日23:59",
+            "description": "比尔吉沃特黑市 消耗9000银蛇币",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/al7xewy0p08wowr38k54tiu9nrpwc9vv.jpg"
           },
           "roit": {
-            "price": 0,
+            "price": 290,
             "priceType": "直售",
             "priceStartDay": "",
             "priceEndDay": "",
@@ -279,7 +386,14 @@
           "riotName": "玉剑传说 舞龙卫 珠光",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102025.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"

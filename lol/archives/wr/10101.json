@@ -16,7 +16,7 @@
       "priceUnit": "点券",
       "skinline": "告白乐章",
       "universe": "",
-      "pushDate": "",
+      "pushDate": "7.0",
       "series": null,
       "backstory": "自梅尔与杰斯创立乐团以来，维洛利亚逐渐汇聚了来自世界各地的乐师，成为蜚声遐迩的音乐之都。如今，两人早已淡出舞台，而维洛利亚的街巷却永远浸润在乐声之中。曾经的浪漫情谊，也在音符间流转，被用作铭记心声的经典曲调。",
       "accessories": [
@@ -48,16 +48,9 @@
       "chromas": [],
       "formsCount": null,
       "forms": [],
-      "version": {
-        "push": "7.0",
-        "update": "",
-        "updateChinese": "",
-        "updateName": "",
-        "video": ""
-      },
       "sell": {
         "startDate": "2026年3月13日",
-        "endDate": "2026年4月12日",
+        "endDate": "2026年4月12日23:59",
         "description": "",
         "activityTitle": "",
         "price": "",
