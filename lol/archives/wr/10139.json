@@ -1,0 +1,68 @@
+{
+  "id": 10139,
+  "name": "梅尔",
+  "alias": "meier",
+  "key": "10139",
+  "title": "流光镜影",
+  "skins": [
+    {
+      "id": 1013902,
+      "name": "告白乐章·情声 梅尔",
+      "roitName": "Confession Melody Mel",
+      "sortName": "告白乐章·情声",
+      "rarity": "史诗",
+      "raritySubType": "告白气球",
+      "price": "1090",
+      "priceUnit": "点券",
+      "skinline": "告白乐章",
+      "universe": "",
+      "pushDate": "7.0",
+      "series": null,
+      "backstory": "作为最负盛名的钢琴家，梅尔凭借斐然声望与卓绝才能创办了维洛利亚皇家乐团，并出任首任团长。在无数个筹备创团的深夜，是鼓手杰斯始终陪伴左右，与她一同见证乐团从构想走向现实。",
+      "accessories": [
+        "边框",
+        "姿态：扬手",
+        "姿态：华丽舞姿"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Mel_1.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_mel_skin01.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013902.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年3月13日",
+        "endDate": "2026年4月12日",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
