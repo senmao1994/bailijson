@@ -57,7 +57,7 @@
       },
       "sell": {
         "startDate": "2026年3月13日",
-        "endDate": "2026年4月12日",
+        "endDate": "2026年4月12日23:59",
         "description": "",
         "activityTitle": "",
         "price": "",
