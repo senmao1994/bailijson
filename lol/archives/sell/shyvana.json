@@ -503,7 +503,7 @@
           },
           "riotName": "破败军团 希瓦娜 山峰征伐使",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102010.png",
-          "mythicIcon": null,
+          "mythicIcon": "",
           "wildRiftSell": null,
           "colors": [
             "#DF9117",
@@ -683,7 +683,7 @@
           },
           "riotName": "破败军团 希瓦娜 咒缚征伐使",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102016.png",
-          "mythicIcon": null,
+          "mythicIcon": "5010",
           "wildRiftSell": null,
           "colors": [
             "#050B19",
