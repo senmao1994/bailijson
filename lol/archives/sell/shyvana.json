@@ -700,6 +700,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 102006,
+      "name": "银河魔装机神 希瓦娜",
+      "roitName": "Super Galaxy Shyvana",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "银河魔装机神",
+      "universe": "",
+      "pushDate": "2016年5月25日",
+      "series": null,
+      "backstory": "作为超级银河战队中最有经验的元老，希瓦娜正是她的队友们极度需要的领袖。﻿作为一个来自不同防御部队（但同样有着夸张的名字）的驾驶员，希瓦娜有时表现古怪，甚至会把友军当作敌人对待——并且会周期性地质疑自己额外10%的工资是否对得起自己的付出。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin06/images/shyvana_splash_uncentered_6.shyvana_rework.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin06/images/shyvana_splash_tile_6.shyvana_rework.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin06/images/shyvana_splash_centered_6.shyvana_rework.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin06/shyvanaloadscreen_6.shyvana_rework.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "1157",
+      "tencent": {
+        "price": 6900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2016年5月25日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.10",
+        "update": "26.06",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
