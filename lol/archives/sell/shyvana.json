@@ -748,6 +748,88 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 102005,
+      "name": "冠军之血 希瓦娜",
+      "roitName": "Worlds 2014 Shyvana",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "全球总决赛冠军",
+      "universe": "电竞",
+      "pushDate": "2014年10月13日",
+      "series": null,
+      "backstory": "以此庆祝2014年在韩国举办的全球总决赛。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin05/images/shyvana_splash_uncentered_5.shyvana_rework.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin05/images/shyvana_splash_tile_5.shyvana_rework.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin05/images/shyvana_splash_centered_5.shyvana_rework.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102005.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin05/shyvanaloadscreen_5.shyvana_rework.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin05/shyvanaloadscreen_5_le.shyvana_rework.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "限定",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "3626",
+      "tencent": {
+        "price": 6900,
+        "priceType": "限定",
+        "priceTypeChinese": "全球总决赛限定",
+        "priceStartDay": "2018年11月16日23:00",
+        "priceEndDay": " 2018年11月20日14:59 ",
+        "description": "皮肤2014年10月16日上架每年全球赛事期间返场销售",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 102007,
+          "name": "冠军之血 希瓦娜 凯旋圣装",
+          "sortName": "凯旋圣装",
+          "colorName": "炫金",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2018年11月16日23:00",
+            "priceEndDay": " 2018年11月20日14:59 ",
+            "description": "首发2018世界赛通行证代币兑换 后续腾讯服炫金臻彩",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aoa7ziesw02em0mfyq3tyk5o4vny5jgy.jpg"
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "冠军之血 希瓦娜 凯旋圣装",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/102/102007.png",
+          "mythicIcon": "3782",
+          "wildRiftSell": null,
+          "colors": [
+            "#FFC948",
+            "#FFC948"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "4.18",
+        "update": "26.06",
+        "updateChinese": "游戏玩法更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
