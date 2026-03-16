@@ -1022,6 +1022,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 102000,
+      "name": "龙血武姬",
+      "roitName": "The Half-Dragon Shyvana",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "德玛西亚",
+      "universe": "英雄联盟宇宙",
+      "pushDate": "2011年11月1日",
+      "series": null,
+      "backstory": "希瓦娜是一位迅猛的半龙人战士。 她平时以人的形象出现，但也能以巨龙的身姿统治天空，用龙息烈焰焚尽敌人。 作为皇子嘉文四世曾经的救命恩人，希瓦娜如今在皇子的卫队中效力。她兢兢业业，试图在多疑的德玛西亚人中求得接纳。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/base/images/shyvana_splash_uncentered_0.shyvana_rework.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/base/images/shyvana_splash_tile_0.shyvana_rework.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/base/images/shyvana_splash_centered_0.shyvana_rework.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/base/shyvanaloadscreen_0.shyvana_rework.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "7107",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2025年3月19日",
+        "priceEndDay": "4月15日23:59",
+        "description": "希瓦娜 英雄肖像 图标 II",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.128",
+        "update": "26.06",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
