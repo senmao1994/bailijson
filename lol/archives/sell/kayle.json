@@ -326,6 +326,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 10067,
+      "name": "至臻 至高天 凯尔",
+      "roitName": "Prestige Empyrean Kayle",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "至高天",
+      "universe": "霓虹宙壳",
+      "pushDate": null,
+      "series": null,
+      "backstory": "当火焰席卷凯尔的工作室时，起初她悲痛欲绝。她失去了一切，但随后意识到大火让她可以自由地去完成更多事情——以及成就。现在，她带着她的新系列重返盛会，新系列名为“霓虹烈焰”，融汇了不同的风格、材料和形式。凯尔已经重生，并且她将会超越所有人。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin67/images/kayle_splash_uncentered_67.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin67/images/kayle_splash_tile_67.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin67/images/kayle_splash_centered_67.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin67/kayleloadscreen_67.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin67/kayleloadscreen_67_le.jpg",
+      "roit": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "6594",
+      "tencent": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2024年5月7日10:00",
+        "priceEndDay": "2024年6月11日18:00",
+        "description": "首发至高天2024通行证 | 神话商店 双周轮换",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.9",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
