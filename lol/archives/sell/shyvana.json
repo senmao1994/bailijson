@@ -704,7 +704,7 @@
     {
       "id": 102006,
       "name": "银河魔装机神 希瓦娜",
-      "roitName": "Super Galaxy Shyvana",
+      "roitName": "",
       "sortName": null,
       "rarity": "史诗",
       "raritySubType": null,
@@ -734,7 +734,7 @@
         "priceType": "直售",
         "priceTypeChinese": "",
         "priceStartDay": "2016年5月25日",
-        "priceEndDay": "",
+        "priceEndDay": "14.5版本已下架",
         "description": "",
         "hasFullGiftPack": false
       },
