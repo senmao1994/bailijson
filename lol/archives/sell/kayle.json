@@ -1,0 +1,331 @@
+{
+  "id": "kayle",
+  "name": "正义天使",
+  "alias": "Kayle",
+  "key": 10,
+  "title": "凯尔",
+  "skins": [
+    {
+      "id": 10078,
+      "name": "灵魂莲华 凯尔",
+      "roitName": "Spirit Blossom Kayle",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "灵魂莲华",
+      "universe": "灵魂莲华",
+      "pushDate": "2025年6月26日",
+      "series": null,
+      "backstory": "初生之灵创造了一对姐妹——姐姐生自树木坚实的枝干，妹妹则是转瞬即逝的花朵——并为她们起名为“林之守卫”。姐姐勇毅坚定，公正严明。妹妹虽有强大的力量，内心却饱受折磨——她创造出诸多恶魔子嗣，逼得初生之灵不得不将其困在林地之中。妹妹遭到封印后，林之守卫就一直守护着这片土地，一刻也不曾懈怠。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin78/images/kayle_splash_uncentered_78.skins_kayle_skin78.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin78/images/kayle_splash_tile_78.skins_kayle_skin78.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin78/images/kayle_splash_centered_78.skins_kayle_skin78.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10078.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin78/kayleloadscreen_78.skins_kayle_skin78.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin78/kayleloadscreen_78_le.skins_kayle_skin78.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "6890",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2025年6月26日",
+        "priceEndDay": "2025年08月27日23:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 10079,
+          "name": "灵魂莲华 凯尔 流火",
+          "sortName": "流火",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2025年6月26日",
+            "priceEndDay": "2025年07月10日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "这个炫彩曾在2025年期间作为礼包专属发布。"
+          },
+          "riotName": "灵魂莲华 凯尔 流火",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10079.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 10080,
+          "name": "灵魂莲华 凯尔 鸣蜩",
+          "sortName": "鸣蜩",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵魂莲华 凯尔 鸣蜩",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10080.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 10081,
+          "name": "灵魂莲华 凯尔 云开",
+          "sortName": "云开",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵魂莲华 凯尔 云开",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10081.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 10082,
+          "name": "灵魂莲华 凯尔 星回",
+          "sortName": "星回",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵魂莲华 凯尔 星回",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10082.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 10083,
+          "name": "灵魂莲华 凯尔 雪落",
+          "sortName": "雪落",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年6月26日",
+            "priceEndDay": "2025年07月10日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵魂莲华 凯尔 雪落",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10083.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 10084,
+          "name": "灵魂莲华 凯尔 风起",
+          "sortName": "风起",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年6月26日",
+            "priceEndDay": "2025年07月10日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵魂莲华 凯尔 风起",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10084.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 10085,
+          "name": "灵魂莲华 凯尔 春晓",
+          "sortName": "春晓",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2025年8月15日",
+            "priceEndDay": "2025年9月7日23:59",
+            "description": "璀璨臻彩召唤20250815特等奖",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aelp890i6gquobzlhy978fh6g5q71p9g.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵魂莲华 凯尔 春晓",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10085.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 10086,
+          "name": "灵魂莲华 凯尔 月升",
+          "sortName": "月升",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年6月26日",
+            "priceEndDay": "2025年07月10日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵魂莲华 凯尔 月升",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10086.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 10087,
+          "name": "灵魂莲华 凯尔 至强",
+          "sortName": "至强",
+          "colorName": "圣堂",
+          "tencent": {
+            "price": 10,
+            "priceType": "圣堂抽奖",
+            "priceStartDay": "2025年6月26日",
+            "priceEndDay": "2025年8月27日",
+            "description": "随[灵魂莲华 莫甘娜]上架圣堂奖池",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 10,
+            "priceType": "圣堂抽奖",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": " "
+          },
+          "riotName": "灵魂莲华 凯尔 至强",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10087.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#BCD6EF",
+            "#547DF1"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "25.13",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
