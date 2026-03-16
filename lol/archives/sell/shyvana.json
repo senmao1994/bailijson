@@ -830,6 +830,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 102004,
+      "name": "冰霜亚龙 希瓦娜",
+      "roitName": "Ice Drake Shyvana",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "黯晶",
+      "universe": "黯晶",
+      "pushDate": "2013年4月29日",
+      "series": null,
+      "backstory": "在北方的荒凉地带，一只休眠的幼龙正躺在那里休息。希瓦娜一到，这头庞然大物便从沉睡中苏醒，并为她灌注了冰冻废土的力量。现在她在苔原上追猎，搜寻着任何蠢到挡住她路的蠢货。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin04/images/shyvana_splash_uncentered_4.shyvana_rework.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin04/images/shyvana_splash_tile_4.shyvana_rework.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin04/images/shyvana_splash_centered_4.shyvana_rework.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin04/shyvanaloadscreen_4.shyvana_rework.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2013年4月29日",
+        "priceEndDay": "14.5版本已下架",
+        "description": "VGU2026于2026年3月19日上线",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "3.6",
+        "update": "26.06",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
