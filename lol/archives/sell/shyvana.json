@@ -926,6 +926,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 102001,
+      "name": "钢之逆鳞 希瓦娜",
+      "roitName": "Shyvana Ironscale",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "珍宝",
+      "universe": "珍宝",
+      "pushDate": "2011年11月1日",
+      "series": null,
+      "backstory": "暂无背景故事",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin01/images/shyvana_splash_uncentered_1.shyvana_rework.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin01/images/shyvana_splash_tile_1.shyvana_rework.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin01/images/shyvana_splash_centered_1.shyvana_rework.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin01/shyvanaloadscreen_1.shyvana_rework.jpg",
+      "roit": {
+        "price": 750,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年11月1日",
+        "priceEndDay": "14.5版本已下架",
+        "description": "VGU2026于2026年3月19日上线",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.128",
+        "update": "26.06",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
