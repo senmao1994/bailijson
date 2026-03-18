@@ -14,8 +14,8 @@
       "raritySubType": null,
       "price": null,
       "priceUnit": null,
-      "skinline": null,
-      "universe": null,
+      "skinline": "银焰骑士",
+      "universe": "",
       "pushDate": "2026年3月18日",
       "series": null,
       "backstory": "警告：发现离群的狼人。代号“沃里克”的可疑分子已被归类为“活体武器”。一半是狼，一半是机器。高度危险，拥有一个自我修复的躯体以及对“迅银”的无终饥渴。务必格外小心，携带反制治疗的对策手段，非必要时*不要*与他交战。请联系当地守望者们进行回收。",
@@ -40,9 +40,9 @@
         "priceType": "直售",
         "priceTypeChinese": "",
         "priceStartDay": "2026年3月19日",
-        "priceEndDay": "2026年4月16日",
+        "priceEndDay": "2026年4月2日9:59",
         "description": "",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -51,10 +51,10 @@
           "sortName": "红焰迅牙",
           "colorName": "红色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2026年3月19日",
+            "priceEndDay": "2026年4月2日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -95,10 +95,10 @@
           "sortName": "黄焰猛牙",
           "colorName": "黄色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年3月19日",
+            "priceEndDay": "2026年4月2日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -139,10 +139,10 @@
           "sortName": "绿焰霸牙",
           "colorName": "绿色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年3月19日",
+            "priceEndDay": "2026年4月2日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -183,10 +183,10 @@
           "sortName": "靛焰威牙",
           "colorName": "紫色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年3月19日",
+            "priceEndDay": "2026年4月2日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -227,10 +227,10 @@
           "sortName": "青焰蛮牙",
           "colorName": "青色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年3月19日",
+            "priceEndDay": "2026年4月2日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -271,10 +271,10 @@
           "sortName": "粉焰傲牙",
           "colorName": "粉色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年3月19日",
+            "priceEndDay": "2026年4月2日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
