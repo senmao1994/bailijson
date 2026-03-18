@@ -34,7 +34,7 @@
         "description": ""
       },
       "tencentPrice": 8900,
-      "icon": "7110",
+      "icon": "7111",
       "tencent": {
         "price": 8900,
         "priceType": "直售",
@@ -42,7 +42,7 @@
         "priceStartDay": "2026年3月19日",
         "priceEndDay": "2026年4月2日9:59",
         "description": "",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
