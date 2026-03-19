@@ -1,0 +1,300 @@
+{
+  "id": "alistar",
+  "name": "牛头酋长",
+  "alias": "Alistar",
+  "key": 12,
+  "title": "阿利斯塔",
+  "skins": [
+    {
+      "id": 12040,
+      "name": "永恒之森 阿利斯塔",
+      "roitName": "Elderwood Alistar",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "永恒之森",
+      "universe": "日月之蚀",
+      "pushDate": null,
+      "series": null,
+      "backstory": "“最深的树根难及之地，束缚的枷锁断碎。双角将林地夜空刺开——强大的野牛梦回。泥土与苔藓砌成其皮，花岗塑其蹄与背。虽有智者畏惧其能耐，其报众生以德惠。”——撼森者的歌谣",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin40/images/alistar_splash_uncentered_40.skins_alistar_skin40.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin40/images/alistar_splash_tile_40.skins_alistar_skin40.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin40/images/alistar_splash_centered_40.skins_alistar_skin40.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12040.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin40/alistarloadscreen_40.skins_alistar_skin40.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin40/alistarloadscreen_40_le.skins_alistar_skin40.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "6929",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2025年8月28日",
+        "priceEndDay": "2025年9月21日23:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 12041,
+          "name": "永恒之森 阿利斯塔 焰枫",
+          "sortName": "焰枫",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2025年8月28日",
+            "priceEndDay": "2025年9月11日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "永恒之森 阿利斯塔 焰枫",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12041.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 12042,
+          "name": "永恒之森 阿利斯塔 辉瓣",
+          "sortName": "辉瓣",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "永恒之森 阿利斯塔 辉瓣",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12042.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 12043,
+          "name": "永恒之森 阿利斯塔 永茂",
+          "sortName": "永茂",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年8月28日",
+            "priceEndDay": "2025年9月11日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "永恒之森 阿利斯塔 永茂",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12043.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 12044,
+          "name": "永恒之森 阿利斯塔 桔梗",
+          "sortName": "桔梗",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年8月28日",
+            "priceEndDay": "2025年9月11日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "永恒之森 阿利斯塔 桔梗",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12044.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 12045,
+          "name": "永恒之森 阿利斯塔 寒楹",
+          "sortName": "寒楹",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年8月28日",
+            "priceEndDay": "2025年9月11日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "永恒之森 阿利斯塔 寒楹",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12045.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 12046,
+          "name": "永恒之森 阿利斯塔 樱落",
+          "sortName": "樱落",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "永恒之森 阿利斯塔 樱落",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12046.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 12047,
+          "name": "永恒之森 阿利斯塔 冰桦",
+          "sortName": "冰桦",
+          "colorName": "白色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "永恒之森 阿利斯塔 冰桦",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12047.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 12048,
+          "name": "永恒之森 阿利斯塔 月见",
+          "sortName": "月见",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年8月28日",
+            "priceEndDay": "2025年9月11日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "永恒之森 阿利斯塔 月见",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12048.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "25.17",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
