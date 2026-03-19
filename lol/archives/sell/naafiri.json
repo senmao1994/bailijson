@@ -6,26 +6,25 @@
   "title": "纳亚菲利",
   "skins": [
     {
-      "id": 950029,
-      "name": "银焰骑士 纳亚菲利",
-      "roitName": "Warhound Naafiri",
+      "id": 950020,
+      "name": "热狗 纳亚菲利",
+      "roitName": "Glizzy Naafiri",
       "sortName": null,
       "rarity": "史诗",
       "raritySubType": null,
       "price": null,
       "priceUnit": null,
-      "skinline": null,
-      "universe": null,
-      "pushDate": "2026年3月18日",
+      "skinline": "美食大战",
+      "universe": "饭点激战",
+      "pushDate": null,
       "series": null,
-      "backstory": "警告：纳亚菲利，“新月狼群”的头领，在这个地区很活跃。曾经是人，现在是狼，她已被证明拥有智识并且高度危险。她声称狼是“高等存在”并通过“迅银”引发的狼人症来给她的追随者灌输这种思想。纳亚菲利捕食落单的旅行者，并且总是成群结队地狩猎；*不要*在没有支援的情况下追击。",
+      "backstory": "两块面包之间的最佳小伙伴，纳亚菲利为“腊肠犬”这一品种赋予了新的含义。",
       "accessories": [],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin29/images/naafiri_splash_uncentered_29.skins_naafiri_skin29.jpg",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin29/images/naafiri_splash_tile_29.skins_naafiri_skin29.jpg",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin29/images/naafiri_splash_centered_29.skins_naafiri_skin29.jpg",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950029.png",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin29/naafiriloadscreen_29.skins_naafiri_skin29.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin29/naafiriloadscreen_29_le.skins_naafiri_skin29.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/images/naafiri_splash_uncentered_20.skins_naafiri_skin20.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/images/naafiri_splash_tile_20.skins_naafiri_skin20.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/images/naafiri_splash_centered_20.skins_naafiri_skin20.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950020.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/naafiriloadscreen_20.skins_naafiri_skin20.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -34,37 +33,30 @@
         "description": ""
       },
       "tencentPrice": 8900,
-      "icon": "7111",
+      "icon": "",
       "tencent": {
         "price": 8900,
         "priceType": "直售",
         "priceTypeChinese": "",
-        "priceStartDay": "2026年3月19日",
-        "priceEndDay": "2026年4月2日9:59",
+        "priceStartDay": "2025年4月2日版本更新后",
+        "priceEndDay": "",
         "description": "",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
-          "id": 950030,
-          "name": "银焰骑士 纳亚菲利 红焰迅牙",
-          "sortName": "红焰迅牙",
-          "colorName": "红色",
+          "id": 950021,
+          "name": "热狗 纳亚菲利 红肠",
+          "sortName": "红肠",
+          "colorName": "",
           "tencent": {
             "price": 2000,
             "priceType": "礼包",
-            "priceStartDay": "2026年3月19日",
-            "priceEndDay": "2026年4月2日9:59",
+            "priceStartDay": "2025年4月2日",
+            "priceEndDay": "2025年4月16日9:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
+            "wildRiftSell": null
           },
           "roit": {
             "price": 290,
@@ -73,26 +65,19 @@
             "priceEndDay": "",
             "description": ""
           },
-          "riotName": "银焰骑士 纳亚菲利 红焰迅牙",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950030.png",
+          "riotName": "热狗 纳亚菲利 红肠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950021.png",
           "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
+          "wildRiftSell": null,
           "colors": [
             "#D33528",
             "#D33528"
           ]
         },
         {
-          "id": 950031,
-          "name": "银焰骑士 纳亚菲利 黄焰猛牙",
-          "sortName": "黄焰猛牙",
+          "id": 950022,
+          "name": "热狗 纳亚菲利 玉米肠",
+          "sortName": "玉米肠",
           "colorName": "黄色",
           "tencent": {
             "price": 0,
@@ -101,14 +86,7 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
+            "wildRiftSell": null
           },
           "roit": {
             "price": 290,
@@ -117,174 +95,28 @@
             "priceEndDay": "",
             "description": ""
           },
-          "riotName": "银焰骑士 纳亚菲利 黄焰猛牙",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950031.png",
+          "riotName": "热狗 纳亚菲利 玉米肠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950022.png",
           "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
+          "wildRiftSell": null,
           "colors": [
             "#FFEE59",
             "#FFEE59"
           ]
         },
         {
-          "id": 950032,
-          "name": "银焰骑士 纳亚菲利 粉焰傲牙",
-          "sortName": "粉焰傲牙",
-          "colorName": "粉色",
-          "tencent": {
-            "price": 2000,
-            "priceType": "限时直售",
-            "priceStartDay": "2026年3月19日",
-            "priceEndDay": "2026年4月2日9:59",
-            "description": "",
-            "hasFullGiftPack": false,
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "银焰骑士 纳亚菲利 粉焰傲牙",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950032.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#E58BA5",
-            "#E58BA5"
-          ]
-        },
-        {
-          "id": 950033,
-          "name": "银焰骑士 纳亚菲利 青焰蛮牙",
-          "sortName": "青焰蛮牙",
-          "colorName": "青色",
-          "tencent": {
-            "price": 2000,
-            "priceType": "限时直售",
-            "priceStartDay": "2026年3月19日",
-            "priceEndDay": "2026年4月2日9:59",
-            "description": "",
-            "hasFullGiftPack": false,
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "银焰骑士 纳亚菲利 青焰蛮牙",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950033.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#73BFBE",
-            "#73BFBE"
-          ]
-        },
-        {
-          "id": 950034,
-          "name": "银焰骑士 纳亚菲利 蓝焰幸牙",
-          "sortName": "蓝焰幸牙",
-          "colorName": "蓝色",
-          "tencent": {
-            "price": 2000,
-            "priceType": "限时直售",
-            "priceStartDay": "2026年3月19日",
-            "priceEndDay": "2026年4月2日9:59",
-            "description": "",
-            "hasFullGiftPack": false,
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "银焰骑士 纳亚菲利 蓝焰幸牙",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950034.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#2756CE",
-            "#2756CE"
-          ]
-        },
-        {
-          "id": 950035,
-          "name": "银焰骑士 纳亚菲利 绿焰霸牙",
-          "sortName": "绿焰霸牙",
+          "id": 950023,
+          "name": "热狗 纳亚菲利 绿肠",
+          "sortName": "绿肠",
           "colorName": "绿色",
           "tencent": {
             "price": 2000,
             "priceType": "限时直售",
-            "priceStartDay": "2026年3月19日",
-            "priceEndDay": "2026年4月2日9:59",
+            "priceStartDay": "2025年4月2日",
+            "priceEndDay": "2025年4月16日9:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
+            "wildRiftSell": null
           },
           "roit": {
             "price": 290,
@@ -293,42 +125,28 @@
             "priceEndDay": "",
             "description": ""
           },
-          "riotName": "银焰骑士 纳亚菲利 绿焰霸牙",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950035.png",
+          "riotName": "热狗 纳亚菲利 绿肠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950023.png",
           "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
+          "wildRiftSell": null,
           "colors": [
             "#2DA130",
             "#2DA130"
           ]
         },
         {
-          "id": 950036,
-          "name": "银焰骑士 纳亚菲利 黑焰劲牙",
-          "sortName": "黑焰劲牙",
-          "colorName": "黑色",
+          "id": 950024,
+          "name": "热狗 纳亚菲利 紫薯肠",
+          "sortName": "紫薯肠",
+          "colorName": "紫色",
           "tencent": {
             "price": 2000,
             "priceType": "限时直售",
-            "priceStartDay": "2026年3月19日",
-            "priceEndDay": "2026年4月2日9:59",
+            "priceStartDay": "2025年4月2日",
+            "priceEndDay": "2025年4月16日9:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
+            "wildRiftSell": null
           },
           "roit": {
             "price": 290,
@@ -337,27 +155,50 @@
             "priceEndDay": "",
             "description": ""
           },
-          "riotName": "银焰骑士 纳亚菲利 黑焰劲牙",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950036.png",
+          "riotName": "热狗 纳亚菲利 紫薯肠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950024.png",
           "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
+          "wildRiftSell": null,
           "colors": [
-            "#27211C",
-            "#27211C"
+            "#54209B",
+            "#54209B"
           ]
         },
         {
-          "id": 950037,
-          "name": "银焰骑士 纳亚菲利 白焰凶牙",
-          "sortName": "白焰凶牙",
-          "colorName": "白色",
+          "id": 950025,
+          "name": "热狗 纳亚菲利 蓝香肠果",
+          "sortName": "蓝香肠果",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年4月2日",
+            "priceEndDay": "2025年4月16日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "热狗 纳亚菲利 蓝香肠果",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950025.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 950026,
+          "name": "热狗 纳亚菲利 火腿肠",
+          "sortName": "火腿肠",
+          "colorName": "粉色",
           "tencent": {
             "price": 0,
             "priceType": "暂无",
@@ -365,14 +206,7 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
+            "wildRiftSell": null
           },
           "roit": {
             "price": 290,
@@ -381,17 +215,70 @@
             "priceEndDay": "",
             "description": ""
           },
-          "riotName": "银焰骑士 纳亚菲利 白焰凶牙",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950037.png",
+          "riotName": "热狗 纳亚菲利 火腿肠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950026.png",
           "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 950027,
+          "name": "热狗 纳亚菲利 墨鱼肠",
+          "sortName": "墨鱼肠",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年4月2日",
+            "priceEndDay": "2025年4月16日9:59",
             "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
           },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "热狗 纳亚菲利 墨鱼肠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950027.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 950028,
+          "name": "热狗 纳亚菲利 白香肠",
+          "sortName": "白香肠",
+          "colorName": "白色",
+          "tencent": {
+            "price": 4900,
+            "priceType": "惊喜礼盒",
+            "priceStartDay": "2025年4月2日",
+            "priceEndDay": "2025年4月16日9:59",
+            "description": "沙碉碉惊喜礼盒 | 沙滩聚会究极大礼包",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "热狗 纳亚菲利 白香肠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
@@ -401,7 +288,7 @@
       "formsCount": null,
       "forms": [],
       "version": {
-        "push": "26.06",
+        "push": "25.07",
         "update": "",
         "updateChinese": "",
         "updateName": "",
