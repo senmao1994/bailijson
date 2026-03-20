@@ -1,0 +1,67 @@
+{
+  "id": 10126,
+  "name": "斯维因",
+  "alias": "siweiyin",
+  "key": "10126",
+  "title": "诺克萨斯统领",
+  "skins": [
+    {
+      "id": 1012605,
+      "name": "黑夜使者 斯维因",
+      "roitName": "Nightbringer Swain",
+      "sortName": "黑夜使者",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "交锋",
+      "universe": "秩序对决混沌",
+      "pushDate": "",
+      "series": null,
+      "backstory": "混沌的尊神斯维因以细致入微且耐心十足的破坏意志，在狂热的诸神中独树一帜。在他的鸦眼之中，黑夜的胜利已然注定。然而凯旋并非终点，仍须不遗余力地确保混沌之翼遮蔽一切希望，防止秩序复苏，卷土重来。",
+      "accessories": [
+        "边框",
+        "姿态：主宰"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Swain_4.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_swain_skin04.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012605.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年5月30日",
+        "endDate": "长期销售",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
