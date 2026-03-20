@@ -407,6 +407,87 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 19056,
+      "name": "双城之战2 范德尔 沃里克",
+      "roitName": "Arcane Vander Warwick",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "双城之战",
+      "universe": "双城之战",
+      "pushDate": null,
+      "series": null,
+      "backstory": "即使祖安已经陷入了更深的腐败泥潭，这座底城依旧有许多人在为范德尔哀悼。没人知道他其实还残存于世，他那因微光而扭曲的身体，此刻正深藏于辛吉德的实验室之中。受尽折磨的他最终重生为怪物沃里克，彻底变成一头充满原始愤怒的野兽，即将为祸人间。但如果范德尔尚存一丝人性……那他是否还能得救？",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin56/images/warwick_splash_uncentered_56.skins_warwick_skin56.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin56/images/warwick_splash_tile_56.skins_warwick_skin56.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin56/images/warwick_splash_centered_56.skins_warwick_skin56.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19056.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin56/warwickloadscreen_56.skins_warwick_skin56.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin56/warwickloadscreen_56_le.skins_warwick_skin56.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "6775",
+      "tencent": {
+        "price": 8900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "限定",
+        "priceStartDay": "2024年12月12日",
+        "priceEndDay": "2024年12月31日9:59",
+        "description": "双城之战皮肤限定 | 随 双城之战 破碎者 金克丝 返场",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 19057,
+          "name": "双城之战2 范德尔 沃里克 典范",
+          "sortName": "典范",
+          "colorName": "圣堂",
+          "tencent": {
+            "price": 10,
+            "priceType": "圣堂抽奖",
+            "priceStartDay": "2024年12月12日",
+            "priceEndDay": "2025年1月13日",
+            "description": "【双城之战 破碎者 金克丝】A阶奖池炫彩",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "这个炫彩曾作为【圣堂】系统的一个专属掉落发布。"
+          },
+          "riotName": "双城之战2 范德尔 沃里克 典范",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19057.png",
+          "mythicIcon": "6776",
+          "wildRiftSell": null,
+          "colors": [
+            "#BCD6EF",
+            "#474AF7"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.24",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
