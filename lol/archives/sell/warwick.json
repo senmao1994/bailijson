@@ -858,6 +858,327 @@
         "updateName": "",
         "video": "14.22"
       }
+    },
+    {
+      "id": 19035,
+      "name": "古神 沃里克",
+      "roitName": "Old God Warwick",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "魔女",
+      "universe": "日月之蚀",
+      "pushDate": null,
+      "series": null,
+      "backstory": "曾被称为父狼的沃里克在树林中漫游，沉醉在月光的血腥狩猎中。 星蚀教团想在他的巢穴中杀死他并结束他的野蛮行径——但死亡对古神来说毫无意义，而且他并没有吃饱。父狼再一次在夜色中嗥叫，现在正在为鲜肉的滋味儿垂涎不已。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin35/images/warwick_splash_uncentered_35.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin35/images/warwick_splash_tile_35.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin35/images/warwick_splash_centered_35.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19035.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin35/warwickloadscreen_35.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin35/warwickloadscreen_35_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "5036",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2021年8月13日10:00",
+        "priceEndDay": "2021年9月14日23:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 19036,
+          "name": "古神 沃里克 愤怒",
+          "sortName": "愤怒",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2021年8月13日10:00",
+            "priceEndDay": "2021年9月14日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "古神 沃里克 愤怒",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19036.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 19037,
+          "name": "古神 沃里克 暴食",
+          "sortName": "暴食",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "古神 沃里克 暴食",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19037.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 19038,
+          "name": "古神 沃里克 嫉妒",
+          "sortName": "嫉妒",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "古神 沃里克 嫉妒",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19038.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 19039,
+          "name": "古神 沃里克 虚荣",
+          "sortName": "虚荣",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "古神 沃里克 虚荣",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19039.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 19040,
+          "name": "古神 沃里克 贪婪",
+          "sortName": "贪婪",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2021年8月13日10:00",
+            "priceEndDay": "2021年9月14日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "古神 沃里克 贪婪",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19040.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 19041,
+          "name": "古神 沃里克 倦怠",
+          "sortName": "倦怠",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "古神 沃里克 倦怠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19041.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 19042,
+          "name": "古神 沃里克 傲慢",
+          "sortName": "傲慢",
+          "colorName": "浅蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "古神 沃里克 傲慢",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19042.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 19043,
+          "name": "古神 沃里克 饕餮",
+          "sortName": "饕餮",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "古神 沃里克 饕餮",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19043.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 19044,
+          "name": "古神 沃里克 狂信",
+          "sortName": "狂信",
+          "colorName": "魔女(2021)",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2021年8月13日10:00",
+            "priceEndDay": "2021年9月14日",
+            "description": "通行证战利品专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "古神 沃里克 狂信",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19044.png",
+          "mythicIcon": "5043",
+          "wildRiftSell": null,
+          "colors": [
+            "#162B30",
+            "#8E0A38"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "11.16",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "14.22"
+      }
     }
   ]
 }
