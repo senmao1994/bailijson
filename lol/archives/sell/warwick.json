@@ -1500,6 +1500,208 @@
         "updateName": "",
         "video": "14.22"
       }
+    },
+    {
+      "id": 19010,
+      "name": "南天之怒 沃里克 ",
+      "roitName": "Lunar Guardian Warwick",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "春节庆典",
+      "universe": "春节",
+      "pushDate": null,
+      "series": null,
+      "backstory": "作为小时候送给春晖神女的礼物，沃里克一直陪在她身边长大，守护天界不受黑暗入侵。他比自己的同伴内瑟斯更加狂暴和野性，沃里克一直守着南方，无情猎杀所有敌人直至世界的尽头。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin10/images/warwick_splash_uncentered_10.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin10/images/warwick_splash_tile_10.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin10/images/warwick_splash_centered_10.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19010.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin10/warwickloadscreen_10.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin10/warwickloadscreen_10_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 19900,
+      "icon": "3224",
+      "tencent": {
+        "price": 19900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "狗年限定",
+        "priceStartDay": "2018年2月8日",
+        "priceEndDay": "2018年3月4日",
+        "description": "首周半价",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 19011,
+          "name": "南天之怒 沃里克 天机",
+          "sortName": "天机",
+          "colorName": "红色",
+          "tencent": {
+            "price": 0,
+            "priceType": "抽奖兑换",
+            "priceStartDay": "2018年2月8日",
+            "priceEndDay": "2018年3月7日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "南天之怒 沃里克 天机",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19011.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 19012,
+          "name": "南天之怒 沃里克 天相",
+          "sortName": "天相",
+          "colorName": "棕色",
+          "tencent": {
+            "price": 0,
+            "priceType": "抽奖兑换",
+            "priceStartDay": "2018年2月8日",
+            "priceEndDay": "2018年3月7日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "南天之怒 沃里克 天相",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19012.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#5F432B",
+            "#5F432B"
+          ]
+        },
+        {
+          "id": 19013,
+          "name": "南天之怒 沃里克 天同",
+          "sortName": "天同",
+          "colorName": "白色",
+          "tencent": {
+            "price": 0,
+            "priceType": "抽奖兑换",
+            "priceStartDay": "2018年2月8日",
+            "priceEndDay": "2018年3月7日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "南天之怒 沃里克 天同",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19013.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 19014,
+          "name": "南天之怒 沃里克 天梁",
+          "sortName": "天梁",
+          "colorName": "青色",
+          "tencent": {
+            "price": 0,
+            "priceType": "抽奖兑换",
+            "priceStartDay": "2018年2月8日",
+            "priceEndDay": "2018年3月7日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "南天之怒 沃里克 天梁",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19014.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 19015,
+          "name": "南天之怒 沃里克 炫金天神",
+          "sortName": "炫金天神",
+          "colorName": "金色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2018年2月8日",
+            "priceEndDay": "2018年3月7日",
+            "description": "首发400金猪币 | 臻彩奖池产出",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/adu24sumcubafkt4ep14tb7b1j0oex3t.jpg"
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "南天之怒 沃里克 炫金天神",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19015.png",
+          "mythicIcon": "3883",
+          "wildRiftSell": null,
+          "colors": [
+            "#FFC948",
+            "#FFC948"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "8.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "14.22"
+      }
     }
   ]
 }
