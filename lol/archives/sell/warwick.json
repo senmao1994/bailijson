@@ -1702,6 +1702,54 @@
         "updateName": "",
         "video": "14.22"
       }
+    },
+    {
+      "id": 19009,
+      "name": "海牛狼人 沃里克",
+      "roitName": "Urfwick",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "海牛阿福",
+      "universe": "磨砺",
+      "pushDate": null,
+      "series": null,
+      "backstory": "",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin09/images/warwick_splash_uncentered_9.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin09/images/warwick_splash_tile_9.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin09/images/warwick_splash_centered_9.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin09/warwickloadscreen_9.jpg",
+      "roit": {
+        "price": 150000,
+        "priceType": "蓝色精萃",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150000,
+      "icon": "",
+      "tencent": {
+        "price": 150000,
+        "priceType": "蓝色精萃",
+        "priceTypeChinese": "",
+        "priceStartDay": "蓝色精萃商店",
+        "priceEndDay": "每年两次开放",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.2",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "14.23"
+      }
     }
   ]
 }
