@@ -1972,6 +1972,54 @@
         "updateName": "",
         "video": "14.23"
       }
+    },
+    {
+      "id": 19006,
+      "name": "火牙狼人 沃里克",
+      "roitName": "Firefang Warwick",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "地狱火",
+      "universe": "地狱火",
+      "pushDate": null,
+      "series": null,
+      "backstory": "灰烬领主的猎犬们散发着无法言说的炽热狱景之火，而它们的头目正是“焰牙”沃里克。他冲刷着大地上的任何未被火焰接触过的东西，无休止地狩猎着逃过了地狱火进攻的幸存者们，把他们分解成喷溅的熔渣。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin06/images/warwick_splash_uncentered_6.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin06/images/warwick_splash_tile_6.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin06/images/warwick_splash_centered_6.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin06/warwickloadscreen_6.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年3月29日",
+        "priceEndDay": "商城已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "7.2",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "14.23"
+      }
     }
   ]
 }
