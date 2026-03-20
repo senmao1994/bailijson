@@ -1750,6 +1750,54 @@
         "updateName": "",
         "video": "14.23"
       }
+    },
+    {
+      "id": 19008,
+      "name": "黑暗骑士 沃里克",
+      "roitName": "Marauder Warwick",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "黑暗骑士",
+      "universe": "战争学院",
+      "pushDate": null,
+      "series": null,
+      "backstory": "古老的文字将法主的升起与没落恐慌的归结于“符文”，以及它可以降下灾难的能力。这些难以理解的谜团就是由像沃里克一样荒诞不羁的残暴掠夺者怪物们所造成的，正如他们的存在并没有任何合理的解释。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin08/images/warwick_splash_uncentered_8.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin08/images/warwick_splash_tile_8.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin08/images/warwick_splash_centered_8.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin08/warwickloadscreen_8.jpg",
+      "roit": {
+        "price": 750,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4900,
+      "icon": "",
+      "tencent": {
+        "price": 4900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2015年2月17日",
+        "priceEndDay": "14.5版本已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "7.2",
+        "updateChinese": "游戏玩法更新",
+        "updateName": "",
+        "video": "14.23"
+      }
     }
   ]
 }
