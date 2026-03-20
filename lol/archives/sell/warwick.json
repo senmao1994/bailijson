@@ -1924,6 +1924,54 @@
         "updateName": "",
         "video": "14.23"
       }
+    },
+    {
+      "id": 19007,
+      "name": "荒野豺狼 沃里克",
+      "roitName": "Hyena Warwick",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "狂飙战士",
+      "universe": "高速路异端",
+      "pushDate": null,
+      "series": null,
+      "backstory": "从前，土狼都被视为伺机而动的猎手，因其凶残的勾心斗角和齐发的非人笑声而恶名远扬。而现在，在废土上，并没有发生什么改变。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin07/images/warwick_splash_uncentered_7.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin07/images/warwick_splash_tile_7.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin07/images/warwick_splash_centered_7.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin07/warwickloadscreen_7.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年12月5日",
+        "priceEndDay": "14.5版本已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "7.2",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "14.23"
+      }
     }
   ]
 }
