@@ -488,6 +488,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 19046,
+      "name": "至臻 北极星使者 沃里克",
+      "roitName": "Prestige Winterblessed Warwick",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "北极星",
+      "universe": "北极光的传说",
+      "pushDate": null,
+      "series": null,
+      "backstory": "它在T台上可能没那么优雅，但每个人都知道不要惹沃里克。他举手投足之间透着锋利的剪裁、无可挑剔的梳毛和狼群的随行，大盛会在称这个人为“野兽”之前最好再多考虑考虑。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin46/images/warwick_splash_uncentered_46.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin46/images/warwick_splash_tile_46.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin46/images/warwick_splash_centered_46.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin46/warwickloadscreen_46.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin46/warwickloadscreen_46_le.jpg",
+      "roit": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "5642",
+      "tencent": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2022年12月9日",
+        "priceEndDay": "2023年1月5日23:59",
+        "description": "北极星(2022）通行证 | 神话商店轮换",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.23",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "14.22"
+      }
     }
   ]
 }
