@@ -1179,6 +1179,327 @@
         "updateName": "",
         "video": "14.22"
       }
+    },
+    {
+      "id": 19016,
+      "name": "源计划：末日 沃里克",
+      "roitName": "PROJECT: Warwick",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "源计划",
+      "universe": "源计划",
+      "pushDate": null,
+      "series": null,
+      "backstory": "被一个源计划研究组织从荒土中夺来的沃里克已经被不可挽回地转变成了超越人类进化的一个可怖的全新阶段——一只被武器化的怪兽，被剥离了所有情感，并且被植入了只用于暴力镇压的程序。通过由乌合之众组成的外来者们的干预，他在被完成之前逃离，并且现在肆虐于“城市”之中。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin16/images/warwick_splash_uncentered_16.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin16/images/warwick_splash_tile_16.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin16/images/warwick_splash_centered_16.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19016.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin16/warwickloadscreen_16.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin16/warwickloadscreen_16_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "4233",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2019年8月6日",
+        "priceEndDay": "2019年9月11日",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 19026,
+          "name": "源计划：末日 沃里克 启示",
+          "sortName": "启示",
+          "colorName": "棕色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：末日 沃里克 启示",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19026.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#5F432B",
+            "#5F432B"
+          ]
+        },
+        {
+          "id": 19027,
+          "name": "源计划：末日 沃里克 燎原",
+          "sortName": "燎原",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：末日 沃里克 燎原",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19027.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 19028,
+          "name": "源计划：末日 沃里克 暴走",
+          "sortName": "暴走",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：末日 沃里克 暴走",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 19029,
+          "name": "源计划：末日 沃里克 冥火",
+          "sortName": "冥火",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：末日 沃里克 冥火",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19029.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 19030,
+          "name": "源计划：末日 沃里克 裂变",
+          "sortName": "裂变",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2019年8月6日",
+            "priceEndDay": "2019年9月11日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：末日 沃里克 裂变",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19030.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 19031,
+          "name": "源计划：末日 沃里克 震击",
+          "sortName": "震击",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：末日 沃里克 震击",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19031.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 19032,
+          "name": "源计划：末日 沃里克 天谴",
+          "sortName": "天谴",
+          "colorName": "浅蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：末日 沃里克 天谴",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19032.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 19033,
+          "name": "源计划：末日 沃里克 幻灭",
+          "sortName": "幻灭",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2019年8月6日",
+            "priceEndDay": "2019年9月11日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：末日 沃里克 幻灭",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19033.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 19034,
+          "name": "源计划：末日 沃里克 惩戒",
+          "sortName": "惩戒",
+          "colorName": "源计划2019",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2019年8月6日",
+            "priceEndDay": "2019年9月11日",
+            "description": "通行证战利品专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：末日 沃里克 惩戒",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19034.png",
+          "mythicIcon": "4236",
+          "wildRiftSell": null,
+          "colors": [
+            "#FF5500",
+            "#162B30"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "9.15",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "14.22"
+      }
     }
   ]
 }
