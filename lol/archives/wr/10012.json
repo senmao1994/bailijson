@@ -1,0 +1,68 @@
+{
+  "id": 10012,
+  "name": "奥莉安娜",
+  "alias": "aolianna",
+  "key": "10012",
+  "title": "发条魔灵",
+  "skins": [
+    {
+      "id": 1001210,
+      "name": "天棱信风 奥莉安娜",
+      "roitName": "Weather Entity Orianna",
+      "sortName": "天棱信风",
+      "rarity": "史诗",
+      "raritySubType": "限定",
+      "price": "145",
+      "priceUnit": "点券",
+      "skinline": "2025",
+      "universe": "天棱万象",
+      "pushDate": "",
+      "series": null,
+      "backstory": "飓风灾害曾吹散一位少女的家庭，在悲惨废墟下，失去主人的玩偶被风精灵寄宿。作为罕见的共生个体，奥莉安娜归于天棱小队管理。虽然无论是阳光或雨云都认为她的乱流难以相处，但至少人偶女孩可以在风的怀抱中静静思索自己曾经是谁。",
+      "accessories": [
+        "边框",
+        "姿态：酣眠",
+        "炫彩7个"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Orianna_9.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_orianna_skin09.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001210.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年4月30日",
+        "endDate": "2025年5月28日",
+        "description": "天棱万象抽奖活动",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
