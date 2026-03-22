@@ -383,12 +383,12 @@
       "priceUnit": "点券",
       "skinline": "星界",
       "universe": "",
-      "pushDate": "",
+      "pushDate": "7.0",
       "series": null,
       "backstory": "加里奥曾是星界神廷守护壁垒，却在暗星腐潮袭击中崩解为残骸。当统帅斯维因的眷族衔回其碎裂核心，卑尔维斯以神力重锻其躯体，一尊双翼能卷起星辰的巨像诞生了。如今神廷新旧势力暗流涌动，这尊重生的巨像必须做出抉择：是守护旧日神廷的余晖，还是为整个星域开拓新纪元？",
       "accessories": [
         "边框",
-        "守望"
+        "姿态：守望"
       ],
       "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Galio_9.jpg",
       "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_galio_skin09.png",
@@ -414,13 +414,6 @@
       "chromas": [],
       "formsCount": null,
       "forms": [],
-      "version": {
-        "push": "7.0",
-        "update": "",
-        "updateChinese": "",
-        "updateName": "",
-        "video": ""
-      },
       "sell": {
         "startDate": "2026年3月20日",
         "endDate": "2026年4月19日23:59",
