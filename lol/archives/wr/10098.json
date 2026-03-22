@@ -193,6 +193,66 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1009815,
+      "name": "臻藏 天棱快晴 伊泽瑞尔",
+      "roitName": "Prestige Select Weather Entity Ezreal",
+      "sortName": "臻藏 天棱快晴",
+      "rarity": "神话",
+      "raritySubType": "臻藏",
+      "price": "1500",
+      "priceUnit": "元",
+      "skinline": "2025",
+      "universe": "天棱万象",
+      "pushDate": "",
+      "series": null,
+      "backstory": "伊泽瑞尔周身的阳光在雨云的作用下，被折射、分解、重构，在长空映射出美妙的虹晕。缤纷绦络自初霁天幕垂落，而天象的宠儿在其间身披华彩、轻快跃动。",
+      "accessories": [
+        "边框",
+        "姿态：挑战",
+        "姿态：遐思",
+        "姿态：晴空之上"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ezreal_14.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ezreal_skin14.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009815.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年4月30日",
+        "endDate": "2025年5月28日",
+        "description": "天棱万象抽奖活动",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
