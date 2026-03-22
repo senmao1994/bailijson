@@ -4,5 +4,51 @@
   "alias": "jin",
   "key": "10022",
   "title": "戏命师",
-  "skins": []
+  "skins": [
+    {
+      "id": 1002212,
+      "name": "臻藏 暗星尊 烬",
+      "roitName": "",
+      "sortName": "",
+      "rarity": "",
+      "raritySubType": "",
+      "price": "",
+      "priceUnit": "",
+      "skinline": "",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "backstory": "",
+      "accessories": [],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "sell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
 }
