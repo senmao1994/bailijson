@@ -62,6 +62,64 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1009005,
+      "name": "天棱寒雨 弗拉基米尔",
+      "roitName": "Weather Entity Vladimir",
+      "sortName": "天棱寒雨",
+      "rarity": "史诗",
+      "raritySubType": "限定",
+      "price": "145",
+      "priceUnit": "点券",
+      "skinline": "2025",
+      "universe": "天棱万象",
+      "pushDate": "",
+      "series": null,
+      "backstory": "在地上凡人看来，弗拉基米尔与他掌控的积雨云完全是天气精灵灾厄论的具象化显现。而天棱小队内部也对这位学者呼唤暴雨的方式争议不断，但弗拉基米尔知道，乐天主义的阳光持续不了太久，未来会属于渴求水分以及权力的人。",
+      "accessories": [
+        "边框",
+        "姿态：咒术"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vladimir_4.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_vladimir_skin04.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009005.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年4月30日",
+        "endDate": "2025年5月28日",
+        "description": "天棱万象抽奖活动",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
