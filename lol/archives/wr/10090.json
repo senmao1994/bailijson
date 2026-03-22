@@ -71,10 +71,10 @@
       "rarity": "史诗",
       "raritySubType": "限定",
       "price": "145",
-      "priceUnit": "点券",
+      "priceUnit": "元",
       "skinline": "2025",
       "universe": "天棱万象",
-      "pushDate": "",
+      "pushDate": "6.1",
       "series": null,
       "backstory": "在地上凡人看来，弗拉基米尔与他掌控的积雨云完全是天气精灵灾厄论的具象化显现。而天棱小队内部也对这位学者呼唤暴雨的方式争议不断，但弗拉基米尔知道，乐天主义的阳光持续不了太久，未来会属于渴求水分以及权力的人。",
       "accessories": [
@@ -105,13 +105,6 @@
       "chromas": [],
       "formsCount": null,
       "forms": [],
-      "version": {
-        "push": "6.1",
-        "update": "",
-        "updateChinese": "",
-        "updateName": "",
-        "video": ""
-      },
       "sell": {
         "startDate": "2025年4月30日",
         "endDate": "2025年5月28日",
