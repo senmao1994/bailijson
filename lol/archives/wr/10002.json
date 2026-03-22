@@ -67,6 +67,64 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1000210,
+      "name": "天棱震雷 亚托克斯",
+      "roitName": "Weather Entity Aatrox",
+      "sortName": "天棱震雷",
+      "rarity": "史诗",
+      "raritySubType": "限定",
+      "price": "145",
+      "priceUnit": "点券",
+      "skinline": "2025",
+      "universe": "天棱万象",
+      "pushDate": "",
+      "series": null,
+      "backstory": "亚托克斯曾是研究天气精灵的先驱，只可惜他还未有机会公开成果，便惨遭雷暴侵蚀，被扭曲成令人畏惧的异形。唯有博识的弗拉基米尔接近了他，现在，亚托克斯在盟友的云团中释放着自己的过剩能量，只求找回自己应得的东西。为此，他不会介意将所到之处化作雷击后的焦土。",
+      "accessories": [
+        "边框",
+        "姿态：疾行"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Aatrox_9.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_aatrox_skin09.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000210.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年4月30日",
+        "endDate": "2025年5月28日",
+        "description": "天棱万象抽奖活动",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
