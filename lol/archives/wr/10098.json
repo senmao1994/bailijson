@@ -143,10 +143,10 @@
       "rarity": "传说",
       "raritySubType": "限定",
       "price": "180",
-      "priceUnit": "点券",
+      "priceUnit": "元",
       "skinline": "2025",
       "universe": "天棱万象",
-      "pushDate": "",
+      "pushDate": "6.1",
       "series": null,
       "backstory": "当世人将天气精灵视作灾厄时，伊泽瑞尔已经与无数日灵亲密相依。他自诩为晴空的代言人，深入阴霾与冻原，洒播宝贵的阳光。毕竟这位乐天小子坚信，再混乱的天象都能经由他、天棱小队、以及手套里的好伙伴们，化为怡人的明朗光风。",
       "accessories": [
@@ -178,13 +178,6 @@
       "chromas": [],
       "formsCount": null,
       "forms": [],
-      "version": {
-        "push": "6.1",
-        "update": "",
-        "updateChinese": "",
-        "updateName": "",
-        "video": ""
-      },
       "sell": {
         "startDate": "2025年4月30日",
         "endDate": "2025年5月28日",
