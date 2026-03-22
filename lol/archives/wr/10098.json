@@ -134,6 +134,65 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1009814,
+      "name": "天棱快晴 伊泽瑞尔",
+      "roitName": "Weather Entity Ezreal",
+      "sortName": "天棱快晴",
+      "rarity": "传说",
+      "raritySubType": "限定",
+      "price": "180",
+      "priceUnit": "点券",
+      "skinline": "2025",
+      "universe": "天棱万象",
+      "pushDate": "",
+      "series": null,
+      "backstory": "当世人将天气精灵视作灾厄时，伊泽瑞尔已经与无数日灵亲密相依。他自诩为晴空的代言人，深入阴霾与冻原，洒播宝贵的阳光。毕竟这位乐天小子坚信，再混乱的天象都能经由他、天棱小队、以及手套里的好伙伴们，化为怡人的明朗光风。",
+      "accessories": [
+        "边框",
+        "姿态：太阳镜",
+        "姿态：日光所向"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ezreal_13.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ezreal_skin13.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009814.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年4月30日",
+        "endDate": "2025年5月28日",
+        "description": "天棱万象抽奖活动",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
