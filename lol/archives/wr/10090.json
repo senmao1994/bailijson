@@ -1,0 +1,67 @@
+{
+  "id": 10090,
+  "name": "弗拉基米尔",
+  "alias": "fulajimier",
+  "key": "10090",
+  "title": "猩红收割者",
+  "skins": [
+    {
+      "id": 1009004,
+      "name": "水晶玫瑰 弗拉基米尔",
+      "roitName": "Crystal Rose Vladimir",
+      "sortName": "水晶玫瑰",
+      "rarity": "史诗",
+      "raritySubType": "限定",
+      "price": "180",
+      "priceUnit": "点券随机保底1款",
+      "skinline": "绽放",
+      "universe": "水晶玫瑰",
+      "pushDate": "",
+      "series": null,
+      "backstory": "在水晶玫瑰舞厅最深处的奢华包间内，隐藏着一位位不愿抛头露面的富豪名流，弗拉基米尔也是其中之一。在平日的贵族沙龙中，他以无可挑剔的艺术品味和浮华阔绰的行事风格闻名，而今夜，这位伯爵也非常乐于在把玩玫瑰的同时，看看他的走卒能否挖掘出这场浪漫欢宴之下的未知真相。",
+      "accessories": [
+        "边框",
+        "姿态：风度"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vladimir_3.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_vladimir_skin03.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009004.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "5.2",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2024年8月8日",
+        "endDate": "2024年8月21日",
+        "description": "每年水晶玫瑰限定抽奖返场",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
