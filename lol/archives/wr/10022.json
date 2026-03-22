@@ -8,18 +8,22 @@
     {
       "id": 1002212,
       "name": "臻藏 暗星尊 烬",
-      "roitName": "",
-      "sortName": "",
-      "rarity": "",
-      "raritySubType": "",
-      "price": "",
-      "priceUnit": "",
-      "skinline": "",
+      "roitName": "Prestige Select Dark Cosmic Jhin",
+      "sortName": "臻藏 暗星尊",
+      "rarity": "神话",
+      "raritySubType": "臻藏",
+      "price": "1500",
+      "priceUnit": "橙色原石",
+      "skinline": "暗星",
       "universe": "",
       "pushDate": "",
       "series": null,
-      "backstory": "",
-      "accessories": [],
+      "backstory": "展翼的统领正在挥洒酝酿已久的谋划，而烬却不为所动，他以万千星河的湮灭为画卷，为新生宇宙凝神创作艺术绝品……而终章将至，这份死寂的绝美将成为真理的唯一注脚：熵增。",
+      "accessories": [
+        "边框",
+        "姿态：开幕",
+        "姿态：终焉演出"
+      ],
       "roit": {
         "price": 0,
         "priceType": "直售",
@@ -41,10 +45,17 @@
       "chromas": [],
       "formsCount": null,
       "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
       "sell": {
         "startDate": "2026年3月20日",
         "endDate": "2026年4月19日23:59",
-        "description": "",
+        "description": "战利品商店轮换 首周8折1200橙色原石",
         "activityTitle": "",
         "price": "",
         "priceUnit": ""
