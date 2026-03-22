@@ -13,10 +13,10 @@
       "rarity": "史诗",
       "raritySubType": "限定",
       "price": "145",
-      "priceUnit": "点券",
+      "priceUnit": "元",
       "skinline": "2025",
       "universe": "天棱万象",
-      "pushDate": "",
+      "pushDate": "6.1",
       "series": null,
       "backstory": "飓风灾害曾吹散一位少女的家庭，在悲惨废墟下，失去主人的玩偶被风精灵寄宿。作为罕见的共生个体，奥莉安娜归于天棱小队管理。虽然无论是阳光或雨云都认为她的乱流难以相处，但至少人偶女孩可以在风的怀抱中静静思索自己曾经是谁。",
       "accessories": [
@@ -48,13 +48,6 @@
       "chromas": [],
       "formsCount": null,
       "forms": [],
-      "version": {
-        "push": "6.1",
-        "update": "",
-        "updateChinese": "",
-        "updateName": "",
-        "video": ""
-      },
       "sell": {
         "startDate": "2025年4月30日",
         "endDate": "2025年5月28日",
