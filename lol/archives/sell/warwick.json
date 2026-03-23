@@ -2164,6 +2164,54 @@
         "updateName": "",
         "video": "14.23"
       }
+    },
+    {
+      "id": 19002,
+      "name": "披着海牛的狼 沃里克",
+      "roitName": "Urf the Manatee",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "海牛阿福",
+      "universe": "磨砺",
+      "pushDate": null,
+      "series": null,
+      "backstory": "",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin02/images/warwick_splash_uncentered_2.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin02/images/warwick_splash_tile_2.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin02/images/warwick_splash_centered_2.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin02/warwickloadscreen_2.jpg",
+      "roit": {
+        "price": 5000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 1000,
+      "icon": "",
+      "tencent": {
+        "price": 1000,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2017年11月14日",
+        "priceEndDay": "2017年11月27日",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "7.2",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "14.23"
+      }
     }
   ]
 }
