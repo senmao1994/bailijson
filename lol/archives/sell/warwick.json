@@ -1630,7 +1630,7 @@
     {
       "id": 19010,
       "name": "南天之怒 沃里克 ",
-      "roitName": "Lunar Guardian Warwick",
+      "roitName": "",
       "sortName": null,
       "rarity": "史诗",
       "raritySubType": null,
@@ -1664,7 +1664,7 @@
         "priceStartDay": "2018年2月8日",
         "priceEndDay": "2018年3月4日",
         "description": "首周半价",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -1677,9 +1677,16 @@
             "priceType": "抽奖兑换",
             "priceStartDay": "2018年2月8日",
             "priceEndDay": "2018年3月7日",
-            "description": "",
+            "description": "春晖神女的神秘礼物奖池",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1691,7 +1698,14 @@
           "riotName": "南天之怒 沃里克 天机",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19011.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -1707,9 +1721,16 @@
             "priceType": "抽奖兑换",
             "priceStartDay": "2018年2月8日",
             "priceEndDay": "2018年3月7日",
-            "description": "",
+            "description": "春晖神女的神秘礼物奖池",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1721,7 +1742,14 @@
           "riotName": "南天之怒 沃里克 天相",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19012.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#5F432B",
             "#5F432B"
@@ -1737,9 +1765,16 @@
             "priceType": "抽奖兑换",
             "priceStartDay": "2018年2月8日",
             "priceEndDay": "2018年3月7日",
-            "description": "",
+            "description": "春晖神女的神秘礼物奖池",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1751,7 +1786,14 @@
           "riotName": "南天之怒 沃里克 天同",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19013.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
@@ -1767,9 +1809,16 @@
             "priceType": "抽奖兑换",
             "priceStartDay": "2018年2月8日",
             "priceEndDay": "2018年3月7日",
-            "description": "",
+            "description": "春晖神女的神秘礼物奖池",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1781,7 +1830,14 @@
           "riotName": "南天之怒 沃里克 天梁",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19014.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#73BFBE",
             "#73BFBE"
@@ -1799,7 +1855,14 @@
             "priceEndDay": "2018年3月7日",
             "description": "首发400金猪币 | 臻彩奖池产出",
             "hasFullGiftPack": false,
-            "wildRiftSell": null,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/adu24sumcubafkt4ep14tb7b1j0oex3t.jpg"
           },
           "roit": {
@@ -1812,7 +1875,14 @@
           "riotName": "南天之怒 沃里克 炫金天神",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19015.png",
           "mythicIcon": "3883",
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFC948",
             "#FFC948"
