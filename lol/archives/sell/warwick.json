@@ -2212,6 +2212,147 @@
         "updateName": "",
         "video": "14.23"
       }
+    },
+    {
+      "id": 19001,
+      "name": "暗影 沃里克",
+      "roitName": "",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "黑暗预兆",
+      "universe": "日月之蚀",
+      "pushDate": null,
+      "series": null,
+      "backstory": "沃里克曾是一个人类——一名享誉盛名的骑士，宣誓效忠于刀锋女皇丽桑卓。作为对他的忠心的交换，她赠送给他一块幽魂月光碎片，终有一日，诅咒刺入了他的心脏并且将他沉入堕落的深处。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin01/images/warwick_splash_uncentered_1.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin01/images/warwick_splash_tile_1.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin01/images/warwick_splash_centered_1.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19001.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin01/warwickloadscreen_1.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin01/warwickloadscreen_1_le.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "荣誉皮肤",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "荣誉皮肤",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年7月8日",
+        "priceEndDay": "荣誉商城兑换",
+        "description": "荣誉等级5级后1枚荣誉币兑换",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 19018,
+          "name": "暗影 沃里克 上善若水",
+          "sortName": "上善若水",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 1,
+            "priceType": "荣誉皮肤",
+            "priceStartDay": "2020年5月28日",
+            "priceEndDay": "荣誉商城兑换",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 1,
+            "priceType": "荣誉皮肤",
+            "priceStartDay": "2020年5月28日",
+            "priceEndDay": "荣誉商城兑换",
+            "description": ""
+          },
+          "riotName": "暗影 沃里克 上善若水",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19018.png",
+          "mythicIcon": "4279",
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 19023,
+          "name": "暗影 沃里克 厚德载物",
+          "sortName": "厚德载物",
+          "colorName": "棕色",
+          "tencent": {
+            "price": 1,
+            "priceType": "荣誉皮肤",
+            "priceStartDay": "2020年5月28日",
+            "priceEndDay": "荣誉商城兑换",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 1,
+            "priceType": "荣誉皮肤",
+            "priceStartDay": "2020年5月28日",
+            "priceEndDay": "荣誉商城兑换",
+            "description": ""
+          },
+          "riotName": "暗影 沃里克 厚德载物",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19023.png",
+          "mythicIcon": "4924",
+          "wildRiftSell": null,
+          "colors": [
+            "#5F432B",
+            "#5F432B"
+          ]
+        },
+        {
+          "id": 19025,
+          "name": "暗影 沃里克 至真至诚",
+          "sortName": "至真至诚",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "荣誉皮肤",
+            "priceStartDay": "2020年5月28日",
+            "priceEndDay": "荣誉商城兑换",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 1,
+            "priceType": "荣誉皮肤",
+            "priceStartDay": "2020年5月28日",
+            "priceEndDay": "荣誉商城兑换",
+            "description": ""
+          },
+          "riotName": "暗影 沃里克 至真至诚",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19025.png",
+          "mythicIcon": "4606",
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "7.2",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "14.23"
+      }
     }
   ]
 }
