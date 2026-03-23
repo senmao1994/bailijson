@@ -2353,6 +2353,54 @@
         "updateName": "",
         "video": "14.23"
       }
+    },
+    {
+      "id": 19000,
+      "name": "祖安怒兽",
+      "roitName": "Warwick",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "祖安",
+      "universe": "英雄联盟宇宙",
+      "pushDate": "2009年2月21日",
+      "series": null,
+      "backstory": "沃里克是一头游猎于祖安灰色小巷的怪兽。经过剧痛实验的折磨，他的身体发生了变异，精密复杂的储液舱和药泵与他的血肉融为一体，不断向他的血管中注入炼金合成的愤怒激素。他从阴影中一跃而出，猎杀那些在城市最深处肆虐的罪犯。沃里克受鲜血的召唤，血腥味会让他变得癫狂。只要沾上了鲜血，就别想逃过他的猎杀。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/base/images/warwick_splash_uncentered_0.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/base/images/warwick_splash_tile_0.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/base/images/warwick_splash_centered_0.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/base/warwickloadscreen.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "6230",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2023年9月1日10:00",
+        "priceEndDay": "10月7日9:59",
+        "description": "沃里克 肖像图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "首发",
+        "update": "7.2",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
