@@ -2286,7 +2286,7 @@
     {
       "id": 19001,
       "name": "暗影 沃里克",
-      "roitName": "",
+      "roitName": "Grey Warwick",
       "sortName": null,
       "rarity": "普通",
       "raritySubType": null,
@@ -2335,7 +2335,14 @@
             "priceEndDay": "荣誉商城兑换",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 1,
@@ -2347,7 +2354,14 @@
           "riotName": "暗影 沃里克 上善若水",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19018.png",
           "mythicIcon": "4279",
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -2365,7 +2379,14 @@
             "priceEndDay": "荣誉商城兑换",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 1,
@@ -2377,7 +2398,14 @@
           "riotName": "暗影 沃里克 厚德载物",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19023.png",
           "mythicIcon": "4924",
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#5F432B",
             "#5F432B"
@@ -2395,7 +2423,14 @@
             "priceEndDay": "荣誉商城兑换",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 1,
@@ -2407,7 +2442,14 @@
           "riotName": "暗影 沃里克 至真至诚",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19025.png",
           "mythicIcon": "4606",
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#E58BA5",
             "#E58BA5"
