@@ -1532,6 +1532,54 @@
         "updateName": "",
         "video": "26.06"
       }
+    },
+    {
+      "id": 950000,
+      "name": "百裂冥犬",
+      "roitName": "The Hound of a Hundred Bites Naafiri",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "恕瑞玛",
+      "universe": "英雄联盟宇宙",
+      "pushDate": "2023年7月21日",
+      "series": null,
+      "backstory": "一望无际的恕瑞玛大漠上，回荡着嗥吠啸鸣的合唱，那是沙丘猎狗的呼号。这些凶狠的食肉动物会成群结队，在这片贫瘠的土地上争夺狩猎的资格。在众多狗群之中，有一群地位最高，因为它们不仅拥有犬科动物的血性，更有来自暗裔的远古力量。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/base/images/naafiri_splash_uncentered_0.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/base/images/naafiri_splash_tile_0.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/base/images/naafiri_splash_centered_0.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/base/naafiriloadscreen_0.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "6073",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2023年9月1日10:00",
+        "priceEndDay": "10月7日9:59",
+        "description": "纳亚菲利 肖像图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "13.14",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.07"
+      }
     }
   ]
 }
