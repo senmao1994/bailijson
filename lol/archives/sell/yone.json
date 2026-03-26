@@ -1234,6 +1234,87 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 777074,
+      "name": "T1 永恩",
+      "roitName": "T1 Yone",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "总决赛冠军：2024",
+      "universe": "电竞",
+      "pushDate": "2025年9月11日",
+      "series": null,
+      "backstory": "以此致敬Faker在2024全球总决赛中使用永恩的夺胜表现。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_uncentered_74.skins_yone_skin74.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_tile_74.skins_yone_skin74.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_centered_74.skins_yone_skin74.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777074.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/yoneloadscreen_74.skins_yone_skin74.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/yoneloadscreen_74_le.skins_yone_skin74.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "6941",
+      "tencent": {
+        "price": 8900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "冠军限定",
+        "priceStartDay": "2025年9月11日",
+        "priceEndDay": "2025年10月8日23:59",
+        "description": "限时直售 后续世界赛期间返场",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 777075,
+          "name": "T1 永恩 精锐",
+          "sortName": "精锐",
+          "colorName": "冠军炫彩",
+          "tencent": {
+            "price": 14900,
+            "priceType": "礼包",
+            "priceStartDay": "2025年9月11日",
+            "priceEndDay": "2025年10月8日23:59",
+            "description": "T12025冠军皮肤礼包专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "T1 永恩 精锐",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777075.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#BB363D",
+            "#BCBBC6"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "25.18",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
