@@ -1315,6 +1315,238 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 777055,
+      "name": "西部魔影 永恩",
+      "roitName": "High Noon Yone",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "西部风云",
+      "universe": "西部魔影 厄运金属",
+      "pushDate": "2024年3月22日",
+      "series": null,
+      "backstory": "那个魂不守舍的人没有呼吸，只是倚靠在拴马桩上，眯着眼睛看着边境的黄昏——但它不是他。不完全是。真正的永恩是阴影和硝烟，随着它重新回到他肉身的静止状态而不断翻腾。“你们怎么就这样分开了？” 年轻的火药女巫问道。永恩叹息道，“说来话长，孩子。”",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin55/images/yone_splash_uncentered_55.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin55/images/yone_splash_tile_55.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin55/images/yone_splash_centered_55.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777055.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin55/yoneloadscreen_55.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin55/yoneloadscreen_55_le.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "6573",
+      "tencent": {
+        "price": 10900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2024年3月22日",
+        "priceEndDay": "2024年5月6日9:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 777059,
+          "name": "西部魔影 永恩 温和",
+          "sortName": "温和",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2024年3月22日",
+            "priceEndDay": "2024年4月5日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 永恩 温和",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777059.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 777060,
+          "name": "西部魔影 永恩 善良",
+          "sortName": "善良",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年3月22日",
+            "priceEndDay": "2024年4月5日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 永恩 善良",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777060.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 777061,
+          "name": "西部魔影 永恩 诚实",
+          "sortName": "诚实",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年3月22日",
+            "priceEndDay": "2024年4月5日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 永恩 诚实",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777061.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 777062,
+          "name": "西部魔影 永恩 忠诚",
+          "sortName": "忠诚",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "2025年2月1日",
+            "priceEndDay": "2025年2月28日",
+            "description": "2025 2月消费礼赠 1000积分档位",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/atdyoxqyo38ib9uyid358kni81dfvfcs.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 永恩 忠诚",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777062.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 777063,
+          "name": "西部魔影 永恩 谦卑",
+          "sortName": "谦卑",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年3月22日",
+            "priceEndDay": "2024年4月5日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 永恩 谦卑",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777063.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 777064,
+          "name": "西部魔影 永恩 正午幻日",
+          "sortName": "正午幻日",
+          "colorName": "西部魔影2024",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2024年3月22日",
+            "priceEndDay": "2024年5月6日18:00",
+            "description": "通行证战利品专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "西部魔影 永恩 正午幻日",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777064.png",
+          "mythicIcon": "6574",
+          "wildRiftSell": null,
+          "colors": [
+            "#A8BFF1",
+            "#CD5867"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.6",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "25.04"
+      }
     }
   ]
 }
