@@ -1211,6 +1211,327 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 950001,
+      "name": "斗魂觉醒 纳亚菲利",
+      "roitName": "Soul Fighter Naafiri",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "斗魂觉醒",
+      "universe": "斗魂觉醒",
+      "pushDate": "2023年7月20日",
+      "series": null,
+      "backstory": "失败的实验品！调查局警犬！四条腿的战士！这个……生物……拥有的头衔几乎与它能召唤的独立实体一样多！它想向它曾经的主人们报仇吗？还是要接管整个世界？我不知道！我可不会对狗的读心术！有请……纳亚菲利！  ",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin01/images/naafiri_splash_uncentered_1.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin01/images/naafiri_splash_tile_1.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin01/images/naafiri_splash_centered_1.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950001.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin01/naafiriloadscreen_1.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin01/naafiriloadscreen_1_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "5909",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "伴生皮肤",
+        "priceStartDay": "2023年7月21日",
+        "priceEndDay": "2023年9月5日6:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 950002,
+          "name": "斗魂觉醒 纳亚菲利 烈之魂焰",
+          "sortName": "烈之魂焰",
+          "colorName": "红色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年7月21日",
+            "priceEndDay": "2023年8月4日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 纳亚菲利 烈之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950002.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 950003,
+          "name": "斗魂觉醒 纳亚菲利 锐之魂焰",
+          "sortName": "锐之魂焰",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年7月21日",
+            "priceEndDay": "2023年8月4日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 纳亚菲利 锐之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950003.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 950004,
+          "name": "斗魂觉醒 纳亚菲利 魅之魂焰",
+          "sortName": "魅之魂焰",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年7月21日",
+            "priceEndDay": "2023年8月4日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 纳亚菲利 魅之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950004.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 950005,
+          "name": "斗魂觉醒 纳亚菲利 飒之魂焰",
+          "sortName": "飒之魂焰",
+          "colorName": "青色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年7月21日",
+            "priceEndDay": "2023年8月4日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 纳亚菲利 飒之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950005.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 950006,
+          "name": "斗魂觉醒 纳亚菲利 韧之魂焰",
+          "sortName": "韧之魂焰",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年7月21日",
+            "priceEndDay": "2023年8月4日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 纳亚菲利 韧之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950006.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 950007,
+          "name": "斗魂觉醒 纳亚菲利 狡之魂焰",
+          "sortName": "狡之魂焰",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 纳亚菲利 狡之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950007.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 950008,
+          "name": "斗魂觉醒 纳亚菲利 狂之魂焰",
+          "sortName": "狂之魂焰",
+          "colorName": "深橙色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年7月21日",
+            "priceEndDay": "2023年8月4日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 纳亚菲利 狂之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950008.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9F4A25",
+            "#9F4A25"
+          ]
+        },
+        {
+          "id": 950009,
+          "name": "斗魂觉醒 纳亚菲利 幽之魂焰",
+          "sortName": "幽之魂焰",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 纳亚菲利 幽之魂焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950009.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 950010,
+          "name": "斗魂觉醒 纳亚菲利 无限斗志",
+          "sortName": "无限斗志",
+          "colorName": "斗魂觉醒2023",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2023年7月21日",
+            "priceEndDay": "2023年9月5日18:00",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "斗魂觉醒 纳亚菲利 无限斗志",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950010.png",
+          "mythicIcon": "5902",
+          "wildRiftSell": null,
+          "colors": [
+            "#C8D0CE",
+            "#AF65D1"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "13.14",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.06"
+      }
     }
   ]
 }
