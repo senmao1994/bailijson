@@ -402,6 +402,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 126035,
+      "name": "双城之战2 幸存者 杰斯",
+      "roitName": "Arcane Survivor Jayce",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "双城之战",
+      "universe": "双城之战",
+      "pushDate": "2024年11月21日",
+      "series": null,
+      "backstory": "杰斯·塔利斯面临着一种噩梦般的可能性：进步的终结。奥术的力量，不仅改变了他，也颠覆了他的整个世界。就连他的海克斯科技变形锤似乎也有所变化，挥舞起来仿佛是一柄正义的法槌，重重地打向那些威胁未来的存在。他见过的光景，让他遍体鳞伤；他经历的一切，几乎将他击垮——但他仍决心信守自己许下的诺言，一个只有他才能实现的诺言。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin35/images/jayce_splash_uncentered_35.skins_jayce_skin35.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin35/images/jayce_splash_tile_35.skins_jayce_skin35.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin35/images/jayce_splash_centered_35.skins_jayce_skin35.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin35/jayceloadscreen_35.skins_jayce_skin35.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin35/jayceloadscreen_35_le.skins_jayce_skin35.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "6766",
+      "tencent": {
+        "price": 10900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "限定",
+        "priceStartDay": "2024年11月21日",
+        "priceEndDay": "2024年12月31日9:59",
+        "description": "双城之战2限定 | 圣堂系统A阶奖池皮肤",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.23",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
