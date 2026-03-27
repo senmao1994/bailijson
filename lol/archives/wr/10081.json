@@ -1,0 +1,68 @@
+{
+  "id": 10081,
+  "name": "阿利斯塔",
+  "alias": "elisita",
+  "key": "10081",
+  "title": "牛头酋长",
+  "skins": [
+    {
+      "id": 1008110,
+      "name": "朝九晚五 阿利斯塔",
+      "roitName": "Clock Puncher Alistar",
+      "sortName": "朝九晚五",
+      "rarity": "特效",
+      "raritySubType": "限定",
+      "price": "450",
+      "priceUnit": "点券",
+      "skinline": "2026",
+      "universe": "愚人节",
+      "pushDate": "",
+      "series": null,
+      "backstory": "身上的西装是二手的，鞋跟有些磨损，却始终被擦得一尘不染。阿利斯塔早已记不清自己从哪一天开始上班，也记不清换过多少份工作——反正每一份都差不多。日子一天天过去，任务一件件完成。无论遇到什么难题，他总是默默扛下。他的工作签名只有一句话：“没什么可以把俺击退。”",
+      "accessories": [
+        "边框",
+        "姿态：敬业",
+        "姿态：摸鱼达人"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Alistar_9.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_alistar_skin09.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008110.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年3月27日",
+        "endDate": "2026年4月9日23:59",
+        "description": "前双周60点券",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
