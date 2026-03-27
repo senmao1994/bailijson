@@ -1265,6 +1265,54 @@
         "updateName": "",
         "video": "25.10"
       }
+    },
+    {
+      "id": 13003,
+      "name": "美国大叔 瑞兹",
+      "roitName": "Uncle Ryze",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "世界奇观",
+      "universe": "世界奇观",
+      "pushDate": null,
+      "series": null,
+      "backstory": "瑞兹大叔需要你……前往峡谷！",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin03/images/ryze_splash_uncentered_3.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin03/images/ryze_splash_tile_3.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin03/images/ryze_splash_centered_3.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin03/ryzeloadscreen_3.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 3900,
+      "icon": "",
+      "tencent": {
+        "price": 3900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": " 2010年7月3日",
+        "priceEndDay": "14.5版本已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "6.14",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "25.10"
+      }
     }
   ]
 }
