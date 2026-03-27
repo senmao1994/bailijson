@@ -976,6 +976,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 13009,
+      "name": "瑞兹·白须",
+      "roitName": "Ryze Whitebeard",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "峡谷勇者",
+      "universe": "峡谷勇者",
+      "pushDate": null,
+      "series": null,
+      "backstory": "瑞兹在狩猎符文之余喜欢玩《峡谷勇者》的游戏，并且总是扮演一个携带着魔法书、保护着卷轴的巫师，名字也叫瑞兹。他经常会指出，还是有不同之处的 ，那就是他自己的胡须是黑色的——而瑞兹·白须的胡子是白色的，而且他还有帽子。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin09/images/ryze_splash_uncentered_9.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin09/images/ryze_splash_tile_9.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin09/images/ryze_splash_centered_9.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin09/ryzeloadscreen_9.jpg",
+      "roit": {
+        "price": 750,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4900,
+      "icon": "",
+      "tencent": {
+        "price": 4900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2015年12月11日",
+        "priceEndDay": "14.5版本已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "5.23",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "25.10"
+      }
     }
   ]
 }
