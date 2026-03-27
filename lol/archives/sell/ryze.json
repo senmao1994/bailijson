@@ -1120,6 +1120,55 @@
         "updateName": "",
         "video": "25.10"
       }
+    },
+    {
+      "id": 13006,
+      "name": "至死不渝 瑞兹",
+      "roitName": "Zombie Ryze",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "丧尸VS丧尸杀手",
+      "universe": "丧尸VS丧尸杀手",
+      "pushDate": null,
+      "series": null,
+      "backstory": "因为痴迷于发现一种夺取诸多人生命的致突变病毒的治疗方法，瑞兹走遍了全世界只为寻找他能找到的每一丝深奥的医学研究线索-在他已经无限接近他的目标时，他却屈服于了他尝试根除的病变。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin06/images/ryze_splash_uncentered_6.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin06/images/ryze_splash_tile_6.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin06/images/ryze_splash_centered_6.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin06/ryzeloadscreen_6.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin06/ryzeloadscreen_6_le.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceTypeChinese": "守序者的尊严",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "献给那些即使保守创伤，依然坚守正道的召唤师",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "6.14",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "25.10"
+      }
     }
   ]
 }
