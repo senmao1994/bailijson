@@ -1217,6 +1217,54 @@
         "updateName": "",
         "video": "25.10"
       }
+    },
+    {
+      "id": 13004,
+      "name": "守护者雕像 瑞兹",
+      "roitName": "Triumphant Ryze",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "凯旋",
+      "universe": "凯旋",
+      "pushDate": null,
+      "series": null,
+      "backstory": "",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin04/images/ryze_splash_uncentered_4.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin04/images/ryze_splash_tile_4.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin04/images/ryze_splash_centered_4.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin04/ryzeloadscreen_4.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceTypeChinese": "先驱者的荣耀",
+        "priceStartDay": "2010年8月31日",
+        "priceEndDay": "2011年5月25日前",
+        "description": "使用激活码参与LOL不删档资格的玩家",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "6.14",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "25.10"
+      }
     }
   ]
 }
