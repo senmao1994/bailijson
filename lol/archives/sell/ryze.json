@@ -814,6 +814,87 @@
         "updateName": "",
         "video": "25.10"
       }
+    },
+    {
+      "id": 13011,
+      "name": "冠军之志 瑞兹",
+      "roitName": "Worlds 2019 Ryze",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "全球总决赛冠军",
+      "universe": "电竞",
+      "pushDate": null,
+      "series": null,
+      "backstory": "以此庆祝2019年在欧洲举办的全球总决赛。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin11/images/ryze_splash_uncentered_11.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin11/images/ryze_splash_tile_11.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin11/images/ryze_splash_centered_11.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13011.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin11/ryzeloadscreen_11.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin11/ryzeloadscreen_11_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "4365",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "全球总决赛",
+        "priceStartDay": "2019年9月27日",
+        "priceEndDay": "2019年11月20日9:59",
+        "description": "冠军限定版限时销售 | 世界赛期间返场",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 13012,
+          "name": "冠军之志 瑞兹 凯旋圣装",
+          "sortName": "凯旋圣装",
+          "colorName": "金色",
+          "tencent": {
+            "price": 300,
+            "priceType": "臻彩",
+            "priceStartDay": "2019年9月27日",
+            "priceEndDay": "2019年11月20日7:00",
+            "description": "首发战利品专属 | 臻藏奖池",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "。"
+          },
+          "riotName": "冠军之志 瑞兹 凯旋圣装",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13012.png",
+          "mythicIcon": "4366",
+          "wildRiftSell": null,
+          "colors": [
+            "#FFC948",
+            "#FFC948"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "9.19",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "25.10"
+      }
     }
   ]
 }
