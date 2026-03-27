@@ -1313,6 +1313,54 @@
         "updateName": "",
         "video": "25.10"
       }
+    },
+    {
+      "id": 13002,
+      "name": "部落精神 瑞兹",
+      "roitName": "Tribal Ryze",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "史前猎手",
+      "universe": "史前猎手",
+      "pushDate": null,
+      "series": null,
+      "backstory": "",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin02/images/ryze_splash_uncentered_2.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin02/images/ryze_splash_tile_2.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin02/images/ryze_splash_centered_2.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin02/ryzeloadscreen_2.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 2300,
+      "icon": "",
+      "tencent": {
+        "price": 2300,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年3月4日",
+        "priceEndDay": "商城已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "6.14",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "25.10"
+      }
     }
   ]
 }
