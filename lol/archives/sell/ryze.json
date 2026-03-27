@@ -1,0 +1,299 @@
+{
+  "id": "ryze",
+  "name": "符文法师",
+  "alias": "Ryze",
+  "key": 13,
+  "title": "瑞兹",
+  "skins": [
+    {
+      "id": 13029,
+      "name": "腥红之月 瑞兹",
+      "roitName": "Blood Moon Ryze",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "腥红之月",
+      "universe": "艾欧尼亚诸月",
+      "pushDate": "2025年5月15日",
+      "series": null,
+      "backstory": "来自记录保管员瑞兹：“权力在教徒、女祭司和恶魔之间分裂。在这精美的混乱中，我记载下每一个瞬间，将我所见证的一切如实记录。腥红之月在召唤，如潮汐一样推拉着我的恶魔。恶魔始终如一地回以咆哮和雷鸣，它的鼓声浸透了来自新鲜毁灭的脓液。”",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin29/images/ryze_splash_uncentered_29.skins_ryze_skin29.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin29/images/ryze_splash_tile_29.skins_ryze_skin29.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin29/images/ryze_splash_centered_29.skins_ryze_skin29.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13029.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin29/ryzeloadscreen_29.skins_ryze_skin29.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2025年5月15日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 13031,
+          "name": "腥红之月 瑞兹 霞赤",
+          "sortName": "霞赤",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2025年5月15日",
+            "priceEndDay": "2025年5月29日09:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 瑞兹 霞赤",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13031.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 13032,
+          "name": "腥红之月 瑞兹 青木",
+          "sortName": "青木",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年5月15日",
+            "priceEndDay": "2025年5月29日09:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 瑞兹 青木",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13032.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 13033,
+          "name": "腥红之月 瑞兹 苍澜",
+          "sortName": "苍澜",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年5月15日",
+            "priceEndDay": "2025年5月29日09:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 瑞兹 苍澜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13033.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 13034,
+          "name": "腥红之月 瑞兹 琉璃",
+          "sortName": "琉璃",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 4900,
+            "priceType": "惊喜礼盒",
+            "priceStartDay": "2025年5月15日",
+            "priceEndDay": "2025年6月3日09:59",
+            "description": "观星月影(2025)惊喜礼盒",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 瑞兹 琉璃",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13034.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 13035,
+          "name": "腥红之月 瑞兹 落樱",
+          "sortName": "落樱",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 瑞兹 落樱",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13035.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 13036,
+          "name": "腥红之月 瑞兹 绿松",
+          "sortName": "绿松",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年5月15日",
+            "priceEndDay": "2025年5月29日09:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 瑞兹 绿松",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13036.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 13037,
+          "name": "腥红之月 瑞兹 夜鸦",
+          "sortName": "夜鸦",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2025年5月15日",
+            "priceEndDay": "2025年5月29日09:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 瑞兹 夜鸦",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13037.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 13038,
+          "name": "腥红之月 瑞兹 鹤雪",
+          "sortName": "鹤雪",
+          "colorName": "白色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 瑞兹 鹤雪",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13038.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "25.10",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
