@@ -867,14 +867,15 @@
             "priceEndDay": "2019年11月20日7:00",
             "description": "首发战利品专属 | 臻藏奖池",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ahlj0pjt8y9q6934h1z4eaff1ztycreh.jpg"
           },
           "roit": {
             "price": 35,
             "priceType": "神话商店",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "。"
+            "description": ""
           },
           "riotName": "冠军之志 瑞兹 凯旋圣装",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13012.png",
