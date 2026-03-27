@@ -1,0 +1,67 @@
+{
+  "id": 10030,
+  "name": "潘森",
+  "alias": "pansen",
+  "key": "10030",
+  "title": "不屈之枪",
+  "skins": [
+    {
+      "id": 1003011,
+      "name": "越塔需谨慎！ 潘森",
+      "roitName": "Turret Cosplay Pantheon",
+      "sortName": "越塔需谨慎！",
+      "rarity": "史诗",
+      "raritySubType": "限定",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "2026",
+      "universe": "愚人节",
+      "pushDate": "",
+      "series": null,
+      "backstory": "身为游园会首席保安，潘森的作风独一无二。他总穿着自制的“史诗级纸板装甲”，全身心扮演着人形防御塔。一旦发现场内有摩擦，他立即开启表演模式——先是庄严地敲响纸盾，随即举起长矛高呼：“检测到越塔行为！接受制裁吧！”他坚信，只要自己演得足够认真，就能用这份夸张的正义感化解所有尴尬，让不速之客在众人的哄笑声中落荒而逃。",
+      "accessories": [
+        "边框",
+        "姿态：坚塔"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Pantheon_10.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_pantheon_skin10.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003011.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.0",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年3月27日",
+        "endDate": "2026年4月9日23:59",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
