@@ -1169,6 +1169,54 @@
         "updateName": "",
         "video": "25.10"
       }
+    },
+    {
+      "id": 13005,
+      "name": "宗师级法师训练师 瑞兹",
+      "roitName": "Professor Ryze",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "学院",
+      "universe": "学院",
+      "pushDate": null,
+      "series": null,
+      "backstory": "所有正在学习符文印记学基础的同学请注意，瑞兹教授目前正在休假期努力推广自己的新教材，符文印记学与隐藏的魔法[第17版]。这将代替我们之前使用的教材，并且所有的过期教材必须换成这种售价7000美元的新封面。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin05/images/ryze_splash_uncentered_5.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin05/images/ryze_splash_tile_5.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin05/images/ryze_splash_centered_5.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin05/ryzeloadscreen_5.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 3900,
+      "icon": "",
+      "tencent": {
+        "price": 3900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年10月5日",
+        "priceEndDay": "该皮肤已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "6.14",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "25.10"
+      }
     }
   ]
 }
