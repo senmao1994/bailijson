@@ -294,6 +294,296 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 13020,
+      "name": "孤勇之隐 瑞兹",
+      "roitName": "Arcana Ryze",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "命运之子",
+      "universe": "命运之子",
+      "pushDate": "2022年4月14日",
+      "series": null,
+      "backstory": "一个守秘人和宣教人，他的力量来自他的头脑和双手。他的任务是低调淡泊、悄无声息地解决世界上的各种问题。他准备修复这对命定恋人造成的任何混乱，然后退隐——成为那些才华横溢却默默无闻之人的一个榜样。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin20/images/ryze_splash_uncentered_20.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin20/images/ryze_splash_tile_20.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin20/images/ryze_splash_centered_20.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13020.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin20/ryzeloadscreen_20.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2022年4月15日10:00",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 13021,
+          "name": "孤勇之隐 瑞兹 斗志",
+          "sortName": "斗志",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2022年4月15日10:00",
+            "priceEndDay": "长期直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "孤勇之隐 瑞兹 斗志",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13021.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 13022,
+          "name": "孤勇之隐 瑞兹 财富",
+          "sortName": "财富",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "孤勇之隐 瑞兹 财富",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13022.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 13023,
+          "name": "孤勇之隐 瑞兹 坚韧",
+          "sortName": "坚韧",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "孤勇之隐 瑞兹 坚韧",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13023.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 13024,
+          "name": "孤勇之隐 瑞兹 谦逊",
+          "sortName": "谦逊",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "孤勇之隐 瑞兹 谦逊",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13024.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 13025,
+          "name": "孤勇之隐 瑞兹 忠诚",
+          "sortName": "忠诚",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2022年4月15日10:00",
+            "priceEndDay": "2022年4月29日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "孤勇之隐 瑞兹 忠诚",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13025.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 13026,
+          "name": "孤勇之隐 瑞兹 学识",
+          "sortName": "学识",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "孤勇之隐 瑞兹 学识",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13026.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 13027,
+          "name": "孤勇之隐 瑞兹 哀伤",
+          "sortName": "哀伤",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "孤勇之隐 瑞兹 哀伤",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13027.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 13028,
+          "name": "孤勇之隐 瑞兹 均衡",
+          "sortName": "均衡",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "孤勇之隐 瑞兹 均衡",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/13/13028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.17",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "25.10"
+      }
     }
   ]
 }
