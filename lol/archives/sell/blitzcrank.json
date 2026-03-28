@@ -1,0 +1,412 @@
+{
+  "id": "blitzcrank",
+  "name": "蒸汽机器人",
+  "alias": "Blitzcrank",
+  "key": 53,
+  "title": "布里茨",
+  "skins": [
+    {
+      "id": 53066,
+      "name": "泡泡飘飘拳 布里茨",
+      "roitName": "Bubble Bash Blitzcrank",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "玩具箱",
+      "universe": "玩具箱",
+      "pushDate": "2026年4月2日",
+      "series": null,
+      "backstory": "连续三个夏天，【泡泡飘飘拳 布里茨】在货架上都被一扫而空，让孩子们和家长们都为之疯狂。孩子们用它黏糊糊的手互相拍打、贴满贴纸、到处吹泡泡，玩得不亦乐乎，而家长们则对之后留下的烂摊子唉声叹气。而自始至终，布里茨一直在保持微笑。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin66/images/blitzcrank_splash_uncentered_66.skins_blitzcrank_skin66.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin66/images/blitzcrank_splash_tile_66.skins_blitzcrank_skin66.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin66/images/blitzcrank_splash_centered_66.skins_blitzcrank_skin66.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53066.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin66/blitzcrankloadscreen_66.skins_blitzcrank_skin66.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin66/blitzcrankloadscreen_66_le.skins_blitzcrank_skin66.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "7118",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2026年4月2日",
+        "priceEndDay": "限时下架",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 53067,
+          "name": "泡泡飘飘拳 布里茨 吃我一记“火冒三丈”！",
+          "sortName": "吃我一记“火冒三丈”！",
+          "colorName": "红色",
+          "tencent": {
+            "price": 0,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "这个炫彩曾在2026年期间作为礼包专属发布。",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "这个炫彩曾在2026年期间作为礼包专属发布。"
+          },
+          "riotName": "泡泡飘飘拳 布里茨 吃我一记“火冒三丈”！",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53067.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 53068,
+          "name": "泡泡飘飘拳 布里茨 吃我一记“眼冒金星”！",
+          "sortName": "吃我一记“眼冒金星”！",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泡泡飘飘拳 布里茨 吃我一记“眼冒金星”！",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53068.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 53069,
+          "name": "泡泡飘飘拳 布里茨 吃我一记“斗转星移”！",
+          "sortName": "吃我一记“斗转星移”！",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泡泡飘飘拳 布里茨 吃我一记“斗转星移”！",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53069.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 53070,
+          "name": "泡泡飘飘拳 布里茨 吃我一记“大发雷霆”！",
+          "sortName": "吃我一记“大发雷霆”！",
+          "colorName": "青色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泡泡飘飘拳 布里茨 吃我一记“大发雷霆”！",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53070.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 53071,
+          "name": "泡泡飘飘拳 布里茨 吃我一记“万念俱灰”！",
+          "sortName": "吃我一记“万念俱灰”！",
+          "colorName": "白色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泡泡飘飘拳 布里茨 吃我一记“万念俱灰”！",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53071.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 53072,
+          "name": "泡泡飘飘拳 布里茨 吃我一记“天昏地暗”！",
+          "sortName": "吃我一记“天昏地暗”！",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泡泡飘飘拳 布里茨 吃我一记“天昏地暗”！",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53072.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 53073,
+          "name": "泡泡飘飘拳 布里茨 吃我一记“翻江倒海”！",
+          "sortName": "吃我一记“翻江倒海”！",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泡泡飘飘拳 布里茨 吃我一记“翻江倒海”！",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53073.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 53074,
+          "name": "泡泡飘飘拳 布里茨 吃我一记“眼花缭乱”！",
+          "sortName": "吃我一记“眼花缭乱”！",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泡泡飘飘拳 布里茨 吃我一记“眼花缭乱”！",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53074.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.07",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
