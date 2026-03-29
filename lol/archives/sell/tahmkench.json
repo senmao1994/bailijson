@@ -8,7 +8,7 @@
     {
       "id": 223039,
       "name": "胖胖龙 塔姆",
-      "roitName": "Surprise Party Vex",
+      "roitName": "Choncc Kench",
       "sortName": null,
       "rarity": "史诗",
       "raritySubType": null,
@@ -42,7 +42,7 @@
         "priceStartDay": "2026年4月2日",
         "priceEndDay": "完全体礼包限时销售",
         "description": "",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -55,7 +55,7 @@
             "priceType": "暂无",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "这个炫彩曾在2026年期间作为礼包专属发布。",
+            "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -71,7 +71,7 @@
             "priceType": "礼包",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "这个炫彩曾在2026年期间作为礼包专属发布。"
+            "description": ""
           },
           "riotName": "胖胖龙 塔姆 并非胖红龙",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/223/223040.png",
