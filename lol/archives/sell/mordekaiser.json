@@ -1,0 +1,90 @@
+{
+  "id": "mordekaiser",
+  "name": "铁铠冥魂",
+  "alias": "Mordekaiser",
+  "key": 82,
+  "title": "莫德凯撒",
+  "skins": [
+    {
+      "id": 82055,
+      "name": "至臻 小气大亨 莫德凯撒",
+      "roitName": "Prestige Money Miser Mordekaiser",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "职场精英",
+      "universe": "磨砺",
+      "pushDate": "2026年4月2日",
+      "series": null,
+      "backstory": "上一世，莫德凯撒只是蒙多公司的一名卑微的日内交易员，买卖着他那微薄的投资组合，直到他被抛售一切的冲动所驱使。随之而来的卖空狂潮让莫德凯撒大赚了一笔，而他也因此重生为“货币征服者”！新一天的交易开始了，而他将敲响开市钟。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin55/images/mordekaiser_splash_uncentered_55.skins_mordekaiser_skin55.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin55/images/mordekaiser_splash_tile_55.skins_mordekaiser_skin55.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin55/images/mordekaiser_splash_centered_55.skins_mordekaiser_skin55.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82055.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin55/mordekaiserloadscreen_55.skins_mordekaiser_skin55.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin55/mordekaiserloadscreen_55_le.skins_mordekaiser_skin55.jpg",
+      "roit": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "7119",
+      "tencent": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2026年4月2日",
+        "priceEndDay": "2026年4月29日",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 82058,
+          "name": "至臻 小气大亨 莫德凯撒 至强",
+          "sortName": "至强",
+          "colorName": "黄粉色",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2026年4月2日",
+            "priceEndDay": "2026年4月29日",
+            "description": "神话商城专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "至臻 小气大亨 莫德凯撒 至强",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82058.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D231B6",
+            "#BBA147"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.07",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
