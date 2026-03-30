@@ -140,10 +140,10 @@
           "colorName": "紫色",
           "tencent": {
             "price": 0,
-            "priceType": "暂无",
+            "priceType": "臻彩",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "",
+            "description": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-55b04fca-a900-413f-abe9-80bb04b36c59.jpg",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -242,7 +242,7 @@
               "price": "",
               "priceUnit": ""
             },
-            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a202603277845prizewheel/pc/bg2.jpg"
+            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-45615cea-7d42-4358-9db3-e2bafb446e7f.jpg"
           },
           "roit": {
             "price": 290,
