@@ -18,18 +18,14 @@
       "universe": "墨影盈天",
       "pushDate": "2023年5月3日10:00",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/images/yone_splash_uncentered_35.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/images/yone_splash_tile_35.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/images/yone_splash_centered_35.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777035.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/yoneloadscreen_35.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/yoneloadscreen_35_le.jpg",
       "backstory": "两兄弟失去了家园，成为了墨之影武者。其中一个放弃了他的自由，而另一个放弃了他的身份。 永恩为他的墨纹付出了高昂的代价：没有人记得他的存在。现在，他仅仅是一个被称为“千面具之人”的无名陌生人，保护着难民免受卡勃尔派的侵害，直到他们可以被送到亚索的保护之下为止。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/images/yone_splash_uncentered_35.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/images/yone_splash_tile_35.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/images/yone_splash_centered_35.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777035.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/yoneloadscreen_35.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/yoneloadscreen_35_le.jpg",
       "roit": {
         "price": 0,
         "priceType": "直售",
@@ -45,7 +41,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2023年5月5日10:00",
         "priceEndDay": "长期销售",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -57,8 +54,9 @@
             "price": 2000,
             "priceType": "礼包",
             "priceStartDay": "2023年5月5日10:00",
-            "priceEndDay": "14.5下架",
+            "priceEndDay": "14.5版本下架直售",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -100,8 +98,9 @@
             "price": 2000,
             "priceType": "限时直售",
             "priceStartDay": "2023年5月5日10:00",
-            "priceEndDay": "14.5下架",
+            "priceEndDay": "14.5版本下架直售",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -145,6 +144,7 @@
             "priceStartDay": "2024年12月10日",
             "priceEndDay": "长期有效",
             "description": "英雄皮肤成就：解锁永恩7款皮肤",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -187,8 +187,9 @@
             "price": 2000,
             "priceType": "限时直售",
             "priceStartDay": "2023年5月5日10:00",
-            "priceEndDay": "14.5下架",
+            "priceEndDay": "14.5版本下架直售",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -230,8 +231,9 @@
             "price": 2000,
             "priceType": "限时直售",
             "priceStartDay": "2023年5月5日10:00",
-            "priceEndDay": "14.5下架",
+            "priceEndDay": "14.5版本下架直售",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -275,6 +277,7 @@
             "priceStartDay": "2023年5月5日10:00",
             "priceEndDay": "2023年6月14日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -316,8 +319,9 @@
             "price": 2000,
             "priceType": "限时直售",
             "priceStartDay": "2023年5月5日10:00",
-            "priceEndDay": "14.5下架",
+            "priceEndDay": "14.5版本下架直售",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -359,8 +363,9 @@
             "price": 2000,
             "priceType": "限时直售",
             "priceStartDay": "2023年5月5日10:00",
-            "priceEndDay": "14.5下架",
+            "priceEndDay": "14.5版本下架直售",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -404,6 +409,7 @@
             "priceStartDay": "2023年5月5日10:00",
             "priceEndDay": "2023年6月14日6:59",
             "description": "首发通行证兑换 后续神话商品轮换",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -448,6 +454,7 @@
             "priceStartDay": "2026年1月22日",
             "priceEndDay": "2026年3月18日",
             "description": "冥王 佛耶戈 A劫奖池 圣堂炫彩",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
