@@ -42,7 +42,7 @@
         "priceStartDay": "2026年4月1日",
         "priceEndDay": "2026年4月28日23:59",
         "description": "",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
