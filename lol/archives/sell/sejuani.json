@@ -42,7 +42,7 @@
         "priceStartDay": "2026年4月1日",
         "priceEndDay": "2026年4月28日23:59",
         "description": "",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -187,7 +187,7 @@
             "priceType": "惊喜礼盒",
             "priceStartDay": "2026年4月1日",
             "priceEndDay": "2026年4月28日23:59",
-            "description": "",
+            "description": "愚乐派对(2026)惊喜礼盒",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
