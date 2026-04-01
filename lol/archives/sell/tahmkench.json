@@ -40,9 +40,9 @@
         "priceType": "直售",
         "priceTypeChinese": "",
         "priceStartDay": "2026年4月1日",
-        "priceEndDay": "2026年4月15日09:59",
+        "priceEndDay": "2026年4月28日23:59",
         "description": "",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
