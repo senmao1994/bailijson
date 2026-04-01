@@ -39,8 +39,8 @@
         "price": 8900,
         "priceType": "直售",
         "priceTypeChinese": "",
-        "priceStartDay": "2026年4月2日",
-        "priceEndDay": "完全体礼包限时销售",
+        "priceStartDay": "2026年4月1日",
+        "priceEndDay": "2026年4月15日09:59",
         "description": "",
         "hasFullGiftPack": true
       },
@@ -95,10 +95,10 @@
           "sortName": "与灯笼椒酱更配噢！",
           "colorName": "黄色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -139,10 +139,10 @@
           "sortName": "与紫苏梅酱更配噢！",
           "colorName": "紫色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -183,11 +183,11 @@
           "sortName": "与薄荷酱更配噢！",
           "colorName": "绿色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
+            "price": 4900,
+            "priceType": "惊喜礼盒",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月28日23:59",
+            "description": "愚乐派对(2026)惊喜礼盒",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -227,10 +227,10 @@
           "sortName": "与甜辣酱更配噢！",
           "colorName": "粉色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -359,10 +359,10 @@
           "sortName": "与青芥末酱更配噢！",
           "colorName": "青色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
