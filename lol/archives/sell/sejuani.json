@@ -39,8 +39,8 @@
         "price": 8900,
         "priceType": "直售",
         "priceTypeChinese": "",
-        "priceStartDay": "2026年4月2日",
-        "priceEndDay": "完全体礼包限时销售",
+        "priceStartDay": "2026年4月1日",
+        "priceEndDay": "2026年4月28日23:59",
         "description": "",
         "hasFullGiftPack": true
       },
@@ -95,10 +95,10 @@
           "sortName": "曾经空大现在训狗",
           "colorName": "蓝色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -139,10 +139,10 @@
           "sortName": "曾经抓边现在训狗",
           "colorName": "粉色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -183,10 +183,10 @@
           "sortName": "曾经骑箭现在训狗",
           "colorName": "绿色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 4900,
+            "priceType": "惊喜礼盒",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月28日23:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -271,10 +271,10 @@
           "sortName": "曾经反野现在训狗",
           "colorName": "青色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -359,10 +359,10 @@
           "sortName": "曾经打野现在训狗",
           "colorName": "黑色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
