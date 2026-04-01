@@ -39,8 +39,8 @@
         "price": 8900,
         "priceType": "直售",
         "priceTypeChinese": "",
-        "priceStartDay": "2026年4月2日",
-        "priceEndDay": "完全体礼包限时销售",
+        "priceStartDay": "2026年4月1日",
+        "priceEndDay": "2026年4月28日23:59",
         "description": "",
         "hasFullGiftPack": true
       },
@@ -51,10 +51,10 @@
           "sortName": "吃我一记“火冒三丈”！",
           "colorName": "红色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -95,10 +95,10 @@
           "sortName": "吃我一记“眼冒金星”！",
           "colorName": "黄色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -139,11 +139,11 @@
           "sortName": "吃我一记“斗转星移”！",
           "colorName": "绿色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
+            "price": 4900,
+            "priceType": "惊喜礼盒",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月28日23:59",
+            "description": "愚乐派对(2026)惊喜礼盒",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -183,10 +183,10 @@
           "sortName": "吃我一记“大发雷霆”！",
           "colorName": "青色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -271,10 +271,10 @@
           "sortName": "吃我一记“天昏地暗”！",
           "colorName": "黑色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -315,10 +315,10 @@
           "sortName": "吃我一记“翻江倒海”！",
           "colorName": "紫色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日9:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
