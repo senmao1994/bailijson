@@ -39,10 +39,10 @@
         "price": 8900,
         "priceType": "直售",
         "priceTypeChinese": "",
-        "priceStartDay": "2026年4月2日",
-        "priceEndDay": "完全体礼包限时销售",
+        "priceStartDay": "2026年4月1日",
+        "priceEndDay": "2026年4月15日09:59",
         "description": "",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
@@ -95,10 +95,10 @@
           "sortName": "并非胖金龙",
           "colorName": "黄色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -139,11 +139,11 @@
           "sortName": "并非胖绿龙",
           "colorName": "绿色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
+            "price": 4900,
+            "priceType": "惊喜礼盒",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月28日23:59",
+            "description": "愚乐派对(2026)惊喜礼盒",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -183,10 +183,10 @@
           "sortName": "并非胖蓝龙",
           "colorName": "蓝色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -227,10 +227,10 @@
           "sortName": "并非胖紫龙",
           "colorName": "紫水晶",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -315,10 +315,10 @@
           "sortName": "并非胖岩龙",
           "colorName": "白色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -359,10 +359,10 @@
           "sortName": "并非胖黑龙",
           "colorName": "黑色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月1日",
+            "priceEndDay": "2026年4月15日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
