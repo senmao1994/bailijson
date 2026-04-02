@@ -585,6 +585,327 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 9027,
+      "name": "星之吞噬者 费德提克",
+      "roitName": "Star Nemesis Fiddlesticks",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "星之守护者 第四季",
+      "universe": "星之守护者宇宙",
+      "pushDate": " 2022年7月14日",
+      "series": null,
+      "backstory": "这个被称为费德提克的生物在每个时代都以星之守护者们为食，猎杀那些濒临堕落者，然后完全消耗掉他们的光芒。它与守护者们的联系，以及它被他们吸引的原因，都还不清楚……但被陷入它之内的佣兽似乎暗示了一个真正令人不安的起源。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin27/images/fiddlesticks_splash_uncentered_27.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin27/images/fiddlesticks_splash_tile_27.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin27/images/fiddlesticks_splash_centered_27.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9027.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin27/fiddlesticksloadscreen_27.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin27/fiddlesticksloadscreen_27_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "5423",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": " 2022年7月15日10:00",
+        "priceEndDay": " 2022年7月15日8月16日23:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 9028,
+          "name": "星之吞噬者 费德提克 热情之末",
+          "sortName": "热情之末",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年7月15日10:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "星之吞噬者 费德提克 热情之末",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 9029,
+          "name": "星之吞噬者 费德提克 美之末",
+          "sortName": "美之末",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年7月15日10:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "星之吞噬者 费德提克 美之末",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9029.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 9030,
+          "name": "星之吞噬者 费德提克 变更之末",
+          "sortName": "变更之末",
+          "colorName": "浅绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年7月15日10:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "星之吞噬者 费德提克 变更之末",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9030.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#B6E084",
+            "#B6E084"
+          ]
+        },
+        {
+          "id": 9031,
+          "name": "星之吞噬者 费德提克 智慧之末",
+          "sortName": "智慧之末",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年7月15日10:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "星之吞噬者 费德提克 智慧之末",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9031.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 9032,
+          "name": "星之吞噬者 费德提克 未来之末",
+          "sortName": "未来之末",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年7月15日10:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "星之吞噬者 费德提克 未来之末",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9032.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 9033,
+          "name": "星之吞噬者 费德提克 拥抱之末",
+          "sortName": "拥抱之末",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年7月15日10:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "星之吞噬者 费德提克 拥抱之末",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9033.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 9034,
+          "name": "星之吞噬者 费德提克 守护之末",
+          "sortName": "守护之末",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年7月15日10:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "星之吞噬者 费德提克 守护之末",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9034.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 9035,
+          "name": "星之吞噬者 费德提克 包容之末",
+          "sortName": "包容之末",
+          "colorName": "珍珠",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年7月15日10:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "星之吞噬者 费德提克 包容之末",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9035.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DED6B0",
+            "#DED6B0"
+          ]
+        },
+        {
+          "id": 9036,
+          "name": "星之吞噬者 费德提克 希望之末",
+          "sortName": "希望之末",
+          "colorName": "星之守护者2022",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2022年7月15日10:00",
+            "priceEndDay": "2022年8月16日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "星之吞噬者 费德提克 希望之末",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9036.png",
+          "mythicIcon": "5428",
+          "wildRiftSell": null,
+          "colors": [
+            "#5F4AFF",
+            "#B11450"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.13版本",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
