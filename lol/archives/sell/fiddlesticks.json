@@ -906,6 +906,236 @@
         "updateName": "",
         "video": "26.08"
       }
+    },
+    {
+      "id": 9009,
+      "name": "禁卫机甲 费德提克",
+      "roitName": "Praetorian Fiddlesticks",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "至高执政官",
+      "universe": "未来战士",
+      "pushDate": "2018年11月8日",
+      "series": null,
+      "backstory": "铭记者们最可怕的恐惧已被具象化。无面者部落、机械劫掠者们形成于时空结构中的裂缝，现身于多元宇宙的各处，摧毁着沿途的一切。费德提克是这个无尽入侵势力的一个单位，同化着它遇到的任何技术，并根除一切生命。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin09/images/fiddlesticks_splash_uncentered_9.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin09/images/fiddlesticks_splash_tile_9.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin09/images/fiddlesticks_splash_centered_9.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9009.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin09/fiddlesticksloadscreen_9.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2018年11月13日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 9010,
+          "name": "禁卫机甲 费德提克 赤红风暴",
+          "sortName": "赤红风暴",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2018年11月13日",
+            "priceEndDay": "礼包已下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "禁卫机甲 费德提克 赤红风暴",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9010.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 9011,
+          "name": "禁卫机甲 费德提克 无情旋刃",
+          "sortName": "无情旋刃",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "禁卫机甲 费德提克 无情旋刃",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9011.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 9012,
+          "name": "禁卫机甲 费德提克 醒目攻势",
+          "sortName": "醒目攻势",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "禁卫机甲 费德提克 醒目攻势",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9012.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 9013,
+          "name": "禁卫机甲 费德提克 苍白绞索",
+          "sortName": "苍白绞索",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "禁卫机甲 费德提克 苍白绞索",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9013.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 9014,
+          "name": "禁卫机甲 费德提克 浪漫湮灭",
+          "sortName": "浪漫湮灭",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2018年11月13日",
+            "priceEndDay": "礼包已下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "禁卫机甲 费德提克 浪漫湮灭",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9014.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 9015,
+          "name": "禁卫机甲 费德提克 暴走惊惧",
+          "sortName": "暴走惊惧",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "禁卫机甲 费德提克 暴走惊惧",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9015.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "8.22",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
