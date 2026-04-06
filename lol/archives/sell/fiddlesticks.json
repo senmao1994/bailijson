@@ -1462,6 +1462,55 @@
         "updateName": "",
         "video": "26.08"
       }
+    },
+    {
+      "id": 9004,
+      "name": "南瓜头 费德提克",
+      "roitName": "Pumpkinhead Fiddlesticks",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "不给糖就捣蛋",
+      "universe": "峡谷传说",
+      "pushDate": null,
+      "series": null,
+      "backstory": "马车夫们被警告要坚持行驶在交通繁忙的大路上，尤其是在巫师季节。奇怪的事情会发生在那些古老的、月光照耀的道路上，那里没有鸟儿歌唱，并且在雾中有巨大的东西在移动。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin04/images/fiddlesticks_splash_uncentered_4.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin04/images/fiddlesticks_splash_tile_4.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin04/images/fiddlesticks_splash_centered_4.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin04/fiddlesticksloadscreen_4.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin04/fiddlesticksloadscreen_4_le.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "限定",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 12900,
+      "icon": "",
+      "tencent": {
+        "price": 12900,
+        "priceType": "限定",
+        "priceTypeChinese": "万圣节",
+        "priceStartDay": "2010年10月19日",
+        "priceEndDay": "万圣节期间返场销售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "10.7",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
