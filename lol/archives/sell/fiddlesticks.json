@@ -1254,7 +1254,7 @@
       "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9006.png",
       "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin06/fiddlesticksloadscreen_6.jpg",
       "roit": {
-        "price": 0,
+        "price": 975,
         "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
@@ -1268,7 +1268,7 @@
         "priceTypeChinese": "限定",
         "priceStartDay": "2011年10月27日",
         "priceEndDay": "不定期限时返场销售",
-        "description": "",
+        "description": "直营服原1820RP永久打折",
         "hasFullGiftPack": false
       },
       "chromas": [
