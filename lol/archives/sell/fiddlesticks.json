@@ -1184,6 +1184,54 @@
         "updateName": "",
         "video": "26.08"
       }
+    },
+    {
+      "id": 9007,
+      "name": "糖果使徒 费德提克",
+      "roitName": "Dark Candy Fiddlesticks",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "糖果大战",
+      "universe": "糖果大战",
+      "pushDate": "2012年12月14日",
+      "series": null,
+      "backstory": "当整个冬季仙境的灯光熄灭，为冰雪季节做准备时，某种古老而可怕的东西从魄罗国王的土地最黑暗的角落升起。它没有思想或目的，像着了魔一样狩猎节日狂欢者，放倒任何穿过它道路的东西。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin07/images/fiddlesticks_splash_uncentered_7.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin07/images/fiddlesticks_splash_tile_7.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin07/images/fiddlesticks_splash_centered_7.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin07/fiddlesticksloadscreen_7.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "限定",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "",
+      "tencent": {
+        "price": 9900,
+        "priceType": "限定",
+        "priceTypeChinese": "冰雪节",
+        "priceStartDay": "2012年12月14日",
+        "priceEndDay": "冰雪节期间返场销售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.153",
+        "update": "10.7",
+        "updateChinese": "视觉玩法更新\r",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
