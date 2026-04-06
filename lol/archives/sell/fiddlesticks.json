@@ -1232,6 +1232,146 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 9006,
+      "name": "惊悚派对 费德提克",
+      "roitName": "Surprise Party Fiddlesticks",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "惊悚派对",
+      "universe": "磨砺",
+      "pushDate": null,
+      "series": null,
+      "backstory": "每个人都跟你说，雇佣小丑是个好主意。“小丑对派对来说很棒，”他们如此说。但现在，每个人都不见了，电也停了，并且有个东西正在大厅之下大笑……",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin06/images/fiddlesticks_splash_uncentered_6.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin06/images/fiddlesticks_splash_tile_6.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin06/images/fiddlesticks_splash_centered_6.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9006.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin06/fiddlesticksloadscreen_6.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 29900,
+      "icon": "",
+      "tencent": {
+        "price": 29900,
+        "priceType": "直售",
+        "priceTypeChinese": "限定",
+        "priceStartDay": "2011年10月27日",
+        "priceEndDay": "不定期限时返场销售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 9016,
+          "name": "惊悚派对 费德提克 吓吓红",
+          "sortName": "吓吓红",
+          "colorName": "红色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "惊悚派对 费德提克 吓吓红",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9016.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 9017,
+          "name": "惊悚派对 费德提克 惊惊绿",
+          "sortName": "惊惊绿",
+          "colorName": "浅绿色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "惊悚派对 费德提克 惊惊绿",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9017.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#B6E084",
+            "#B6E084"
+          ]
+        },
+        {
+          "id": 9018,
+          "name": "惊悚派对 费德提克 怕怕蓝",
+          "sortName": "怕怕蓝",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "惊悚派对 费德提克 怕怕蓝",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9018.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "10.7",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
