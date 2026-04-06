@@ -1414,6 +1414,54 @@
         "updateName": "",
         "video": "26.08"
       }
+    },
+    {
+      "id": 9005,
+      "name": "铁钩船长 费德提克",
+      "roitName": "Fiddle Me Timbers",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "比尔吉沃特：焰浪之潮",
+      "universe": "符文之地时代",
+      "pushDate": null,
+      "series": null,
+      "backstory": "呀哈，费德-迪-迪。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin05/images/fiddlesticks_splash_uncentered_5.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin05/images/fiddlesticks_splash_tile_5.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin05/images/fiddlesticks_splash_centered_5.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin05/fiddlesticksloadscreen_5.jpg",
+      "roit": {
+        "price": 750,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "",
+      "tencent": {
+        "price": 6900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年4月26日",
+        "priceEndDay": "商城已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "10.7",
+        "updateChinese": "游戏玩法更新",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
