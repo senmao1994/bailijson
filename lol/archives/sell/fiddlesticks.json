@@ -1136,6 +1136,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 9008,
+      "name": "重生之沙 费德提克",
+      "roitName": "Risen Fiddlesticks",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "沙之守护",
+      "universe": "沙之守护",
+      "pushDate": "2015年4月29日",
+      "series": null,
+      "backstory": "从前，在一个遥远的地方，一个善妒的年轻帝王唤醒了亵渎神灵的召唤仪式以换取力量。当远古的恐惧之物费德提克到来时，他没有帮助那个孩子，转瞬之间，他的帝国就被彻底摧毁了。而那个魔物则被困在废墟之下……直到现在。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin08/images/fiddlesticks_splash_uncentered_8.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin08/images/fiddlesticks_splash_tile_8.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin08/images/fiddlesticks_splash_centered_8.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin08/fiddlesticksloadscreen_8.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "",
+      "tencent": {
+        "price": 6900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2015年4月29日",
+        "priceEndDay": "14.5版本已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "5.8",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
