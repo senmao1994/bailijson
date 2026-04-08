@@ -1515,7 +1515,7 @@
     {
       "id": 9003,
       "name": "荒野幽灵 费德提克",
-      "roitName": "",
+      "roitName": "Bandito Fiddlesticks",
       "sortName": null,
       "rarity": "普通",
       "raritySubType": null,
@@ -1563,7 +1563,14 @@
             "priceEndDay": "道聚城售卖中",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1575,7 +1582,14 @@
           "riotName": "荒野幽灵 费德提克 贝列之锐",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9019.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -1593,7 +1607,14 @@
             "priceEndDay": "道聚城售卖中",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1605,7 +1626,14 @@
           "riotName": "荒野幽灵 费德提克 欧利昂之威",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9020.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#27211C",
             "#27211C"
@@ -1623,7 +1651,14 @@
             "priceEndDay": "道聚城售卖中",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1635,7 +1670,14 @@
           "riotName": "荒野幽灵 费德提克 瓦沙克之言",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9021.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
@@ -1653,7 +1695,14 @@
             "priceEndDay": "道聚城售卖中",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1665,7 +1714,14 @@
           "riotName": "荒野幽灵 费德提克 巴耶力之生",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9022.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -1683,7 +1739,14 @@
             "priceEndDay": "道聚城售卖中",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1695,7 +1758,14 @@
           "riotName": "荒野幽灵 费德提克 加麦基之礼",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9023.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#DF9117",
             "#DF9117"
@@ -1713,7 +1783,14 @@
             "priceEndDay": "道聚城售卖中",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1725,7 +1802,14 @@
           "riotName": "荒野幽灵 费德提克 华利弗之援",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9024.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#B6E084",
             "#B6E084"
@@ -1743,7 +1827,14 @@
             "priceEndDay": "道聚城售卖中",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1755,7 +1846,14 @@
           "riotName": "荒野幽灵 费德提克 亚蒙之隐",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9025.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#73BFBE",
             "#73BFBE"
@@ -1773,7 +1871,14 @@
             "priceEndDay": "道聚城售卖中",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1785,7 +1890,14 @@
           "riotName": "荒野幽灵 费德提克 拜恩之势",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9026.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#9C68D7",
             "#9C68D7"
