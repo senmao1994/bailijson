@@ -56,8 +56,8 @@
       },
       "sell": {
         "startDate": "2026年4月9日",
-        "endDate": "2026年4月22日 23:59",
-        "description": "完全体礼包",
+        "endDate": "",
+        "description": "完全体礼包(2026年4月22日 23:59下架)",
         "activityTitle": "",
         "price": "",
         "priceUnit": ""
