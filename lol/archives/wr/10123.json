@@ -1,0 +1,67 @@
+{
+  "id": 10123,
+  "name": "赛娜",
+  "alias": "saina",
+  "key": "10123",
+  "title": "涤魂圣枪",
+  "skins": [
+    {
+      "id": 1012309,
+      "name": "斗魂无双 赛娜",
+      "roitName": "Soul Fighter Senna",
+      "sortName": "斗魂无双",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "角逐",
+      "universe": "斗魂无双",
+      "pushDate": "",
+      "series": null,
+      "backstory": "震惊！昔日消亡于意外的调查局精英，正携着仇敌之力自彼岸重返擂台！调查局视她为叛徒，灵魂视她为异端。而她调转枪口，誓要将双方一同葬送！此刻，见证这逆转绝境的终极复仇——赛娜！",
+      "accessories": [
+        "边框",
+        "姿态：不屈"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Senna_8.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_senna_skin08.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012309.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年4月9日",
+        "endDate": "2026年4月22日 23:59",
+        "description": "完全体礼包",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
