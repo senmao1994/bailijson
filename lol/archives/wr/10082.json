@@ -1,0 +1,60 @@
+{
+  "id": 10082,
+  "name": "安蓓萨",
+  "alias": "anbeisa",
+  "key": "10082",
+  "title": "铁血狼母",
+  "skins": [
+    {
+      "id": 1008204,
+      "name": "斗魂无双 安蓓萨",
+      "roitName": "Soul Fighter Ambessa",
+      "sortName": "斗魂无双",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "角逐",
+      "universe": "斗魂无双",
+      "pushDate": "7.1",
+      "series": null,
+      "backstory": "又是一位赛场老资历！这位兽骸之地的老兵登场证明着她还尚未远离权力中心，而其背后的家族也必将虎视眈眈！斗魂大会？彼界之地？所有力量皆归于米达尔达！有请母狼之魂——安—蓓—萨！",
+      "accessories": [
+        "边框",
+        "姿态：挑战"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ambessa_3.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ambessa_skin03.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008204.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "sell": {
+        "startDate": "2026年4月9日",
+        "endDate": "",
+        "description": "完全体礼包首发4月22日23:59分下架",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
