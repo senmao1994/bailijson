@@ -1,0 +1,67 @@
+{
+  "id": 10144,
+  "name": "维克托",
+  "alias": "weiketuo",
+  "key": "10144",
+  "title": "奥术先驱",
+  "skins": [
+    {
+      "id": 1014404,
+      "name": "斗魂无双 维克托",
+      "roitName": "Soul Fighter Viktor",
+      "sortName": "斗魂无双",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "角逐",
+      "universe": "斗魂无双",
+      "pushDate": "",
+      "series": null,
+      "backstory": "紧急播报！随着新选手的登场，灵魂能量水平已经爆表！我们的擂台已经岌岌可危……或者说这是一种比赛策略，我们终于进入白热化的新纪元！现在，臣服于魔神般的异象先驱——维克托！",
+      "accessories": [
+        "边框",
+        "姿态：施法"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viktor_3.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viktor_skin03.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1014404.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年4月9日",
+        "endDate": "",
+        "description": "完全体礼包首发4月22日23:59分下架",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
