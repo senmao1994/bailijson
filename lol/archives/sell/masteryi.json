@@ -326,6 +326,55 @@
         "updateName": "",
         "video": "26.08"
       }
+    },
+    {
+      "id": 11009,
+      "name": "源计划：林 易",
+      "roitName": "PROJECT: Yi",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "源计划",
+      "universe": "源计划",
+      "pushDate": "2015年9月7日",
+      "series": null,
+      "backstory": "作为最初的概念原型之一，易被源计划囚禁并沦为实验对象，最后终于被基因动力的叛军解救。他的心智或许依然存在故障，但他的实验级超光“阿尔法”剑刃以其精准的平衡为反抗军贡献力量。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin09/images/masteryi_splash_uncentered_9.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin09/images/masteryi_splash_tile_9.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin09/images/masteryi_splash_centered_9.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin09/masteryiloadscreen_9.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin09/masteryiloadscreen_9_le.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "910",
+      "tencent": {
+        "price": 9900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2015年9月24日10:00",
+        "priceEndDay": "2015年10月07日23:59",
+        "description": "首发购买皮肤送专属头像和载入边框",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "5.17",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "美服26.08版本录制"
+      }
     }
   ]
 }
