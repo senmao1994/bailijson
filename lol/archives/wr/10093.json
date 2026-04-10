@@ -12,7 +12,7 @@
       "sortName": "斗魂无双",
       "rarity": "史诗",
       "raritySubType": "宝典限定",
-      "price": "960",
+      "price": "360",
       "priceUnit": "点券",
       "skinline": "角逐",
       "universe": "斗魂无双",
@@ -57,8 +57,8 @@
       },
       "sell": {
         "startDate": "2026年4月9日",
-        "endDate": "",
-        "description": "完全体礼包首发4月22日23:59分下架",
+        "endDate": "2026年6月6日",
+        "description": "高级宝典 360点券 精英宝典 680点券(含75级炫彩)",
         "activityTitle": "",
         "price": "",
         "priceUnit": ""
