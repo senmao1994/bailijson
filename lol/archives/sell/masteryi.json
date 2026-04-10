@@ -375,6 +375,55 @@
         "updateName": "",
         "video": "美服26.08版本录制"
       }
+    },
+    {
+      "id": 11053,
+      "name": "至臻 灵魂莲华 易",
+      "roitName": "Prestige Spirit Blossom Master Yi",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "灵魂莲华",
+      "universe": "灵魂莲华",
+      "pushDate": "2022年10月6日",
+      "series": null,
+      "backstory": "易抵达了灵魂莲华时尚节，戴着墨镜，身着华服。虽然其他人更喜欢与亲密的家人和好友一起庆祝，但易陶醉于他的服装所带来的关注，意图巩固他的“传承”风格。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin53/images/masteryi_splash_uncentered_53.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin53/images/masteryi_splash_tile_53.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin53/images/masteryi_splash_centered_53.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin53/masteryiloadscreen_53.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin53/masteryiloadscreen_53_le.jpg",
+      "roit": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "5534",
+      "tencent": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2022年10月8日10:00",
+        "priceEndDay": "2022年11月26日9:59",
+        "description": "神话商店 双周轮换(无边框和图标)",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.19",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
