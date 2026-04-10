@@ -1,0 +1,68 @@
+{
+  "id": 10093,
+  "name": "韦鲁斯",
+  "alias": "weilusi",
+  "key": "10093",
+  "title": "惩戒之箭",
+  "skins": [
+    {
+      "id": 1009318,
+      "name": "斗魂无双 韦鲁斯",
+      "roitName": "Soul Fighter Varus",
+      "sortName": "斗魂无双",
+      "rarity": "史诗",
+      "raritySubType": "宝典限定",
+      "price": "960",
+      "priceUnit": "点券",
+      "skinline": "角逐",
+      "universe": "斗魂无双",
+      "pushDate": "7.1",
+      "series": null,
+      "backstory": "各位观众，这位选手的“内心戏”比任何擂台对决都疯狂！一具身体，三道灵魂。！他的渴望，他的复仇，带来永无愈合的撕裂！小心他的箭，更小心那随时爆发的自我湮灭！有请，这永世纠缠的复仇之箭——韦鲁斯！",
+      "accessories": [
+        "边框",
+        "姿态：挽弓",
+        "姿态：斗魂冲浪"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Varus_17.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_varus_skin17.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009318.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年4月9日",
+        "endDate": "",
+        "description": "完全体礼包首发4月22日23:59分下架",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
