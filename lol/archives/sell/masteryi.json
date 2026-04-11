@@ -674,6 +674,55 @@
         "updateName": "",
         "video": "26.08"
       }
+    },
+    {
+      "id": 11116,
+      "name": "源计划：改 · 林 易",
+      "roitName": "PROJECT: Command Line Yi",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "源计划",
+      "universe": null,
+      "pushDate": "2026年4月15日",
+      "series": null,
+      "backstory": "易不再为他的主人效力，因此，他和他所谓的“基因动力反抗军”必须被制服。体系打造了一个易的复制体，拥有这位剑士的所有战斗能力，但没有那些导致他转向的错误。这个新的易是捕杀其本体的完美士兵——不断自我学习并且憎恨一切。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_uncentered_116.skins_masteryi_skin116.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_tile_116.skins_masteryi_skin116.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_centered_116.skins_masteryi_skin116.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/masteryiloadscreen_116.skins_masteryi_skin116.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/masteryiloadscreen_116_le.skins_masteryi_skin116.jpg",
+      "roit": {
+        "price": 40,
+        "priceType": "圣堂抽奖",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 40,
+      "icon": "7125",
+      "tencent": {
+        "price": 40,
+        "priceType": "圣堂抽奖",
+        "priceTypeChinese": "神话幻想",
+        "priceStartDay": "2026年4月16日",
+        "priceEndDay": "预计为2026年6月下架",
+        "description": "圣堂保底88000点券 A阶奖池源计划史诗皮肤",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.08",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
