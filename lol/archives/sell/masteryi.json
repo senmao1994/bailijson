@@ -472,6 +472,208 @@
         "updateName": "",
         "video": "26.08"
       }
+    },
+    {
+      "id": 11011,
+      "name": "玉剑传说 无极",
+      "roitName": "Eternal Sword Yi",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "玉剑传说",
+      "universe": "玉剑传说",
+      "pushDate": "2017年9月27日\r",
+      "series": null,
+      "backstory": "作为一所著名武术道场的学生，易将自己的生命献给了战斗的纯洁和艺术。然而，在他的心里，他知道自己配得上传说中的玉剑，以及那超越死亡的力量……  ",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin11/images/masteryi_splash_uncentered_11.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin11/images/masteryi_splash_tile_11.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin11/images/masteryi_splash_centered_11.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11011.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin11/masteryiloadscreen_11.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "3148",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2017年9月29日 11:00",
+        "priceEndDay": "",
+        "description": "购买皮肤送图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 11012,
+          "name": "玉剑传说 无极 白虎",
+          "sortName": "白虎",
+          "colorName": "白色",
+          "tencent": {
+            "price": 11800,
+            "priceType": "臻彩",
+            "priceStartDay": "2021年3月5日12:00",
+            "priceEndDay": "2021年4月1日6:59",
+            "description": "2021小蜜蜂宝典 炫彩升级包100级奖励",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/awgsqw0ju537gix2vferg7mh1pus5d8q.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 无极 白虎",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11012.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 11013,
+          "name": "玉剑传说 无极 青龙",
+          "sortName": "青龙",
+          "colorName": "青色",
+          "tencent": {
+            "price": 0,
+            "priceType": "抽奖兑换",
+            "priceStartDay": "2017年10月",
+            "priceEndDay": "限时兑换",
+            "description": "魔法引擎活动300能量兑换",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 无极 青龙",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11013.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 11014,
+          "name": "玉剑传说 无极 朱雀",
+          "sortName": "朱雀",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2017年9月29日 11:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 无极 朱雀",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11014.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 11015,
+          "name": "玉剑传说 无极 玄武",
+          "sortName": "玄武",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2017年9月29日 11:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 无极 玄武",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11015.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 11016,
+          "name": "玉剑传说 无极 麒麟",
+          "sortName": "麒麟",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2025年4月29日",
+            "priceEndDay": "2025年5月28日23:59",
+            "description": "抽奖奖池300碎片兑换",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ag1xre46oekoi6joz2r577vtnxsfxywr.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 无极 麒麟",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11016.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.19",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
