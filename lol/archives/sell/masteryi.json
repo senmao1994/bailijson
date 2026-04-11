@@ -424,6 +424,54 @@
         "updateName": "",
         "video": "26.08"
       }
+    },
+    {
+      "id": 11010,
+      "name": "斩星魔剑 易",
+      "roitName": "Cosmic Blade Master Yi",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "星界",
+      "universe": "黑洞边境",
+      "pushDate": "2017年4月26日",
+      "series": null,
+      "backstory": "毫不费劲地在星体之间滑行着的易带着星界的优雅从夜空中一闪而过，他的剑刃带着晶状排列一般的精准度在宇宙本身所构成的织物上画着弧线。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin10/images/masteryi_splash_uncentered_10.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin10/images/masteryi_splash_tile_10.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin10/images/masteryi_splash_centered_10.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin10/masteryiloadscreen_10.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 19900,
+      "icon": "",
+      "tencent": {
+        "price": 19900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "限定",
+        "priceStartDay": "2017年7月14日",
+        "priceEndDay": "2017年7月31日",
+        "description": "无极剑圣的斩星魔剑抽奖活动",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.8",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
