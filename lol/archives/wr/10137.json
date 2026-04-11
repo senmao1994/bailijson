@@ -1,0 +1,67 @@
+{
+  "id": 10137,
+  "name": "瑞兹",
+  "alias": "ruizi",
+  "key": "10137",
+  "title": "符文法师",
+  "skins": [
+    {
+      "id": 1013705,
+      "name": "斗魂无双 瑞兹",
+      "roitName": "Soul Fighter Ryze",
+      "sortName": "斗魂无双",
+      "rarity": "史诗",
+      "raritySubType": "",
+      "price": "890",
+      "priceUnit": "点券",
+      "skinline": "重燃",
+      "universe": "斗魂无双",
+      "pushDate": "",
+      "series": null,
+      "backstory": "我们收到独家线报！调查局的元老，兽骸战争的亲历者现在抵达了竞技场！在这位选手看来，千眼魔神，死敌！异象调查局，堕落！剩下的参赛者，杂鱼！行动统统否决，力量全部收缴……现在，臣服于真正的传奇，瑞兹！",
+      "accessories": [
+        "边框",
+        "姿态：宝典"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ryze_4.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ryze_skin04.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013705.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年4月17日",
+        "endDate": "",
+        "description": "首发完全体礼包2025年4月30日23:59下架",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
