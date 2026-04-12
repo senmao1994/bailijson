@@ -6,401 +6,52 @@
   "title": "亚索",
   "skins": [
     {
-      "id": 157088,
-      "name": "踏雪寻梅 亚索",
-      "roitName": "Petals of Spring Yasuo",
+      "id": 157002,
+      "name": "源计划：风 亚索",
+      "roitName": "PROJECT: Yasuo",
       "sortName": null,
       "rarity": "史诗",
       "raritySubType": null,
       "price": null,
       "priceUnit": null,
-      "skinline": "踏雪寻梅",
-      "universe": "春节",
-      "pushDate": "2026年2月4日",
+      "skinline": "源计划",
+      "universe": "源计划",
+      "pushDate": "2014年8月31日\r",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_uncentered_88.skins_yasuo_skin88.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_tile_88.skins_yasuo_skin88.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_centered_88.skins_yasuo_skin88.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/157/157088.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/yasuoloadscreen_88.skins_yasuo_skin88.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/yasuoloadscreen_88_le.skins_yasuo_skin88.jpg",
-      "backstory": "独自一人，在霜火花园的最远边缘徘徊着的，正是亚索。他手持酷热与严寒之风，与由凡人们最黑暗记忆化成的骇人具象化身们战斗，同时又饱受他的前世记忆的折磨。他向往春天——因为当他的职责完成时，他就可以休息，并再次与他的友好竞争对手——卡特琳娜——切磋了。",
+      "backstory": "亚索从一次高科技战斗中归来，却被指控一项他不曾犯下的罪行。他知道源计划的管理层一定牵连其中，于是亚索与基因动力叛军并肩作战，用自己的等离子锻压战刃斩断科技的谎言。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin02/images/yasuo_splash_uncentered_2.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin02/images/yasuo_splash_tile_2.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin02/images/yasuo_splash_centered_2.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin02/yasuoloadscreen_2.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin02/yasuoloadscreen_2_le.jpg",
       "roit": {
         "price": 1350,
-        "priceType": "限时直售",
+        "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
       },
-      "tencentPrice": 10900,
-      "icon": "7071",
+      "tencentPrice": 6900,
+      "icon": "",
       "tencent": {
-        "price": 10900,
-        "priceType": "限时直售",
-        "priceTypeChinese": "马年限定",
-        "priceStartDay": "2026年2月4日",
-        "priceEndDay": "下架时间暂未公布",
-        "description": ""
+        "price": 6900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2014年8月31日\r",
+        "priceEndDay": "",
+        "description": "2016年8月17日前拥有皮肤赠送载入边框",
+        "hasFullGiftPack": false
       },
-      "chromas": [
-        {
-          "id": 157089,
-          "name": "踏雪寻梅 亚索 岁寒特妍",
-          "sortName": "岁寒特妍",
-          "colorName": "红色",
-          "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "礼包",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "踏雪寻梅 亚索 岁寒特妍",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/157/157089.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#D33528",
-            "#D33528"
-          ]
-        },
-        {
-          "id": 157090,
-          "name": "踏雪寻梅 亚索 狂飙卷沙",
-          "sortName": "狂飙卷沙",
-          "colorName": "黄色",
-          "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "限时直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "踏雪寻梅 亚索 狂飙卷沙",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/157/157090.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#FFEE59",
-            "#FFEE59"
-          ]
-        },
-        {
-          "id": 157091,
-          "name": "踏雪寻梅 亚索 玉立冰洁",
-          "sortName": "玉立冰洁",
-          "colorName": "蓝色",
-          "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "限时直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "踏雪寻梅 亚索 玉立冰洁",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/157/157091.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#2756CE",
-            "#2756CE"
-          ]
-        },
-        {
-          "id": 157092,
-          "name": "踏雪寻梅 亚索 绛萼著霜",
-          "sortName": "绛萼著霜",
-          "colorName": "粉色",
-          "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "限时直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "踏雪寻梅 亚索 绛萼著霜",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/157/157092.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#E58BA5",
-            "#E58BA5"
-          ]
-        },
-        {
-          "id": 157093,
-          "name": "踏雪寻梅 亚索 明蟾照夜",
-          "sortName": "明蟾照夜",
-          "colorName": "紫水晶",
-          "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "限时直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "踏雪寻梅 亚索 明蟾照夜",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/157/157093.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#9C68D7",
-            "#9C68D7"
-          ]
-        },
-        {
-          "id": 157094,
-          "name": "踏雪寻梅 亚索 琼英缀雪",
-          "sortName": "琼英缀雪",
-          "colorName": "白色",
-          "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "限时直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "踏雪寻梅 亚索 琼英缀雪",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/157/157094.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#ECF9F8",
-            "#ECF9F8"
-          ]
-        },
-        {
-          "id": 157095,
-          "name": "踏雪寻梅 亚索 竹映梅香",
-          "sortName": "竹映梅香",
-          "colorName": "竹绿色",
-          "tencent": {
-            "price": 0,
-            "priceType": "臻彩",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "限时直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "踏雪寻梅 亚索 竹映梅香",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/157/157095.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#B6E084",
-            "#B6E084"
-          ]
-        },
-        {
-          "id": 157096,
-          "name": "踏雪寻梅 亚索 独步早春",
-          "sortName": "独步早春",
-          "colorName": "绿色",
-          "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
-            "wildRiftSell": {
-              "startDate": "",
-              "endDate": "",
-              "description": "",
-              "activityTitle": "",
-              "price": "",
-              "priceUnit": ""
-            }
-          },
-          "roit": {
-            "price": 290,
-            "priceType": "限时直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "踏雪寻梅 亚索 独步早春",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/157/157096.png",
-          "mythicIcon": null,
-          "wildRiftSell": {
-            "startDate": "",
-            "endDate": "",
-            "description": "",
-            "activityTitle": "",
-            "price": "",
-            "priceUnit": ""
-          },
-          "colors": [
-            "#2DA130",
-            "#2DA130"
-          ]
-        }
-      ],
+      "chromas": [],
       "formsCount": null,
       "forms": [],
       "version": {
-        "push": "26.03",
+        "push": "4.15",
         "update": "",
         "updateChinese": "",
         "updateName": "",
-        "video": ""
+        "video": "25.04"
       }
     }
   ]
