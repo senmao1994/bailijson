@@ -1,0 +1,455 @@
+{
+  "id": "braum",
+  "name": "弗雷尔卓德之心",
+  "alias": "Braum",
+  "key": 201,
+  "title": "布隆",
+  "skins": [
+    {
+      "id": 201051,
+      "name": "胜利之心 布隆",
+      "roitName": "Victorious Braum",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "胜利诸神",
+      "universe": "胜利诸神",
+      "pushDate": "2026年1月8日",
+      "series": null,
+      "backstory": "玩家们在排位赛中积累了足够赛段点后，就会获得【胜利之心 布隆】作为奖励。布隆的坚韧证明了他是一位值得获得神圣赐福的英雄。配备着凤凰之霜、公羊之铠和巨熊之爪的布隆成为了弗雷尔卓德的永恒守护者。在他坚实护盾的后面，整个大地都感受到了和平的力量和温暖的笑容。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_uncentered_51.skins_braum_skin51.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_tile_51.skins_braum_skin51.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_centered_51.skins_braum_skin51.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201051.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/braumloadscreen_51.skins_braum_skin51.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【坚韧黑铁】段位。"
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceTypeChinese": "S16赛季皮肤",
+        "priceStartDay": "2026年1月8日版本更新后",
+        "priceEndDay": "2026年4月29日23:59",
+        "description": "2026年第一主题赛季期间赢得15场排位，赛季结束后开始发放奖励",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 201052,
+          "name": "胜利之心 布隆 英勇黄铜",
+          "sortName": "英勇黄铜",
+          "colorName": "Bronze",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2026 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【英勇黄铜】段位"
+          },
+          "riotName": "胜利之心 布隆 英勇黄铜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201052.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#764D43",
+            "#764D43"
+          ]
+        },
+        {
+          "id": 201053,
+          "name": "胜利之心 布隆 不屈白银",
+          "sortName": "不屈白银",
+          "colorName": "Silver",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2026 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【不屈白银】段位"
+          },
+          "riotName": "胜利之心 布隆 不屈白银",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201053.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#AAB5BA",
+            "#AAB5BA"
+          ]
+        },
+        {
+          "id": 201054,
+          "name": "胜利之心 布隆 荣耀黄金",
+          "sortName": "荣耀黄金",
+          "colorName": "Gold",
+          "tencent": {
+            "price": 0,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2026 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【荣耀黄金】段位"
+          },
+          "riotName": "胜利之心 布隆 荣耀黄金",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201054.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D9C445",
+            "#D9C445"
+          ]
+        },
+        {
+          "id": 201055,
+          "name": "胜利之心 布隆 华贵铂金",
+          "sortName": "华贵铂金",
+          "colorName": "Platinum",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2026 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【华贵铂金】段位"
+          },
+          "riotName": "胜利之心 布隆 华贵铂金",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201055.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#55CDE5",
+            "#55CDE5"
+          ]
+        },
+        {
+          "id": 201056,
+          "name": "胜利之心 布隆 流光翡翠",
+          "sortName": "流光翡翠",
+          "colorName": "Emerald",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2026 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【流光翡翠】段位"
+          },
+          "riotName": "胜利之心 布隆 流光翡翠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201056.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#26854C",
+            "#26854C"
+          ]
+        },
+        {
+          "id": 201057,
+          "name": "胜利之心 布隆 璀璨钻石",
+          "sortName": "璀璨钻石",
+          "colorName": "Diamond",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2026 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【璀璨钻石】段位"
+          },
+          "riotName": "胜利之心 布隆 璀璨钻石",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201057.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#65337F",
+            "#65337F"
+          ]
+        },
+        {
+          "id": 201058,
+          "name": "胜利之心 布隆 超凡大师",
+          "sortName": "超凡大师",
+          "colorName": "Master",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2026 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【超凡大师】段位"
+          },
+          "riotName": "胜利之心 布隆 超凡大师",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201058.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#9D228D",
+            "#9D228D"
+          ]
+        },
+        {
+          "id": 201059,
+          "name": "胜利之心 布隆 傲世宗师",
+          "sortName": "傲世宗师",
+          "colorName": "Grandmaster",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2026 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【傲世宗师】段位"
+          },
+          "riotName": "胜利之心 布隆 傲世宗师",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201059.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#B31316",
+            "#B31316"
+          ]
+        },
+        {
+          "id": 201060,
+          "name": "胜利之心 布隆 最强王者",
+          "sortName": "最强王者",
+          "colorName": "Challenger",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "在2026 - 第1赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【最强王者】段位"
+          },
+          "riotName": "胜利之心 布隆 最强王者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201060.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#1D62C8",
+            "#1D62C8"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.08",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
