@@ -40,7 +40,7 @@
         "priceTypeChinese": "S16赛季皮肤",
         "priceStartDay": "2026年1月8日版本更新后",
         "priceEndDay": "2026年4月29日23:59",
-        "description": "2026年第一主题赛季期间赢得15场排位，赛季结束后开始发放奖励",
+        "description": "2026年第一主题赛季期间赢得15场排位，赛季结束后发放",
         "hasFullGiftPack": false
       },
       "chromas": [
@@ -139,7 +139,7 @@
           "colorName": "Gold",
           "tencent": {
             "price": 0,
-            "priceType": "礼包",
+            "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
