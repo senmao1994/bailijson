@@ -1215,6 +1215,297 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 11033,
+      "name": "灵能特工 易",
+      "roitName": "PsyOps Master Yi",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "灵能特工",
+      "universe": "灵能特工",
+      "pushDate": " 2020年9月3日",
+      "series": null,
+      "backstory": "易是灵能特工组织的一位传说级的灵能剑士和精英领导者。他很冷静、专业，并且总能完成任务，这使他成为了侠盗武装中的一个可怕的魔鬼，并且那些对全球战争机器怀有怨恨的人视他为眼中钉。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin33/images/masteryi_splash_uncentered_33.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin33/images/masteryi_splash_tile_33.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin33/images/masteryi_splash_centered_33.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11033.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin33/masteryiloadscreen_33.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin33/masteryiloadscreen_33_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "4670",
+      "tencent": {
+        "price": 7900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "9周年限定",
+        "priceStartDay": "2020年9月4日",
+        "priceEndDay": "2020年9月30日6:59",
+        "description": "皮肤和完全体礼包限定 不定期返场销售",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 11034,
+          "name": "灵能特工 易 代号：毒牙",
+          "sortName": "代号：毒牙",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2020年9月4日",
+            "priceEndDay": "2020年9月30日6:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵能特工 易 代号：毒牙",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11034.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 11035,
+          "name": "灵能特工 易 代号：蝮蛇",
+          "sortName": "代号：蝮蛇",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2020年9月4日",
+            "priceEndDay": "2020年9月30日6:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵能特工 易 代号：蝮蛇",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11035.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 11036,
+          "name": "灵能特工 易 代号：真理",
+          "sortName": "代号：真理",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2020年9月4日",
+            "priceEndDay": "2020年9月30日6:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵能特工 易 代号：真理",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11036.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 11037,
+          "name": "灵能特工 易 代号：灰熊",
+          "sortName": "代号：灰熊",
+          "colorName": "棕褐色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2020年9月4日",
+            "priceEndDay": "2020年9月30日6:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵能特工 易 代号：灰熊",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11037.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DED6B0",
+            "#DED6B0"
+          ]
+        },
+        {
+          "id": 11038,
+          "name": "灵能特工 易 代号：龙焰",
+          "sortName": "代号：龙焰",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2020年9月4日",
+            "priceEndDay": "2020年9月30日6:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵能特工 易 代号：龙焰",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11038.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 11039,
+          "name": "灵能特工 易 代号：银翼",
+          "sortName": "代号：银翼",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2020年9月4日",
+            "priceEndDay": "2020年9月30日6:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵能特工 易 代号：银翼",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11039.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 11040,
+          "name": "灵能特工 易 代号：天狼",
+          "sortName": "代号：天狼",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2020年9月4日",
+            "priceEndDay": "2020年9月18日10:00",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵能特工 易 代号：天狼",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11040.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 11041,
+          "name": "灵能特工 易 代号：猎人",
+          "sortName": "代号：猎人",
+          "colorName": "灵能特工2020",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2020年9月4日",
+            "priceEndDay": "2020年9月30日6:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "灵能特工 易 代号：猎人",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11041.png",
+          "mythicIcon": "4675",
+          "wildRiftSell": null,
+          "colors": [
+            "#B2D1E4",
+            "#3CABFF"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "10.18",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
