@@ -925,6 +925,296 @@
         "updateName": "",
         "video": "26.08"
       }
+    },
+    {
+      "id": 11024,
+      "name": "腥红之月 易",
+      "roitName": "Blood Moon Master Yi",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "腥红之月",
+      "universe": "艾欧尼亚诸月",
+      "pushDate": "2020年2月20日",
+      "series": null,
+      "backstory": "血月的教徒们已经开始了一场可怕的蜕变，因为魔界和人界之间的边界很快就被抹去了。易是第一批受到这种新的黑暗祝福的人之一，他的刀臂内的恶魔驱使着他前往盛况空前的暴力奇景。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin24/images/masteryi_splash_uncentered_24.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin24/images/masteryi_splash_tile_24.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin24/images/masteryi_splash_centered_24.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11024.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin24/masteryiloadscreen_24.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2020年2月27日12:00",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 11025,
+          "name": "腥红之月 易 霞赤",
+          "sortName": "霞赤",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2020年2月27日12:00",
+            "priceEndDay": "14.5版本已下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 易 霞赤",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11025.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 11026,
+          "name": "腥红之月 易 琉璃",
+          "sortName": "琉璃",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 易 琉璃",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11026.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 11027,
+          "name": "腥红之月 易 青木",
+          "sortName": "青木",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 易 青木",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11027.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 11028,
+          "name": "腥红之月 易 水月",
+          "sortName": "水月",
+          "colorName": "浅蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 易 水月",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 11029,
+          "name": "腥红之月 易 修罗",
+          "sortName": "修罗",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 易 修罗",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11029.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 11030,
+          "name": "腥红之月 易 鹤雪",
+          "sortName": "鹤雪",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 易 鹤雪",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11030.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 11031,
+          "name": "腥红之月 易 落樱",
+          "sortName": "落樱",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "2020年2月27日12:00",
+            "priceEndDay": "2020年3月12日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 易 落樱",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11031.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 11032,
+          "name": "腥红之月 易 夜鸦",
+          "sortName": "夜鸦",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "腥红之月 易 夜鸦",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11032.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "10.4",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
