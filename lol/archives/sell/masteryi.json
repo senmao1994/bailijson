@@ -1151,8 +1151,8 @@
           "sortName": "落樱",
           "colorName": "粉色",
           "tencent": {
-            "price": 2000,
-            "priceType": "直售",
+            "price": 1,
+            "priceType": "礼包",
             "priceStartDay": "2020年2月27日12:00",
             "priceEndDay": "2020年3月12日",
             "description": "",
