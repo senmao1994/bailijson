@@ -16,7 +16,7 @@
       "priceUnit": null,
       "skinline": "太空律动",
       "universe": "太空律动",
-      "pushDate": null,
+      "pushDate": "2026年4月15日",
       "series": null,
       "backstory": "扎克从不羁乐仙境的始源河流中涌现而出，是一团鲜活的律动实体。在他的星球上，放克不仅是音乐，而且构成了所有物质，在他低音增强过的心脏中不停跳动，随着他在星系各处舞动。这个实体走到哪里，节奏就会在哪里流动——而寂静将无机可乘！",
       "accessories": [],
@@ -50,10 +50,10 @@
           "sortName": "假装有心之钢",
           "colorName": "红色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -138,10 +138,10 @@
           "sortName": "假装有璀璨回响",
           "colorName": "粉色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -182,8 +182,8 @@
           "sortName": "假装有千变者贾修",
           "colorName": "紫色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
+            "price": 2000,
+            "priceType": "限时直售",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
@@ -200,8 +200,8 @@
           "roit": {
             "price": 290,
             "priceType": "直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": ""
           },
           "riotName": "太空律动 “节奏化身” 扎克 假装有千变者贾修",
@@ -226,10 +226,10 @@
           "sortName": "假装有振奋盔甲",
           "colorName": "绿色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -358,10 +358,10 @@
           "sortName": "假装有荆棘之甲",
           "colorName": "黑色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
