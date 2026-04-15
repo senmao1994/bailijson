@@ -1865,7 +1865,7 @@
       "priceUnit": null,
       "skinline": "灵能特工",
       "universe": "灵能特工",
-      "pushDate": null,
+      "pushDate": "2026年4月15日",
       "series": null,
       "backstory": "在黑色玫瑰集团中，一位未被看见的监督者在阴影中低声下达着命令。他就是弗拉基米尔，有些人说他是黑色玫瑰集团的<i>真正</i>领袖——一位与灵能特工的最初行动一样古老的士兵。他是一位无与伦比的幕后操纵者，在他控制下的躯体和思想都是他自身的延伸，被用来执行他险恶且隐秘的计划。",
       "accessories": [],
@@ -1899,17 +1899,24 @@
           "sortName": "代号：龙焰",
           "colorName": "红色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
-            "priceType": "直售",
+            "priceType": "礼包",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": ""
@@ -1917,7 +1924,14 @@
           "riotName": "灵能特工 弗拉基米尔 代号：龙焰",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8050.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -1935,7 +1949,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1947,7 +1968,14 @@
           "riotName": "灵能特工 弗拉基米尔 代号：猫眼",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8051.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFEE59",
             "#FFEE59"
@@ -1959,13 +1987,20 @@
           "sortName": "代号：天狼",
           "colorName": "粉色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1977,7 +2012,14 @@
           "riotName": "灵能特工 弗拉基米尔 代号：天狼",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8052.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#E58BA5",
             "#E58BA5"
@@ -1989,13 +2031,20 @@
           "sortName": "代号：蝮蛇",
           "colorName": "紫色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -2007,7 +2056,14 @@
           "riotName": "灵能特工 弗拉基米尔 代号：蝮蛇",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8053.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#54209B",
             "#54209B"
@@ -2025,7 +2081,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -2037,7 +2100,14 @@
           "riotName": "灵能特工 弗拉基米尔 代号：银翼",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8054.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -2049,13 +2119,20 @@
           "sortName": "代号：毒牙",
           "colorName": "绿色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -2067,7 +2144,14 @@
           "riotName": "灵能特工 弗拉基米尔 代号：毒牙",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8055.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2DA130",
             "#2DA130"
@@ -2079,13 +2163,20 @@
           "sortName": "代号：蜘蛛",
           "colorName": "黑色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -2097,7 +2188,14 @@
           "riotName": "灵能特工 弗拉基米尔 代号：蜘蛛",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8056.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#27211C",
             "#27211C"
@@ -2115,7 +2213,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -2127,7 +2232,14 @@
           "riotName": "灵能特工 弗拉基米尔 代号：幽灵",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8057.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
