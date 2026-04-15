@@ -56,7 +56,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -68,7 +75,14 @@
           "riotName": "源计划：幽灵 希维尔 裂变",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15073.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -80,13 +94,20 @@
           "sortName": "震击",
           "colorName": "黄色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -98,7 +119,14 @@
           "riotName": "源计划：幽灵 希维尔 震击",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15074.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFEE59",
             "#FFEE59"
@@ -116,7 +144,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -128,7 +163,14 @@
           "riotName": "源计划：幽灵 希维尔 地覆",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15075.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -140,13 +182,20 @@
           "sortName": "默化",
           "colorName": "绿色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -158,7 +207,14 @@
           "riotName": "源计划：幽灵 希维尔 默化",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15076.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2DA130",
             "#2DA130"
@@ -170,13 +226,20 @@
           "sortName": "燎原",
           "colorName": "黑色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -188,7 +251,14 @@
           "riotName": "源计划：幽灵 希维尔 燎原",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15077.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#27211C",
             "#27211C"
@@ -206,7 +276,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -218,7 +295,14 @@
           "riotName": "源计划：幽灵 希维尔 雪崩",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15078.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
@@ -230,13 +314,20 @@
           "sortName": "冥火",
           "colorName": "青色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -248,7 +339,14 @@
           "riotName": "源计划：幽灵 希维尔 冥火",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15079.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#73BFBE",
             "#73BFBE"
@@ -260,13 +358,20 @@
           "sortName": "幻灭",
           "colorName": "粉色",
           "tencent": {
-            "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -278,7 +383,14 @@
           "riotName": "源计划：幽灵 希维尔 幻灭",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15080.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#E58BA5",
             "#E58BA5"
