@@ -184,8 +184,8 @@
           "tencent": {
             "price": 2000,
             "priceType": "限时直售",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "priceStartDay": "2026年4月16日",
+            "priceEndDay": "2026年4月30日09:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
