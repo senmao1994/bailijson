@@ -54,6 +54,118 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 236006,
+      "name": "源计划：雷 卢锡安",
+      "roitName": "PROJECT: Lucian",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "源计划",
+      "universe": "源计划",
+      "pushDate": null,
+      "series": null,
+      "backstory": "卢锡安曾在体系内担任哨兵，所以见证过源计划的真正面目。他的粒子核心光束手枪现在为基因动力和人类的反叛而战，用残酷的高效摧毁科技的压迫者。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin06/images/lucian_splash_uncentered_6.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin06/images/lucian_splash_tile_6.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin06/images/lucian_splash_centered_6.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236006.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin06/lucianloadscreen_6.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin06/lucianloadscreen_6_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "914",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2015年9月24日10:00",
+        "priceEndDay": "",
+        "description": "首发购买随皮肤赠送边框和头像",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 236017,
+          "name": "源计划：雷 卢锡安 惩戒",
+          "sortName": "惩戒",
+          "colorName": "源计划2019",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2019年8月6日10:00",
+            "priceEndDay": "2019年9月6日",
+            "description": "2019源计划事件战利品专属。 ",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "源计划：雷 卢锡安 惩戒",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236017.png",
+          "mythicIcon": "4240",
+          "wildRiftSell": null,
+          "colors": [
+            "#FF5500",
+            "#162B30"
+          ]
+        },
+        {
+          "id": 236071,
+          "name": "源计划：雷 卢锡安 至强",
+          "sortName": "至强",
+          "colorName": "名人堂2025",
+          "tencent": {
+            "price": 328650,
+            "priceType": "典藏礼盒",
+            "priceStartDay": "2025年6月12日",
+            "priceEndDay": "2025年7月31日",
+            "description": "2025名人堂签名版联盟不朽收藏礼包",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ag735mqs7l3ja2ma110j4a2vlfxfemp2.jpg"
+          },
+          "roit": {
+            "price": 59260,
+            "priceType": "典藏礼盒",
+            "priceStartDay": "2025年6月12日",
+            "priceEndDay": "2025年7月31日",
+            "description": "2025名人堂签名版联盟不朽收藏礼包"
+          },
+          "riotName": "源计划：雷 卢锡安 至强",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236071.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9364D0",
+            "#69B6C2"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "5.17",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "25.12"
+      }
     }
   ]
 }
