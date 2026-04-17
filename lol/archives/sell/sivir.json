@@ -406,6 +406,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 15070,
+      "name": "十五周年纪念 希维尔",
+      "roitName": "Ann-Sivir-sary",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "击拳庆祝，共襄盛举",
+      "universe": "磨砺",
+      "pushDate": "2024年10月10日",
+      "series": null,
+      "backstory": "10:27 Riot 十周年纪念 安妮(黑暗之女)示意敌人已不见踪影<br>10:27 Riot 十周年纪念 安妮(黑暗之女)示意敌人已不见踪影<br>10:27 Riot 十周年纪念 安妮(黑暗之女)示意敌人已不见踪影<br>10:27 Riot 十周年纪念 安妮(黑暗之女)示意……",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin70/images/sivir_splash_uncentered_70.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin70/images/sivir_splash_tile_70.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin70/images/sivir_splash_centered_70.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin70/sivirloadscreen_70.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin70/sivirloadscreen_70_le.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赠送"
+      },
+      "tencentPrice": 0,
+      "icon": "6734",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "赠送",
+        "priceStartDay": "2024年10月10日",
+        "priceEndDay": "2024年10月29日9:59",
+        "description": "活动期间每日登录完成对局解锁奖励",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.20",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.08"
+      }
     }
   ]
 }
