@@ -697,6 +697,239 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 16037,
+      "name": "玉剑传说 星仙子",
+      "roitName": "Immortal Journey Soraka",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "玉剑传说",
+      "universe": "玉剑传说",
+      "pushDate": null,
+      "series": null,
+      "backstory": "幼年时的星仙子本是旸刚派的童女，也理应成为旸刚派的弟子，但她嫌恶既定的命数。在武神贾克斯的古老故事中曾经说过，他相信真正的力量来自于逍遥自在，因此星仙子违逆了父母的意愿，前往混意派接受修行。她将踏上独属其一人的大道。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin37/images/soraka_splash_uncentered_37.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin37/images/soraka_splash_tile_37.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin37/images/soraka_splash_centered_37.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16037.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin37/sorakaloadscreen_37.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin37/sorakaloadscreen_37_le.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "5945",
+      "tencent": {
+        "price": 10900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "吾辈出英雄",
+        "priceStartDay": "2023年8月18日",
+        "priceEndDay": "2023年10月8日9:59",
+        "description": "竞逐亚洲之巅限定",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 16038,
+          "name": "玉剑传说 星仙子 胭脂",
+          "sortName": "胭脂",
+          "colorName": "红色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2026年2月1日",
+            "priceEndDay": "2026年2月28日",
+            "description": "2026年2月消费礼赠1000积分奖励",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ahgdpwgju2hct3v9ls539a639yw9d9xw.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 星仙子 胭脂",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16038.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 16039,
+          "name": "玉剑传说 星仙子 丁香",
+          "sortName": "丁香",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2025年2月14日",
+            "priceEndDay": "2025年3月19日23:59",
+            "description": "祈愿30次解锁",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aj3w1azrt9k2zm7hmp0fc7js2gqh5rc1.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 星仙子 丁香",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16039.png",
+          "mythicIcon": "",
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 16040,
+          "name": "玉剑传说 星仙子 青竹",
+          "sortName": "青竹",
+          "colorName": "青色",
+          "tencent": {
+            "price": 7800,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 星仙子 青竹",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16040.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 16041,
+          "name": "玉剑传说 星仙子 珠光",
+          "sortName": "珠光",
+          "colorName": "白色",
+          "tencent": {
+            "price": 7800,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 星仙子 珠光",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16041.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 16042,
+          "name": "玉剑传说 星仙子 墨云",
+          "sortName": "墨云",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 7800,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 星仙子 墨云",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16042.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 16043,
+          "name": "玉剑传说 星仙子 紫檀",
+          "sortName": "紫檀",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 7800,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 星仙子 紫檀",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16043.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "13.16",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
