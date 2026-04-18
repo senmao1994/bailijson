@@ -2185,6 +2185,452 @@
         "updateName": "",
         "video": "26.09"
       }
+    },
+    {
+      "id": 11106,
+      "name": "胜利剑圣 易",
+      "roitName": "Victorious Master Yi",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "胜利诸神",
+      "universe": "胜利诸神",
+      "pushDate": null,
+      "series": null,
+      "backstory": "玩家们在排位赛中积累了足够赛段点后，就会获得【胜利剑圣 易】作为奖励。那些认为自己有资格学习无极之道的人，必须前往圣地朝圣——那里居住着无极之道的真正大师。尽管许多人在他的指导下修炼过，但在经受考验时，他们都被发现有所欠缺。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin106/images/masteryi_splash_uncentered_106.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin106/images/masteryi_splash_tile_106.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin106/images/masteryi_splash_centered_106.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11106.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin106/masteryiloadscreen_106.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceTypeChinese": "S14赛季皮肤",
+        "priceStartDay": "2024年9月26日",
+        "priceEndDay": "2025年1月8日",
+        "description": "2024年赛季第三赛段结束后开始发放奖励",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 11107,
+          "name": "胜利剑圣 易 英勇黄铜",
+          "sortName": "英勇黄铜",
+          "colorName": "Bronze",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少1000赛段点，边框需集齐2024三个赛段皮肤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "胜利剑圣 易 英勇黄铜",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11107.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#764D43",
+            "#764D43"
+          ]
+        },
+        {
+          "id": 11108,
+          "name": "胜利剑圣 易 不屈白银",
+          "sortName": "不屈白银",
+          "colorName": "Silver",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少1000赛段点，边框需集齐2024三个赛段皮肤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "胜利剑圣 易 不屈白银",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11108.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#AAB5BA",
+            "#AAB5BA"
+          ]
+        },
+        {
+          "id": 11109,
+          "name": "胜利剑圣 易 荣耀黄金",
+          "sortName": "荣耀黄金",
+          "colorName": "Gold",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "胜利剑圣 易 荣耀黄金",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11109.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#D9C445",
+            "#D9C445"
+          ]
+        },
+        {
+          "id": 11110,
+          "name": "胜利剑圣 易 华贵铂金",
+          "sortName": "华贵铂金",
+          "colorName": "Platinum",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤"
+          },
+          "riotName": "胜利剑圣 易 华贵铂金",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11110.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#55CDE5",
+            "#55CDE5"
+          ]
+        },
+        {
+          "id": 11111,
+          "name": "胜利剑圣 易 流光翡翠",
+          "sortName": "流光翡翠",
+          "colorName": "Emerald",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤"
+          },
+          "riotName": "胜利剑圣 易 流光翡翠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11111.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#26854C",
+            "#26854C"
+          ]
+        },
+        {
+          "id": 11112,
+          "name": "胜利剑圣 易 璀璨钻石",
+          "sortName": "璀璨钻石",
+          "colorName": "Diamond",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤"
+          },
+          "riotName": "胜利剑圣 易 璀璨钻石",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11112.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#65337F",
+            "#65337F"
+          ]
+        },
+        {
+          "id": 11113,
+          "name": "胜利剑圣 易 超凡大师",
+          "sortName": "超凡大师",
+          "colorName": "Master",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【超凡大师】段位。"
+          },
+          "riotName": "胜利剑圣 易 超凡大师",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11113.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#9D228D",
+            "#9D228D"
+          ]
+        },
+        {
+          "id": 11114,
+          "name": "胜利剑圣 易 傲世宗师",
+          "sortName": "傲世宗师",
+          "colorName": "Grandmaster",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【傲世宗师】段位。"
+          },
+          "riotName": "胜利剑圣 易 傲世宗师",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11114.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#B31316",
+            "#B31316"
+          ]
+        },
+        {
+          "id": 11115,
+          "name": "胜利剑圣 易 最强王者",
+          "sortName": "最强王者",
+          "colorName": "Challenger",
+          "tencent": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "赛季奖励",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【最强王者】段位。"
+          },
+          "riotName": "胜利剑圣 易 最强王者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11115.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#1D62C8",
+            "#1D62C8"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "25.01",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.09"
+      }
     }
   ]
 }
