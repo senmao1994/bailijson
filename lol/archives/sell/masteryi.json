@@ -2631,6 +2631,329 @@
         "updateName": "",
         "video": "26.09"
       }
+    },
+    {
+      "id": 11096,
+      "name": "天龙之子 易",
+      "roitName": "Heavenscale Master Yi",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "天龙之子",
+      "universe": "春节",
+      "pushDate": "2024年2月7日",
+      "series": null,
+      "backstory": "龙太子的武术老师必须拥有绝顶的实力，并且没有哪个龙的技艺比易大师更加出色了。真正的大师必须既是战士又是诗人，既是冠军又是艺术家——并且本着学习的精神，必须时刻准备好应对任何事情。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin96/images/masteryi_splash_uncentered_96.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin96/images/masteryi_splash_tile_96.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin96/images/masteryi_splash_centered_96.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11096.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin96/masteryiloadscreen_96.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin96/masteryiloadscreen_96_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "6515",
+      "tencent": {
+        "price": 10900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "龙年限定",
+        "priceStartDay": "2024年2月1日10:00",
+        "priceEndDay": "2024年3月18日9:59",
+        "description": "限时销售 一般春节版本返场销售",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 11097,
+          "name": "天龙之子 易 龙马精神",
+          "sortName": "龙马精神",
+          "colorName": "红色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "天龙之子 易 龙马精神",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11097.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 11098,
+          "name": "天龙之子 易 金龙纳福",
+          "sortName": "金龙纳福",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "天龙之子 易 金龙纳福",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11098.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 11099,
+          "name": "天龙之子 易 矫若惊龙",
+          "sortName": "矫若惊龙",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "天龙之子 易 矫若惊龙",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11099.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 11100,
+          "name": "天龙之子 易 祥龙献瑞",
+          "sortName": "祥龙献瑞",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "天龙之子 易 祥龙献瑞",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11100.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 11101,
+          "name": "天龙之子 易 龙行虎步",
+          "sortName": "龙行虎步",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "天龙之子 易 龙行虎步",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11101.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 11102,
+          "name": "天龙之子 易 蛟龙得水",
+          "sortName": "蛟龙得水",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "2026二月消费礼赠2000积分",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/atm5owekzzsx64e9hpbyoxqdt2q6gc7u.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "天龙之子 易 蛟龙得水",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11102.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 11103,
+          "name": "天龙之子 易 龙吟虎啸",
+          "sortName": "龙吟虎啸",
+          "colorName": "棕褐色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "天龙之子 易 龙吟虎啸",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11103.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#5F432B",
+            "#5F432B"
+          ]
+        },
+        {
+          "id": 11104,
+          "name": "天龙之子 易 赫赫龙威",
+          "sortName": "赫赫龙威",
+          "colorName": "春节2024",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2024年2月1日10.00",
+            "priceEndDay": "2024年3月18日9:59",
+            "description": "春节2024通行证战利品专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "天龙之子 易 赫赫龙威",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11104.png",
+          "mythicIcon": "6516",
+          "wildRiftSell": null,
+          "colors": [
+            "#DFA6DF",
+            "#E0D7D7"
+          ]
+        },
+        {
+          "id": 11105,
+          "name": "天龙之子 易 云起龙骧",
+          "sortName": "云起龙骧",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 64970,
+            "priceType": "礼包",
+            "priceStartDay": "2024年2月1日10:00",
+            "priceEndDay": "2024年3月18日9:59",
+            "description": "天龙之子究极大礼包随赠",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/acziwkilu9u7s5714uvtq068tzsvyg1c.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "天龙之子 易 云起龙骧",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11105.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.3",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.09"
+      }
     }
   ]
 }
