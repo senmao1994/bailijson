@@ -2235,7 +2235,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少1000赛段点，边框需集齐2024三个赛段皮肤",
+            "description": "第3赛段中累计至少1000赛段点，并在任一【召唤师峡谷】排位队列达到该段位",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -2251,7 +2251,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": ""
+            "description": "赛季边框：集齐S14三个赛段且皮肤且最高达到该段位"
           },
           "riotName": "胜利剑圣 易 英勇黄铜",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11107.png",
@@ -2279,7 +2279,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少1000赛段点，边框需集齐2024三个赛段皮肤",
+            "description": "第3赛段中累计至少1000赛段点，并在任一【召唤师峡谷】排位队列达到该段位",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -2295,7 +2295,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": ""
+            "description": "赛季边框：集齐S14三个赛段且皮肤且最高达到该段位"
           },
           "riotName": "胜利剑圣 易 不屈白银",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11108.png",
@@ -2323,7 +2323,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "description": "第3赛段中累计至少80赛段点，并在任一【召唤师峡谷】排位队列达到该段位",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -2339,7 +2339,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": ""
+            "description": "赛季边框：集齐S14三个赛段且皮肤且最高达到该段位"
           },
           "riotName": "胜利剑圣 易 荣耀黄金",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11109.png",
@@ -2367,7 +2367,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "description": "第3赛段中累计至少80赛段点，并在任一【召唤师峡谷】排位队列达到该段位",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -2383,7 +2383,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤"
+            "description": "赛季边框：集齐S14三个赛段且皮肤且最高达到该段位"
           },
           "riotName": "胜利剑圣 易 华贵铂金",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11110.png",
@@ -2411,7 +2411,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "description": "第3赛段中累计至少80赛段点，并在任一【召唤师峡谷】排位队列达到该段位",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -2427,7 +2427,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤"
+            "description": "赛季边框：集齐S14三个赛段且皮肤且最高达到该段位"
           },
           "riotName": "胜利剑圣 易 流光翡翠",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11111.png",
@@ -2455,7 +2455,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "description": "第3赛段中累计至少80赛段点，并在任一【召唤师峡谷】排位队列达到该段位",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -2471,7 +2471,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤"
+            "description": "赛季边框：集齐S14三个赛段且皮肤且最高达到该段位"
           },
           "riotName": "胜利剑圣 易 璀璨钻石",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11112.png",
@@ -2499,7 +2499,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "description": "第3赛段中累计至少80赛段点，并在任一【召唤师峡谷】排位队列达到该段位",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -2515,7 +2515,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【超凡大师】段位。"
+            "description": "赛季边框：集齐S14三个赛段且皮肤且最高达到该段位"
           },
           "riotName": "胜利剑圣 易 超凡大师",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11113.png",
@@ -2543,7 +2543,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "description": "第3赛段中累计至少80赛段点，并在任一【召唤师峡谷】排位队列达到该段位",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -2559,7 +2559,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【傲世宗师】段位。"
+            "description": "赛季边框：集齐S14三个赛段且皮肤且最高达到该段位"
           },
           "riotName": "胜利剑圣 易 傲世宗师",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11114.png",
@@ -2587,7 +2587,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "第3赛段中累计至少80赛段点，边框需集齐2024三个赛段皮肤",
+            "description": "第3赛段中累计至少80赛段点，并在任一【召唤师峡谷】排位队列达到该段位",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -2603,7 +2603,7 @@
             "priceType": "赛季奖励",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "2025第3赛季中累积赢得至少15场排位赛对局，并在任一【召唤师峡谷】排位队列中达到【最强王者】段位。"
+            "description": "赛季边框：集齐S14三个赛段且皮肤且最高达到该段位"
           },
           "riotName": "胜利剑圣 易 最强王者",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11115.png",
