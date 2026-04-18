@@ -2829,9 +2829,9 @@
           "colorName": "蓝色",
           "tencent": {
             "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "priceType": "臻彩",
+            "priceStartDay": "2026年2月1日0点",
+            "priceEndDay": "2026年2月28日23:59",
             "description": "2026二月消费礼赠2000积分",
             "hasFullGiftPack": false,
             "wildRiftSell": null,
