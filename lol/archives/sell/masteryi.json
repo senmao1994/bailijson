@@ -3238,6 +3238,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 11001,
+      "name": "暗影 易",
+      "roitName": "Assassin Master Yi",
+      "sortName": null,
+      "rarity": null,
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "珍宝",
+      "universe": "珍宝",
+      "pushDate": "2009年12月17日",
+      "series": null,
+      "backstory": "自从易放弃了无极剑道的理想，他就成了诺克萨斯军队的恐惧之源。易是黑夜中的利刃，致命又精准地打击着艾欧尼亚的敌人。每一声细微的叶片摩挲，都会让他们战栗不已，深恐下一刻便会丧命于易的剑刃之下。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin01/images/masteryi_splash_uncentered_1.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin01/images/masteryi_splash_tile_1.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin01/images/masteryi_splash_centered_1.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin01/masteryiloadscreen_1.jpg",
+      "roit": {
+        "price": 390,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 1000,
+      "icon": "",
+      "tencent": {
+        "price": 1000,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2009年12月17日",
+        "priceEndDay": "商城已下架该皮肤",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.70",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
