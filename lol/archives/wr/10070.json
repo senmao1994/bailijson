@@ -1,0 +1,66 @@
+{
+  "id": 10070,
+  "name": "易",
+  "alias": "yi",
+  "key": "10070",
+  "title": "无极剑圣",
+  "skins": [
+    {
+      "id": 1007009,
+      "name": "神龙尊者 驭风啸龙 易",
+      "roitName": "Zephyr Dragon Master Yi",
+      "sortName": "神龙尊者 驭风啸龙",
+      "rarity": "传说",
+      "raritySubType": "",
+      "price": "990",
+      "priceUnit": "点券",
+      "skinline": "龙吟",
+      "universe": "神龙尊者",
+      "pushDate": "",
+      "series": null,
+      "backstory": "神龙尊者易的力量来自驭风啸龙，他深信，只有“穿过层层迷雾”——在与自满、假设和妄想的斗争中，追求卓越、掌握智慧，才能磨炼战士的品质。虽然易做事总是心平气和、深思熟虑，但他心中总有着明确的目标，对结果也是胸有成竹。",
+      "accessories": [
+        "姿态：驭剑"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/MasterYi_8.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_masteryi_skin08.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007009.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "2.5",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2021年11月",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
