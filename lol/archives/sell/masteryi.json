@@ -3142,6 +3142,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 11003,
+      "name": "天人合一 易",
+      "roitName": "Ionia Master Yi",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "珍宝",
+      "universe": "珍宝",
+      "pushDate": "2010年9月12日",
+      "series": null,
+      "backstory": "",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin03/images/masteryi_splash_uncentered_3.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin03/images/masteryi_splash_tile_3.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin03/images/masteryi_splash_centered_3.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin03/masteryiloadscreen_3.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 4500,
+      "icon": "",
+      "tencent": {
+        "price": 4500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年9月12日",
+        "priceEndDay": "商城已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.100",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
