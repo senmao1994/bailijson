@@ -3286,6 +3286,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 11000,
+      "name": "无极剑圣",
+      "roitName": "The Wuju Bladesman Master Yi",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "艾欧尼亚",
+      "universe": "英雄联盟宇宙",
+      "pushDate": "‌2009年2月21日‌",
+      "series": null,
+      "backstory": "易师锤炼身体、磨砺心智，直至身心合一。尽管他将暴力作为不得已的选择，但他优雅迅猛的剑法总是让这一手段显得尤为快捷。作为无极之道最后的门徒，易大师致力于这个门派的传承，用七度洞悉目镜搜寻着最有资格的人，寻找潜在的新弟子。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/base/images/masteryi_splash_uncentered_0.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/base/images/masteryi_splash_tile_0.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/base/images/masteryi_splash_centered_0.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/base/masteryiloadscreen.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "3544",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2023年9月1日10:00",
+        "priceEndDay": "10月7日9:59",
+        "description": "易大师 肖像图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "首发",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
