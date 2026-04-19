@@ -3202,7 +3202,7 @@
       "priceUnit": null,
       "skinline": "珍宝",
       "universe": "珍宝",
-      "pushDate": "1.0.0.70",
+      "pushDate": "2010年6月3日\r",
       "series": null,
       "backstory": "",
       "accessories": [],
@@ -3211,19 +3211,19 @@
       "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin02/images/masteryi_splash_centered_2.jpg",
       "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin02/masteryiloadscreen_2.jpg",
       "roit": {
-        "price": 390,
+        "price": 520,
         "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
       },
-      "tencentPrice": 1000,
+      "tencentPrice": 2300,
       "icon": "",
       "tencent": {
-        "price": 1000,
+        "price": 2300,
         "priceType": "直售",
         "priceTypeChinese": "",
-        "priceStartDay": "2009年12月17日",
+        "priceStartDay": "2010年6月3日\r",
         "priceEndDay": "商城已下架该皮肤",
         "description": "",
         "hasFullGiftPack": false
@@ -3232,7 +3232,7 @@
       "formsCount": null,
       "forms": [],
       "version": {
-        "push": "1.0.0.70",
+        "push": "1.0.0.86",
         "update": "",
         "updateChinese": "",
         "updateName": "",
