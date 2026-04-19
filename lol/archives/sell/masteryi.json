@@ -3190,6 +3190,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 11002,
+      "name": "星战 易",
+      "roitName": "Chosen Master Yi",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "珍宝",
+      "universe": "珍宝",
+      "pushDate": "2010年6月3日",
+      "series": null,
+      "backstory": "",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin02/images/masteryi_splash_uncentered_2.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin02/images/masteryi_splash_tile_2.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin02/images/masteryi_splash_centered_2.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin02/masteryiloadscreen_2.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 2300,
+      "icon": "",
+      "tencent": {
+        "price": 2300,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年6月3日",
+        "priceEndDay": "商城已下架该皮肤",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.86",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
