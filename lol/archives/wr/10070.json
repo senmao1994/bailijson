@@ -16,7 +16,7 @@
       "priceUnit": "点券",
       "skinline": "龙吟",
       "universe": "神龙尊者",
-      "pushDate": "",
+      "pushDate": "2.5",
       "series": null,
       "backstory": "神龙尊者易的力量来自驭风啸龙，他深信，只有“穿过层层迷雾”——在与自满、假设和妄想的斗争中，追求卓越、掌握智慧，才能磨炼战士的品质。虽然易做事总是心平气和、深思熟虑，但他心中总有着明确的目标，对结果也是胸有成竹。",
       "accessories": [
@@ -46,16 +46,9 @@
       "chromas": [],
       "formsCount": null,
       "forms": [],
-      "version": {
-        "push": "2.5",
-        "update": "",
-        "updateChinese": "",
-        "updateName": "",
-        "video": ""
-      },
       "sell": {
         "startDate": "2021年11月",
-        "endDate": "",
+        "endDate": "长期销售",
         "description": "",
         "activityTitle": "",
         "price": "",
