@@ -54,6 +54,58 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1007014,
+      "name": "玄龙绛天 易",
+      "roitName": "",
+      "sortName": "玄龙绛天",
+      "rarity": "神话",
+      "raritySubType": "限定",
+      "price": "500",
+      "priceUnit": "橙色原石",
+      "skinline": "龙怒",
+      "universe": "神龙尊者",
+      "pushDate": "",
+      "series": null,
+      "backstory": "神龙尊者易的力量来自驭风啸龙，他深信，只有“穿过层层迷雾”——在与自满、假设和妄想的斗争中，追求卓越、掌握智慧，才能磨炼战士的品质。虽然易做事总是心平气和、深思熟虑，但他心中总有着明确的目标，对结果也是胸有成竹。",
+      "accessories": [
+        "边框",
+        "姿态：御风",
+        "姿态：龙啸"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Masteryi_13.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_masteryi_skin13.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007014.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "sell": {
+        "startDate": "2024年6月7日",
+        "endDate": "6月13日23:59(首周8折)",
+        "description": "战利品商店轮换上线",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
