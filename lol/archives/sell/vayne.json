@@ -1112,6 +1112,238 @@
         "updateName": "",
         "video": "26.09"
       }
+    },
+    {
+      "id": 67025,
+      "name": "光明哨兵 薇恩",
+      "roitName": "Sentinel Vayne",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "光明哨兵",
+      "universe": "破败之王传说",
+      "pushDate": "2021年7月8日",
+      "series": null,
+      "backstory": "薇恩一直在努力成为一个更好的怪物猎人。她加入光明哨兵主要是为了改善她自己的武库，并从他们与黑雾的战斗中学点东西。当然了，她也在保护符文之地免受邪恶的伤害。如果这么做需要她忍受她与格雷福斯这样的傻瓜之间的友谊，她也会照办。这份伟业值得如此付出。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin25/images/vayne_splash_uncentered_25.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin25/images/vayne_splash_tile_25.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin25/images/vayne_splash_centered_25.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67025.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin25/vayneloadscreen_25.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin25/vayneloadscreen_25_le.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "4993",
+      "tencent": {
+        "price": 9900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2021年7月9日(商城开放后)",
+        "priceEndDay": "2021年8月10日23:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 67026,
+          "name": "光明哨兵 薇恩 帝国抗击者",
+          "sortName": "帝国抗击者",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2021年7月9日(商城开放后)",
+            "priceEndDay": "2021年8月10日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/at8bxteuxmzzkwobfvzjj04orpz1961v.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "光明哨兵 薇恩 帝国抗击者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67026.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 67027,
+          "name": "光明哨兵 薇恩 森林抗击者",
+          "sortName": "森林抗击者",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年7月9日(商城开放后)",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "光明哨兵 薇恩 森林抗击者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67027.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 67028,
+          "name": "光明哨兵 薇恩 灵岛抗击者",
+          "sortName": "灵岛抗击者",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2021年7月9日(商城开放后)",
+            "priceEndDay": "2021年7月23日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "光明哨兵 薇恩 灵岛抗击者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67028.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 67029,
+          "name": "光明哨兵 薇恩 都市抗击者",
+          "sortName": "都市抗击者",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年7月9日(商城开放后)",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "光明哨兵 薇恩 都市抗击者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67029.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 67030,
+          "name": "光明哨兵 薇恩 海港抗击者",
+          "sortName": "海港抗击者",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2021年7月9日(商城开放后)",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "光明哨兵 薇恩 海港抗击者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67030.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 67031,
+          "name": "光明哨兵 薇恩 坚定抗击者",
+          "sortName": "坚定抗击者",
+          "colorName": "光明哨兵(2021)通行证",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2021年7月9日(商城开放后)",
+            "priceEndDay": "2021年8月10日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "光明哨兵 薇恩 坚定抗击者",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67031.png",
+          "mythicIcon": "5003",
+          "wildRiftSell": null,
+          "colors": [
+            "#080808",
+            "#8E0A38"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "11.14",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
