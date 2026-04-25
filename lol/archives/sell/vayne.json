@@ -1064,6 +1064,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67033,
+      "name": "至臻 烈焰美人 薇恩 (2022)",
+      "roitName": "Prestige Firecracker Vayne (2022)",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "春节庆典：神龙烈焰",
+      "universe": "春节",
+      "pushDate": null,
+      "series": null,
+      "backstory": "薇恩已经穿上了她的精美春节服饰，注意看她那喷射炸药的金属腕弩小猪附近不断增长的焦虑。时髦的升级可以解决一切问题。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/images/vayne_splash_uncentered_13.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/images/vayne_splash_tile_13.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/images/vayne_splash_centered_13.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin33/vayneloadscreen_33.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "典藏",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "典藏",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2022年4月2日16:00开放",
+        "priceEndDay": "至臻礼赠活动",
+        "description": "2022年3月30日23:59前获得至臻烈焰美人",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.6",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.09"
+      }
     }
   ]
 }
