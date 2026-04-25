@@ -18,18 +18,13 @@
       "universe": "名人堂",
       "pushDate": "2024年6月12日",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_uncentered_55.leblanc_rework.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_tile_55.leblanc_rework.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_centered_55.leblanc_rework.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7055.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/leblancloadscreen_55.leblanc_rework.jpg",
-      "loadingSpecialEditionPath": "",
       "backstory": "记住，乐芙兰，你是隐忍的守护者。你代表着谋略、理性、和巧思，用诡术欺骗那些自以为是的人，守护我的力量。我们的力量。  最重要的是，引领我的天选者历经试炼，让世人永远铭记不死大魔王。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_uncentered_55.leblanc_rework.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_tile_55.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_centered_55.leblanc_rework.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7055.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/leblancloadscreen_55.leblanc_rework.jpg",
       "roit": {
         "price": 1950,
         "priceType": "名人堂通行证",
@@ -114,7 +109,7 @@
               "price": "",
               "priceUnit": ""
             },
-            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aq5pwqylzs3ia9ckpk6r87qwa0t7qyc2.jpg"
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ahfzi16b6d8i48cg7xza7bnca3ilvj93.jpg"
           },
           "roit": {
             "price": 59260,
