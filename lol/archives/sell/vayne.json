@@ -1718,6 +1718,87 @@
         "updateName": "",
         "video": "26.09"
       }
+    },
+    {
+      "id": 67012,
+      "name": "烈焰美人 薇恩",
+      "roitName": "",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "春节庆典：神龙烈焰",
+      "universe": "春节",
+      "pushDate": "2019年1月28日",
+      "series": null,
+      "backstory": "薇恩已经穿上了她的精美春节服饰，投入到对根除各路恶魔的无尽追寻中，就连全城庆典也包含在内。一般人会认为，节假日最好不要呆在一个用金属腕弩小猪不断发射烟花的成年女性附近，但今年就是这样的一年。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin12/images/vayne_splash_uncentered_12.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin12/images/vayne_splash_tile_12.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin12/images/vayne_splash_centered_12.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67012.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin12/vayneloadscreen_12.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin12/vayneloadscreen_12_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 19900,
+      "icon": "3876",
+      "tencent": {
+        "price": 19900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "猪年限定",
+        "priceStartDay": "2019年1月29日10:00",
+        "priceEndDay": "2019年2月22日 12:00",
+        "description": "首周半价 不定期返场销售",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 67034,
+          "name": "烈焰美人 薇恩 玉虎呈祥",
+          "sortName": "玉虎呈祥",
+          "colorName": "春节2019",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2022年1月21日10:00",
+            "priceEndDay": "2022年2月28日23:59",
+            "description": "春节(2022)事件战利品专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2022年1月21日10:00",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "烈焰美人 薇恩 玉虎呈祥",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67034.png",
+          "mythicIcon": "5242",
+          "wildRiftSell": null,
+          "colors": [
+            "#FF9D13",
+            "#B9FFC1"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "9.2",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.09"
+      }
     }
   ]
 }
