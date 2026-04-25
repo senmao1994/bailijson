@@ -1799,6 +1799,55 @@
         "updateName": "",
         "video": "26.09"
       }
+    },
+    {
+      "id": 67013,
+      "name": "至臻 烈焰美人 薇恩",
+      "roitName": "Prestige Firecracker Vayne",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "春节庆典：神龙烈焰",
+      "universe": "春节",
+      "pushDate": "2019年1月28日",
+      "series": null,
+      "backstory": "薇恩已经穿上了她的精美春节服饰，注意看她那喷射炸药的金属腕弩小猪附近不断增长的焦虑。时髦的升级可以解决一切问题。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/images/vayne_splash_uncentered_13.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/images/vayne_splash_tile_13.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/images/vayne_splash_centered_13.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/vayneloadscreen_13.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin12/vayneloadscreen_12_le.jpg",
+      "roit": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "",
+      "tencent": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2019年1月29日12:00",
+        "priceEndDay": "2019年3月6日6:59",
+        "description": "首发 春节2019通行证1000金猪币兑换",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "9.2",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.09"
+      }
     }
   ]
 }
