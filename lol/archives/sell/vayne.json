@@ -910,6 +910,160 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67064,
+      "name": "殿堂传奇 薇恩",
+      "roitName": "Risen Legend Vayne",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "殿堂传奇",
+      "universe": "名人堂",
+      "pushDate": "2025年6月12日",
+      "series": null,
+      "backstory": "有些人质疑我们的传承，薇恩。我们将向他们证明，怀疑可以磨砺一个人的决心。作为我的生机守护者，我号召你将恐惧植入那些未够格者的心中。教一教那些敢于挑战你的人，什么是无情猎手。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin64/images/vayne_splash_uncentered_64.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin64/images/vayne_splash_tile_64.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin64/images/vayne_splash_centered_64.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67064.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin64/vayneloadscreen_64.jpg",
+      "roit": {
+        "price": 1950,
+        "priceType": "名人堂通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "6883",
+      "tencent": {
+        "price": 10900,
+        "priceType": "名人堂通行证",
+        "priceTypeChinese": "名人堂(2025)：联盟不朽",
+        "priceStartDay": "2025年6月12日",
+        "priceEndDay": "2025年7月31日",
+        "description": "10级解锁皮肤 30级解锁边框 98级解锁图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 67065,
+          "name": "殿堂传奇 薇恩 至强",
+          "sortName": "至强",
+          "colorName": "名人堂(2025)签名版礼包",
+          "tencent": {
+            "price": 328650,
+            "priceType": "礼包",
+            "priceStartDay": "2025年6月12日",
+            "priceEndDay": "2025年7月31日",
+            "description": "Uzi 联盟不朽签名版收藏礼包",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a2iw3o6iwy5prm52nrrsr0wdnscuuto8.jpg"
+          },
+          "roit": {
+            "price": 59260,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "殿堂传奇 薇恩 至强",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67065.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#BCD6EF",
+            "#474AF7"
+          ]
+        },
+        {
+          "id": 67066,
+          "name": "殿堂传奇 薇恩 登神",
+          "sortName": "登神",
+          "colorName": "名人堂(2025)通行证",
+          "tencent": {
+            "price": 10900,
+            "priceType": "名人堂通行证",
+            "priceStartDay": "2025年6月12日",
+            "priceEndDay": "2025年7月31日",
+            "description": "2025名人堂通行证",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a4tsnq8og3lq9h9h54vft963e71dtlon.jpg"
+          },
+          "roit": {
+            "price": 1950,
+            "priceType": "名人堂通行证",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "殿堂传奇 薇恩 登神",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67066.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#EE7BA0",
+            "#DCAF66"
+          ]
+        }
+      ],
+      "formsCount": 1,
+      "forms": [
+        {
+          "name": "殿堂传奇 薇恩 签名版",
+          "type": "签名版",
+          "icon": "6880",
+          "image": "",
+          "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin64/vayneloadscreen_64.jpg",
+          "trigger": "",
+          "description": "名人堂通行证专属签名版",
+          "note": "Uzi专属签名：生涯 边框 选用界面 推塔签名 局内CTRL+5投影",
+          "acquisition": "签名版 联盟不朽 卡莎 臻藏礼包",
+          "borderName": "名人堂(2025)：Uzi的签名 边框",
+          "colors": []
+        }
+      ],
+      "version": {
+        "push": "25.12",
+        "update": "",
+        "updateChinese": "视觉更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
