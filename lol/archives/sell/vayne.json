@@ -1722,7 +1722,7 @@
     {
       "id": 67012,
       "name": "烈焰美人 薇恩",
-      "roitName": "",
+      "roitName": "Firecracker Vayne",
       "sortName": null,
       "rarity": "史诗",
       "raritySubType": null,
@@ -1771,7 +1771,14 @@
             "priceEndDay": "2022年2月28日23:59",
             "description": "春节(2022)事件战利品专属",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 35,
@@ -1783,7 +1790,14 @@
           "riotName": "烈焰美人 薇恩 玉虎呈祥",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67034.png",
           "mythicIcon": "5242",
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FF9D13",
             "#B9FFC1"
