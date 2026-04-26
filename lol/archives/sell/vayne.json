@@ -1862,6 +1862,237 @@
         "updateName": "",
         "video": "26.09"
       }
+    },
+    {
+      "id": 67067,
+      "name": "恶魔诅咒 薇恩",
+      "roitName": "Demoncursed Vayne",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "万魔殿",
+      "universe": null,
+      "pushDate": "2026年4月30日",
+      "series": null,
+      "backstory": "薇恩花了数年时间狩猎杀害她父母的恶魔，结果却不知不觉地成为了自己体内恶魔的宿主。她被超自然视力和黑暗力量所附身，被极度的偏执和嗜血所驱使。野性十足、不受约束、且对体内恶魔浑然不觉，薇恩最终变成了她在狩猎的那种东西。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_uncentered_67.skins_vayne_skin67.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_tile_67.skins_vayne_skin67.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_centered_67.skins_vayne_skin67.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67067.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/vayneloadscreen_67.skins_vayne_skin67.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/vayneloadscreen_67_le.skins_vayne_skin67.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "7132",
+      "tencent": {
+        "price": 10900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2026年4月28日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 67068,
+          "name": "恶魔诅咒 薇恩 暴怒附体",
+          "sortName": "暴怒附体",
+          "colorName": "",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "恶魔诅咒 薇恩 暴怒附体",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67068.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 67069,
+          "name": "恶魔诅咒 薇恩 骄狂附体",
+          "sortName": "骄狂附体",
+          "colorName": "",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "恶魔诅咒 薇恩 骄狂附体",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67069.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 67070,
+          "name": "恶魔诅咒 薇恩 绝望附体",
+          "sortName": "绝望附体",
+          "colorName": "",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "恶魔诅咒 薇恩 绝望附体",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67070.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 67071,
+          "name": "恶魔诅咒 薇恩 诡诈附体",
+          "sortName": "诡诈附体",
+          "colorName": "",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "恶魔诅咒 薇恩 诡诈附体",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67071.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 67072,
+          "name": "恶魔诅咒 薇恩 诱惑附体",
+          "sortName": "诱惑附体",
+          "colorName": "",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "恶魔诅咒 薇恩 诱惑附体",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67072.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 67073,
+          "name": "恶魔诅咒 薇恩 毁灭附体",
+          "sortName": "毁灭附体",
+          "colorName": "",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "恶魔诅咒 薇恩 毁灭附体",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67073.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.09",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
