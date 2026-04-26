@@ -2304,6 +2304,55 @@
         "updateName": "",
         "video": "26.01"
       }
+    },
+    {
+      "id": 1059,
+      "name": "万魔殿 安妮",
+      "roitName": "Pandemonium Annie",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": null,
+      "universe": null,
+      "pushDate": "2026年4月30日",
+      "series": null,
+      "backstory": "安妮承载的情感过于强烈，超出了一个孩子的承受能力。虽然她将这些感受深深埋藏在心底，但它们却永无止境地翻腾燃烧。当火焰即将吞噬她时，提伯斯承受了她所不能承受之物——将她的悲伤化作一团狂怒狱火。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_uncentered_59.skins_annie_skin59.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_tile_59.skins_annie_skin59.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_centered_59.skins_annie_skin59.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/annieloadscreen_59.skins_annie_skin59.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/annieloadscreen_59_le.skins_annie_skin59.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "7133",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2026年4月28日",
+        "priceEndDay": "预计2026年5月27日下架",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.09",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
