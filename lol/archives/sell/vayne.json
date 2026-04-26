@@ -2142,6 +2142,118 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67010,
+      "name": "摄魂使者 薇恩",
+      "roitName": "Soulstealer Vayne",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "摄魂者",
+      "universe": "摄魂者",
+      "pushDate": "2016年7月28日\r",
+      "series": null,
+      "backstory": "薇恩曾经是猎杀所有被污染者的猎手，现在却成为了她曾经想要摧毁的事物。她扭曲的思想扭曲了她的感知，使她在每一个生物中都看到了一个敌人。她肆无忌惮地夺取灵魂，良心上丝毫没有沾染这些卑鄙行为的污点。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin10/images/vayne_splash_uncentered_10.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin10/images/vayne_splash_tile_10.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin10/images/vayne_splash_centered_10.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67010.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin10/vayneloadscreen_10.jpg",
+      "roit": {
+        "price": 125,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 200,
+      "icon": "",
+      "tencent": {
+        "price": 200,
+        "priceType": "神话商店",
+        "priceTypeChinese": "",
+        "priceStartDay": "2016年7月28日\r",
+        "priceEndDay": "神话商店 双周轮换",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 67053,
+          "name": "无畏竞巅峰 薇恩",
+          "sortName": "无畏竞巅峰 薇恩",
+          "colorName": "LPL十周年",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2023年9月27日",
+            "priceEndDay": "2023年11月21日10:00",
+            "description": "银龙夺宝·臻选 集齐十大LOL十周年臻彩",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/axgglrc6yilv0jy3h48oikj8s1h6tud2.jpg"
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "精选兑换"
+          },
+          "riotName": "无畏竞巅峰 薇恩",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67053.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DCCE74",
+            "#17151A"
+          ]
+        },
+        {
+          "id": 67054,
+          "name": "无畏圣弩 薇恩 绝境狂杀",
+          "sortName": "无畏圣弩 薇恩 绝境狂杀",
+          "colorName": "LPL十周年",
+          "tencent": {
+            "price": 600,
+            "priceType": "臻彩",
+            "priceStartDay": "2023年9月27日",
+            "priceEndDay": "2023年11月21日10:00",
+            "description": "银龙夺宝·臻选 600银龙徽章",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a92qk9mmrwqsflejkm1gkm8j3p9durnd.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "无畏圣弩 薇恩 绝境狂杀",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67054.png",
+          "mythicIcon": "6272",
+          "wildRiftSell": null,
+          "colors": [
+            "#FF1515",
+            "#E8CD6B"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.13",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.09"
+      }
     }
   ]
 }
