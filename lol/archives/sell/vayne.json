@@ -2093,6 +2093,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67011,
+      "name": "源计划：净化 薇恩",
+      "roitName": "PROJECT: Vayne",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "源计划",
+      "universe": "源计划",
+      "pushDate": " 2017年11月22日",
+      "series": null,
+      "backstory": "装备了机密级增强科技的薇恩曾是源计划反间谍小组的一员。她被自己效命的集团出卖以后，如今潜伏在黑影中扮演义警，不断寻求新方式破坏源计划，破坏侵扰她灵魂的科技。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin11/images/vayne_splash_uncentered_11.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin11/images/vayne_splash_tile_11.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin11/images/vayne_splash_centered_11.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin11/vayneloadscreen_11.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin11/vayneloadscreen_11_le.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "3182",
+      "tencent": {
+        "price": 9900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2017年11月28日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.23",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
