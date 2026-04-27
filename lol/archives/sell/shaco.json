@@ -1,0 +1,104 @@
+{
+  "id": "shaco",
+  "name": "恶魔小丑",
+  "alias": "Shaco",
+  "key": 35,
+  "title": "萨科",
+  "skins": [
+    {
+      "id": 35071,
+      "name": "至臻 万魔殿 萨科",
+      "roitName": "Prestige Pandemonium Shaco",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "万魔殿",
+      "universe": "",
+      "pushDate": "2026年4月28日",
+      "series": null,
+      "backstory": "萨科的离奇情绪是一种后天培养的品味。他的快乐反复无常，他的绝望偏执成狂——一个由混乱和滑稽组成的扭曲万花筒。    他夸大其词的表达和舞台表演般的手势是一种对真实情感的嘲弄。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_uncentered_71.skins_shaco_skin71.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_tile_71.skins_shaco_skin71.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_centered_71.skins_shaco_skin71.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35071.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/shacoloadscreen_71.skins_shaco_skin71.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/shacoloadscreen_71_le.skins_shaco_skin71.jpg",
+      "roit": {
+        "price": 150,
+        "priceType": "通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "7131",
+      "tencent": {
+        "price": 150,
+        "priceType": "通行证",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2026年4月28日版本更新后",
+        "priceEndDay": "2026年8月12日",
+        "description": "2026第二主题赛季第1幕通行证48级奖励",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 35072,
+          "name": "至臻 万魔殿 萨科 至强",
+          "sortName": "至强",
+          "colorName": "通行证礼包",
+          "tencent": {
+            "price": 17575,
+            "priceType": "礼包",
+            "priceStartDay": "2026年4月28日版本更新后",
+            "priceEndDay": "2026年4月30日",
+            "description": "通行证战利品专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
+          },
+          "roit": {
+            "price": 2440,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "至臻 万魔殿 萨科 至强",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35072.png",
+          "mythicIcon": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
+          "colors": [
+            "#CE1717",
+            "#550000"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.09",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
