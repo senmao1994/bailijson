@@ -8,7 +8,7 @@
     {
       "id": 35071,
       "name": "至臻 万魔殿 萨科",
-      "roitName": "Prestige Pandemonium Shaco",
+      "roitName": "",
       "sortName": null,
       "rarity": "神话",
       "raritySubType": null,
@@ -27,22 +27,22 @@
       "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/shacoloadscreen_71.skins_shaco_skin71.jpg",
       "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/shacoloadscreen_71_le.skins_shaco_skin71.jpg",
       "roit": {
-        "price": 150,
+        "price": 0,
         "priceType": "通行证",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
       },
-      "tencentPrice": 150,
+      "tencentPrice": 0,
       "icon": "7131",
       "tencent": {
-        "price": 150,
+        "price": 0,
         "priceType": "通行证",
         "priceTypeChinese": "至臻",
         "priceStartDay": "2026年4月28日版本更新后",
         "priceEndDay": "2026年8月12日",
         "description": "2026第二主题赛季第1幕通行证48级奖励",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
