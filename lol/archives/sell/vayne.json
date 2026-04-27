@@ -2302,6 +2302,146 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67003,
+      "name": "屠龙勇士 薇恩",
+      "roitName": "Dragonslayer Vayne",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "巨龙世界",
+      "universe": "巨龙世界",
+      "pushDate": "2011年8月24日",
+      "series": null,
+      "backstory": "很多人都响应了屠龙勇士的召唤聚集他们的力量，薇恩是他们中最具传奇色彩的应征者。什么是巨龙？不就是世间最危险的野兽么？",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin03/images/vayne_splash_uncentered_3.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin03/images/vayne_splash_tile_3.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin03/images/vayne_splash_centered_3.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67003.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin03/vayneloadscreen_3.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "",
+      "tencent": {
+        "price": 6900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年8月24日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 67007,
+          "name": "屠龙勇士 薇恩 毒龙之息",
+          "sortName": "毒龙之息",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2015年8月14日10:00",
+            "priceEndDay": "商城已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "屠龙勇士 薇恩 毒龙之息",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67007.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#677117",
+            "#26360D"
+          ]
+        },
+        {
+          "id": 67008,
+          "name": "屠龙勇士 薇恩 炎龙之息",
+          "sortName": "炎龙之息",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2015年8月14日10:00",
+            "priceEndDay": "商城已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "屠龙勇士 薇恩 炎龙之息",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67008.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#B21B27",
+            "#59182A"
+          ]
+        },
+        {
+          "id": 67009,
+          "name": "屠龙勇士 薇恩 冰龙之息",
+          "sortName": "冰龙之息",
+          "colorName": "银色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2015年8月14日10:00",
+            "priceEndDay": "商城已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "屠龙勇士 薇恩 冰龙之息",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67009.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#BCE5E6",
+            "#484961"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.124",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
