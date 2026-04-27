@@ -1,0 +1,58 @@
+{
+  "id": "kindred",
+  "name": "永猎双子",
+  "alias": "Kindred",
+  "key": 203,
+  "title": "千珏",
+  "skins": [
+    {
+      "id": 203045,
+      "name": "万魔殿 千珏",
+      "roitName": "Pandemonium Kindred",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "万魔殿",
+      "universe": null,
+      "pushDate": "2026年4月30日",
+      "series": null,
+      "backstory": "即使是恶魔们也必须面对千珏。羊灵带来宁静：为驱使着所有恶魔的那股饥饿带来一次悄然终结。狼灵带来一场令人垂涎的最终情感盛宴，但享用之后，会感到一种永远无法满足的饥饿感。它们共同构成了恶魔的最终选择：什么都没有，或者什么都有。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_uncentered_45.skins_kindred_skin45.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_tile_45.skins_kindred_skin45.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_centered_45.skins_kindred_skin45.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/kindredloadscreen_45.skins_kindred_skin45.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/kindredloadscreen_45_le.skins_kindred_skin45.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "7134",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2026年4月28日",
+        "priceEndDay": "预计2026年5月27日下架",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.09",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
+    }
+  ]
+}
