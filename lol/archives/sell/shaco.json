@@ -40,9 +40,9 @@
         "priceType": "通行证",
         "priceTypeChinese": "至臻",
         "priceStartDay": "2026年4月29日",
-        "priceEndDay": "2026年8月12日",
+        "priceEndDay": "2026年6月10日23:59",
         "description": "2026第二主题赛季第1幕通行证48级奖励",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
