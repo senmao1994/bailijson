@@ -2442,6 +2442,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67005,
+      "name": "SKT T1 薇恩",
+      "roitName": "SKT T1 Vayne",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "全球总决赛：2013",
+      "universe": "电竞",
+      "pushDate": null,
+      "series": null,
+      "backstory": "以此致敬Piglet在2013全球总决赛中使用薇恩的夺胜表现。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin05/images/vayne_splash_uncentered_5.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin05/images/vayne_splash_tile_5.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin05/images/vayne_splash_centered_5.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin05/vayneloadscreen_5.jpg",
+      "roit": {
+        "price": 750,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "",
+      "tencent": {
+        "price": 6900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "冠军限定",
+        "priceStartDay": "2014年5月4日",
+        "priceEndDay": "限时直售 ",
+        "description": "S赛期间返场直售",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "4.6",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
