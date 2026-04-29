@@ -2718,6 +2718,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67000,
+      "name": "暗夜猎手",
+      "roitName": "Vayne",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "德玛西亚",
+      "universe": "英雄联盟宇宙",
+      "pushDate": "2011年5月10日",
+      "series": null,
+      "backstory": "来自德玛西亚的肖娜·薇恩是一位无情的怪物猎手，终其一生，都在寻找杀害她全家的恶魔。她的手臂上装着十字弩，心中燃烧着熊熊的复仇怒火，总是从暗影中射出圣银弩箭的风暴。只有在杀死那些为黑暗魔法所控制的人和生物时，薇恩才能感受到真正的愉悦。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/base/images/vayne_splash_uncentered_0.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/base/images/vayne_splash_tile_0.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/base/images/vayne_splash_centered_0.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/base/vayneloadscreen.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "6221",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2023年9月1日10:00",
+        "priceEndDay": "2023年10月7日9:59",
+        "description": "薇恩 肖像图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.118",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
