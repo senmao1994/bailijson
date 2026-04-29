@@ -1,0 +1,60 @@
+{
+  "id": 10010,
+  "name": "薇恩",
+  "alias": "weien",
+  "key": "10010",
+  "title": "暗夜猎手",
+  "skins": [
+    {
+      "id": 1001004,
+      "name": "觅心猎手 薇恩",
+      "roitName": "Heartseeker Vayne",
+      "sortName": "觅心猎手",
+      "rarity": "史诗",
+      "raritySubType": "情人节",
+      "price": "790",
+      "priceUnit": "点券",
+      "skinline": "挚爱",
+      "universe": "情人节",
+      "pushDate": "",
+      "series": null,
+      "backstory": "与觅心猎手薇恩一起翻滚吧，将这一季的浪漫电影全部变为恐怖片！在她精准的弩箭、钢铁般的意志和长年累月的艰苦训练下，没有一颗心可以逃脱她的追击。",
+      "accessories": [
+        "边框",
+        "姿态：耍酷"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vayne_3.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_vayne_skin03.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001004.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "sell": {
+        "startDate": "2022年2月12日",
+        "endDate": "2022年3月14日",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
