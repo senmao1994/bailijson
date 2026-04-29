@@ -2670,6 +2670,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67001,
+      "name": "摩登骇客 薇恩",
+      "roitName": "Vindicator Vayne",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "不给糖就捣蛋",
+      "universe": "峡谷传说",
+      "pushDate": "2011年5月10日",
+      "series": null,
+      "backstory": "",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin01/images/vayne_splash_uncentered_1.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin01/images/vayne_splash_tile_1.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin01/images/vayne_splash_centered_1.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin01/vayneloadscreen_1.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 3500,
+      "icon": "",
+      "tencent": {
+        "price": 3500,
+        "priceType": "直售",
+        "priceTypeChinese": "伴生皮肤",
+        "priceStartDay": "2011年5月10日",
+        "priceEndDay": "商城已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.118",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
