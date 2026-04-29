@@ -2622,6 +2622,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67002,
+      "name": "猎天使魔女 薇恩",
+      "roitName": "Aristocrat Vayne",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "上流社会",
+      "universe": "磨砺",
+      "pushDate": "2011年5月10日",
+      "series": null,
+      "backstory": "薇恩从未想到过，屠杀怪兽会带给她名与利。现在的她已经名利双收了，却发现很难回到那种十字弩和弩箭不是由纯金打造的生活了。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin02/images/vayne_splash_uncentered_2.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin02/images/vayne_splash_tile_2.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin02/images/vayne_splash_centered_2.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin02/vayneloadscreen_2.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 3500,
+      "icon": "",
+      "tencent": {
+        "price": 3500,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年5月10日",
+        "priceEndDay": "商城已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.118",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
