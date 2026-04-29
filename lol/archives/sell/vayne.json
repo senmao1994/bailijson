@@ -2574,6 +2574,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 67004,
+      "name": "觅心猎手 薇恩",
+      "roitName": "Heartseeker Vayne",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "情人节",
+      "universe": "属于我的",
+      "pushDate": "2012年2月14日",
+      "series": null,
+      "backstory": "让这一季的浪漫电影全部变为恐怖片吧！让我们与觅心者薇恩共同翻滚。在她精准的弩箭、钢铁般的意志和长年累月的艰苦训练下，没有一颗心可以逃脱她的追击。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin04/images/vayne_splash_uncentered_4.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin04/images/vayne_splash_tile_4.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin04/images/vayne_splash_centered_4.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin04/vayneloadscreen_4.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 12900,
+      "icon": "",
+      "tencent": {
+        "price": 12900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "情人节限定",
+        "priceStartDay": "2012年2月14日",
+        "priceEndDay": "限时销售",
+        "description": "各类情人节期间返场销售",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.134",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
