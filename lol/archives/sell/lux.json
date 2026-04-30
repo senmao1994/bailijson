@@ -444,6 +444,87 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 99070,
+      "name": "至臻 灵魂莲华 拉克丝",
+      "roitName": "Prestige Spirit Blossom Lux",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "灵魂莲华",
+      "universe": "灵魂莲华",
+      "pushDate": "2025年4月29日",
+      "series": null,
+      "backstory": "当一位善良的年轻女子解救了一个被困的生物——一个伪装的灵体——时，她得到了一件宝藏。在琳琅满目的财富中，她选择了一块普通的灰色石头，并说它可以帮助很多人。它根本不是石头，而是一颗镶有两颗发光珍珠的贝壳。在她的手中，它们变成了一根光明之杖，“珍珠娘娘”现在用它来引导他人走出黑暗。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin70/images/lux_splash_uncentered_70.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin70/images/lux_splash_tile_70.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin70/images/lux_splash_centered_70.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/99/99070.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin70/luxloadscreen_70.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin70/luxloadscreen_70_le.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "6860",
+      "tencent": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2025年4月29日",
+        "priceEndDay": "2025年6月25日23:59",
+        "description": "2025 彼岸·花开 第一幕通行证",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 99071,
+          "name": "至臻 灵魂莲华 拉克丝 绽灵",
+          "sortName": "绽灵",
+          "colorName": "通行证炫彩",
+          "tencent": {
+            "price": 0,
+            "priceType": "礼包",
+            "priceStartDay": "2025年4月29日",
+            "priceEndDay": "2025年6月25日23:59",
+            "description": "通行证礼包",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 0,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "至臻 灵魂莲华 拉克丝 绽灵",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/99/99071.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FF9AC7",
+            "#5ADADC"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "25.09",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
