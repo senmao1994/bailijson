@@ -69,6 +69,65 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1009413,
+      "name": "极速虹影 艾瑞莉娅",
+      "roitName": "Neon Daredevil Irelia",
+      "sortName": "极速虹影",
+      "rarity": "史诗",
+      "raritySubType": "星速竞逐",
+      "price": "1800",
+      "priceUnit": "点券(随机保底1款)",
+      "skinline": "争锋",
+      "universe": "星速竞逐",
+      "pushDate": "",
+      "series": null,
+      "backstory": "艾瑞莉娅只身切入弯道，阻截来势汹汹的改造者利刃。作为队长，她明白个人的优势不值一提，只要证明霓虹极速车队的能力，证明在这颗星球上坚韧求存的人的希望……那自己的行动就不曾白费。艾瑞莉娅也相信，她信赖的首席车手绝不会辜负这一片意志。",
+      "accessories": [
+        "边框",
+        "姿态：伸腰",
+        "姿态：刀锋虹影"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Irelia_12.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_irelia_skin12.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009413.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年4月30日",
+        "endDate": "2026年5月30日",
+        "description": "星速竞逐 限定",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
