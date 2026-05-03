@@ -173,6 +173,66 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1001013,
+      "name": "至臻 锐利墨痕 薇恩",
+      "roitName": "Prestige Calligraphia Vayne",
+      "sortName": "至臻 锐利墨痕",
+      "rarity": "神话",
+      "raritySubType": "至臻",
+      "price": "1000",
+      "priceUnit": "玉石",
+      "skinline": "悬笔",
+      "universe": "兰亭墨韵",
+      "pushDate": "",
+      "series": null,
+      "backstory": "墨潭倒影中，浮现无数残喘狰狞面容。薇恩感恩墨仙明示，誓以墨痕为契，蚀尽世间不洁之影。",
+      "accessories": [
+        "边框",
+        "姿态：睥睨",
+        "姿态：锐利锋镝",
+        "姿态：墨卷纵横"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vayne_12.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_vayne_skin12.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001013.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "6.2",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2025年9月29日",
+        "endDate": "2025年11月2日",
+        "description": "兰亭墨韵2025",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
