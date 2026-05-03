@@ -63,6 +63,65 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1002613,
+      "name": "臻藏 传奇新驱 卡莎",
+      "roitName": "Prestige Select Neon Daredevil Kai'Sa",
+      "sortName": "臻藏 传奇新驱",
+      "rarity": "神话",
+      "raritySubType": "臻藏",
+      "price": "1500",
+      "priceUnit": "星速币",
+      "skinline": "争锋",
+      "universe": "星速竞逐",
+      "pushDate": "",
+      "series": null,
+      "backstory": "速度极限，已臻化境。现在，卡莎与她的新生座驾一起，向着传奇般的永恒加速行进。来吧，在飞驰的风中，触及你的梦。",
+      "accessories": [
+        "边框",
+        "姿态：傲立",
+        "姿态：竞速虹影"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kaisa_12.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_kaisa_skin12.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002613.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年4月30日",
+        "endDate": "2026年5月30日",
+        "description": "臻藏 传奇新驱",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
