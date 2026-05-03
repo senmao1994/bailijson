@@ -124,6 +124,65 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1003909,
+      "name": "迅刃异客 劫",
+      "roitName": "Neon Daredevil Zed",
+      "sortName": "迅刃异客",
+      "rarity": "史诗",
+      "raritySubType": "星速竞逐",
+      "price": "1800",
+      "priceUnit": "点券(随机保底1款)",
+      "skinline": "争锋",
+      "universe": "星速竞逐",
+      "pushDate": "",
+      "series": null,
+      "backstory": "财团必须死。劫很确信这一点。他身上遍布的非正规改造和反装甲利刃也很确信这一点。他与那些被财团碾过，痛不欲生的人一起掀起了一场名为“迅刃”的反抗，尽管暴力带来了超出预计的破坏，甚至让利铎星也满目疮痍，但劫在所不惜，因为他确信：财团必须死。",
+      "accessories": [
+        "边框",
+        "姿态：锋锐",
+        "姿态：迅刃飞驰"
+      ],
+      "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zed_8.jpg",
+      "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_zed_skin08.png",
+      "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003909.png",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年4月30日",
+        "endDate": "2026年5月30日",
+        "description": "星速竞逐 限定",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
