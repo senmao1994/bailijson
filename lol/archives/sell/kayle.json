@@ -690,19 +690,19 @@
           "id": 10077,
           "name": "至高天 开辟未知 凯尔",
           "sortName": "至高天 开辟未知 凯尔",
-          "colorName": "",
+          "colorName": "至高天(2024)",
           "tencent": {
-            "price": 2000,
-            "priceType": "限时直售",
-            "priceStartDay": "2024年4月30日",
-            "priceEndDay": "2024年5月14日9:59",
-            "description": "",
+            "price": 23575,
+            "priceType": "礼包",
+            "priceStartDay": "2024年5月7日10:00",
+            "priceEndDay": "2024年6月11日18:00",
+            "description": "至高天(2024)豪华礼包",
             "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
             "price": 290,
-            "priceType": "直售",
+            "priceType": "礼包",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": ""
