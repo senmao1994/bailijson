@@ -719,6 +719,299 @@
       ],
       "formsCount": null,
       "forms": []
+    },
+    {
+      "id": 10057,
+      "name": "玉剑传说 翼剑仙",
+      "roitName": "",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "玉剑传说",
+      "universe": "玉剑传说",
+      "pushDate": "2023年8月16日",
+      "series": null,
+      "backstory": "天目派传习的是见微知著的能力，但是随着翼剑仙接近得道，怀疑也悄然而至。 父母的意外离世促使她想要尽可能地掌控自己的生活，可由于师父无劫将她逐出师门，她的信念开始动摇。 她现在只希望，修得长生能让她最终抛开一切疑虑。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin57/images/kayle_splash_uncentered_57.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin57/images/kayle_splash_tile_57.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin57/images/kayle_splash_centered_57.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10057.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin57/kayleloadscreen_57.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin57/kayleloadscreen_57_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "5948",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "英雄必胜",
+        "priceStartDay": "2023年8月18日",
+        "priceEndDay": "2023年10月8日9:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 10058,
+          "name": "玉剑传说 翼剑仙 胭脂",
+          "sortName": "胭脂",
+          "colorName": "红色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 翼剑仙 胭脂",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10058.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 10059,
+          "name": "玉剑传说 翼剑仙 珐琅",
+          "sortName": "珐琅",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 翼剑仙 珐琅",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10059.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 10060,
+          "name": "玉剑传说 翼剑仙 丁香",
+          "sortName": "丁香",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2026年1月23日",
+            "priceEndDay": "2026年2月22日",
+            "description": "璀璨臻彩召唤",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/au14o15ikp3cba9qm18vneshrjg6imqe.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 翼剑仙 丁香",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10060.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 10061,
+          "name": "玉剑传说 翼剑仙 翡翠",
+          "sortName": "翡翠",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 翼剑仙 翡翠",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10061.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 10062,
+          "name": "玉剑传说 翼剑仙 紫薇",
+          "sortName": "紫薇",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 翼剑仙 紫薇",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10062.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#9C68D7",
+            "#9C68D7"
+          ]
+        },
+        {
+          "id": 10063,
+          "name": "玉剑传说 翼剑仙 黄栌",
+          "sortName": "黄栌",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 翼剑仙 黄栌",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10063.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 10064,
+          "name": "玉剑传说 翼剑仙 墨云",
+          "sortName": "墨云",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 6300,
+            "priceType": "橙色精萃",
+            "priceStartDay": "2023年8月18日",
+            "priceEndDay": "2023年9月1日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 翼剑仙 墨云",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10064.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 10065,
+          "name": "玉剑传说 翼剑仙 珠光",
+          "sortName": "珠光",
+          "colorName": "白色",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2024年1月12日",
+            "priceEndDay": "2024年2月24日23:59",
+            "description": "玉剑夺宝活动",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/au14o15ikp3cba9qm18vneshrjg6imqe.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "玉剑传说 翼剑仙 珠光",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10065.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.9",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.09"
+      }
     }
   ]
 }
