@@ -2173,6 +2173,54 @@
         "updateName": "",
         "video": "26.10"
       }
+    },
+    {
+      "id": 10009,
+      "name": "五杀摇滚女声主唱 凯尔",
+      "roitName": "Pentakill Kayle",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "五杀乐队",
+      "universe": "拳头唱片",
+      "pushDate": "",
+      "series": null,
+      "backstory": "在五杀摇滚需要一名女声主唱时，天堂四分五裂，然后一位名副其实的摇滚天使降临人间，举起她的剑状麦克风，只为了重金属的永恒荣耀！",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin09/images/kayle_splash_uncentered_9.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin09/images/kayle_splash_tile_9.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin09/images/kayle_splash_centered_9.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin09/kayleloadscreen_9.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "3000",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2017年8月8日",
+        "priceEndDay": "14.5版本已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "9.5",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "26.10"
+      }
     }
   ]
 }
