@@ -2775,6 +2775,206 @@
         "updateName": "",
         "video": "26.09"
       }
+    },
+    {
+      "id": 10002,
+      "name": "末世天使 凯尔",
+      "roitName": "Viridian Kayle",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "阿尔比恩",
+      "universe": "古玩",
+      "pushDate": null,
+      "series": null,
+      "backstory": "森林精灵们要比他们周围的人类长寿，并且他们中的大部分都会专心致志地进行数个世纪之久的探索，哪怕只为了一小片他们帝国的遗失魔法。那些找到的，诸如凯尔，会被赐予凌驾于自然世界的惊人威能。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin02/images/kayle_splash_uncentered_2.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin02/images/kayle_splash_tile_2.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin02/images/kayle_splash_centered_2.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10002.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin02/kayleloadscreen_2.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 1000,
+      "icon": "",
+      "tencent": {
+        "price": 1000,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2010年6月1日",
+        "priceEndDay": "商城已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 10010,
+          "name": "末世天使 凯尔 炽诚之翼",
+          "sortName": "炽诚之翼",
+          "colorName": "橙色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2019年3月12日",
+            "priceEndDay": "炫彩礼包已下架",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "末世天使 凯尔 炽诚之翼",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10010.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#DF9117",
+            "#DF9117"
+          ]
+        },
+        {
+          "id": 10011,
+          "name": "末世天使 凯尔 智慧之翼",
+          "sortName": "智慧之翼",
+          "colorName": "浅蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "末世天使 凯尔 智慧之翼",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10011.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#6ABBEE",
+            "#6ABBEE"
+          ]
+        },
+        {
+          "id": 10012,
+          "name": "末世天使 凯尔 公正之翼",
+          "sortName": "公正之翼",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "末世天使 凯尔 公正之翼",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10012.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 10013,
+          "name": "末世天使 凯尔 美德之翼",
+          "sortName": "美德之翼",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2019年3月12日",
+            "priceEndDay": "2019年3月26日11:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "末世天使 凯尔 美德之翼",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10013.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 10014,
+          "name": "末世天使 凯尔 嫉恶之翼",
+          "sortName": "嫉恶之翼",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "末世天使 凯尔 嫉恶之翼",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/10/10014.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "9.5",
+        "updateChinese": "视觉玩法更新",
+        "updateName": "",
+        "video": "26.09"
+      }
     }
   ]
 }
