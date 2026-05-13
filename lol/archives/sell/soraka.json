@@ -1543,6 +1543,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 16017,
+      "name": "至臻 星之守护者 索拉卡",
+      "roitName": "Prestige Star Guardian Soraka",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "星之守护者 第二季",
+      "universe": "星之守护者宇宙",
+      "pushDate": null,
+      "series": null,
+      "backstory": "在与霞和别的星之守护者们一起离开那颗星球后，索拉卡对好友们的不灭之爱使她解锁了自身的全部力量——希望有那么一天，他们能找到在与暮光星的最后一战中迷失的那位同伴，然后重新成为一家人。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin17/images/soraka_splash_uncentered_17.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin17/images/soraka_splash_tile_17.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin17/images/soraka_splash_centered_17.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin17/sorakaloadscreen_17.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin17/sorakaloadscreen_17_le.jpg",
+      "roit": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "4833",
+      "tencent": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2020年11月26日",
+        "priceEndDay": "12月10日9:59",
+        "description": "首发100至臻点(2020)兑换获取",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "10.24",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
