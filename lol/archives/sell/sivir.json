@@ -502,10 +502,10 @@
           "colorName": "绿色",
           "tencent": {
             "price": 10000,
-            "priceType": "蓝色精萃",
+            "priceType": "创作者的观众赠品",
             "priceStartDay": "",
             "priceEndDay": "",
-            "description": "蓝色精萃商店开放期间兑换",
+            "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -518,7 +518,7 @@
           },
           "roit": {
             "price": 10000,
-            "priceType": "蓝色精萃",
+            "priceType": "创作者的观众赠品",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": ""
