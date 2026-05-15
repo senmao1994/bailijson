@@ -17,18 +17,14 @@
       "skinline": "青蛙雨衣",
       "universe": "",
       "pushDate": "2025年11月19日",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/images/gwen_splash_uncentered_39.skins_gwen_skin39.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/images/gwen_splash_tile_39.skins_gwen_skin39.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/images/gwen_splash_centered_39.skins_gwen_skin39.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887039.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/gwenloadscreen_39.skins_gwen_skin39.jpg",
-      "loadingSpecialEditionPath": "",
+      "series": null,
       "backstory": "格温是牧雨者们开朗活泼的首席裁缝。在雨停之前，她作为魔法裁缝的才能没有得到充分发挥，但无休止的干旱却给了她新的生命。新的想法如洪流般涌现，比如透气的保水织物。现在她通过设计能让青蛙朋友们保持精神饱满、水分充足的湿衣来帮助它们。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/images/gwen_splash_uncentered_39.skins_gwen_skin39.jpg",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/images/gwen_splash_tile_39.skins_gwen_skin39.jpg",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/images/gwen_splash_centered_39.skins_gwen_skin39.jpg",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887039.png",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin39/gwenloadscreen_39.skins_gwen_skin39.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -44,7 +40,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2025年11月20日版本更新后",
         "priceEndDay": "长期销售",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -58,6 +55,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -101,6 +99,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -144,6 +143,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -187,6 +187,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -230,6 +231,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -273,6 +275,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -312,10 +315,11 @@
           "colorName": "白色",
           "tencent": {
             "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
+            "priceType": "臻彩",
+            "priceStartDay": "2026年5月15日",
+            "priceEndDay": "2026年6月14日 23:59",
+            "description": "幸运之门召唤 第202610期 一等奖",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -323,7 +327,8 @@
               "activityTitle": "",
               "price": "",
               "priceUnit": ""
-            }
+            },
+            "ExquisitePath": "https://static.gametalk.qq.com/image/3/1778813610_d2b5ca33bd970f64a6301fa75ae2eb22.png"
           },
           "roit": {
             "price": 290,
@@ -356,9 +361,10 @@
           "tencent": {
             "price": 0,
             "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
+            "priceStartDay": "2026年4月29日",
+            "priceEndDay": "2026年5月24日23:59",
+            "description": "璀璨之路宝典·夜雨",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -366,7 +372,8 @@
               "activityTitle": "",
               "price": "",
               "priceUnit": ""
-            }
+            },
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a2g72eh0t0uh9l66yoygejgxavxff7xg.jpg"
           },
           "roit": {
             "price": 290,
@@ -392,6 +399,8 @@
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "25.23",
         "update": "",
