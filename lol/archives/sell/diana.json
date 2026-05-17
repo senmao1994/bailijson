@@ -374,6 +374,328 @@
         "updateName": "",
         "video": "26.11"
       }
+    },
+    {
+      "id": 131064,
+      "name": "暗星女王 黛安娜",
+      "roitName": "Dark Cosmic Diana",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "暗星",
+      "universe": "黑洞边境",
+      "pushDate": "2024年10月23日",
+      "series": null,
+      "backstory": "黛安娜曾经是星界女王“御星魔矢”艾希的宠儿，但被打上异端的标签并遭到放逐，皆因她对暗星能量表现出过多的兴趣而令星廷感到不快。被遗弃在荒凉虚无的太空中漂流的她别无选择，只能投身于让她着迷已久的那团混沌。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin64/images/diana_splash_uncentered_64.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin64/images/diana_splash_tile_64.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin64/images/diana_splash_centered_64.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131064.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin64/dianaloadscreen_64.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin64/dianaloadscreen_64_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 8900,
+      "icon": "6741",
+      "tencent": {
+        "price": 8900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2024年10月24日",
+        "priceEndDay": "2024年11月19日9:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 131066,
+          "name": "暗星女王 黛安娜 战神星之爆",
+          "sortName": "战神星之爆",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2024年10月24日",
+            "priceEndDay": "2024年11月7日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "暗星女王 黛安娜 战神星之爆",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131066.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 131067,
+          "name": "暗星女王 黛安娜 爱神星之怨",
+          "sortName": "爱神星之怨",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年10月24日",
+            "priceEndDay": "2024年11月7日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "暗星女王 黛安娜 爱神星之怨",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131067.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ]
+        },
+        {
+          "id": 131068,
+          "name": "暗星女王 黛安娜 智神星之嫉",
+          "sortName": "智神星之嫉",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 4900,
+            "priceType": "惊喜礼盒",
+            "priceStartDay": "2024年10月24日",
+            "priceEndDay": "2024年11月19日9:59",
+            "description": "暗星(2024)惊喜礼盒",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "暗星女王 黛安娜 智神星之嫉",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131068.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 131069,
+          "name": "暗星女王 黛安娜 美神星之灭",
+          "sortName": "美神星之灭",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 0,
+            "priceType": "暂无",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "暗星女王 黛安娜 美神星之灭",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131069.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 131070,
+          "name": "暗星女王 黛安娜 主神星之黯",
+          "sortName": "主神星之黯",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年10月24日",
+            "priceEndDay": "2024年11月7日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "暗星女王 黛安娜 主神星之黯",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131070.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 131071,
+          "name": "暗星女王 黛安娜 猎神星之败",
+          "sortName": "猎神星之败",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年10月24日",
+            "priceEndDay": "2024年11月7日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "暗星女王 黛安娜 猎神星之败",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131071.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 131072,
+          "name": "暗星女王 黛安娜 乐神星之终",
+          "sortName": "乐神星之终",
+          "colorName": "彩色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年10月24日",
+            "priceEndDay": "2024年11月7日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "暗星女王 黛安娜 乐神星之终",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131072.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#C1F2FF",
+            "#C1F2FF"
+          ]
+        },
+        {
+          "id": 131073,
+          "name": "暗星女王 黛安娜 天神星之陨",
+          "sortName": "天神星之陨",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2024年10月24日",
+            "priceEndDay": "2024年11月7日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/auq0yhs2wmgxtq5q1v7p14bx7xfspfko.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "暗星女王 黛安娜 天神星之陨",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131073.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 131074,
+          "name": "暗星女王 黛安娜 类星体",
+          "sortName": "类星体",
+          "colorName": "",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2024年10月24日",
+            "priceEndDay": "2024年11月19日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "暗星女王 黛安娜 类星体",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131074.png",
+          "mythicIcon": "6742",
+          "wildRiftSell": null,
+          "colors": [
+            "#D02E47",
+            "#7931BD"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.21",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.11"
+      }
     }
   ]
 }
