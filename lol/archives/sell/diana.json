@@ -1470,6 +1470,237 @@
         "updateName": "",
         "video": "26.11"
       }
+    },
+    {
+      "id": 131047,
+      "name": "北极星神 黛安娜",
+      "roitName": "Winterblessed Diana",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "北极星",
+      "universe": "北极光的传说",
+      "pushDate": "2022年12月8日",
+      "series": null,
+      "backstory": "人们可以从北极星——极光的人间化身——的故事中学到很多教训。 每年都会带来一位新的北极星，以及一次接受极光的赐福——或惩罚——的新机会。这位北极星名叫黛安娜，到达后发现三位当地统领正在等她，渴望得到祝福：“猎人”斯维因、“圣贤”基兰和“守望者”佐伊。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin47/images/diana_splash_uncentered_47.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin47/images/diana_splash_tile_47.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin47/images/diana_splash_centered_47.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131047.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin47/dianaloadscreen_47.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin47/dianaloadscreen_47_le.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 10900,
+      "icon": "5646",
+      "tencent": {
+        "price": 10900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "冰雪节",
+        "priceStartDay": "2022年12月9日10:00",
+        "priceEndDay": "2023年1月5日23:59",
+        "description": "每年冰雪节期间返场",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 131048,
+          "name": "北极星神 黛安娜 激昂脉冲",
+          "sortName": "激昂脉冲",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2022年12月9日10:00 ",
+            "priceEndDay": "2023年1月5日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星神 黛安娜 激昂脉冲",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131048.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 131049,
+          "name": "北极星神 黛安娜 浪漫帘幕",
+          "sortName": "浪漫帘幕",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 1,
+            "priceType": "礼包",
+            "priceStartDay": "2022年12月9日10:00 ",
+            "priceEndDay": "2022年12月23日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星神 黛安娜 浪漫帘幕",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131049.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ]
+        },
+        {
+          "id": 131050,
+          "name": "北极星神 黛安娜 祥和面纱",
+          "sortName": "祥和面纱",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年12月9日10:00 ",
+            "priceEndDay": "2023年1月5日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星神 黛安娜 祥和面纱",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131050.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ]
+        },
+        {
+          "id": 131051,
+          "name": "北极星神 黛安娜 希望辉光",
+          "sortName": "希望辉光",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年12月9日10:00 ",
+            "priceEndDay": "2023年1月5日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星神 黛安娜 希望辉光",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131051.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ]
+        },
+        {
+          "id": 131052,
+          "name": "北极星神 黛安娜 圣洁光带",
+          "sortName": "圣洁光带",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2022年12月9日10:00 ",
+            "priceEndDay": "2023年1月5日23:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星神 黛安娜 圣洁光带",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131052.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 131053,
+          "name": "北极星神 黛安娜 花冠极光",
+          "sortName": "花冠极光",
+          "colorName": "北极星2022",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2022年12月9日10:00",
+            "priceEndDay": "2023年1月9日9:59",
+            "description": "战利品专属",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "北极星神 黛安娜 花冠极光",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131053.png",
+          "mythicIcon": "5647",
+          "wildRiftSell": null,
+          "colors": [
+            "#BF2020",
+            "#368B25"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "12.23",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.11"
+      }
     }
   ]
 }
