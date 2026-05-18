@@ -729,8 +729,8 @@
           "sortName": "天神星之陨",
           "colorName": "白色",
           "tencent": {
-            "price": 2000,
-            "priceType": "限时直售",
+            "price": 0,
+            "priceType": "臻彩",
             "priceStartDay": "2025年6月20日",
             "priceEndDay": "2025年7月13日23:59",
             "description": "璀璨臻彩—女王与玫瑰",
@@ -772,7 +772,7 @@
           "id": 131074,
           "name": "暗星女王 黛安娜 类星体",
           "sortName": "类星体",
-          "colorName": "",
+          "colorName": "全球总决赛2024",
           "tencent": {
             "price": 35,
             "priceType": "神话商店",
