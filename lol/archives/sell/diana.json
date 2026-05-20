@@ -2109,8 +2109,8 @@
           "tencent": {
             "price": 2000,
             "priceType": "礼包",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "priceStartDay": "2020年2月18日",
+            "priceEndDay": "长期销售",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": null
