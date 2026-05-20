@@ -2635,6 +2635,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 131000,
+      "name": "皎月女神",
+      "roitName": "Diana",
+      "sortName": null,
+      "rarity": "英雄",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "巨神蜂",
+      "universe": "英雄联盟宇宙",
+      "pushDate": "2012年8月7日",
+      "series": null,
+      "backstory": "永远都佩着她的月刃的黛安娜 ，是皎月教派的武士，但这个教派在巨神峰附近几乎已经销声匿迹。身着闪烁冬夜寒雪之光铠甲的黛安娜，在巨神峰之巅与星灵精魄相融，如今的她已不再是一个单纯的凡人，而是皎月神力的凡间化身。她努力抗争命运，寻找着神的启示，以及自己的力量与存在对于这个世界的意义。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/base/images/diana_splash_uncentered_0.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/base/images/diana_splash_tile_0.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/base/images/diana_splash_centered_0.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/base/dianaloadscreen.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "6015",
+      "tencent": {
+        "price": 0,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2023年9月1日10:00",
+        "priceEndDay": "10月7日9:59",
+        "description": "黛安娜 肖像图标",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.144",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
