@@ -213,6 +213,62 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1007018,
+      "name": "风驰·极限 易",
+      "roitName": "Neon Daredevil Master Yi: Velocity",
+      "sortName": "风驰·极限",
+      "rarity": "神话",
+      "raritySubType": "臻宝",
+      "price": "990",
+      "priceUnit": "点券(累计8天领取)",
+      "skinline": "风驰岐影",
+      "universe": "星速竞逐",
+      "pushDate": "",
+      "series": null,
+      "backstory": "财团的天才工程师，驰名星系的车手，新能源的发现者......易承载着种种光环与期望，他一丝不苟地磨砺自我以回应，而一场改变所有人命运的暴变也正在他身上酝酿......",
+      "accessories": [
+        "边框",
+        "姿态：傲视",
+        "姿态：超限之力"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年5月22日10:00",
+        "endDate": "2026年10月20日23:59",
+        "description": "风驰 觉醒之路",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
