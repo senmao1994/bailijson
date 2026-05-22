@@ -326,6 +326,63 @@
         "price": "",
         "priceUnit": ""
       }
+    },
+    {
+      "id": 1007016,
+      "name": "风驰·虹影 易",
+      "roitName": "Neon Daredevil Master Yi: Neon Speed",
+      "sortName": "风驰·虹影",
+      "rarity": "神话",
+      "raritySubType": "觉醒",
+      "price": "600",
+      "priceUnit": "觉醒值(三选一)",
+      "skinline": "风驰岐影",
+      "universe": "星速竞逐",
+      "pushDate": "",
+      "series": null,
+      "backstory": "在旋臂远端的垃圾场星球上出现了异类......他召集平民，组装载具，打出“物尽其用，彰显个性”的口号，似乎在密谋与财团的管理对抗。经调查，此人与财团追缉列表中的高优先人物有很大重合......为了我们的未来不被他人定义，请尽快采取行动。",
+      "accessories": [
+        "边框",
+        "姿态：抽刀",
+        "姿态：拂去尘埃",
+        "姿态：开香槟咯"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年5月22日10:00",
+        "endDate": "2026年10月20日23:59",
+        "description": "风驰 觉醒之路",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
     }
   ]
 }
