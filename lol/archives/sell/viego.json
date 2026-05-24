@@ -564,7 +564,7 @@
       "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_uncentered_19.jpg",
       "splashHDPath": "",
       "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_tile_19.jpg",
-      "iconPath": null,
+      "iconPath": "",
       "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_centered_19.jpg",
       "circlePath": "",
       "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234019.png",
@@ -588,7 +588,8 @@
         "priceTypeChinese": "冠军限定",
         "priceStartDay": "2022年5月13日4:00",
         "priceEndDay": "2022年6月14日23:59",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -602,7 +603,15 @@
             "priceStartDay": "2022年5月13日4:00",
             "priceEndDay": "2022年6月14日23:59",
             "description": "这个炫彩曾在季中冠军赛(2022)期间作为礼包专属发布。",
-            "wildRiftSell": null,
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a43f6rq1cefn99om0yhng1igr8hil25e.jpg"
           },
           "roit": {
@@ -615,7 +624,14 @@
           "riotName": "EDG 佛耶戈 破军",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234020.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#131521",
             "#9E1517"
