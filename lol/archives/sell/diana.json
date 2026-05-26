@@ -2914,6 +2914,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 131077,
+      "name": "无光月神 永恒星灵 黛安娜",
+      "roitName": "Eclipse Eternal Aspect Diana",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "永恒星灵",
+      "universe": "符文之地时代",
+      "pushDate": "2026年5月28日",
+      "series": null,
+      "backstory": "黯然无光的皎月即是灾难——目中无人的神圣湮灭代行者。与金色烈阳结盟已不再符合她的目的，保守秘密也不再适合她的行事手段。她的智慧已臻化为不可动摇的决心：她将独自带来正义毁灭并终结对现实存在的深渊威胁——即使怒火会吞噬所有挡她道的人。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_uncentered_77.skins_diana_skin77.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_tile_77.skins_diana_skin77.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_centered_77.skins_diana_skin77.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/dianaloadscreen_77.skins_diana_skin77.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/dianaloadscreen_77_le.skins_diana_skin77.jpg",
+      "roit": {
+        "price": 40,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 40,
+      "icon": "7138",
+      "tencent": {
+        "price": 40,
+        "priceType": "神话商店",
+        "priceTypeChinese": "神话幻想",
+        "priceStartDay": "2026年5月28日",
+        "priceEndDay": "2026年6月25日",
+        "description": "圣堂系统限时上架",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.11",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
