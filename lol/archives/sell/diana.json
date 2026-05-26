@@ -2937,7 +2937,7 @@
       "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/dianaloadscreen_77_le.skins_diana_skin77.jpg",
       "roit": {
         "price": 40,
-        "priceType": "神话商店",
+        "priceType": "圣堂抽奖",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
@@ -2946,7 +2946,7 @@
       "icon": "7138",
       "tencent": {
         "price": 40,
-        "priceType": "神话商店",
+        "priceType": "圣堂抽奖",
         "priceTypeChinese": "神话幻想",
         "priceStartDay": "2026年5月28日",
         "priceEndDay": "2026年6月25日",
