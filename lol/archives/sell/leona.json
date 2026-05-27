@@ -441,9 +441,9 @@
         "priceType": "直售",
         "priceTypeChinese": "",
         "priceStartDay": "2026年5月28日",
-        "priceEndDay": "",
+        "priceEndDay": "2026年6月24日23:59",
         "description": "",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
@@ -458,7 +458,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -470,7 +477,14 @@
           "riotName": "永恒星灵 蕾欧娜 骄阳",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89065.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -488,7 +502,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -500,7 +521,14 @@
           "riotName": "永恒星灵 蕾欧娜 拂晓",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89066.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#73BFBE",
             "#73BFBE"
@@ -518,7 +546,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -530,7 +565,14 @@
           "riotName": "永恒星灵 蕾欧娜 朝阳",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89067.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -548,7 +590,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -560,7 +609,14 @@
           "riotName": "永恒星灵 蕾欧娜 斜阳",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89068.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#E58BA5",
             "#E58BA5"
@@ -578,7 +634,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -590,7 +653,14 @@
           "riotName": "永恒星灵 蕾欧娜 夕阳",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89069.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#54209B",
             "#54209B"
@@ -608,7 +678,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -620,7 +697,14 @@
           "riotName": "永恒星灵 蕾欧娜 余晖",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89070.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
