@@ -769,6 +769,87 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 89050,
+      "name": "水晶圣骑 蕾欧娜",
+      "roitName": "Crystalis Motus Leona",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "水晶圣骑",
+      "universe": "魔法灵棱",
+      "pushDate": "2023年6月15日",
+      "series": null,
+      "backstory": "蕾欧娜知道是什么导致了净化：亵渎。魔法的消失，是对人类狂妄和滥用魔法的报应。作为灵棱水晶的崇拜者，她认为保护这些水晶是她的神圣职责。但她也在暗中向它们祈祷，希望它们能带回她失散的同伴黛安娜，因为她在前往北方旅行后就失踪了。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin50/images/leona_splash_uncentered_50.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin50/images/leona_splash_tile_50.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin50/images/leona_splash_centered_50.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89050.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin50/leonaloadscreen_50.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin50/leonaloadscreen_50_le.jpg",
+      "roit": {
+        "price": 125,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 125,
+      "icon": "5859",
+      "tencent": {
+        "price": 125,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2023年6月16日10:00",
+        "priceEndDay": "2023年7月20日",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 89051,
+          "name": "水晶圣骑 蕾欧娜 感化之光",
+          "sortName": "感化之光",
+          "colorName": "神话",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2023年6月16日10:00",
+            "priceEndDay": "2023年7月20日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "水晶圣骑 蕾欧娜 感化之光",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89051.png",
+          "mythicIcon": "5860",
+          "wildRiftSell": null,
+          "colors": [
+            "#AAD4EB",
+            "#23211D"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "13.12",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.11"
+      }
     }
   ]
 }
