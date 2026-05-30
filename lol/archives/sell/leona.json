@@ -720,6 +720,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 89053,
+      "name": "至臻 幻灵狮心 蕾欧娜",
+      "roitName": "Prestige Battle Lion Leona",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "幻灵战队",
+      "universe": "幻灵科技",
+      "pushDate": "2024年7月18日",
+      "series": null,
+      "backstory": "身着为时刻待命战士准备的最新款时尚运动服，蕾欧娜捍卫她“T台之傲”头衔的难度就如她驾驭一款醒目唇色那样容易。拯救世界很重要，但如何有格调地拯救世界呢？这就是幻灵战队的意义所在。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin53/images/leona_splash_uncentered_53.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin53/images/leona_splash_tile_53.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin53/images/leona_splash_centered_53.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin53/leonaloadscreen_53.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin53/leonaloadscreen_53_le.jpg",
+      "roit": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 150,
+      "icon": "6671",
+      "tencent": {
+        "price": 150,
+        "priceType": "神话商店",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2024年7月18日",
+        "priceEndDay": "2024年8月27日09:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "14.15",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
