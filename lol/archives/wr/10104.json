@@ -1,0 +1,64 @@
+{
+  "id": 10104,
+  "name": "莎弥拉",
+  "alias": "shamila",
+  "key": "10104",
+  "title": "沙漠玫瑰",
+  "skins": [
+    {
+      "id": 1010409,
+      "name": "灰烬骑士 莎弥拉",
+      "roitName": "Ashen Avenger Samira",
+      "sortName": "灰烬骑士",
+      "rarity": "神话",
+      "raritySubType": "",
+      "price": "1000",
+      "priceUnit": "橙色原石",
+      "skinline": "灰烬骑士",
+      "universe": "",
+      "pushDate": "",
+      "series": null,
+      "backstory": "硝烟散尽，战场沉寂，唯有莎弥拉拒绝谢幕。她曾是魔法战争中最致命的前锋骑士，毕生追逐着刀刃与枪火间濒临死亡时的刺激感。如今，在这个遍布熔渣、灰烬还有死亡的苍白世界里，她成了唯一仍在主动寻求“终焉”之人，犹如灰烬中未熄的火星，将子弹与刀锋重新迎向那些同样不朽的强大灵魂。",
+      "accessories": [
+        "边框",
+        "姿态：举枪"
+      ],
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceTypeChinese": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.1",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      },
+      "sell": {
+        "startDate": "2026年5月29日",
+        "endDate": "2026年6月28日",
+        "description": "灰烬终焉 刀锋不朽 首周8折",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      }
+    }
+  ]
+}
