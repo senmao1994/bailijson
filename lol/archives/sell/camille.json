@@ -9,9 +9,22 @@
       "id": 164032,
       "name": "至臻 北极星钢影 卡蜜尔",
       "roitName": "Prestige Winterblessed Camille",
+      "sortName": null,
+      "rarity": null,
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
       "skinline": "北极星",
       "universe": "北极光的传说",
       "pushDate": "2023年12月6日",
+      "series": null,
+      "backstory": "没有人能像卡蜜尔那样在伸展台和时装屋之间起舞。她喜欢让竞争对手误认为她的冷漠举止是不感兴趣，结果却被她的尖端设计碾入尘埃。今年的冬季盛会，她的目标是给每个人都留下时尚的祝福，只要他们记得从谁那里得到的。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin32/images/camille_splash_uncentered_32.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin32/images/camille_splash_tile_32.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin32/images/camille_splash_centered_32.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin32/camilleloadscreen_32.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin32/camilleloadscreen_32_le.jpg",
       "roit": {
         "price": 150,
         "priceType": "神话商店",
@@ -27,9 +40,12 @@
         "priceTypeChinese": "至臻皮肤",
         "priceStartDay": "2023年12月8日10:00",
         "priceEndDay": "2024年1月10日18:00",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": true
       },
-      "chromas": []
+      "chromas": [],
+      "formsCount": null,
+      "forms": []
     },
     {
       "id": 164044,
