@@ -465,18 +465,14 @@
       "universe": "符文之地时代",
       "pushDate": "2025年10月9日",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/images/xinzhao_splash_uncentered_47.skins_xinzhaorework_skin47.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/images/xinzhao_splash_tile_47.skins_xinzhaorework_skin47.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/images/xinzhao_splash_centered_47.skins_xinzhaorework_skin47.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5047.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/xinzhaoloadscreen_47.skins_xinzhaorework_skin47.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/xinzhaoloadscreen_47_le.skins_xinzhaorework_skin47.jpg",
       "backstory": "赵信回到艾欧尼亚，寻找有关“绽灵怒放”神秘历史的线索，却阴差阳错加入了均衡寺院的保卫战。他与芸阿娜携手击退了来犯的恶魔，代价则是他在战斗中折断的长枪——如今，断枪已得重铸，均衡魔法加身，赵信已准备好面对在精神领域等待他的一切考验……",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/images/xinzhao_splash_uncentered_47.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/images/xinzhao_splash_tile_47.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/images/xinzhao_splash_centered_47.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5047.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/xinzhaoloadscreen_47.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin47/xinzhaoloadscreen_47_le.jpg",
       "roit": {
         "price": 0,
         "priceType": "直售",
@@ -493,7 +489,7 @@
         "priceStartDay": "2025年10月9日",
         "priceEndDay": "2025年11月19日23:59",
         "description": "完全体和皮肤限时销售",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
