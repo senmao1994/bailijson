@@ -1369,12 +1369,12 @@
       "series": null,
       "backstory": "以此致敬Faker在2024全球总决赛中使用永恩的夺胜表现。",
       "accessories": [],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_uncentered_74.skins_yone_skin74.jpg",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_tile_74.skins_yone_skin74.jpg",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_centered_74.skins_yone_skin74.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_uncentered_74.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_tile_74.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_centered_74.jpg",
       "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777074.png",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/yoneloadscreen_74.skins_yone_skin74.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/yoneloadscreen_74_le.skins_yone_skin74.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/yoneloadscreen_74.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/yoneloadscreen_74_le.jpg",
       "roit": {
         "price": 1350,
         "priceType": "限时直售",
@@ -1391,7 +1391,7 @@
         "priceStartDay": "2025年9月11日",
         "priceEndDay": "2025年10月8日23:59",
         "description": "限时直售 后续世界赛期间返场",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -1406,7 +1406,14 @@
             "priceEndDay": "2025年10月8日23:59",
             "description": "T12025冠军皮肤礼包专属",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -1418,7 +1425,14 @@
           "riotName": "T1 永恩 精锐",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777075.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#BB363D",
             "#BCBBC6"
