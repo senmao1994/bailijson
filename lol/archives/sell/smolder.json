@@ -17,18 +17,15 @@
       "skinline": "冰雪节大对决",
       "universe": "冰雪节",
       "pushDate": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/images/smolder_splash_uncentered_11.skins_smolder_skin11.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/images/smolder_splash_tile_11.skins_smolder_skin11.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/images/smolder_splash_centered_11.skins_smolder_skin11.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/901/901011.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/smolderloadscreen_11.skins_smolder_skin11.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/smolderloadscreen_11_le.skins_smolder_skin11.jpg",
+      "series": null,
       "backstory": "斯莫德是圣诞老人布隆最迅捷的助手，并且他非常享受这一角色。无论是包装好的礼物盒，还是偶尔出现以示惩罚的一块煤，他都会在冰雪节第一天早晨的钟声响起之前，把礼物送到所有孩子手中。如果他在途中偷偷给他自己买一两件礼物……好吧，谁会在意呢？",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/images/smolder_splash_uncentered_11.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/images/smolder_splash_tile_11.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/images/smolder_splash_centered_11.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/901/901011.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/smolderloadscreen_11.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin11/smolderloadscreen_11_le.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -44,7 +41,8 @@
         "priceTypeChinese": "冰雪节",
         "priceStartDay": "2025年12月4日版本更新后",
         "priceEndDay": "2026年1月21日23:59",
-        "description": "限时直售"
+        "description": "限时直售",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -58,6 +56,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -101,6 +100,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -144,6 +144,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -187,6 +188,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -230,6 +232,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -273,6 +276,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -316,6 +320,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -359,6 +364,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -392,6 +398,8 @@
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "25.24",
         "update": "",
