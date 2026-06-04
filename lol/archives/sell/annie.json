@@ -456,18 +456,14 @@
       "skinline": "女帝无双",
       "universe": "女帝无双",
       "pushDate": "2024-08-28",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_uncentered_50.skins_annie_skin50.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_tile_50.skins_annie_skin50.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_centered_50.skins_annie_skin50.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1050.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/annieloadscreen_50.skins_annie_skin50.jpg",
-      "loadingSpecialEditionPath": "",
+      "series": null,
       "backstory": "安妮在泰勒姆王廷前展示了她的魔法天赋，将她亲爱的泰迪熊变成了一位由钢铁与火焰组成的骑士。尽管这对许多贵族来说几乎是一次近乎灾难性的表现，但女帝菲奥娜还是接受了这个孩子的潜力，并指定她作为继任者。安妮为了在未来的加冕礼上取得胜利而不断训练……但也不断给她的王室导师添乱。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_uncentered_50.jpg",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_tile_50.jpg",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_centered_50.jpg",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1050.png",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/annieloadscreen_50.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -483,7 +479,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2024年8月29日",
         "priceEndDay": "",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -497,6 +494,7 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -540,6 +538,7 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -583,6 +582,7 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -626,6 +626,7 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -669,6 +670,7 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -712,6 +714,7 @@
             "priceStartDay": "2025年4月11日",
             "priceEndDay": "2025年5月5日",
             "description": "女帝和公主的优雅刻印夺宝活动一等奖",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -756,6 +759,7 @@
             "priceStartDay": "2024年12月01日",
             "priceEndDay": "2024年12月31日 23:59",
             "description": "心悦巅峰版第14期",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -800,6 +804,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -833,6 +838,8 @@
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "14.17",
         "update": "",
