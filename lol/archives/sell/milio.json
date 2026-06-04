@@ -17,18 +17,15 @@
       "skinline": "冬季仙境",
       "universe": "冰雪节",
       "pushDate": "2025年12月3日",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/images/milio_splash_uncentered_20.skins_milio_skin20.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/images/milio_splash_tile_20.skins_milio_skin20.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/images/milio_splash_centered_20.skins_milio_skin20.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/902/902020.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/milioloadscreen_20.skins_milio_skin20.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/milioloadscreen_20_le.skins_milio_skin20.jpg",
+      "series": null,
       "backstory": "米利欧是冬境之中所有人的朋友，不管去到哪里都会带去欢乐。他出类拔萃的冰系魔法天资引起了魄罗之王的注意，因为他是第一个能召唤出自己的灵体守护神的法师。作为魄罗王廷的最新成员，米利欧的快乐极具感染力，甚至连狂心冰王都可能改变心意。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/images/milio_splash_uncentered_20.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/images/milio_splash_tile_20.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/images/milio_splash_centered_20.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/902/902020.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/milioloadscreen_20.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin20/milioloadscreen_20_le.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -44,7 +41,8 @@
         "priceTypeChinese": "冰雪节",
         "priceStartDay": "2025年12月4日版本更新后",
         "priceEndDay": "2026年1月21日23:59",
-        "description": "限时直售"
+        "description": "限时直售",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -58,6 +56,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -101,6 +100,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -144,6 +144,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -187,6 +188,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -230,6 +232,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -273,6 +276,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -316,6 +320,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -359,6 +364,7 @@
             "priceStartDay": "2025年12月4日版本更新后",
             "priceEndDay": "2025年12月18日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -392,6 +398,8 @@
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "25.24",
         "update": "",
