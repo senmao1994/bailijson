@@ -329,18 +329,14 @@
       "skinline": "地狱火",
       "universe": "地狱火",
       "pushDate": "2024年5月30日",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/images/olaf_splash_uncentered_44.skins_olaf_skin44.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/images/olaf_splash_tile_44.skins_olaf_skin44.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/images/olaf_splash_centered_44.skins_olaf_skin44.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2044.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/olafloadscreen_44.skins_olaf_skin44.jpg",
-      "loadingSpecialEditionPath": "",
+      "series": null,
       "backstory": "自我毁灭程度堪比其致命程度的地狱火奥拉夫热情十足地投身于地狱烈焰。他将自己的身体和灵魂都交给它，活着就是为了效力于灰烬领主，并将摧毁他道路上的一切。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/images/olaf_splash_uncentered_44.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/images/olaf_splash_tile_44.jpg",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/images/olaf_splash_centered_44.jpg",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2044.png",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin44/olafloadscreen_44.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -356,7 +352,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2024年5月31日",
         "priceEndDay": "长期销售",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -370,6 +367,7 @@
             "priceStartDay": "2024年5月31日",
             "priceEndDay": "6月14日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -413,6 +411,7 @@
             "priceStartDay": "2024年5月31日",
             "priceEndDay": "6月14日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -456,6 +455,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -499,6 +499,7 @@
             "priceStartDay": "2024年5月31日",
             "priceEndDay": "6月14日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -542,6 +543,7 @@
             "priceStartDay": "2024年5月31日",
             "priceEndDay": "6月14日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -585,6 +587,7 @@
             "priceStartDay": "2024年5月31日",
             "priceEndDay": "6月14日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -628,6 +631,7 @@
             "priceStartDay": "2024年5月31日",
             "priceEndDay": "6月14日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -671,6 +675,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -704,6 +709,8 @@
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "14.11",
         "update": "",
