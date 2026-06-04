@@ -17,18 +17,14 @@
       "skinline": "胜利诸神",
       "universe": "胜利诸神",
       "pushDate": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_uncentered_68.skins_draven_skin68.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_tile_68.skins_draven_skin68.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_centered_68.skins_draven_skin68.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119068.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/dravenloadscreen_68.skins_draven_skin68.jpg",
-      "loadingSpecialEditionPath": "",
+      "series": null,
       "backstory": "玩家们在排位赛中积累了足够赛段点后，就会获得【胜利行刑官 德莱文】作为奖励。超越了自己的清算者过往，德莱文将整个帝国变成了诺克萨斯人争夺荣耀的一个舞台。力量和精彩程度是这个战场上唯一的通行货币——并且只要德莱文决定前往战斗，就总会是最终的赢家。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_uncentered_68.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_tile_68.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/images/draven_splash_centered_68.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/119/119068.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin68/dravenloadscreen_68.jpg",
       "roit": {
         "price": 0,
         "priceType": "赛季奖励",
@@ -44,7 +40,8 @@
         "priceTypeChinese": "S15赛季皮肤",
         "priceStartDay": "2025年8月28日版本更新后",
         "priceEndDay": "2026年1月7日23:59",
-        "description": "2025年第三主题赛季期间赢得15场排位，赛季结束后开始发放奖励"
+        "description": "2025年第三主题赛季期间赢得15场排位，赛季结束后开始发放奖励",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -58,6 +55,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【英勇黄铜】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -101,6 +99,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【不屈白银】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -144,6 +143,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【荣耀黄金】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -187,6 +187,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【华贵铂金】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -230,6 +231,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【流光翡翠】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -273,6 +275,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【璀璨钻石】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -316,6 +319,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【超凡大师】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -359,6 +363,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【傲世宗师】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -402,6 +407,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【最强王者】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -435,6 +441,8 @@
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "25.24",
         "update": "",
