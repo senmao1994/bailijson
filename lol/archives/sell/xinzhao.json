@@ -42,7 +42,7 @@
         "priceStartDay": "2022年1月26日9:00",
         "priceEndDay": "3月1日10:00",
         "description": "完全体和皮肤限时销售",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
