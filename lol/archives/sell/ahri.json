@@ -67,18 +67,14 @@
       "universe": "清凉盛夏",
       "pushDate": null,
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/images/ahri_splash_uncentered_88.skins_ahri_skin88.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/images/ahri_splash_tile_88.skins_ahri_skin88.jpg",
-      "iconPath": null,
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/images/ahri_splash_centered_88.skins_ahri_skin88.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103088.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/ahriloadscreen_88.skins_ahri_skin88.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/ahriloadscreen_88_le.skins_ahri_skin88.jpg",
       "backstory": "作为灵魂莲华温泉浴场的主人和经营者，阿狸将她最喜欢的山变成了一个隐藏的绿洲。她深刻理解休息带来的能量，尽情享受生活中最丰富的滋味——每一次都是一段美妙记忆。只有既敏锐又善良的人才能应付她的那些朝气蓬勃的客人们。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/images/ahri_splash_uncentered_88.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/images/ahri_splash_tile_88.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/images/ahri_splash_centered_88.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103088.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/ahriloadscreen_88.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/ahriloadscreen_88_le.jpg",
       "roit": {
         "price": 1820,
         "priceType": "直售",
@@ -95,7 +91,7 @@
         "priceStartDay": "2025年7月31日",
         "priceEndDay": "2025年8月24日9:59",
         "description": "",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -110,7 +106,14 @@
             "priceEndDay": "2026年1月31日",
             "description": "2026年1月500积分消费礼赠",
             "hasFullGiftPack": false,
-            "wildRiftSell": null,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ad9bfhxljpmp89l9mmoszjkh1s6dstmc.jpg"
           },
           "roit": {
@@ -123,7 +126,14 @@
           "riotName": "莲华温泉 阿狸 流火",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103090.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -141,7 +151,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -153,7 +170,14 @@
           "riotName": "莲华温泉 阿狸 风起",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103091.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#73BFBE",
             "#73BFBE"
@@ -171,7 +195,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -183,7 +214,14 @@
           "riotName": "莲华温泉 阿狸 雁来",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103092.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFEE59",
             "#FFEE59"
@@ -201,7 +239,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a8yi53iaoq9abjtkiklzgkzbmkthlvpr.jpg"
           },
           "roit": {
@@ -214,7 +259,14 @@
           "riotName": "莲华温泉 阿狸 星回",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103093.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#54209B",
             "#54209B"
@@ -232,7 +284,14 @@
             "priceEndDay": "",
             "description": "",
             "hasFullGiftPack": false,
-            "wildRiftSell": null,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/atqs5k3scoqchwysth2gdt3b3xvjojn0.jpg"
           },
           "roit": {
@@ -245,7 +304,14 @@
           "riotName": "莲华温泉 阿狸 雪落",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103094.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -263,7 +329,14 @@
             "priceEndDay": "2026年2月4日",
             "description": "幸运之门·召唤 202601期",
             "hasFullGiftPack": false,
-            "wildRiftSell": null,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a1fy1aerhn5ippk1k7w8egr48ap9fquz.jpg"
           },
           "roit": {
@@ -276,7 +349,14 @@
           "riotName": "莲华温泉 阿狸 朝花",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103095.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
