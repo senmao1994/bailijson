@@ -91,7 +91,7 @@
         "priceStartDay": "2025年7月31日",
         "priceEndDay": "2025年8月24日9:59",
         "description": "",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
