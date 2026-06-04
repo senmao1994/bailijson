@@ -931,18 +931,14 @@
       "universe": "电竞",
       "pushDate": " 2024年9月25日",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_uncentered_37.skins_viego_skin37.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_tile_37.skins_viego_skin37.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_centered_37.skins_viego_skin37.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234037.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/viegoloadscreen_37.skins_viego_skin37.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/viegoloadscreen_37_le.skins_viego_skin37.jpg",
       "backstory": "以此庆祝2024年在伦敦举办的全球总决赛。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_uncentered_37.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_tile_37.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_centered_37.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234037.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/viegoloadscreen_37.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/viegoloadscreen_37_le.jpg",
       "roit": {
         "price": 0,
         "priceType": "限时直售",
@@ -958,7 +954,8 @@
         "priceTypeChinese": "全球总决赛",
         "priceStartDay": "2024年9月26日",
         "priceEndDay": "2024年11月19日09:59",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -972,6 +969,7 @@
             "priceStartDay": "2024年9月26日",
             "priceEndDay": "2024年11月19日09:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -1015,6 +1013,7 @@
             "priceStartDay": "2024年9月26日",
             "priceEndDay": "2024年11月19日09:59",
             "description": "2024全球总决赛典藏礼盒购买获得",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -1059,6 +1058,7 @@
             "priceStartDay": "2024年9月26日",
             "priceEndDay": "2024年11月19日09:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -1102,6 +1102,7 @@
             "priceStartDay": "2024年9月26日",
             "priceEndDay": "2024年11月19日09:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -1145,6 +1146,7 @@
             "priceStartDay": "2024年9月26日",
             "priceEndDay": "2024年11月19日09:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
