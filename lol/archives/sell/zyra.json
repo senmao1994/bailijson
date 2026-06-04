@@ -18,18 +18,14 @@
       "universe": "灵魂莲华",
       "pushDate": "2025年4月30日",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/images/zyra_splash_uncentered_64.skins_zyra_skin64.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/images/zyra_splash_tile_64.skins_zyra_skin64.jpg",
-      "iconPath": null,
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/images/zyra_splash_centered_64.skins_zyra_skin64.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143064.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/zyraloadscreen_64.skins_zyra_skin64.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/zyraloadscreen_64_le.skins_zyra_skin64.jpg",
       "backstory": "从前，有位女子拥有一颗已经破碎的心，她渴望忘记自己的悲伤。一个强大的灵体被她的困境所感动，满足了她的愿望。女子的泪水化为花朵，在她的身体里生根发芽，“忘忧花园”由此诞生。如今，疲惫的心灵们走进它的怀抱，希望这些花朵能够减轻它们的悲伤。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/images/zyra_splash_uncentered_64.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/images/zyra_splash_tile_64.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/images/zyra_splash_centered_64.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143064.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/zyraloadscreen_64.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/zyraloadscreen_64_le.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -45,7 +41,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2025年4月29日",
         "priceEndDay": "长期销售",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
@@ -59,7 +56,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -71,7 +76,14 @@
           "riotName": "灵魂莲华 婕拉 流火",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143066.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -88,7 +100,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -100,7 +120,14 @@
           "riotName": "灵魂莲华 婕拉 雁来",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143067.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFEE59",
             "#FFEE59"
@@ -117,7 +144,15 @@
             "priceStartDay": "2025年4月29日",
             "priceEndDay": "2025年5月13日09:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -129,7 +164,14 @@
           "riotName": "灵魂莲华 婕拉 云开",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143068.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2DA130",
             "#2DA130"
@@ -146,7 +188,15 @@
             "priceStartDay": "2025年4月29日",
             "priceEndDay": "2025年5月13日09:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -158,7 +208,14 @@
           "riotName": "灵魂莲华 婕拉 风起",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143069.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#73BFBE",
             "#73BFBE"
@@ -175,7 +232,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null,
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-c0c125d0-0f27-46bf-8209-0a2100ee280d.jpg"
           },
           "roit": {
@@ -188,7 +253,14 @@
           "riotName": "灵魂莲华 婕拉 星回",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143070.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#54209B",
             "#54209B"
@@ -205,7 +277,15 @@
             "priceStartDay": "2025年4月29日",
             "priceEndDay": "2025年5月13日09:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -217,7 +297,14 @@
           "riotName": "灵魂莲华 婕拉 雪落",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143071.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -234,7 +321,15 @@
             "priceStartDay": "2025年4月29日",
             "priceEndDay": "2025年5月13日09:59",
             "description": "心悦巅峰版 2025年8月 排行榜前五百名用户解锁",
-            "wildRiftSell": null,
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ajt0gif374tmpacyqvbrblvkssf314pr.jpg"
           },
           "roit": {
@@ -247,7 +342,14 @@
           "riotName": "灵魂莲华 婕拉 春晓",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143072.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#E58BA5",
             "#E58BA5"
@@ -264,7 +366,15 @@
             "priceStartDay": "2025年4月29日",
             "priceEndDay": "2025年5月13日09:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -276,7 +386,14 @@
           "riotName": "灵魂莲华 婕拉 月升",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143073.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#27211C",
             "#27211C"
