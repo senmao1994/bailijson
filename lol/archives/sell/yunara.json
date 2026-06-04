@@ -20,12 +20,12 @@
       "series": null,
       "backstory": "芸阿娜的使命感吞噬了她，让她的身心越来越紧张。她的好友阿狸知道，只有一件事可以缓解这种紧张情绪：莲华温泉的神奇蒸汽。尽管芸阿娜有些犹豫，但她最终还是接受了，以便拓展自己的思维并思考下一步该做什么。",
       "accessories": [],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/images/yunara_splash_uncentered_1.yunara.jpg",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/images/yunara_splash_tile_1.yunara.jpg",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/images/yunara_splash_centered_1.yunara.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/images/yunara_splash_uncentered_1.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/images/yunara_splash_tile_1.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/images/yunara_splash_centered_1.jpg",
       "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/804/804001.png",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/yunaraloadscreen_1.yunara.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/yunaraloadscreen_1_le.yunara.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/yunaraloadscreen_1.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/yunaraloadscreen_1_le.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -42,7 +42,7 @@
         "priceStartDay": "2025年7月31日",
         "priceEndDay": "2025年8月24日9:59",
         "description": "",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
