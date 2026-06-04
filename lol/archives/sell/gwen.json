@@ -421,18 +421,14 @@
       "skinline": "女帝无双",
       "universe": "女帝无双",
       "pushDate": "2024年8月28日",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/images/gwen_splash_uncentered_30.skins_gwen_skin30.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/images/gwen_splash_tile_30.skins_gwen_skin30.jpg",
-      "iconPath": null,
-      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/images/gwen_splash_centered_30.skins_gwen_skin30.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887030.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/gwenloadscreen_30.skins_gwen_skin30.jpg",
-      "loadingSpecialEditionPath": "",
+      "series": null,
       "backstory": "卡利戈，一个遥远的、古老的女帝之国，长期以来被认为已经消失在时间中。来自卡利戈的格温冲破了这个国家的保护云层，与伊莱西亚的其他国度重新建立了联系。她的前任——女帝伊苏尔德——相信格温的纯洁心灵和敏锐头脑会证实卡利戈的力量并与其他统治者们结盟——因为黑暗时代就在前方，只有一份坚定不移的盟约才能防止最坏的情况发生。 ",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/images/gwen_splash_uncentered_30.jpg",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/images/gwen_splash_tile_30.jpg",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/images/gwen_splash_centered_30.jpg",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887030.png",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/gwenloadscreen_30.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -448,7 +444,8 @@
         "priceTypeChinese": "13周年限定",
         "priceStartDay": "2024年8月29日",
         "priceEndDay": "2024年9月25日23:59",
-        "description": "可在【凤舞无双宝典】1级随机女帝2024皮肤宝箱获取"
+        "description": "可在【凤舞无双宝典】1级随机女帝2024皮肤宝箱获取",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -462,7 +459,15 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -474,7 +479,14 @@
           "riotName": "女帝 格温 纹章之刻印·英勇",
           "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887031.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -491,7 +503,15 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -503,7 +523,14 @@
           "riotName": "女帝 格温 纹章之刻印·坚毅",
           "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887032.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFEE59",
             "#FFEE59"
@@ -520,7 +547,15 @@
             "priceStartDay": "2025年4月11日",
             "priceEndDay": "2025年5月5日",
             "description": "女帝和公主的优雅刻印活动",
-            "wildRiftSell": null,
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/apwa5mnpn8wrd0x0t2mpapjg3hmw05g0.jpg"
           },
           "roit": {
@@ -533,7 +568,14 @@
           "riotName": "女帝 格温 纹章之刻印·果决",
           "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887033.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -550,7 +592,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -562,7 +612,14 @@
           "riotName": "女帝 格温 纹章之刻印·强运",
           "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887034.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#E58BA5",
             "#E58BA5"
@@ -579,7 +636,15 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -591,7 +656,14 @@
           "riotName": "女帝 格温 纹章之刻印·威风",
           "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887035.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#73BFBE",
             "#73BFBE"
@@ -608,7 +680,15 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -620,7 +700,14 @@
           "riotName": "女帝 格温 纹章之刻印·飒爽",
           "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887036.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#54209B",
             "#54209B"
@@ -637,7 +724,15 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -649,7 +744,14 @@
           "riotName": "女帝 格温 纹章之刻印·深谋",
           "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887037.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#27211C",
             "#27211C"
@@ -666,7 +768,15 @@
             "priceStartDay": "2024年8月29日",
             "priceEndDay": "2024年9月12日9:59",
             "description": "皮肤成就 解锁女帝主题皮肤",
-            "wildRiftSell": null,
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a3yopk91zoqb2obiim2pejlbiqysp8zo.jpg"
           },
           "roit": {
@@ -679,13 +789,22 @@
           "riotName": "女帝 格温 纹章之刻印·敏锐",
           "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887038.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "14.17",
         "update": "",
