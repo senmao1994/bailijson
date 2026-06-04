@@ -18,18 +18,14 @@
       "universe": "符文之地时代",
       "pushDate": "2026年1月8日",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/images/nautilus_splash_uncentered_39.skins_nautilus_skin39.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/images/nautilus_splash_tile_39.skins_nautilus_skin39.jpg",
-      "iconPath": null,
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/images/nautilus_splash_centered_39.skins_nautilus_skin39.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111039.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/nautilusloadscreen_39.skins_nautilus_skin39.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/nautilusloadscreen_39_le.skins_nautilus_skin39.jpg",
       "backstory": "这座耸立的沿海堡垒由老练的战斗石匠们建立。人们曾一度认为这尊禁魔石奇观在很久前迷失于征服者之海的波涛之下。如今它再次矗立，它那坚不可摧的壁垒和城垛屹立不倒，如同一个永恒的宣告——无论面临怎样的威胁，无论承受怎样的压力，德玛西亚都将屹立不倒。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/images/nautilus_splash_uncentered_39.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/images/nautilus_splash_tile_39.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/images/nautilus_splash_centered_39.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111039.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/nautilusloadscreen_39.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nautilus/skins/skin39/nautilusloadscreen_39_le.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -45,7 +41,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2026年1月8日版本更新后",
         "priceEndDay": "2026年4月29日",
-        "description": "踏上征程—德玛西亚新赛季 活动免费解锁该皮肤"
+        "description": "踏上征程—德玛西亚新赛季 活动免费解锁该皮肤",
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
@@ -59,7 +56,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -71,7 +76,14 @@
           "riotName": "禁魔石巨像 诺提勒斯 帝国之蕴",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111040.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -88,7 +100,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -100,7 +120,14 @@
           "riotName": "禁魔石巨像 诺提勒斯 黄沙之蕴",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111041.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFEE59",
             "#FFEE59"
@@ -117,7 +144,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -129,7 +164,14 @@
           "riotName": "禁魔石巨像 诺提勒斯 海港之蕴",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111042.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -146,7 +188,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -158,7 +208,14 @@
           "riotName": "禁魔石巨像 诺提勒斯 森林之蕴",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111043.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2DA130",
             "#2DA130"
@@ -175,7 +232,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -187,7 +252,14 @@
           "riotName": "禁魔石巨像 诺提勒斯 丛林之蕴",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111044.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#73BFBE",
             "#73BFBE"
@@ -204,7 +276,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -216,7 +296,14 @@
           "riotName": "禁魔石巨像 诺提勒斯 虚空之蕴",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111045.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#9C68D7",
             "#9C68D7"
@@ -233,7 +320,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -245,7 +340,14 @@
           "riotName": "禁魔石巨像 诺提勒斯 灵岛之蕴",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111046.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#E58BA5",
             "#E58BA5"
@@ -262,7 +364,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -274,13 +384,22 @@
           "riotName": "禁魔石巨像 诺提勒斯 星界之蕴",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/111/111047.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#27211C",
             "#27211C"
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "26.01",
         "update": "",
