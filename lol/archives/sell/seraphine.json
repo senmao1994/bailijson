@@ -18,18 +18,13 @@
       "universe": "",
       "pushDate": "2025-03-05",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/images/seraphine_splash_uncentered_50.skins_seraphine_skin50.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/images/seraphine_splash_tile_50.skins_seraphine_skin50.jpg",
-      "iconPath": null,
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/images/seraphine_splash_centered_50.skins_seraphine_skin50.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147050.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/seraphineloadscreen_50.skins_seraphine_skin50.jpg",
-      "loadingSpecialEditionPath": "",
       "backstory": "萨勒芬妮是一位双栖艺人，既会唱歌又会做饭，让餐馆的客人们感到既暖心又暖胃。她说，为美食而到来，为旋律而驻足！她的梦想是成为餐馆的明星，让厨师和顾客都为之着迷。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/images/seraphine_splash_uncentered_50.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/images/seraphine_splash_tile_50.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/images/seraphine_splash_centered_50.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147050.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/seraphineloadscreen_50.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -45,7 +40,8 @@
         "priceTypeChinese": "蛇年限定",
         "priceStartDay": "2025年1月21日",
         "priceEndDay": "3月1日9:59",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -59,7 +55,15 @@
             "priceStartDay": "2025年1月22日",
             "priceEndDay": "3月1日9:59",
             "description": "蛇年限定(2025)惊喜礼盒",
-            "wildRiftSell": null,
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aznl59b9eu3ezciyucac6dixhn2xh9c7.jpg"
           },
           "roit": {
@@ -72,7 +76,14 @@
           "riotName": "点心宝贝 萨勒芬妮 山楂冰糖葫芦",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147051.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -89,7 +100,15 @@
             "priceStartDay": "2025年5月29日",
             "priceEndDay": "2025年6月25日 12:00",
             "description": "幸运之门 勒芬妮的点心蜜语",
-            "wildRiftSell": null,
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a4yqccsgwds7shf3m2vfep4xvb65m3n7.jpg"
           },
           "roit": {
@@ -102,7 +121,14 @@
           "riotName": "点心宝贝 萨勒芬妮 香蕉冰糖葫芦",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147052.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFEE59",
             "#FFEE59"
@@ -119,7 +145,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -131,7 +165,14 @@
           "riotName": "点心宝贝 萨勒芬妮 猕猴桃冰糖葫芦",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147053.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2DA130",
             "#2DA130"
@@ -148,7 +189,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -160,7 +209,14 @@
           "riotName": "点心宝贝 萨勒芬妮 绿提冰糖葫芦",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147054.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#73BFBE",
             "#73BFBE"
@@ -177,7 +233,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -189,7 +253,14 @@
           "riotName": "点心宝贝 萨勒芬妮 蓝莓冰糖葫芦",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147055.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -206,7 +277,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -218,7 +297,14 @@
           "riotName": "点心宝贝 萨勒芬妮 紫薯冰糖葫芦",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147056.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#9C68D7",
             "#9C68D7"
@@ -235,7 +321,15 @@
             "priceStartDay": "2026年1月30日",
             "priceEndDay": "2026年3月1日",
             "description": "璀璨臻彩召唤",
-            "wildRiftSell": null,
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a1xmqbneg6fzw2cg6qy3k4not6gt891x.jpg"
           },
           "roit": {
@@ -248,7 +342,14 @@
           "riotName": "点心宝贝 萨勒芬妮 黑枣冰糖葫芦",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147057.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#27211C",
             "#27211C"
@@ -265,7 +366,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -277,7 +386,14 @@
           "riotName": "点心宝贝 萨勒芬妮 火龙果冰糖葫芦",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147058.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
