@@ -18,18 +18,13 @@
       "universe": "胜利诸神",
       "pushDate": "",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_uncentered_45.skins_twistedfate_skin45.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_tile_45.skins_twistedfate_skin45.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_centered_45.skins_twistedfate_skin45.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4045.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/twistedfateloadscreen_45.skins_twistedfate_skin45.jpg",
-      "loadingSpecialEditionPath": "",
       "backstory": "玩家们在排位赛中积累了足够赛段点后，就会获得【胜利之运 崔斯特】作为奖励。没有哪种运气游戏——无论是卡牌、骰子还是硬币——不能让崔斯特变得对他有利。即便如此，现在让他兴奋的并非胜利，而是东山再起——看看自己能在承受后果之前，将运气发挥到何种程度。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_uncentered_45.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_tile_45.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_centered_45.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4045.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/twistedfateloadscreen_45.jpg",
       "roit": {
         "price": 0,
         "priceType": "赛季奖励",
@@ -45,7 +40,8 @@
         "priceTypeChinese": "S15赛季皮肤",
         "priceStartDay": "2025年1月9日版本更新后",
         "priceEndDay": "2026年4月28日23:59",
-        "description": "2025年第一主题赛季期间赢得15场排位，赛季结束后开始发放奖励"
+        "description": "2025年第一主题赛季期间赢得15场排位，赛季结束后开始发放奖励",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -59,6 +55,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【英勇黄铜】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -102,6 +99,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【不屈白银】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -145,6 +143,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【荣耀黄金】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -188,6 +187,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【华贵铂金】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -231,6 +231,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【流光翡翠】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -274,6 +275,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【璀璨钻石】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -317,6 +319,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【超凡大师】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -360,6 +363,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【傲世宗师】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -403,6 +407,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "边框需集齐S15三个主题赛季皮肤，赛季中最高达到【最强王者】段位。",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
