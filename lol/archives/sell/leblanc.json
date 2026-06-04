@@ -1442,18 +1442,14 @@
       "universe": "电竞",
       "pushDate": null,
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_uncentered_19.leblanc_rework.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_tile_19.leblanc_rework.jpg",
-      "iconPath": null,
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_centered_19.leblanc_rework.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7019.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/leblancloadscreen_19.leblanc_rework.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/leblancloadscreen_19_le.leblanc_rework.jpg",
       "backstory": "以此致敬Rookie在2018全球总决赛中使用乐芙兰的夺胜表现。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_uncentered_19.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_tile_19.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_centered_19.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7019.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/leblancloadscreen_19.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/leblancloadscreen_19_le.jpg",
       "roit": {
         "price": 1350,
         "priceType": "限时直售",
@@ -1470,7 +1466,7 @@
         "priceStartDay": "2019年4月24日4:00",
         "priceEndDay": "6月6日23:59",
         "description": "签名版礼包和皮肤均为限时销售，皮肤每年S赛期间返场",
-        "hasFullGiftPack": true
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -1485,7 +1481,14 @@
             "priceEndDay": "11月21日10:00",
             "description": "首发【银龙夺宝·臻选】600银龙徽章兑换",
             "hasFullGiftPack": false,
-            "wildRiftSell": null,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aog3fvty4lkg2vakynokwvnhtwy4h798.jpg"
           },
           "roit": {
@@ -1498,7 +1501,14 @@
           "riotName": "巅峰魅影 乐芙兰 神龙之影",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7054.png",
           "mythicIcon": "6274",
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FF1515",
             "#E8CD6B"
@@ -1516,7 +1526,14 @@
             "priceEndDay": "2025年11月19日 23：59",
             "description": "传奇争锋夺宝 每10次保底1款臻藏",
             "hasFullGiftPack": false,
-            "wildRiftSell": null,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            },
             "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a3mtr6m4pzhb98v5r0kd40h8zh2jfyb1.jpg"
           },
           "roit": {
@@ -1529,7 +1546,14 @@
           "riotName": "iG 乐芙兰 极境",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7058.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#568DF3",
             "#ECC642"
