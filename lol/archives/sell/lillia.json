@@ -18,18 +18,13 @@
       "universe": "磨砺",
       "pushDate": "2025-08-13",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/images/lillia_splash_uncentered_37.skins_lillia_skin37.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/images/lillia_splash_tile_37.skins_lillia_skin37.jpg",
-      "iconPath": null,
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/images/lillia_splash_centered_37.skins_lillia_skin37.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876037.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/lillialoadscreen_37.skins_lillia_skin37.jpg",
-      "loadingSpecialEditionPath": "",
       "backstory": "莉莉娅梦想成为联盟中最好的保龄选手。问题是，没有什么比球击中球瓶时雷鸣般的响声更让她紧张的了。现在，她采用了一种新策略：尽可能轻柔地滚动球，并向击中的任何球瓶道歉。第一名，她来了！",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/images/lillia_splash_uncentered_37.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/images/lillia_splash_tile_37.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/images/lillia_splash_centered_37.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876037.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/lillialoadscreen_37.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -45,7 +40,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2025年8月14日",
         "priceEndDay": "长期销售",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -59,7 +55,15 @@
             "priceStartDay": "2025年8月14日",
             "priceEndDay": "2025年8月28日09:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -71,7 +75,14 @@
           "riotName": "打保龄球的莉莉娅 地板太滑了！",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876038.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#D33528",
             "#D33528"
@@ -88,7 +99,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -100,7 +119,14 @@
           "riotName": "打保龄球的莉莉娅 球瓶放歪了！",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876039.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#FFEE59",
             "#FFEE59"
@@ -117,7 +143,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -129,7 +163,14 @@
           "riotName": "打保龄球的莉莉娅 空调风大了！",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876040.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#E58BA5",
             "#E58BA5"
@@ -146,7 +187,15 @@
             "priceStartDay": "2025年8月14日",
             "priceEndDay": "2025年8月28日09:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -158,7 +207,14 @@
           "riotName": "打保龄球的莉莉娅 球瓶太重了！",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876041.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2DA130",
             "#2DA130"
@@ -175,7 +231,15 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -187,7 +251,14 @@
           "riotName": "打保龄球的莉莉娅 手忘抹粉了！",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876042.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#ECF9F8",
             "#ECF9F8"
@@ -204,7 +275,15 @@
             "priceStartDay": "2025年8月14日",
             "priceEndDay": "2025年8月28日09:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -216,7 +295,14 @@
           "riotName": "打保龄球的莉莉娅 保龄球轻了！",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876043.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#27211C",
             "#27211C"
@@ -233,7 +319,15 @@
             "priceStartDay": "2025年8月14日",
             "priceEndDay": "2025年8月28日09:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -245,7 +339,14 @@
           "riotName": "打保龄球的莉莉娅 场馆太暗了！",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876044.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#2756CE",
             "#2756CE"
@@ -262,7 +363,15 @@
             "priceStartDay": "2025年8月14日",
             "priceEndDay": "2025年8月28日09:59",
             "description": "",
-            "wildRiftSell": null
+            "hasFullGiftPack": false,
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 290,
@@ -274,7 +383,14 @@
           "riotName": "打保龄球的莉莉娅 球鞋穿错了！",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876045.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#9C68D7",
             "#9C68D7"
