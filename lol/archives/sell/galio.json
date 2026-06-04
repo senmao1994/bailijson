@@ -492,7 +492,7 @@
     {
       "id": 3040,
       "name": "神盾机甲 加里奥",
-      "roitName": "Aegis Frame Galio",
+      "roitName": "",
       "sortName": null,
       "rarity": "传说",
       "raritySubType": null,
@@ -502,18 +502,14 @@
       "universe": "钢铁苍穹",
       "pushDate": "2026年1月22日",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/images/galio_splash_uncentered_40.skins_galio_skin40.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/images/galio_splash_tile_40.skins_galio_skin40.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/images/galio_splash_centered_40.skins_galio_skin40.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3040.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/galioloadscreen_40.skins_galio_skin40.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/galioloadscreen_40_le.skins_galio_skin40.jpg",
       "backstory": "加里奥将自己的意识上传到他最先进的机甲中，带领他的小队进入了邻近星系的各种危机之中。但是，在遭遇他们曾经的泰拉机甲前辈们——现在已被扭曲得面目全非——之后，他们的希望动摇了。正是他们队长坚定不移的乐观精神提醒着每个人：如果说有什么能够坚持到底，那一定是神盾机甲！",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/images/galio_splash_uncentered_40.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/images/galio_splash_tile_40.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/images/galio_splash_centered_40.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3040.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/galioloadscreen_40.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin40/galioloadscreen_40_le.jpg",
       "roit": {
         "price": 1820,
         "priceType": "直售",
@@ -529,7 +525,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2026年1月22日版本更新后",
         "priceEndDay": "长期销售",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -543,6 +540,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -586,6 +584,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -629,6 +628,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -672,6 +672,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -715,6 +716,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -758,6 +760,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
