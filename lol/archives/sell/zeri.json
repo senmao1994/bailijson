@@ -17,18 +17,15 @@
       "skinline": "冬季仙境",
       "universe": "冰雪节",
       "pushDate": "2025年12月3日",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/images/zeri_splash_uncentered_40.skins_zeri_skin40.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/images/zeri_splash_tile_40.skins_zeri_skin40.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/images/zeri_splash_centered_40.skins_zeri_skin40.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/221/221040.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/zeriloadscreen_40.skins_zeri_skin40.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/zeriloadscreen_40_le.skins_zeri_skin40.jpg",
+      "series": null,
       "backstory": "快过来一睹冰雪节的明星滑冰表演家泽丽的风采！泽丽曾在雪域各地为观众带来欢乐——甚至包括魄罗之王本人——她知道如何将任何场合变成一场皇家表演。讨厌的派对捣蛋鬼们要当心了：当她所在村庄的节日庆祝活动开始时，即使是狂心冰王也无法阻止她。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/images/zeri_splash_uncentered_40.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/images/zeri_splash_tile_40.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/images/zeri_splash_centered_40.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/221/221040.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/zeriloadscreen_40.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin40/zeriloadscreen_40_le.jpg",
       "roit": {
         "price": 1820,
         "priceType": "直售",
@@ -44,7 +41,8 @@
         "priceTypeChinese": "冰雪节",
         "priceStartDay": "2025年12月4日版本更新后",
         "priceEndDay": "2026年1月21日23:59",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
@@ -58,6 +56,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -101,6 +100,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -144,6 +144,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -187,6 +188,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -230,6 +232,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -273,6 +276,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -306,6 +310,8 @@
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "25.24",
         "update": "",
