@@ -18,18 +18,13 @@
       "universe": null,
       "pushDate": "2026年1月22日",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/images/briar_splash_uncentered_20.skins_briar_skin20.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/images/briar_splash_tile_20.skins_briar_skin20.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/images/briar_splash_centered_20.skins_briar_skin20.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/233/233020.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/briarloadscreen_20.skins_briar_skin20.jpg",
-      "loadingSpecialEditionPath": "",
       "backstory": "大多数神之武器学院的严苛规章制度让贝蕾亚很难成为学业有成的学生——直到她转学到巴比伦学院。这里没有规则或护栏，只有方向。想学神之武器的历史？武术？陶艺？对学生的唯一要求是要有求知欲，而贝蕾亚在求知欲方面可是<i>相当强烈</i>。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/images/briar_splash_uncentered_20.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/images/briar_splash_tile_20.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/images/briar_splash_centered_20.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/233/233020.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin20/briarloadscreen_20.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -45,7 +40,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2026年1月22日版本更新后",
         "priceEndDay": "长期销售",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -59,6 +55,7 @@
             "priceStartDay": "2026年1月22日",
             "priceEndDay": "2026年2月5日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -102,6 +99,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -145,6 +143,7 @@
             "priceStartDay": "2026年1月22日",
             "priceEndDay": "2026年2月5日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -188,6 +187,7 @@
             "priceStartDay": "2026年1月22日",
             "priceEndDay": "2026年2月5日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -231,6 +231,7 @@
             "priceStartDay": "2026年1月22日",
             "priceEndDay": "2026年2月5日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -274,6 +275,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -317,6 +319,7 @@
             "priceStartDay": "2026年1月22日",
             "priceEndDay": "2026年2月5日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -360,6 +363,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
