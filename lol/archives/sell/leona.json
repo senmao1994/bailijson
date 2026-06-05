@@ -1948,8 +1948,8 @@
       "icon": "4483",
       "tencent": {
         "price": 19900,
-        "priceType": "直售",
-        "priceTypeChinese": "",
+        "priceType": "限时直售",
+        "priceTypeChinese": "鼠年限定",
         "priceStartDay": "2020年1月16日19:00",
         "priceEndDay": "2020年2月20日9:59",
         "description": "首发半价截止到2月6日9:59",
