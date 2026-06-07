@@ -2637,6 +2637,54 @@
         "updateName": "",
         "video": "26.12"
       }
+    },
+    {
+      "id": 89001,
+      "name": "瓦尔基里 蕾欧娜",
+      "roitName": "Valkyrie Leona",
+      "sortName": null,
+      "rarity": "普通",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "寓言",
+      "universe": "寓言",
+      "pushDate": null,
+      "series": null,
+      "backstory": "荣耀归于瓦尔基里！她将降临战场，将伟大战士的亡魂晋升至英灵殿！那些没有被她选中的人将堕入地狱或是汪洋，虽然在此之前他们不会告诉你“死在战场上”这样的事情。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin01/images/leona_splash_uncentered_1.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin01/images/leona_splash_tile_1.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin01/images/leona_splash_centered_1.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin01/leonaloadscreen_1.jpg",
+      "roit": {
+        "price": 520,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 2000,
+      "icon": "",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2011年7月13日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "1.0.0.121",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.12"
+      }
     }
   ]
 }
