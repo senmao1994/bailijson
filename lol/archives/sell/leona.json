@@ -2352,6 +2352,146 @@
         "updateName": "",
         "video": "26.12"
       }
+    },
+    {
+      "id": 89004,
+      "name": "泳池派对 蕾欧娜",
+      "roitName": "Pool Party Leona",
+      "sortName": null,
+      "rarity": "特效",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "泳池派对",
+      "universe": "清凉盛夏",
+      "pushDate": null,
+      "series": null,
+      "backstory": "蕾欧娜是前冲浪冠军，她休息时喜欢在沙滩上看浪漫的轻小说来放松自己。或者说……事实上任何浪漫小说都可以。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin04/images/leona_splash_uncentered_4.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin04/images/leona_splash_tile_4.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin04/images/leona_splash_centered_4.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89004.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin04/leonaloadscreen_4.jpg",
+      "roit": {
+        "price": 975,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "",
+      "tencent": {
+        "price": 9900,
+        "priceType": "限时直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2013年9月9日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 89005,
+          "name": "泳池派对 蕾欧娜 浪漫霞辉",
+          "sortName": "浪漫霞辉",
+          "colorName": "粉色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2015年5月13日",
+            "priceEndDay": "2015年5月19日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泳池派对 蕾欧娜 浪漫霞辉",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89005.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D97576",
+            "#5A2365"
+          ]
+        },
+        {
+          "id": 89006,
+          "name": "泳池派对 蕾欧娜 碧海映阳",
+          "sortName": "碧海映阳",
+          "colorName": "青色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2015年5月13日",
+            "priceEndDay": "2015年5月19日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泳池派对 蕾欧娜 碧海映阳",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89006.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#229579",
+            "#491A56"
+          ]
+        },
+        {
+          "id": 89007,
+          "name": "泳池派对 蕾欧娜 灿烂晨曦",
+          "sortName": "灿烂晨曦",
+          "colorName": "黄色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2015年5月13日",
+            "priceEndDay": "2015年5月19日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "泳池派对 蕾欧娜 灿烂晨曦",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89007.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#E29500",
+            "#DD3C3B"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "3.11",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.12"
+      }
     }
   ]
 }
