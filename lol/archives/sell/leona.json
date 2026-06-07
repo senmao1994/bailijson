@@ -2595,7 +2595,7 @@
       "name": "神圣守卫 蕾欧娜",
       "roitName": "Defender Leona",
       "sortName": null,
-      "rarity": null,
+      "rarity": "普通",
       "raritySubType": null,
       "price": null,
       "priceUnit": null,
@@ -2610,26 +2610,33 @@
       "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin02/images/leona_splash_centered_2.jpg",
       "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin02/leonaloadscreen_2.jpg",
       "roit": {
-        "price": 0,
+        "price": 750,
         "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
       },
-      "tencentPrice": 0,
+      "tencentPrice": 4500,
       "icon": "",
       "tencent": {
-        "price": 0,
+        "price": 4500,
         "priceType": "直售",
         "priceTypeChinese": "",
-        "priceStartDay": "",
+        "priceStartDay": "2011年7月13日",
         "priceEndDay": "",
         "description": "",
         "hasFullGiftPack": false
       },
       "chromas": [],
       "formsCount": null,
-      "forms": []
+      "forms": [],
+      "version": {
+        "push": "1.0.0.121",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.12"
+      }
     }
   ]
 }
