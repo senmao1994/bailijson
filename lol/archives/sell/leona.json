@@ -2206,6 +2206,55 @@
         "updateName": "",
         "video": "26.12"
       }
+    },
+    {
+      "id": 89011,
+      "name": "月蚀骑士 蕾欧娜",
+      "roitName": "Lunar Eclipse Leona",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "日月之蚀",
+      "universe": "日月之蚀",
+      "pushDate": null,
+      "series": null,
+      "backstory": "请倾听！我们恳求您，凶蛮之月，请赐予我们您天界威严的赤红之影。愿这盾挡住使我们土地窒息的黑暗魔女之灾。愿这剑成为对抗巫术和邪恶之仆的锤子。我，蕾欧娜，在此起誓，直到永远。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin11/images/leona_splash_uncentered_11.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin11/images/leona_splash_tile_11.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin11/images/leona_splash_centered_11.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin11/leonaloadscreen_11.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin11/leonaloadscreen_11_le.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "3842",
+      "tencent": {
+        "price": 9900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2018年11月27日",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "8.23",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": "26.12"
+      }
     }
   ]
 }
