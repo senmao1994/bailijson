@@ -2698,6 +2698,87 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 7059,
+      "name": "至臻 恶魔假日 乐芙兰",
+      "roitName": "Prestige Sinful Shores LeBlanc",
+      "sortName": null,
+      "rarity": "神话",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "恶魔假日",
+      "universe": null,
+      "pushDate": null,
+      "series": null,
+      "backstory": "乐芙兰很享受她作为大恶魔的角色，但即使是制造折磨的主脑也需要偶尔来一场休假。在海边，她一心只想好好休息，只有一种情况会暂停下来，那就是将诅咒像防晒油一样涂抹给毫无疑心的日光浴者们。并且当她渴望品尝痛楚的滋味时，她那宠溺的执事披风“别西泡泡”就会把它甜美地奉上。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_uncentered_59.skins_leblanc_skin59.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_tile_59.skins_leblanc_skin59.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_centered_59.skins_leblanc_skin59.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7059.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/leblancloadscreen_59.skins_leblanc_skin59.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/leblancloadscreen_59_le.skins_leblanc_skin59.jpg",
+      "roit": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 0,
+      "icon": "7154",
+      "tencent": {
+        "price": 0,
+        "priceType": "通行证",
+        "priceTypeChinese": "至臻",
+        "priceStartDay": "2026年6月11日",
+        "priceEndDay": "",
+        "description": "万魔殿第二幕通行证",
+        "hasFullGiftPack": false
+      },
+      "chromas": [
+        {
+          "id": 7060,
+          "name": "至臻 恶魔假日 乐芙兰 至强",
+          "sortName": "至强",
+          "colorName": "通行证礼包",
+          "tencent": {
+            "price": 17575,
+            "priceType": "礼包",
+            "priceStartDay": "2026年6月11日",
+            "priceEndDay": "2026年7月9日",
+            "description": "万魔殿第二幕通行证礼包",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 2440,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "至臻 恶魔假日 乐芙兰 至强",
+          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7060.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#B58CD2",
+            "#782834"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "26.12",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
