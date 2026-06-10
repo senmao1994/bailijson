@@ -408,7 +408,7 @@
             "price": 0,
             "priceType": "臻彩",
             "priceStartDay": "2026年6月11日",
-            "priceEndDay": "限时下架",
+            "priceEndDay": "2026年7月15日",
             "description": "龙绘敦煌·臻彩联名",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -418,7 +418,8 @@
               "activityTitle": "",
               "price": "",
               "priceUnit": ""
-            }
+            },
+            "ExquisitePath": "https://static.gametalk.qq.com/image/3/1781097024_d97a40b18856210710d86dd9a31cb7ce.jpg"
           },
           "roit": {
             "price": 290,
