@@ -8,7 +8,7 @@
     {
       "id": 145059,
       "name": "天龙之子 卡莎",
-      "roitName": "Heavenscale Kai'Sa",
+      "roitName": "",
       "sortName": null,
       "rarity": "史诗",
       "raritySubType": null,
@@ -455,8 +455,8 @@
             "price": 0,
             "priceType": "臻彩",
             "priceStartDay": "2026年6月11日",
-            "priceEndDay": "",
-            "description": "龙绘敦煌 臻彩联名",
+            "priceEndDay": "2026年7月15日",
+            "description": "龙绘敦煌·臻彩联名",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -465,7 +465,8 @@
               "activityTitle": "",
               "price": "",
               "priceUnit": ""
-            }
+            },
+            "ExquisitePath": "https://static.gametalk.qq.com/image/3/1781097079_f867e8295bd08fffe75333cd3978ff17.jpg"
           },
           "roit": {
             "price": 290,
