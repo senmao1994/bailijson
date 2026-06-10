@@ -8,7 +8,7 @@
     {
       "id": 64031,
       "name": "神龙尊者 圣龙李青",
-      "roitName": "Storm Dragon Lee Sin",
+      "roitName": "",
       "sortName": null,
       "rarity": "传说",
       "raritySubType": null,
@@ -49,7 +49,7 @@
           "id": 64032,
           "name": "神龙尊者 圣龙李青 登龙",
           "sortName": "登龙",
-          "colorName": "",
+          "colorName": "红色",
           "tencent": {
             "price": 2000,
             "priceType": "礼包",
