@@ -39,10 +39,10 @@
         "price": 10900,
         "priceType": "直售",
         "priceTypeChinese": "龙年限定",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "priceStartDay": "2024年2月1日10:00",
+        "priceEndDay": "2024年3月18日9:59",
         "description": "",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
