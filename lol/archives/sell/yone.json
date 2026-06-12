@@ -1042,7 +1042,7 @@
           "colorName": "黄色",
           "tencent": {
             "price": 0,
-            "priceType": "暂无",
+            "priceType": "臻彩",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
@@ -1054,7 +1054,8 @@
               "activityTitle": "",
               "price": "",
               "priceUnit": ""
-            }
+            },
+            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-36e85609-42c5-45ae-80dc-af9a8f4922e0.jpg"
           },
           "roit": {
             "price": 290,
