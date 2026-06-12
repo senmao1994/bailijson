@@ -227,7 +227,7 @@
           "colorName": "蓝色",
           "tencent": {
             "price": 0,
-            "priceType": "暂无",
+            "priceType": "臻彩",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
@@ -239,7 +239,8 @@
               "activityTitle": "",
               "price": "",
               "priceUnit": ""
-            }
+            },
+            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-8677d8c7-f662-4c6f-a384-ed35991ae153.jpg"
           },
           "roit": {
             "price": 290,
@@ -360,7 +361,7 @@
           "colorName": "黑色",
           "tencent": {
             "price": 0,
-            "priceType": "暂无",
+            "priceType": "臻彩",
             "priceStartDay": "2026年4月29日",
             "priceEndDay": "2026年5月24日23:59",
             "description": "璀璨之路宝典·夜雨",
