@@ -40,7 +40,7 @@
         "priceType": "直售",
         "priceTypeChinese": "",
         "priceStartDay": "2025年4月29日",
-        "priceEndDay": "长期销售",
+        "priceEndDay": "2025年6月25日18:00",
         "description": "",
         "hasFullGiftPack": true
       },
@@ -96,9 +96,9 @@
           "colorName": "黄色",
           "tencent": {
             "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
+            "priceType": "臻彩",
+            "priceStartDay": "2026年06月1日 00:00:00",
+            "priceEndDay": "2026年06月30日 23:59:59",
             "description": "",
             "hasFullGiftPack": false,
             "wildRiftSell": {
@@ -108,7 +108,8 @@
               "activityTitle": "",
               "price": "",
               "priceUnit": ""
-            }
+            },
+            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-83024fa1-1da1-4e26-b1e2-cd4dfdf889c6.jpg"
           },
           "roit": {
             "price": 290,
@@ -228,10 +229,10 @@
           "colorName": "紫色",
           "tencent": {
             "price": 0,
-            "priceType": "暂无",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": "",
+            "priceType": "臻彩",
+            "priceStartDay": "2026年3月13日",
+            "priceEndDay": "2026年4月12日",
+            "description": "璀璨臻彩召唤活动·特等奖池",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -320,7 +321,7 @@
             "priceType": "臻彩",
             "priceStartDay": "2025年4月29日",
             "priceEndDay": "2025年5月13日09:59",
-            "description": "心悦巅峰版 2025年8月 排行榜前五百名用户解锁",
+            "description": "心悦巅峰榜·2025年8月",
             "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
@@ -330,7 +331,7 @@
               "price": "",
               "priceUnit": ""
             },
-            "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ajt0gif374tmpacyqvbrblvkssf314pr.jpg"
+            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-106dcd2f-3200-4032-9ed1-555f9449e62d.jpg"
           },
           "roit": {
             "price": 290,
