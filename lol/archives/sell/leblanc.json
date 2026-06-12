@@ -2734,9 +2734,9 @@
         "priceType": "通行证",
         "priceTypeChinese": "至臻",
         "priceStartDay": "2026年6月11日",
-        "priceEndDay": "",
+        "priceEndDay": "2026年7月29日23:59",
         "description": "万魔殿第二幕通行证",
-        "hasFullGiftPack": false
+        "hasFullGiftPack": true
       },
       "chromas": [
         {
@@ -2749,9 +2749,16 @@
             "priceType": "礼包",
             "priceStartDay": "2026年6月11日",
             "priceEndDay": "2026年7月9日",
-            "description": "万魔殿第二幕通行证礼包",
+            "description": "万魔殿：第2幕 通行证礼包",
             "hasFullGiftPack": false,
-            "wildRiftSell": null
+            "wildRiftSell": {
+              "startDate": "",
+              "endDate": "",
+              "description": "",
+              "activityTitle": "",
+              "price": "",
+              "priceUnit": ""
+            }
           },
           "roit": {
             "price": 2440,
@@ -2763,7 +2770,14 @@
           "riotName": "至臻 恶魔假日 乐芙兰 至强",
           "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7060.png",
           "mythicIcon": null,
-          "wildRiftSell": null,
+          "wildRiftSell": {
+            "startDate": "",
+            "endDate": "",
+            "description": "",
+            "activityTitle": "",
+            "price": "",
+            "priceUnit": ""
+          },
           "colors": [
             "#B58CD2",
             "#782834"
