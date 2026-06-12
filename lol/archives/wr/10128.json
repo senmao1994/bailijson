@@ -13,7 +13,7 @@
       "rarity": "史诗",
       "raritySubType": "限定",
       "price": "50000",
-      "priceUnit": "点券",
+      "priceUnit": "元",
       "skinline": "春节庆典",
       "universe": "",
       "pushDate": "",
@@ -64,7 +64,7 @@
         "startDate": "2026年1月22日",
         "endDate": "2026年3月3日",
         "description": "新春消费好礼活动 消费50000点券领取皮肤、边框和姿态",
-        "activityTitle": "新春消费好礼",
+        "activityTitle": "",
         "price": "",
         "priceUnit": ""
       }
