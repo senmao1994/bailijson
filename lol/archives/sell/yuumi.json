@@ -18,18 +18,14 @@
       "universe": "春节",
       "pushDate": "2026年2月4日",
       "series": null,
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_uncentered_70.skins_yuumi_skin70.jpg",
-      "splashHDPath": "",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_tile_70.skins_yuumi_skin70.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_centered_70.skins_yuumi_skin70.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350070.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/yuumiloadscreen_70.skins_yuumi_skin70.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/yuumiloadscreen_70_le.skins_yuumi_skin70.jpg",
       "backstory": "如果没有像悠米这样的可爱吉祥物，春节庆典就不算完整！她兴致勃勃地与各种参会游客们互动，走到哪就将快乐带到哪。有人说，这只神奇猫咪的到来预示着新的一年会有好运。",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_uncentered_70.skins_yuumi_skin70.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_tile_70.skins_yuumi_skin70.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_centered_70.skins_yuumi_skin70.jpg",
+      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350070.png",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/yuumiloadscreen_70.skins_yuumi_skin70.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/yuumiloadscreen_70_le.skins_yuumi_skin70.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -45,7 +41,8 @@
         "priceTypeChinese": "马年限定",
         "priceStartDay": "2026年2月10日",
         "priceEndDay": "2026年3月29日23:59",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -59,6 +56,7 @@
             "priceStartDay": "2026年2月10日",
             "priceEndDay": "2026年3月29日23:59",
             "description": "龙马烈焰(2026)惊喜礼盒",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -102,6 +100,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -145,6 +144,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -188,6 +188,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -231,6 +232,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -270,10 +272,11 @@
           "colorName": "黑色",
           "tencent": {
             "price": 0,
-            "priceType": "暂无",
+            "priceType": "臻彩",
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -281,7 +284,8 @@
               "activityTitle": "",
               "price": "",
               "priceUnit": ""
-            }
+            },
+            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-21cfe72f-884d-4bd9-988e-adcd7de1e323.jpg"
           },
           "roit": {
             "price": 290,
@@ -317,6 +321,7 @@
             "priceStartDay": "",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -360,6 +365,7 @@
             "priceStartDay": "2026年2月10日",
             "priceEndDay": "2026年3月29日23:59",
             "description": "龙马烈焰臻彩大礼包",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
