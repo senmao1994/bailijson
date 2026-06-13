@@ -393,6 +393,330 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 64031,
+      "name": "神龙尊者 圣龙李青",
+      "roitName": "Storm Dragon Lee Sin",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "",
+      "universe": "四圣兽",
+      "pushDate": null,
+      "series": null,
+      "backstory": "李青是一名苦修战士，对正义有着潮鸣电挚般的热忱。他攀登上了圣龙敖兴所在的山峰，希望得到他的赐福。李青以传说中的神龙尊者的身份从顶峰归来，将雷霆万钧般的惩罚带给了各处的恶棍们——而这都被他的龙主尽收眼底。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin31/images/leesin_splash_uncentered_31.jpg",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin31/images/leesin_splash_tile_31.jpg",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin31/images/leesin_splash_centered_31.jpg",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64031.png",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin31/leesinloadscreen_31.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin31/leesinloadscreen_31_le.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "4750",
+      "tencent": {
+        "price": 9900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2020年9月30日12:00",
+        "priceEndDay": "2020年11月10日9:59",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [
+        {
+          "id": 64032,
+          "name": "神龙尊者 圣龙李青 登龙",
+          "sortName": "登龙",
+          "colorName": "红色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "礼包",
+            "priceStartDay": "2020年9月30日12:00",
+            "priceEndDay": "2020年11月10日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-09183c18-4fe4-4c1d-b193-d633f9952172.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "礼包",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "神龙尊者 圣龙李青 登龙",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64032.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ]
+        },
+        {
+          "id": 64033,
+          "name": "神龙尊者 圣龙李青 翠屏",
+          "sortName": "翠屏",
+          "colorName": "绿色",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2020年9月30日12:00",
+            "priceEndDay": "2020年11月9日9:59",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "神龙尊者 圣龙李青 翠屏",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64033.png",
+          "mythicIcon": "4755",
+          "wildRiftSell": null,
+          "colors": [
+            "#88FF00",
+            "#00B170"
+          ]
+        },
+        {
+          "id": 64034,
+          "name": "神龙尊者 圣龙李青 集仙",
+          "sortName": "集仙",
+          "colorName": "蓝色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2020年9月30日12:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "神龙尊者 圣龙李青 集仙",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64034.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ]
+        },
+        {
+          "id": 64035,
+          "name": "神龙尊者 圣龙李青 揽月",
+          "sortName": "揽月",
+          "colorName": "紫色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2020年9月30日12:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "神龙尊者 圣龙李青 揽月",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64035.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ]
+        },
+        {
+          "id": 64036,
+          "name": "神龙尊者 圣龙李青 松峦",
+          "sortName": "松峦",
+          "colorName": "黑色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2020年9月30日12:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "神龙尊者 圣龙李青 松峦",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64036.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ]
+        },
+        {
+          "id": 64037,
+          "name": "神龙尊者 圣龙李青 朝云",
+          "sortName": "朝云",
+          "colorName": "白色",
+          "tencent": {
+            "price": 2000,
+            "priceType": "限时直售",
+            "priceStartDay": "2020年9月30日12:00",
+            "priceEndDay": "14.5版本已下架直售",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "神龙尊者 圣龙李青 朝云",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64037.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ]
+        },
+        {
+          "id": 64038,
+          "name": "神龙尊者 圣龙李青 烬爪",
+          "sortName": "烬爪",
+          "colorName": "黑红",
+          "tencent": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "2021年9月26日",
+            "priceEndDay": "2021年11月11日",
+            "description": "",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "神龙尊者 圣龙李青 烬爪",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64038.png",
+          "mythicIcon": "5162",
+          "wildRiftSell": null,
+          "colors": [
+            "#110A20",
+            "#5C1111"
+          ]
+        },
+        {
+          "id": 64050,
+          "name": "神龙尊者 圣龙李青 龙腾云起",
+          "sortName": "龙腾云起",
+          "colorName": "神话",
+          "tencent": {
+            "price": 35,
+            "priceType": "限时直售",
+            "priceStartDay": "2023年1月12日",
+            "priceEndDay": "限时兑换",
+            "description": "13.1版本上架",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-8b3f0d6a-b671-4cc9-9a9d-9a14aea0e587.jpg"
+          },
+          "roit": {
+            "price": 35,
+            "priceType": "神话商店",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "神龙尊者 圣龙李青 龙腾云起",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64050.png",
+          "mythicIcon": "5719",
+          "wildRiftSell": null,
+          "colors": [
+            "#E3CB3E",
+            "#BD3030"
+          ]
+        },
+        {
+          "id": 64081,
+          "name": "神龙尊者 圣龙李青 无相",
+          "sortName": "无相",
+          "colorName": "敦煌",
+          "tencent": {
+            "price": 0,
+            "priceType": "臻彩",
+            "priceStartDay": "2026年6月11日",
+            "priceEndDay": "2026年7月15日",
+            "description": "龙绘敦煌·臻彩联名",
+            "hasFullGiftPack": false,
+            "wildRiftSell": null,
+            "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-e247b514-88d9-4b6b-83c6-d9483e7119e4.jpg"
+          },
+          "roit": {
+            "price": 290,
+            "priceType": "限时直售",
+            "priceStartDay": "",
+            "priceEndDay": "",
+            "description": ""
+          },
+          "riotName": "神龙尊者 圣龙李青 无相",
+          "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64081.png",
+          "mythicIcon": null,
+          "wildRiftSell": null,
+          "colors": [
+            "#FF7D31",
+            "#4E3426"
+          ]
+        }
+      ],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "10.20",
+        "update": "14.9",
+        "updateChinese": "视觉美术更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
