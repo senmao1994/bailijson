@@ -651,11 +651,11 @@
           "sortName": "龙腾云起",
           "colorName": "神话",
           "tencent": {
-            "price": 35,
-            "priceType": "限时直售",
+            "price": 0,
+            "priceType": "臻彩",
             "priceStartDay": "2023年1月12日",
             "priceEndDay": "限时兑换",
-            "description": "13.1版本上架",
+            "description": "400碎片抽奖兑换",
             "hasFullGiftPack": false,
             "wildRiftSell": null,
             "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-8b3f0d6a-b671-4cc9-9a9d-9a14aea0e587.jpg"
