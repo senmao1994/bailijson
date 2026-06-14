@@ -869,18 +869,14 @@
       "skinline": "魔域梦魇",
       "universe": "邻家梦魇",
       "pushDate": null,
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_uncentered_31.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_tile_31.jpg",
-      "iconPath": null,
-      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_centered_31.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1031.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/annieloadscreen_31.jpg",
-      "loadingSpecialEditionPath": "",
+      "series": null,
       "backstory": "小安妮每天从学校回家<br>孤独少女没人一起玩耍<br>她的家人们都已不在啦<br>她靠提伯斯将新朋友留下！",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_uncentered_31.jpg",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_tile_31.jpg",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_centered_31.jpg",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1031.png",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/annieloadscreen_31.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -896,7 +892,8 @@
         "priceTypeChinese": "",
         "priceStartDay": "2022年9月23日10:00",
         "priceEndDay": "",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -910,6 +907,7 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "2022年10月7日10:00",
             "description": "随礼包销售",
+            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -939,6 +937,7 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -968,6 +967,7 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -997,6 +997,7 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1026,6 +1027,7 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "2022年10月7日10:00",
             "description": "随礼包销售",
+            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1055,6 +1057,7 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1084,6 +1087,7 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1113,6 +1117,7 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1132,6 +1137,8 @@
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "12.18",
         "update": "",
