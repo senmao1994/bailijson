@@ -17,18 +17,15 @@
       "skinline": "北极星",
       "universe": "北极光的传说",
       "pushDate": "2023年12月6日",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_uncentered_40.jpg",
-      "splashHDPath": "",
-      "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_tile_40.jpg",
-      "iconPath": "",
-      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_centered_40.jpg",
-      "circlePath": "",
-      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1040.png",
-      "specialEditionPath": null,
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40.jpg",
-      "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40_le.jpg",
+      "series": null,
       "backstory": "赛娜启程去寻找北极光，但首先遇到的是一个小女孩——安妮，她正独自站在自家门前。她最珍视的童年伙伴——家中的宠物熊，不久前死掉了。安妮希望北极星能复活他，但赛娜拒绝了，只是给了她一只小熊玩偶。“生离死别在所难免，但他的记忆将寄托在这份礼物身上。”",
       "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_uncentered_40.jpg",
+      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_tile_40.jpg",
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_centered_40.jpg",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1040.png",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40_le.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -44,7 +41,8 @@
         "priceTypeChinese": "冰雪节",
         "priceStartDay": "2023年12月8日",
         "priceEndDay": "2024年1月10日9:59",
-        "description": ""
+        "description": "",
+        "hasFullGiftPack": false
       },
       "chromas": [
         {
@@ -58,6 +56,7 @@
             "priceStartDay": "2023年12月8日",
             "priceEndDay": "2024年1月10日9:59",
             "description": "仅随礼包销售",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -101,6 +100,7 @@
             "priceStartDay": "2023年12月8日",
             "priceEndDay": "2024年1月10日9:59",
             "description": "仅随礼包销售",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -144,6 +144,7 @@
             "priceStartDay": "2023年12月8日",
             "priceEndDay": "2024年1月10日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -187,6 +188,7 @@
             "priceStartDay": "2023年12月8日",
             "priceEndDay": "2024年1月10日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -230,6 +232,7 @@
             "priceStartDay": "2023年12月8日",
             "priceEndDay": "2024年1月10日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -273,6 +276,7 @@
             "priceStartDay": "2023年12月8日",
             "priceEndDay": "2024年1月10日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -316,6 +320,7 @@
             "priceStartDay": "2024年4月3日",
             "priceEndDay": "",
             "description": "第三期皮肤收藏活动 解锁安妮的9款皮肤，即可领取",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -360,6 +365,7 @@
             "priceStartDay": "2023年12月8日",
             "priceEndDay": "2024年1月10日9:59",
             "description": "",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -403,6 +409,7 @@
             "priceStartDay": "2023年12月6日",
             "priceEndDay": "2024年1月10日",
             "description": "北极星(2023)通行证",
+            "hasFullGiftPack": false,
             "wildRiftSell": {
               "startDate": "",
               "endDate": "",
@@ -436,6 +443,8 @@
           ]
         }
       ],
+      "formsCount": null,
+      "forms": [],
       "version": {
         "push": "13.24",
         "update": "13.24",
@@ -860,14 +869,18 @@
       "skinline": "魔域梦魇",
       "universe": "邻家梦魇",
       "pushDate": null,
-      "series": null,
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_uncentered_31.jpg",
+      "splashHDPath": "",
+      "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_tile_31.jpg",
+      "iconPath": null,
+      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_centered_31.jpg",
+      "circlePath": "",
+      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1031.png",
+      "specialEditionPath": null,
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/annieloadscreen_31.jpg",
+      "loadingSpecialEditionPath": "",
       "backstory": "小安妮每天从学校回家<br>孤独少女没人一起玩耍<br>她的家人们都已不在啦<br>她靠提伯斯将新朋友留下！",
       "accessories": [],
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_uncentered_31.jpg",
-      "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_tile_31.jpg",
-      "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_centered_31.jpg",
-      "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1031.png",
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/annieloadscreen_31.jpg",
       "roit": {
         "price": 1350,
         "priceType": "直售",
@@ -883,8 +896,7 @@
         "priceTypeChinese": "",
         "priceStartDay": "2022年9月23日10:00",
         "priceEndDay": "",
-        "description": "",
-        "hasFullGiftPack": false
+        "description": ""
       },
       "chromas": [
         {
@@ -898,7 +910,6 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "2022年10月7日10:00",
             "description": "随礼包销售",
-            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -928,7 +939,6 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
-            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -958,7 +968,6 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
-            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -988,7 +997,6 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
-            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1018,7 +1026,6 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "2022年10月7日10:00",
             "description": "随礼包销售",
-            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1048,7 +1055,6 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
-            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1078,7 +1084,6 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
-            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1108,7 +1113,6 @@
             "priceStartDay": "2022年9月23日10:00",
             "priceEndDay": "",
             "description": "",
-            "hasFullGiftPack": false,
             "wildRiftSell": null
           },
           "roit": {
@@ -1128,8 +1132,6 @@
           ]
         }
       ],
-      "formsCount": null,
-      "forms": [],
       "version": {
         "push": "12.18",
         "update": "",
