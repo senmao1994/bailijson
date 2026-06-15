@@ -1704,6 +1704,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 16016,
+      "name": "黑夜使者 索拉卡",
+      "roitName": "Nightbringer Soraka",
+      "sortName": null,
+      "rarity": "传说",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "黑夜使者和黎明使者",
+      "universe": "对决",
+      "pushDate": null,
+      "series": null,
+      "backstory": "索拉卡是在混沌屠灭了秩序时诞生的诸神之子。她蕴含着锐雯和亚索的力量。为了终结诸神的纷争，她已拥抱了黑暗来安抚灼目的光明，因此吸收了黑夜的力量来创造混沌并改变一个过于静态的世界。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin16/images/soraka_splash_uncentered_16.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin16/images/soraka_splash_tile_16.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin16/images/soraka_splash_centered_16.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin16/sorakaloadscreen_16.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin16/sorakaloadscreen_16_le.jpg",
+      "roit": {
+        "price": 1820,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 9900,
+      "icon": "4471",
+      "tencent": {
+        "price": 9900,
+        "priceType": "直售",
+        "priceTypeChinese": "双生传说",
+        "priceStartDay": "2019年12月13日12:00",
+        "priceEndDay": "2020年1月14日06:59",
+        "description": "拥有炫装，购买另一款5.5折",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "9.24",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
