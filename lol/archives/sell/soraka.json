@@ -2004,6 +2004,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 16008,
+      "name": "睡衣守护者 索拉卡",
+      "roitName": "Pajama Guardian Soraka",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "星之守护者 第二季",
+      "universe": "星之守护者宇宙",
+      "pushDate": null,
+      "series": null,
+      "backstory": "其他女孩（还有伊泽瑞尔）似乎都很激动于枕头大战，以及整晚待在一起聊天。索拉卡则最激动于她从潘森的甜点屋中买回的肉桂卷。但没什么能比看到朋友们的微笑和欢笑更让她感到开心的了。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin08/images/soraka_splash_uncentered_8.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin08/images/soraka_splash_tile_8.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin08/images/soraka_splash_centered_8.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin08/sorakaloadscreen_8.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "3836",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "炫装皮肤",
+        "priceStartDay": "2018年11月27日12:00",
+        "priceEndDay": "",
+        "description": "拥有星之守护者索拉卡，5.5折",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "8.23",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
