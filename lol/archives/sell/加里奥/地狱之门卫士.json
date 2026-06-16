@@ -1,0 +1,53 @@
+{
+  "id": 3004,
+  "name": "地狱之门卫士 加里奥",
+  "roitName": "Gatekeeper Galio",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "恶魔",
+  "universe": "恶魔",
+  "pushDate": "2012年8月23日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin04/images/galio_splash_uncentered_4.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin04/images/galio_splash_tile_4.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin04/images/galio_splash_centered_4.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin04/galioloadscreen_4.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "身为地狱的大魔君之一的加里奥矗立在他王国的黑色诸门之前，以罪人审判者的身份将灵魂们投入适合他们的折磨之刑中。试图祈求于他通常会以悲剧收场，因为他有数百英尺高并且拒绝屈尊服侍凡人。",
+  "accessories": [],
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 9900,
+  "icon": "",
+  "tencent": {
+    "price": 9900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2012年10月18日",
+    "priceEndDay": "14.5版本(2024年3月6日)下架",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.6VGU版本",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "14.21"
+  }
+}

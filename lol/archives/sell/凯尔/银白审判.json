@@ -1,0 +1,48 @@
+{
+  "id": 10001,
+  "name": "银白审判 凯尔",
+  "roitName": "Silver Kayle",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "收藏版",
+  "universe": "收藏版",
+  "pushDate": null,
+  "series": null,
+  "backstory": "暂未背景故事",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin01/images/kayle_splash_uncentered_1.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin01/images/kayle_splash_tile_1.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin01/images/kayle_splash_centered_1.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin01/kayleloadscreen_1.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "限定",
+    "priceStartDay": "2023年7月12日",
+    "priceEndDay": "2023年7月31日前",
+    "description": "9900点券+50w橙色精粹",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "",
+    "update": "9.5",
+    "updateChinese": "视觉玩法更新",
+    "updateName": "",
+    "video": "26.09"
+  }
+}

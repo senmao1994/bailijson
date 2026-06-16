@@ -1,0 +1,55 @@
+{
+  "id": 1008004,
+  "name": "战斗学院 基兰",
+  "roitName": "Battle Academia Zilean",
+  "sortName": "战斗学院",
+  "rarity": "史诗",
+  "raritySubType": "超级联赛",
+  "price": "1200",
+  "priceUnit": "点券(20学院币保底)",
+  "skinline": "战斗学院",
+  "universe": "",
+  "pushDate": "",
+  "series": null,
+  "backstory": "作为跨学院锦标赛安全委员会会长，基兰拥有对赛事的最高干预权。他精准回溯至每一次意外发生前，确保每一位学生不因意气之争而断送未来。毕竟，有些后果不该由这群心高气盛的年轻人来承担。",
+  "accessories": [
+    "边框",
+    "姿态：测算"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年5月22日",
+    "endDate": "2026年6月21日",
+    "description": "战斗学院 破解新章",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

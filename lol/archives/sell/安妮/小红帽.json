@@ -1,0 +1,50 @@
+{
+  "id": 1002,
+  "name": "小红帽 安妮",
+  "roitName": "Red Riding Annie",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "故事书",
+  "universe": "",
+  "pushDate": "2010年4月27日",
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/images/annie_splash_uncentered_2.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/images/annie_splash_tile_2.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/images/annie_splash_centered_2.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/annieloadscreen_2.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "安妮要越过河流和丛林，赶往外婆家里，在路上想要阻止她的人可不止沃里克一个。当然，沃里克并不清楚安妮可以发射火球或召唤烈焰巨熊，所以这绝对是极大的交流问题。",
+  "accessories": [],
+  "roit": {
+    "price": 520,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 1000,
+  "icon": "",
+  "tencent": {
+    "price": 1000,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2010年4月27日",
+    "priceEndDay": "直售已下架",
+    "description": ""
+  },
+  "chromas": [],
+  "version": {
+    "push": "",
+    "update": "10.3",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": ""
+  }
+}

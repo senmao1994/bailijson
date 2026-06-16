@@ -1,0 +1,48 @@
+{
+  "id": 131001,
+  "name": "暗黑女武神 黛安娜",
+  "roitName": "Dark Valkyrie Diana",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "寓言",
+  "universe": "寓言",
+  "pushDate": "2012年8月7日",
+  "series": null,
+  "backstory": "一个女武神偶然被凡间的舒适所引诱，并被逐出了英灵殿。因此，这让祂对英灵殿的整个管理模式非常失望。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin01/images/diana_splash_uncentered_1.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin01/images/diana_splash_tile_1.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin01/images/diana_splash_centered_1.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin01/dianaloadscreen_1.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 4500,
+  "icon": "",
+  "tencent": {
+    "price": 4500,
+    "priceType": "直售",
+    "priceTypeChinese": "伴生皮肤",
+    "priceStartDay": "2012年8月7日",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "1.0.0.144",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  }
+}

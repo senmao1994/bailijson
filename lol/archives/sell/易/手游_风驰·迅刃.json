@@ -1,0 +1,57 @@
+{
+  "id": 1007015,
+  "name": "风驰·迅刃 易",
+  "roitName": "Neon Daredevil Master Yi: Swiftbladez",
+  "sortName": "风驰·迅刃",
+  "rarity": "神话",
+  "raritySubType": "觉醒",
+  "price": "600",
+  "priceUnit": "觉醒值(三选一)",
+  "skinline": "风驰岐影",
+  "universe": "星速竞逐",
+  "pushDate": "",
+  "series": null,
+  "backstory": "被过去的荣耀所追逐着，易沉入旧日的痛苦，转化为针对财团的憎恨，他集合了同样刀锋之刃憎恨财团的受害者们，成为了令人闻风丧胆的迅刃异客。但他内心深处永远有一个没有答案的问题：我究竟在追逐过去，还是在为了明天。",
+  "accessories": [
+    "边框",
+    "姿态：锐意",
+    "姿态：驻刀而立",
+    "姿态：欢庆时刻"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年5月22日10:00",
+    "endDate": "2026年10月20日23:59",
+    "description": "风驰 觉醒之路",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "id": 89064,
+  "name": "永恒星灵 蕾欧娜",
+  "roitName": "Eternal Aspect Leona",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "永恒星灵",
+  "universe": "符文之地时代",
+  "pushDate": "2026年5月28日",
+  "series": null,
+  "backstory": "金色烈阳是守护之盾——一道耀眼的灯塔，在万物消逝之时依然屹立不倒。她与银色皎月并肩，赋予力量给那些够格的凡人，对抗笼罩万物的深渊威胁。作为对抗湮灭的最后堡垒，金色烈阳燃烧着坚定不移的意志，每一缕火焰都是生命与光明的见证。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_uncentered_64.skins_leona_skin64.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_tile_64.skins_leona_skin64.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_centered_64.skins_leona_skin64.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89064.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/leonaloadscreen_64.skins_leona_skin64.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/leonaloadscreen_64_le.skins_leona_skin64.jpg",
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 10900,
+  "icon": "7136",
+  "tencent": {
+    "price": 10900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年5月28日",
+    "priceEndDay": "2026年6月24日23:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 89065,
+      "name": "永恒星灵 蕾欧娜 骄阳",
+      "sortName": "骄阳",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "永恒星灵 蕾欧娜 骄阳",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89065.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 89066,
+      "name": "永恒星灵 蕾欧娜 拂晓",
+      "sortName": "拂晓",
+      "colorName": "青色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "永恒星灵 蕾欧娜 拂晓",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89066.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 89067,
+      "name": "永恒星灵 蕾欧娜 朝阳",
+      "sortName": "朝阳",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "永恒星灵 蕾欧娜 朝阳",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89067.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 89068,
+      "name": "永恒星灵 蕾欧娜 斜阳",
+      "sortName": "斜阳",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "永恒星灵 蕾欧娜 斜阳",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89068.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 89069,
+      "name": "永恒星灵 蕾欧娜 夕阳",
+      "sortName": "夕阳",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "永恒星灵 蕾欧娜 夕阳",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89069.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ]
+    },
+    {
+      "id": 89070,
+      "name": "永恒星灵 蕾欧娜 余晖",
+      "sortName": "余晖",
+      "colorName": "白色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "永恒星灵 蕾欧娜 余晖",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89070.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "26.11",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  }
+}

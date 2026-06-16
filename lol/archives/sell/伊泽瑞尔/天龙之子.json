@@ -1,0 +1,539 @@
+{
+  "id": 81044,
+  "name": "天龙之子 伊泽瑞尔",
+  "roitName": "Heavenscale Ezreal",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "天龙之子",
+  "universe": "春节",
+  "pushDate": null,
+  "series": null,
+  "backstory": "无论哪里出了状况，整个王国的龙都知道会听到伊泽瑞尔的淘气笑声。他的玩笑虽然无害，但不要让这个开心果欺骗了你：他是一位精明的皇家斥候，与卡莎并肩作战，而后者已经在他层出不穷的恶作剧之中勇敢地经历了许多次冒险。要穿得像个人类去参加派对？听着就像是他所憧憬的美好时光。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin44/images/ezreal_splash_uncentered_44.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin44/images/ezreal_splash_tile_44.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin44/images/ezreal_splash_centered_44.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81044.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin44/ezrealloadscreen_44.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin44/ezrealloadscreen_44_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "限时直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 10900,
+  "icon": "6509",
+  "tencent": {
+    "price": 10900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "龙年限定",
+    "priceStartDay": "2024年2月1日10:00",
+    "priceEndDay": "2024年3月18日9:59",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 81055,
+      "name": "天龙之子 伊泽瑞尔 龙马精神",
+      "sortName": "龙马精神",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 龙马精神",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81055.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 81056,
+      "name": "天龙之子 伊泽瑞尔 祥龙献瑞",
+      "sortName": "祥龙献瑞",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 祥龙献瑞",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81056.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 81057,
+      "name": "天龙之子 伊泽瑞尔 龙飞凤翔",
+      "sortName": "龙飞凤翔",
+      "colorName": "黄色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 龙飞凤翔",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81057.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 81058,
+      "name": "天龙之子 伊泽瑞尔 蛟龙得水",
+      "sortName": "蛟龙得水",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2026年1月16日",
+        "priceEndDay": "2026年2月15日",
+        "description": "幸运之门·召唤",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        },
+        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aajkyw20zo5yghcapv3wiwx1tlaoa9rf.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 蛟龙得水",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81058.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 81059,
+      "name": "天龙之子 伊泽瑞尔 矫若惊龙",
+      "sortName": "矫若惊龙",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 矫若惊龙",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81059.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 81060,
+      "name": "天龙之子 伊泽瑞尔 龙行虎步",
+      "sortName": "龙行虎步",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 龙行虎步",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81060.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ]
+    },
+    {
+      "id": 81061,
+      "name": "天龙之子 伊泽瑞尔 龙行天下",
+      "sortName": "龙行天下",
+      "colorName": "琥珀色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "成就：解锁指定13款皮肤",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        },
+        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/apuwhg5i1wmxnkevty0xvvakzhrpgwa7.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 龙行天下",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81061.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#ECEAD3",
+        "#DC7515"
+      ]
+    },
+    {
+      "id": 81062,
+      "name": "天龙之子 伊泽瑞尔 龙凤呈祥",
+      "sortName": "龙凤呈祥",
+      "colorName": "深紫色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 龙凤呈祥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81062.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ]
+    },
+    {
+      "id": 81063,
+      "name": "天龙之子 伊泽瑞尔 赫赫龙威",
+      "sortName": "赫赫龙威",
+      "colorName": "春节2024",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2024年2月1日10:00",
+        "priceEndDay": "2024年3月18日18:00",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 赫赫龙威",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81063.png",
+      "mythicIcon": "6510",
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#DFA6DF",
+        "#E0D7D7"
+      ]
+    },
+    {
+      "id": 81064,
+      "name": "天龙之子 伊泽瑞尔 云起龙骧",
+      "sortName": "云起龙骧",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2024年4月3日",
+        "priceEndDay": "2025年5月14日",
+        "description": "解锁第三期成就“暗锤探机”与“天龙云起”",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        },
+        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/arr8ewndbgxfosubx4zf50ctgkka9iy5.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 云起龙骧",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81064.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 81076,
+      "name": "天龙之子 伊泽瑞尔 飞天",
+      "sortName": "飞天",
+      "colorName": "敦煌联名",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2026年6月11日",
+        "priceEndDay": "2026年7月15日",
+        "description": "龙绘敦煌·联名臻彩",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        },
+        "ExquisitePath": "https://static.gametalk.qq.com/image/3/1781097120_72eec5023144990dc4b80e31d8a0a6e0.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "天龙之子 伊泽瑞尔 飞天",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81076.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#C8B557",
+        "#306781"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "14.3",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.12"
+  }
+}

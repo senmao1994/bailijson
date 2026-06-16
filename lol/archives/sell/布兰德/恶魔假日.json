@@ -1,0 +1,49 @@
+{
+  "id": 63053,
+  "name": "恶魔假日 布兰德",
+  "roitName": "Sinful Shores Brand",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "恶魔假日",
+  "universe": null,
+  "pushDate": null,
+  "series": null,
+  "backstory": "布兰德是一位火爆的海滩男孩。他将自己标志性的炽热带到海边，用原始的火焰毁掉一切消遣活动。排球？燃着呢。野餐？烧着呢。游泳？不如说是下火海。由于这个恶魔无论如何努力都无法降温，因此布兰德会确保没有人——甚至他的朋友彗——能够逃脱夏日的酷暑。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_uncentered_53.skins_brand_skin53.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_tile_53.skins_brand_skin53.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_centered_53.skins_brand_skin53.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/brandloadscreen_53.skins_brand_skin53.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/brandloadscreen_53_le.skins_brand_skin53.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "7156",
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年6月11日",
+    "priceEndDay": "2026年7月29日23:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "26.12",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  }
+}

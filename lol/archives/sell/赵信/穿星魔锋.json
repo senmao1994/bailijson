@@ -1,0 +1,270 @@
+{
+  "id": 5020,
+  "name": "穿星魔锋 赵信",
+  "roitName": "Cosmic Defender Xin Zhao",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "星界",
+  "universe": "黑洞边境",
+  "pushDate": "2018年8月21日\r",
+  "series": null,
+  "backstory": "新星们吸引了巨大的恐怖气息-黑暗之星腐烂、蠕动，古老的事物仍未可知。赵信正是这些宇宙摇篮的坚定守护者，驱逐着任何吞噬它们的东西。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin20/images/xinzhaorework_splash_uncentered_20.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin20/images/xinzhaorework_splash_tile_20.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin20/images/xinzhaorework_splash_centered_20.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5020.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin20/xinzhaoreworkloadscreen_20.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 19900,
+  "icon": "3588",
+  "tencent": {
+    "price": 19900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "限定",
+    "priceStartDay": "2018年8月21日",
+    "priceEndDay": "2018年9月10日",
+    "description": "首次 星宫之礼抽奖活动 1000积分兑换",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 5021,
+      "name": "穿星魔锋 赵信 赏罚之信",
+      "sortName": "赏罚之信",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年8月21日",
+        "priceEndDay": "2018年9月10日",
+        "description": "星宫之礼1200积分里程碑",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "穿星魔锋 赵信 赏罚之信",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5021.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 5022,
+      "name": "穿星魔锋 赵信 果敢之勇",
+      "sortName": "果敢之勇",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年8月21日",
+        "priceEndDay": "2018年9月10日",
+        "description": "星宫之礼1200积分里程碑",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "穿星魔锋 赵信 果敢之勇",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5022.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 5023,
+      "name": "穿星魔锋 赵信 立威之严",
+      "sortName": "立威之严",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年8月21日",
+        "priceEndDay": "2018年9月10日",
+        "description": "星宫之礼1200积分里程碑",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "穿星魔锋 赵信 立威之严",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5023.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 5024,
+      "name": "穿星魔锋 赵信 附众之仁",
+      "sortName": "附众之仁",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年8月21日",
+        "priceEndDay": "2018年9月10日",
+        "description": "星宫之礼1200积分里程碑",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "穿星魔锋 赵信 附众之仁",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5024.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 5025,
+      "name": "穿星魔锋 赵信 发谋之智",
+      "sortName": "发谋之智",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年8月21日",
+        "priceEndDay": "2018年9月10日",
+        "description": "星宫之礼1200积分里程碑",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "穿星魔锋 赵信 发谋之智",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5025.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "8.16",
+    "update": "25.17",
+    "updateChinese": "视觉更新",
+    "updateName": "",
+    "video": ""
+  }
+}

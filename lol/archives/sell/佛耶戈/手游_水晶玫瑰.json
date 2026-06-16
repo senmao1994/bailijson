@@ -1,0 +1,64 @@
+{
+  "id": 1005703,
+  "name": "水晶玫瑰 佛耶戈",
+  "roitName": "Crystal Rose Viego",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券保底随机一款",
+  "skinline": "绽放",
+  "universe": "水晶玫瑰",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_2.jpg",
+  "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_CrystalRoseSkin_WR_HD.jpg/2880px-Viego_CrystalRoseSkin_WR_HD.jpg?96f58",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin02.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Viego_CrystalRoseCircle_WR.png?acdb3",
+  "chromaPath": null,
+  "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_CrystalRoseSquare_WR_Special_Edition.png/240px-Viego_CrystalRoseSquare_WR_Special_Edition.png?fcba5",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005703.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Viego_CrystalRoseLoading_WR_Special_Edition.png?3d347",
+  "backstory": "佛耶戈在上流圈子里素来声名不佳，只因他求爱时的张狂言语与夸张行径……虽然也不乏有人将其视作一种热诚与单纯的美好品质并加以爱慕。但总之，这位年轻王子现在带着特大号的玫瑰剑刃闯入了派对，希望在这浪漫夜晚寻到他长久以来求之不得的伊苏尔德。",
+  "accessories": [
+    "边框",
+    "姿态：情深"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "5.2",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2024年8月8日",
+    "endDate": "2024年8月21日",
+    "description": "水晶玫瑰2024",
+    "activityTitle": "水晶玫瑰2024",
+    "price": "",
+    "priceUnit": ""
+  }
+}

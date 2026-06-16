@@ -1,0 +1,49 @@
+{
+  "id": 427030,
+  "name": "灵魂莲华 艾翁",
+  "roitName": "Spirit Blossom Ivern",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "灵魂莲华",
+  "universe": "灵魂莲华",
+  "pushDate": null,
+  "series": null,
+  "backstory": "在“迷途女王”死去时，她被埋在那棵在她诞生之日栽下的树下——据说这棵树会守护她的每一天。她在另一个世界醒来，手里紧握着一根树枝，将其塑造成一把神圣的弓。当这根树枝开花时，守护树显露出它的灵体——一位一直陪伴在她身边的朋友。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin30/images/ivern_splash_uncentered_30.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin30/images/ivern_splash_tile_30.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin30/images/ivern_splash_centered_30.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin30/ivernloadscreen_30.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin30/ivernloadscreen_30_le.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "通行证",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6870",
+  "tencent": {
+    "price": 0,
+    "priceType": "通行证",
+    "priceTypeChinese": "",
+    "priceStartDay": "2025年4月29日",
+    "priceEndDay": "2025年6月26日前",
+    "description": "2025彼岸花开第一幕通行证10级",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "25.09",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  }
+}

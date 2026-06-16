@@ -1,0 +1,55 @@
+{
+  "id": 1003907,
+  "name": "超武乾坤：虹影 劫",
+  "roitName": "Supreme Cells Zed",
+  "sortName": "超武乾坤：虹影",
+  "rarity": "典藏",
+  "raritySubType": "",
+  "price": "2000",
+  "priceUnit": "橙色原石",
+  "skinline": "武道",
+  "universe": "超武乾坤",
+  "pushDate": "",
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Zed_6.jpg",
+  "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zed_SupremeCellsSkin_WR_HD.jpg/2880px-Zed_SupremeCellsSkin_WR_HD.jpg?34883",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_zed_skin06.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Zed_SupremeCellsCircle_WR.png?b6188",
+  "chromaPath": null,
+  "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Zed_SupremeCellsSquare_WR_Special_Edition.png?30e17",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003907.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Zed_SupremeCellsLoading_WR_Special_Edition.png?24a91",
+  "backstory": "劫关于元气收集禁术的试验终于取得了成果。他从一个废弃的动源气场吸收元气，获得了强大的力量。尽管他的身体已经难以承受这股力量，但他还是不满足。劫现在正鼓动汲流教团向动源派发起挑战，举办雷子超武会，以此决定哪一方可以完全控制动源。",
+  "accessories": [
+    "边框",
+    "姿态：提防",
+    "姿态：魔膀"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "sell": {
+    "startDate": "",
+    "endDate": "",
+    "description": "战利品商店轮换上架兑换",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1001,
+  "name": "哥特萝莉 安妮",
+  "roitName": "Goth Annie",
+  "sortName": null,
+  "rarity": null,
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "哥特",
+  "universe": "邻家梦魇",
+  "pushDate": " 2009年10月27日",
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_uncentered_1.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_tile_1.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_centered_1.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/annieloadscreen_1.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "她的母亲死了。她的父亲死了。但安妮还活着，领会着暗中之美。",
+  "accessories": [],
+  "roit": {
+    "price": 0,
+    "priceType": "典藏",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "典藏"
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "特殊获取",
+    "priceTypeChinese": "开拓者的卓识",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "2011年公测期间通过参与活动或达到25级免费获取 现抽奖获取"
+  },
+  "chromas": [],
+  "version": {
+    "push": "",
+    "update": "10.3",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": ""
+  }
+}

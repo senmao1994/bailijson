@@ -1,0 +1,286 @@
+{
+  "id": 234021,
+  "name": "国王 佛耶戈",
+  "roitName": "King Viego",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "破败之咒",
+  "universe": "符文之地时代",
+  "pushDate": "2022年9月9日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/images/viego_splash_uncentered_21.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/images/viego_splash_tile_21.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/images/viego_splash_centered_21.jpg",
+  "circlePath": "",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234021.png",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/viegoloadscreen_21.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "作为卡玛维亚的继承人，王者之刃的持有者，佛耶戈渴望追随他父亲的脚步。当裁决圣所中回荡起剑刃的低语，他的参谋卡莉丝塔在他加冕之前就已经看穿了他心中的犹疑。然而，佛耶戈还是戴上了烁银王冠，握住了王者之刃“穆清”。他将让卡玛维亚的一切敌人畏惧臣服。",
+  "accessories": [],
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2022年9月9日",
+    "priceEndDay": "长期销售",
+    "description": ""
+  },
+  "chromas": [
+    {
+      "id": 234022,
+      "name": "国王 佛耶戈 红鸾",
+      "sortName": "红鸾",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2022年9月9日10:00",
+        "priceEndDay": "14.5版本",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "国王 佛耶戈 红鸾",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234022.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 234023,
+      "name": "国王 佛耶戈 金风",
+      "sortName": "金风",
+      "colorName": "黄色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2022年9月9日10:00",
+        "priceEndDay": "14.5版本",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "国王 佛耶戈 金风",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234023.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 234024,
+      "name": "国王 佛耶戈 玉露",
+      "sortName": "玉露",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2022年9月9日10:00",
+        "priceEndDay": "14.5版本",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "国王 佛耶戈 玉露",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234024.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 234025,
+      "name": "国王 佛耶戈 碧海",
+      "sortName": "碧海",
+      "colorName": "青色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2022年9月9日10:00",
+        "priceEndDay": "14.5版本",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "国王 佛耶戈 碧海",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234025.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 234026,
+      "name": "国王 佛耶戈 同心",
+      "sortName": "同心",
+      "colorName": "棕色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2022年9月9日10:00",
+        "priceEndDay": "14.5版本",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "国王 佛耶戈 同心",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234026.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#5F432B",
+        "#5F432B"
+      ]
+    },
+    {
+      "id": 234027,
+      "name": "国王 佛耶戈 月下",
+      "sortName": "月下",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2022年9月9日10:00",
+        "priceEndDay": "2022年9月23日9:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "国王 佛耶戈 月下",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234027.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 234028,
+      "name": "国王 佛耶戈 白露",
+      "sortName": "白露",
+      "colorName": "白色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2022年9月9日10:00",
+        "priceEndDay": "14.5版本",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "国王 佛耶戈 白露",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234028.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 234029,
+      "name": "国王 佛耶戈 锦瑟",
+      "sortName": "锦瑟",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2022年9月9日10:00",
+        "priceEndDay": "14.5版本",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "国王 佛耶戈 锦瑟",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234029.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "12.17",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.02"
+  }
+}

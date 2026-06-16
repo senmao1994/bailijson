@@ -1,0 +1,85 @@
+{
+  "id": 4011,
+  "name": "未来战士 崔斯特",
+  "roitName": "Pulsefire Twisted Fate",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "未来战士",
+  "universe": "未来战士",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/images/twistedfate_splash_uncentered_11.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/images/twistedfate_splash_tile_11.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/images/twistedfate_splash_centered_11.jpg",
+  "circlePath": "",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4011.png",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/twistedfateloadscreen_11.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "通过欺骗时间执法者，崔斯特因其跨越多条时间线同时进行大规模抢劫而闻名。﻿他熟知逃生最快的时间胡同，因此总能在执法者到来的前一刻携带着偷来的财宝逃生……",
+  "accessories": [],
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "3465",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2018年5月22日",
+    "priceEndDay": "长期销售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 4012,
+      "name": "未来战士 崔斯特 无尽永前",
+      "sortName": "无尽永前",
+      "colorName": "未来战士(2020)",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2020年5月15日12:00",
+        "priceEndDay": "6月16日6:59",
+        "description": "未来战士(2020)通行证战利品专属",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "未来战士 崔斯特 无尽永前",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4012.png",
+      "mythicIcon": "4596",
+      "wildRiftSell": null,
+      "colors": [
+        "#162D57",
+        "#A50031"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "8.10",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  }
+}

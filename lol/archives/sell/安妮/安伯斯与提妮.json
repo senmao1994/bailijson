@@ -1,0 +1,50 @@
+{
+  "id": 1006,
+  "name": "安伯斯与提妮",
+  "roitName": "Reverse Annie",
+  "sortName": null,
+  "rarity": null,
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "珍宝",
+  "universe": "",
+  "pushDate": null,
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/images/annie_splash_uncentered_6.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/images/annie_splash_tile_6.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/images/annie_splash_centered_6.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/annieloadscreen_6.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "",
+  "accessories": [],
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 4500,
+  "icon": "",
+  "tencent": {
+    "price": 4500,
+    "priceType": "限时直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2011年9月6日",
+    "priceEndDay": "商城已下架",
+    "description": ""
+  },
+  "chromas": [],
+  "version": {
+    "push": "",
+    "update": "10.3",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": "26.01"
+  }
+}

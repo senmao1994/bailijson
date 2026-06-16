@@ -1,0 +1,228 @@
+{
+  "id": 234030,
+  "name": "斗魂觉醒 佛耶戈",
+  "roitName": "Soul Fighter Viego",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "斗魂觉醒",
+  "universe": "斗魂觉醒",
+  "pushDate": "2023年8月3日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/images/viego_splash_uncentered_30.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/images/viego_splash_tile_30.jpg",
+  "iconPath": "",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/images/viego_splash_centered_30.jpg",
+  "circlePath": "",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234030.png",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/viegoloadscreen_30.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/viegoloadscreen_30_le.jpg",
+  "backstory": "彬彬有礼——但过分深居简出——的斗魂武道大会举办人欢迎所有人来到他的竞技场！看呀，他现在就在擂台上方，在他的王座之室里注视着比赛！他的孤寂有没有让你们生起一丝悲伤呢，伙计们？真希望他从那座塔上跳下来，然后把这种伤感变成无拘无束的怒火！佛——耶——戈——！",
+  "accessories": [],
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 10900,
+  "icon": "5938",
+  "tencent": {
+    "price": 10900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "拯救者限定",
+    "priceStartDay": "2023年8月4日10:00",
+    "priceEndDay": "8月31日10:00",
+    "description": ""
+  },
+  "chromas": [
+    {
+      "id": 234031,
+      "name": "斗魂觉醒 佛耶戈 烈之魂焰",
+      "sortName": "烈之魂焰",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 佛耶戈 烈之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234031.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 234032,
+      "name": "斗魂觉醒 佛耶戈 韧之魂焰",
+      "sortName": "韧之魂焰",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 7800,
+        "priceType": "橙色精萃",
+        "priceStartDay": "2023年8月4日10:00",
+        "priceEndDay": "2023年8月31日10:00",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 佛耶戈 韧之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234032.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 234033,
+      "name": "斗魂觉醒 佛耶戈 毅之魂焰",
+      "sortName": "毅之魂焰",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 7800,
+        "priceType": "橙色精萃",
+        "priceStartDay": "2023年8月4日10:00",
+        "priceEndDay": "2023年8月31日10:00",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 佛耶戈 毅之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234033.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 234034,
+      "name": "斗魂觉醒 佛耶戈 狡之魂焰",
+      "sortName": "狡之魂焰",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 7800,
+        "priceType": "橙色精萃",
+        "priceStartDay": "2023年8月4日10:00",
+        "priceEndDay": "2023年8月31日10:00",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 佛耶戈 狡之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234034.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 234035,
+      "name": "斗魂觉醒 佛耶戈 燃之魂焰",
+      "sortName": "燃之魂焰",
+      "colorName": "棕色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 佛耶戈 燃之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234035.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#5F432B",
+        "#5F432B"
+      ]
+    },
+    {
+      "id": 234036,
+      "name": "斗魂觉醒 佛耶戈 无限斗志",
+      "sortName": "无限斗志",
+      "colorName": "斗魂觉醒(2023)",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2023年8月4日10:00",
+        "priceEndDay": "2023年9月5日9:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 佛耶戈 无限斗志",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234036.png",
+      "mythicIcon": "5933",
+      "wildRiftSell": null,
+      "colors": [
+        "#C8D0CE",
+        "#AF65D1"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "13.15",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.02"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 89003,
+  "name": "钢铁烈阳 蕾欧娜",
+  "roitName": "Iron Solari Leona",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "珍宝",
+  "universe": "珍宝",
+  "pushDate": null,
+  "series": null,
+  "backstory": "将钢铁烈阳背负到战斗中的她，也背负着历史之重——正如钢出于铁，而永恒出于钢。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin03/images/leona_splash_uncentered_3.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin03/images/leona_splash_tile_3.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin03/images/leona_splash_centered_3.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin03/leonaloadscreen_3.jpg",
+  "roit": {
+    "price": 750,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 6900,
+  "icon": "",
+  "tencent": {
+    "price": 6900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2012年2月10日",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "1.0.0.133",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.12"
+  }
+}

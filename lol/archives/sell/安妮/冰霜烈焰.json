@@ -1,0 +1,43 @@
+{
+  "id": 1005,
+  "name": "冰霜烈焰 安妮",
+  "roitName": "Frostfire Annie",
+  "sortName": null,
+  "rarity": "",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "冬季仙境",
+  "universe": "冰雪节",
+  "pushDate": null,
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/images/annie_splash_uncentered_5.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/images/annie_splash_tile_5.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/images/annie_splash_centered_5.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/annieloadscreen_5.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "安妮是冬季仙境的一个奇才；她的先天魔力和灵体守护神是与生俱来的，这在很多代同族中还是第一个。尽管仍然年轻，她却已经成为了魄罗王大厅中的欢乐使者。",
+  "accessories": [],
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 9900,
+  "icon": "",
+  "tencent": {
+    "price": 9900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2011年5月24日",
+    "priceEndDay": "商城已下架",
+    "description": ""
+  },
+  "chromas": []
+}

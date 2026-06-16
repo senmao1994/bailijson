@@ -1,0 +1,50 @@
+{
+  "id": 1012,
+  "name": "十周年纪念 安妮",
+  "roitName": "Annie-Versary",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "惊悚派对",
+  "universe": "磨砺",
+  "pushDate": "2019年10月27日",
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/images/annie_splash_uncentered_12.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/images/annie_splash_tile_12.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/images/annie_splash_centered_12.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/annieloadscreen_12.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/annieloadscreen_12_le.jpg",
+  "backstory": "十年之间，无数场经典战役、翻盘好戏和激烈厮杀，联盟因为每一位召唤师的加入而精彩纷呈。安妮已经准备好迎接庆典了，而站在她后面的……是大块头提莫？和安妮一起共庆十周年快乐吧！",
+  "accessories": [],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "十周年"
+  },
+  "tencentPrice": 0,
+  "icon": "4379",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "英雄联盟十周年",
+    "priceStartDay": "2019年10月28日4:00",
+    "priceEndDay": "11月20日3:00",
+    "description": "限时日期登录并完成对局可获得该皮肤"
+  },
+  "chromas": [],
+  "version": {
+    "push": "9.21",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.01"
+  }
+}

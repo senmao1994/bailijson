@@ -1,0 +1,59 @@
+{
+  "id": 1001011,
+  "name": "水晶玫瑰 薇恩",
+  "roitName": "Crystal Rose Vayne",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "庆典",
+  "universe": "水晶玫瑰",
+  "pushDate": "",
+  "series": null,
+  "backstory": "作为水晶玫瑰庆典的安全秩序负责人，薇恩盛装出席了这场盛大的舞会。水晶玫瑰产生的魔法与围绕着她飘舞的花瓣将她衬托得愈发光彩夺目。",
+  "accessories": [
+    "边框",
+    "姿态：赴宴",
+    "姿态：玩乐"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vayne_10.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_vayne_skin10.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001011.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "4.4",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2023年12月3日10:00",
+    "endDate": "2023年12月16日",
+    "description": "每年水晶玫瑰皮肤期间返场销售",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

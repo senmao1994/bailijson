@@ -1,0 +1,65 @@
+{
+  "id": 1005705,
+  "name": "黎明使者 破晓之殇 佛耶戈",
+  "roitName": "Dawnbringer Viego Mythic Chroma",
+  "sortName": "黎明使者 破晓之殇",
+  "rarity": "神话",
+  "raritySubType": "限定",
+  "price": "500",
+  "priceUnit": "橙色原石",
+  "skinline": "交锋",
+  "universe": "秩序对决混沌",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_4.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin04.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Viego_DawnbringerMythicChromaCircle_WR.png?c1d1f",
+  "chromaPath": null,
+  "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_DawnbringerMythicChromaSquare_WR_Special_Edition.png/240px-Viego_DawnbringerMythicChromaSquare_WR_Special_Edition.png?09710",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005705.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_DawnbringerMythicChromaLoading_WR_Special_Edition.png/140px-Viego_DawnbringerMythicChromaLoading_WR_Special_Edition.png?ee05e",
+  "backstory": "佛耶戈对秩序的偏执追求使他发动了一场灾难性的战争，但随之而来的失败也让他的王后陨落于混沌之中。从深渊中回返的他誓要铲除一切混乱，不惜任何代价，为了他的信念，他的爱人，他失去过以及将被他夺回的一切。",
+  "accessories": [
+    "边框",
+    "姿态：豪情",
+    "姿态：灼情"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "6.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2025年7月4日",
+    "endDate": "战利品商品轮换",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

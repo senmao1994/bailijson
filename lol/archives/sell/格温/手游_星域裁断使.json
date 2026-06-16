@@ -1,0 +1,56 @@
+{
+  "id": 1005406,
+  "name": "星域裁断使 格温",
+  "roitName": "Stargazer Gwen",
+  "sortName": "星域裁断使",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "星流",
+  "universe": "观星者",
+  "pushDate": "",
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gwen_5.jpg",
+  "splashHDPath": "https://image-2.uhdpaper.com/wallpaper/stargazer-gwen-lol-skin-wild-rift-splash-art-8k-wallpaper-uhdpaper.com-557@2@b.jpg",
+  "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_gwen_skin05.png",
+  "iconPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Cosmic_Judgment_WR_profileicon.png/140px-Cosmic_Judgment_WR_profileicon.png?08ef5",
+  "centeredPath": "",
+  "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Gwen_StargazerCircle_WR.png?1b0c6",
+  "chromaPath": null,
+  "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Gwen_StargazerSquare_WR_Special_Edition.png?6e39a",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005406.png",
+  "loadingSpecialEditionPath": "https://image-2.uhdpaper.com/wallpaper/stargazer-gwen-lol-skin-wild-rift-splash-art-8k-wallpaper-uhdpaper.com-557@2@b.jpg",
+  "backstory": "作为高阶审判官的候补，格温正在向她的导师学习如何操纵命运之丝。但次元湮灭的威胁眼下正时刻迫近，让她意识到剪断这些命运其实非常容易，织就与缝补它们才是最难解的谜题。",
+  "accessories": [
+    "边框",
+    "头像",
+    "炫彩7款",
+    "姿态：剪夜"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "sell": {
+    "startDate": "2024年10月17日",
+    "endDate": "长期销售",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

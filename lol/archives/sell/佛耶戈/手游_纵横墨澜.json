@@ -1,0 +1,65 @@
+{
+  "id": 1005706,
+  "name": "纵横墨澜 佛耶戈",
+  "roitName": "Calligraphia Viego",
+  "sortName": "纵横墨澜",
+  "rarity": "传说",
+  "raritySubType": "兰亭序",
+  "price": "1800",
+  "priceUnit": "保底随机一款",
+  "skinline": "悬笔",
+  "universe": "兰亭墨韵",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_5.jpg",
+  "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_CalligraphiaSkin_WR_HD.jpg/2880px-Viego_CalligraphiaSkin_WR_HD.jpg?d8f76",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin05.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Viego_CalligraphiaCircle_WR.png?11631",
+  "chromaPath": null,
+  "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_CalligraphiaSquare_WR_Special_Edition.png/240px-Viego_CalligraphiaSquare_WR_Special_Edition.png?5acc5",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005706.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Viego_CalligraphiaLoading_WR_Special_Edition.png?5d7d4",
+  "backstory": "佛耶戈，一世贤王、一代狂主，功过是非本已长埋深潭渊底……但因人们临渊求索，愿念会聚，墨魂又起，墨仙重光。狂主视其为爱人再世，不惜掀起怒涛，只求那一缕芳魂……可谁言道，自是君王长恨，墨潭长东。",
+  "accessories": [
+    "边框",
+    "姿态：剑意",
+    "姿态：墨澜情心"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "6.2",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2025年9月29日",
+    "endDate": "2025年11月2日",
+    "description": "兰亭墨韵2025",
+    "activityTitle": "兰亭墨韵",
+    "price": "",
+    "priceUnit": ""
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 131003,
+  "name": "无限烈焰 黛安娜",
+  "roitName": "Infernal Diana",
+  "sortName": null,
+  "rarity": null,
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "地狱火",
+  "universe": "地狱火",
+  "pushDate": "2016年4月20日",
+  "series": null,
+  "backstory": "小型地狱火们的首领就是黛安娜，一个酷烈的元素恐魔。她被主力入侵部队们派遣到前线，去暗杀关键的官员并让城市陷入火海。虽然她的同族也将她的行事方法视为极端，但她也因她的行事方法而得到了提拔。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin03/images/diana_splash_uncentered_3.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin03/images/diana_splash_tile_3.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin03/images/diana_splash_centered_3.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin03/dianaloadscreen_3.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 6900,
+  "icon": "",
+  "tencent": {
+    "price": 6900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2016年4月29日10:00",
+    "priceEndDay": "",
+    "description": "谨以此皮肤纪念2015全明星赛上无限烈焰队的出色发挥!",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "6.8",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  }
+}

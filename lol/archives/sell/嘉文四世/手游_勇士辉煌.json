@@ -1,0 +1,58 @@
+{
+  "id": 1005613,
+  "name": "勇士辉煌 嘉文四世",
+  "roitName": "Dunkmaster Jarvan IV",
+  "sortName": "勇士辉煌",
+  "rarity": "史诗",
+  "raritySubType": "NBA史诗限定",
+  "price": "145",
+  "priceUnit": "巨星币",
+  "skinline": "篮坛巨星",
+  "universe": "",
+  "pushDate": "",
+  "series": null,
+  "backstory": "作为德玛西亚队的控球后卫与团队之魂，嘉文四世肩负着双重使命：洗刷前队长被诺克萨斯队恶意伤害的耻辱，并守护德玛西亚“团队至上”的信念。面对莫德凯撒引发的联盟动荡，他誓要用一场极致的团队胜利向世界证明：五个人的智慧与信任，永远高于个人的独断。",
+  "accessories": [
+    "边框",
+    "姿态：盯防"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jarvan_12.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_jarvan_skin12.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005613.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年6月12日",
+    "endDate": "2026年7月12日",
+    "description": "篮坛巨星·NBA联名",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "id": 1013,
+  "name": "福牛守护者 安妮",
+  "roitName": "Lunar Beast Annie",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "福牛守护者",
+  "universe": "春节",
+  "pushDate": "2021年2月4日",
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/images/annie_splash_uncentered_13.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/images/annie_splash_tile_13.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/images/annie_splash_centered_13.jpg",
+  "circlePath": "",
+  "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1013.png",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/annieloadscreen_13.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/annieloadscreen_13_le.jpg",
+  "backstory": "当安妮被选为福牛守护者的技术特工时，所有人都震惊了。安妮是一个早熟的神童，职责是团队的侦查战略家，确保巡游路线上没有平民。",
+  "accessories": [],
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 9900,
+  "icon": "4868",
+  "tencent": {
+    "price": 9900,
+    "priceType": "直售",
+    "priceTypeChinese": "牛年限定",
+    "priceStartDay": "2021年2月5日12:00",
+    "priceEndDay": "2022年2月5日9:59",
+    "description": ""
+  },
+  "chromas": [
+    {
+      "id": 1014,
+      "name": "福牛守护者 安妮 贺岁",
+      "sortName": "贺岁",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2021年2月5日12:00",
+        "priceEndDay": "3月9日23:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "福牛守护者 安妮 贺岁",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1014.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 1015,
+      "name": "福牛守护者 安妮 如意",
+      "sortName": "如意",
+      "colorName": "福牛守护者(2021)",
+      "tencent": {
+        "price": 2000,
+        "priceType": "神话商店",
+        "priceStartDay": "2021年2月5日12:00",
+        "priceEndDay": "3月9日23:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "福牛守护者 安妮 如意",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1015.png",
+      "mythicIcon": "4874",
+      "wildRiftSell": null,
+      "colors": [
+        "#88FF00",
+        "#9B1520"
+      ]
+    },
+    {
+      "id": 1016,
+      "name": "福牛守护者 安妮 迎春",
+      "sortName": "迎春",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2021年2月5日12:00",
+        "priceEndDay": "3月9日23:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "福牛守护者 安妮 迎春",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1016.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 1017,
+      "name": "福牛守护者 安妮 进宝",
+      "sortName": "进宝",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2021年2月5日12:00",
+        "priceEndDay": "3月9日23:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "福牛守护者 安妮 进宝",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1017.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ]
+    },
+    {
+      "id": 1018,
+      "name": "福牛守护者 安妮 纳福",
+      "sortName": "纳福",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2021年2月5日12:00",
+        "priceEndDay": "3月9日23:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "福牛守护者 安妮 纳福",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1018.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 1019,
+      "name": "福牛守护者 安妮 吉祥",
+      "sortName": "吉祥",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2021年2月5日12:00",
+        "priceEndDay": "3月9日23:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "福牛守护者 安妮 吉祥",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1019.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 1020,
+      "name": "福牛守护者 安妮 团圆",
+      "sortName": "团圆",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2021年2月5日12:00",
+        "priceEndDay": "2月19日10:00",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "福牛守护者 安妮 团圆",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1020.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    }
+  ],
+  "version": {
+    "push": "11.3",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.01"
+  }
+}

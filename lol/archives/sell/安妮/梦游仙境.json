@@ -1,0 +1,50 @@
+{
+  "id": 1003,
+  "name": "安妮梦游仙境",
+  "roitName": "Annie in Wonderland",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "故事书",
+  "universe": "",
+  "pushDate": null,
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/images/annie_splash_uncentered_3.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/images/annie_splash_tile_3.jpg",
+  "iconPath": "",
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/images/annie_splash_centered_3.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/annieloadscreen_3.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "安妮在兔子洞内不断下落，追着大白兔的踪迹一直走到河岸，直到她发现这个世界要比自己所在的世界有趣得多。“或许我应该留下来，”她这样对自己说道-而她也确实这么做了。",
+  "accessories": [],
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 19900,
+  "icon": "",
+  "tencent": {
+    "price": 19900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "国服1周年限定",
+    "priceStartDay": "2010年8月16",
+    "priceEndDay": "商城已下架 可抽奖福袋获取",
+    "description": ""
+  },
+  "chromas": [],
+  "version": {
+    "push": "",
+    "update": "10.3",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": "26.01"
+  }
+}

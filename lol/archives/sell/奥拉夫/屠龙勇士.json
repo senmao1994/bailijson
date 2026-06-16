@@ -1,0 +1,283 @@
+{
+  "id": 2016,
+  "name": "屠龙勇士 奥拉夫",
+  "roitName": "Dragonslayer Olaf",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "巨龙世界",
+  "universe": "巨龙世界",
+  "pushDate": "2020年1月30日",
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin16/images/olaf_splash_uncentered_16.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin16/images/olaf_splash_tile_16.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin16/images/olaf_splash_centered_16.jpg",
+  "circlePath": "",
+  "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2016.png",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin16/olafloadscreen_16.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "奥拉夫是一个来自内陆的粗野狂战士，想在屠龙时英勇战死。这些恐怖的怪兽一个接一个地倒在他的斧下，甚至有传言说他吃掉了被他斩首的一条龙的心脏。真相是，这种行为仅仅煽起了他的愤怒之火，驱使着他带来龙族的终结。",
+  "accessories": [],
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2020年2月10日",
+    "priceEndDay": "长期销售",
+    "description": ""
+  },
+  "chromas": [
+    {
+      "id": 2017,
+      "name": "屠龙勇士 奥拉夫 蓝龙之坚定",
+      "sortName": "蓝龙之坚定",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "屠龙勇士 奥拉夫 蓝龙之坚定",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2017.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 2018,
+      "name": "屠龙勇士 奥拉夫 金龙之优雅",
+      "sortName": "金龙之优雅",
+      "colorName": "金色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "屠龙勇士 奥拉夫 金龙之优雅",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2018.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 2019,
+      "name": "屠龙勇士 奥拉夫 绿龙之无畏",
+      "sortName": "绿龙之无畏",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "屠龙勇士 奥拉夫 绿龙之无畏",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2019.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 2020,
+      "name": "屠龙勇士 奥拉夫 晶龙之威仪",
+      "sortName": "晶龙之威仪",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "屠龙勇士 奥拉夫 晶龙之威仪",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2020.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ]
+    },
+    {
+      "id": 2021,
+      "name": "屠龙勇士 奥拉夫 红龙之狂傲",
+      "sortName": "红龙之狂傲",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2020年2月10日",
+        "priceEndDay": "长期销售",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "屠龙勇士 奥拉夫 红龙之狂傲",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2021.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 2022,
+      "name": "屠龙勇士 奥拉夫 银龙之庄严",
+      "sortName": "银龙之庄严",
+      "colorName": "白色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "屠龙勇士 奥拉夫 银龙之庄严",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2022.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 2023,
+      "name": "屠龙勇士 奥拉夫 黑龙之狡黠",
+      "sortName": "黑龙之狡黠",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "屠龙勇士 奥拉夫 黑龙之狡黠",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2023.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 2024,
+      "name": "屠龙勇士 奥拉夫 碧龙之警觉",
+      "sortName": "碧龙之警觉",
+      "colorName": "棕色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "屠龙勇士 奥拉夫 碧龙之警觉",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2024.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#5F432B",
+        "#5F432B"
+      ]
+    }
+  ],
+  "version": {
+    "push": "10.3",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.01"
+  }
+}

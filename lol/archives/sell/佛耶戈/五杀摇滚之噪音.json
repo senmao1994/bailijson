@@ -1,0 +1,286 @@
+{
+  "id": 234010,
+  "name": "五杀摇滚之噪音 佛耶戈",
+  "roitName": "Dissonance of Pentakill Viego",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "五杀摇滚 III：遗失的章节",
+  "universe": "拳头唱片",
+  "pushDate": " 2021年9月9日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/images/viego_splash_uncentered_10.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/images/viego_splash_tile_10.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/images/viego_splash_centered_10.jpg",
+  "circlePath": "",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234010.png",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/viegoloadscreen_10.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "只有心碎之人才知道悲痛的真谛，那就是其他人闻所未闻的对完美的向往。 佛耶戈生活在一个充满了灰烬和阴影的世界里，而它本该充满光明，而现在，他的目光穿越了这些灰色的天际线，想要寻找新的声音和影像来实现它……",
+  "accessories": [],
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 79,
+  "icon": "",
+  "tencent": {
+    "price": 79,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2021年9月10日10:00",
+    "priceEndDay": "长期销售",
+    "description": ""
+  },
+  "chromas": [
+    {
+      "id": 234011,
+      "name": "五杀摇滚之噪音 佛耶戈 热血",
+      "sortName": "热血",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": " 2021年9月9日",
+        "priceEndDay": "14.5版本下架",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "五杀摇滚之噪音 佛耶戈 热血",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234011.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 234012,
+      "name": "五杀摇滚之噪音 佛耶戈 叛逆",
+      "sortName": "叛逆",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": " 2021年9月9日",
+        "priceEndDay": "14.5版本下架",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "五杀摇滚之噪音 佛耶戈 叛逆",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234012.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 234013,
+      "name": "五杀摇滚之噪音 佛耶戈 自在",
+      "sortName": "自在",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": " 2021年9月9日",
+        "priceEndDay": "14.5版本下架",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "五杀摇滚之噪音 佛耶戈 自在",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234013.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 234014,
+      "name": "五杀摇滚之噪音 佛耶戈 迷幻",
+      "sortName": "迷幻",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": " 2021年9月9日",
+        "priceEndDay": "9月24日9:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "五杀摇滚之噪音 佛耶戈 迷幻",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234014.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 234015,
+      "name": "五杀摇滚之噪音 佛耶戈 前卫",
+      "sortName": "前卫",
+      "colorName": "棕褐色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": " 2021年9月9日",
+        "priceEndDay": "14.5版本下架",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "五杀摇滚之噪音 佛耶戈 前卫",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234015.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DED6B0",
+        "#DED6B0"
+      ]
+    },
+    {
+      "id": 234016,
+      "name": "五杀摇滚之噪音 佛耶戈 澎湃",
+      "sortName": "澎湃",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": " 2021年9月9日",
+        "priceEndDay": "14.5版本下架",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "五杀摇滚之噪音 佛耶戈 澎湃",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234016.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 234017,
+      "name": "五杀摇滚之噪音 佛耶戈 硬核",
+      "sortName": "硬核",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": " 2021年9月9日",
+        "priceEndDay": "14.5版本下架",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "五杀摇滚之噪音 佛耶戈 硬核",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234017.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ]
+    },
+    {
+      "id": 234018,
+      "name": "五杀摇滚之噪音 佛耶戈 黑暗",
+      "sortName": "黑暗",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": " 2021年9月9日",
+        "priceEndDay": "14.5版本下架",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "五杀摇滚之噪音 佛耶戈 黑暗",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234018.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "11.18",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.02"
+  }
+}

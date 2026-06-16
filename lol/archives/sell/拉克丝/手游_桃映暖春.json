@@ -1,0 +1,65 @@
+{
+  "id": 1000318,
+  "name": "桃映暖春 拉克丝",
+  "roitName": "Celestial Embroidery Lux",
+  "sortName": "桃映暖春",
+  "rarity": "史诗",
+  "raritySubType": "蛇年限定",
+  "price": "1090",
+  "priceUnit": "点券",
+  "skinline": "春辰锦程",
+  "universe": "3",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lux_17.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_lux_skin17.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000318.png",
+  "loadingSpecialEditionPath": "",
+  "backstory": "彼时春令不显，四时失序。明辉绣神不忍世间凋敝，以纺丝破寒霜之殆。其遍历人间，每至寒峭之境，便起针于绢，终以一片桃夭，唤回生机万象，赓续四时之辉。",
+  "accessories": [
+    "边框",
+    "姿态：待春"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "6.0",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2025年1月27日0点",
+    "endDate": "2025年2月16日 23:59:59",
+    "description": "返场一般为 祈愿抽奖获取",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

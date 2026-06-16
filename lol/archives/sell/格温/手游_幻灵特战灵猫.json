@@ -1,0 +1,62 @@
+{
+  "id": 1005407,
+  "name": "幻灵特战灵猫 格温",
+  "roitName": "Battle Cat Gwen",
+  "sortName": "幻灵特战灵猫",
+  "rarity": "传说",
+  "raritySubType": "",
+  "price": "1090",
+  "priceUnit": "点券",
+  "skinline": "奇袭",
+  "universe": "幻灵战队",
+  "pushDate": "",
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gwen_6.jpg",
+  "splashHDPath": "",
+  "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_gwen_skin06.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005407.png",
+  "loadingSpecialEditionPath": "",
+  "backstory": "格温总是第一时间靠近危险的方向。敏锐的眼睛捕捉最细微的破绽，以直指要害的出击使对手在顷刻间失去反抗的可能。凭借敏捷与精准的战斗风格，格温成为幻灵特战队中执行高风险任务成功率最高的先遣前锋。",
+  "accessories": [
+    "边框",
+    "姿态：标记",
+    "姿态：闪剪舞步"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "version": {
+    "push": "6.3",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2025年12月5日",
+    "endDate": "长期销售",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

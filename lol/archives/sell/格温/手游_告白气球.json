@@ -1,0 +1,61 @@
+{
+  "id": 1005411,
+  "name": "告白气球 格温",
+  "roitName": "Love Confession Gwen",
+  "sortName": "告白气球",
+  "rarity": "史诗",
+  "raritySubType": "告白气球",
+  "price": "1800",
+  "priceUnit": "点券随机保底一款",
+  "skinline": "告白气球",
+  "universe": "",
+  "pushDate": "7.0",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gwen_10.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_gwen_skin10.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005411.png",
+  "loadingSpecialEditionPath": "",
+  "backstory": "来自遥远友邦的贵客格温，对维洛利亚的一切都怀着孩童般的好奇与雀跃——这与她的曲风截然不同。格温的琴声低沉悠远，像在诉说一段无人知晓的往事，亦为乐章带来源自她故土的独特语汇。",
+  "accessories": [
+    "边框",
+    "姿态：献礼",
+    "姿态：聚光灯下",
+    "姿态：回转音乐盒",
+    "炫彩4个"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年2月13日",
+    "endDate": "2026年3月15日",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

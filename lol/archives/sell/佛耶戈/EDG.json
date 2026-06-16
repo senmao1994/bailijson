@@ -1,0 +1,84 @@
+{
+  "id": 234019,
+  "name": "EDG 佛耶戈",
+  "roitName": "EDG Viego",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "全球总冠军：2021",
+  "universe": "电竞",
+  "pushDate": "2022年5月12日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_uncentered_19.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_tile_19.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_centered_19.jpg",
+  "circlePath": "",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234019.png",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/viegoloadscreen_19.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/viegoloadscreen_19_le.jpg",
+  "backstory": "以此致敬Jiejie在2021全球总决赛中使用佛耶戈的夺胜表现。",
+  "accessories": [],
+  "roit": {
+    "price": 1350,
+    "priceType": "限时直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 79,
+  "icon": "5312",
+  "tencent": {
+    "price": 79,
+    "priceType": "限时直售",
+    "priceTypeChinese": "冠军限定",
+    "priceStartDay": "2022年5月13日4:00",
+    "priceEndDay": "2022年6月14日23:59",
+    "description": ""
+  },
+  "chromas": [
+    {
+      "id": 234020,
+      "name": "EDG 佛耶戈 破军",
+      "sortName": "破军",
+      "colorName": "冠军炫彩",
+      "tencent": {
+        "price": 45870,
+        "priceType": "臻彩",
+        "priceStartDay": "2022年5月13日4:00",
+        "priceEndDay": "2022年6月14日23:59",
+        "description": "这个炫彩曾在季中冠军赛(2022)期间作为礼包专属发布。",
+        "wildRiftSell": null,
+        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a43f6rq1cefn99om0yhng1igr8hil25e.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "这个炫彩曾在季中冠军赛(2022)期间作为礼包专属发布。"
+      },
+      "riotName": "EDG 佛耶戈 破军",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234020.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#131521",
+        "#9E1517"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "12.9",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.02"
+  }
+}

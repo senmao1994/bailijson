@@ -1,0 +1,49 @@
+{
+  "id": 131025,
+  "name": "女帝 黛安娜",
+  "roitName": "Battle Queen Diana",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "女帝无双",
+  "universe": "女帝无双",
+  "pushDate": null,
+  "series": null,
+  "backstory": "曾因异端邪说而遭放逐的黛安娜已经同意重返她的女帝之国去拯救她的人民——没有除此之外的任何目的。她打算用“神圣加冕礼”来证明她的价值并强迫伊欧斯的长老们承认她所信仰的真相：纹章应该服从于国民的意志，而非其领导者。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin25/images/diana_splash_uncentered_25.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin25/images/diana_splash_tile_25.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin25/images/diana_splash_centered_25.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin25/dianaloadscreen_25.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin25/dianaloadscreen_25_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "4838",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2020年12月11日",
+    "priceEndDay": "2021年1月12日9:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "10.25",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.11"
+  }
+}

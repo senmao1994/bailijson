@@ -1,0 +1,145 @@
+{
+  "id": 234043,
+  "name": "冥王 佛耶戈",
+  "roitName": "Revenant Reign Viego",
+  "sortName": null,
+  "rarity": "圣堂",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "影之王冕",
+  "universe": null,
+  "pushDate": "2026年1月22日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/images/viego_splash_uncentered_43.skins_viego_skin43.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/images/viego_splash_tile_43.skins_viego_skin43.jpg",
+  "iconPath": "",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/images/viego_splash_centered_43.skins_viego_skin43.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin43/viegoloadscreen_43.skins_viego_skin43.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "“我以你破碎的灵魂起誓，我的爱人，<br><br>我要猎杀那六个将你从我身边夺走的人。<br><br>我要杀死那些叛誓骑士，夺回他们的剑，<br><br>他们夺走了一位正直国王的美丽妻子。<br><br>复仇甚至能让死亡本身躁动起来。<br><br>我不在乎是否会看到我的王国被夷为平地。<br><br>一千名亡灵将在我的指挥下行军，<br><br>我的血肉将化为你的陵墓，我的灵魂将化为你的坟冢。”",
+  "accessories": [],
+  "roit": {
+    "price": 80,
+    "priceType": "圣堂抽奖",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 80,
+  "icon": "7070",
+  "tencent": {
+    "price": 80,
+    "priceType": "圣堂抽奖",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年1月22日版本更新后",
+    "priceEndDay": "2026年3月18日",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": 7,
+  "forms": [
+    {
+      "name": "冥刃",
+      "type": "默认",
+      "icon": "",
+      "image": "",
+      "trigger": "初始武器-完成15次占据以解锁所有背叛者之剑",
+      "description": "六柄剑封印了他的女神新娘。",
+      "note": "",
+      "colors": [
+        "#7A132F",
+        "#FF0000"
+      ]
+    },
+    {
+      "name": "铁心剑",
+      "type": "坦克",
+      "icon": "",
+      "image": "",
+      "trigger": "参与击杀坦克英雄并占据他的灵魂",
+      "description": "六名骑士背叛了佛耶戈的王座。",
+      "note": "",
+      "colors": [
+        "#985431",
+        "#FF6347"
+      ]
+    },
+    {
+      "name": "赫炎剑",
+      "type": "战士",
+      "icon": "",
+      "image": "",
+      "trigger": "参与击杀战士英雄并占据他的灵魂",
+      "description": "去夺取你的王国，成为冥王吧。",
+      "note": "",
+      "colors": [
+        "#FFD700",
+        "#FFFF00"
+      ]
+    },
+    {
+      "name": "夜影剑",
+      "type": "刺客",
+      "icon": "",
+      "image": "",
+      "trigger": "参与击杀刺客英雄并占据他的灵魂",
+      "description": "死神的王后虽已被杀害，但他仍听得到她的哭喊——",
+      "note": "",
+      "colors": [
+        "#352655",
+        "#800080"
+      ]
+    },
+    {
+      "name": "霹雳剑",
+      "type": "法师",
+      "icon": "",
+      "image": "",
+      "trigger": "参与击杀法师英雄并占据他的灵魂",
+      "description": "起来吧，我的爱人，让我的灵魂有埋葬之所！",
+      "note": "",
+      "colors": [
+        "#071E66",
+        "#0000FF"
+      ]
+    },
+    {
+      "name": "摧镝剑",
+      "type": "射手",
+      "icon": "",
+      "image": "",
+      "trigger": "参与击杀射手英雄并占据他的灵魂",
+      "description": "六柄剑，六名骑士，一次你理应索取的复仇。",
+      "note": "",
+      "colors": [
+        "#0C2121",
+        "#32CD32"
+      ]
+    },
+    {
+      "name": "绝美剑",
+      "type": "辅助",
+      "icon": "",
+      "image": "",
+      "trigger": "参与击杀辅助英雄并占据他的灵魂",
+      "description": "让他们想起他们曾经立下的神圣誓言。",
+      "note": "",
+      "colors": [
+        "#884E7D",
+        "#FF1493"
+      ]
+    }
+  ],
+  "version": {
+    "push": "26.02",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  }
+}

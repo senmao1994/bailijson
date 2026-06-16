@@ -1,0 +1,95 @@
+{
+  "id": 89022,
+  "name": "DWG 蕾欧娜",
+  "roitName": "DWG Leona",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "全球总冠军：2020",
+  "universe": "电竞",
+  "pushDate": " 2021年4月29日",
+  "series": null,
+  "backstory": "以此致敬BeryL在2020全球总决赛中使用蕾欧娜的夺胜表现。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin22/images/leona_splash_uncentered_22.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin22/images/leona_splash_tile_22.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin22/images/leona_splash_centered_22.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89022.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin22/leonaloadscreen_22.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin22/leonaloadscreen_22_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "限时直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "4932",
+  "tencent": {
+    "price": 7900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "冠军限定",
+    "priceStartDay": "2021年4月30日12:00",
+    "priceEndDay": "2021年6月16日9:59",
+    "description": "皮肤每年世界赛期间返场销售",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 89032,
+      "name": "DWG 蕾欧娜 精锐",
+      "sortName": "精锐",
+      "colorName": "全球总决赛2020",
+      "tencent": {
+        "price": 13900,
+        "priceType": "礼包",
+        "priceStartDay": "2021年4月30日12:00",
+        "priceEndDay": "2021年6月16日9:59 ",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "DWG 蕾欧娜 精锐",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/89/89032.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#050B19",
+        "#0055FF"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "11.9",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.04"
+  }
+}

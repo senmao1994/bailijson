@@ -1,0 +1,53 @@
+{
+  "id": 2004,
+  "name": "五杀摇滚鼓手 奥拉夫",
+  "roitName": "Pentakill Olaf",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "五杀乐队",
+  "universe": "拳头唱片",
+  "pushDate": "2012年10月1日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin04/images/olaf_splash_uncentered_4.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin04/images/olaf_splash_tile_4.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin04/images/olaf_splash_centered_4.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/olaf/skins/skin04/olafloadscreen_4.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "好的鼓手很有节奏感，这个身材高大的被诅咒的维京人对杀戮的欲望毫无止尽，五杀摇滚乐队的奥拉夫是非常，非常优秀的鼓手。",
+  "accessories": [],
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 4500,
+  "icon": "3002",
+  "tencent": {
+    "price": 4500,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2012年10月1日",
+    "priceEndDay": "商城直售已下架",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.02"
+  }
+}

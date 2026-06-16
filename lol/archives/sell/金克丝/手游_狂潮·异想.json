@@ -1,0 +1,29 @@
+{
+  "id": 1001817,
+  "name": "狂潮·异想 金克丝",
+  "sortName": "狂潮·异想",
+  "roitName": "Supervillain Jinx Fantasy",
+  "rarity": "觉醒",
+  "raritySubType": "史诗",
+  "skinline": "无界狂潮",
+  "universe": "神奇宇宙",
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jinx_16.jpg",
+  "splashHDPath": "",
+  "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_jinx_skin16.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001817.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jinx_SupervillainFantasyLoading_WR_Special_Edition.png/140px-Jinx_SupervillainFantasyLoading_WR_Special_Edition.png?4664f",
+  "price": "990",
+  "priceUnit": "点券",
+  "backstory": "光鲜的都市，繁华的街巷，还有日新月异的技术，上城的这一切资源在叛逆少女金克丝的眼前不过是层层叠叠的牢笼，她曾经试着凭借不羁的想法和创造惊艳世人，但被守序的超级英雄们无情阻止，其中甚至就有她的姐姐“燎原烈焰”蔚。这次挫折不会熄灭金克丝的创作火光，只会将她推向一个更不稳定的边缘……一场会将两座城市一并卷入的终极混乱。",
+  "sell": {
+    "startDate": "2025年11月28日10:00",
+    "endDate": "2026年3月8日23:59",
+    "description": "该皮肤为觉醒皮基础形态，通过觉醒之路限时直售获取。",
+    "activityTitle": "觉醒之路"
+  },
+  "chromas": []
+}

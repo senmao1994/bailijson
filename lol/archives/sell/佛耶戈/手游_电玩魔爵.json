@@ -1,0 +1,65 @@
+{
+  "id": 1005702,
+  "name": "电玩魔爵 佛耶戈",
+  "roitName": "Arcade Viego",
+  "sortName": "电玩魔爵",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "勇者",
+  "universe": "电玩",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_1.jpg",
+  "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_ArcadeSkin_WR_HD.jpg/2880px-Viego_ArcadeSkin_WR_HD.jpg?5f759",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin01.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Viego_ArcadeCircle_WR.png?44b79",
+  "chromaPath": null,
+  "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viego_ArcadeSquare_WR_Special_Edition.png/240px-Viego_ArcadeSquare_WR_Special_Edition.png?3159f",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005702.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Viego_ArcadeLoading_WR_Special_Edition.png?ce854",
+  "backstory": "在大热JRPG游戏《洛泽斗恶龙 I》中，佛耶戈是王国的救世主与大英雄。他从不后悔守卫子民的付出，但他也无法忍受失去伴侣的痛苦，所以他与独眼恶魔达成协议，只为复活心爱的妻子。 如今续作《洛泽斗恶龙 II》依旧表现不俗，佛耶戈却已成为了被独眼恶魔附身的暗夜骑士。但独眼恶魔不知道的是，佛耶戈也在不断汲取魔能，以增巨他自己的力量。他究竟在筹谋着什么呢？",
+  "accessories": [
+    "边框",
+    "姿态：拟态",
+    "姿态：光剑游戏"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "5.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2024年5月24日",
+    "endDate": "长期销售(伴生皮肤)",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1005405,
+  "name": "至臻 水晶玫瑰 格温",
+  "roitName": "Prestige Crystal Rose Gwen",
+  "sortName": "至臻 水晶玫瑰",
+  "rarity": "神话",
+  "raritySubType": "至臻",
+  "price": "1000",
+  "priceUnit": "橙色原石",
+  "skinline": "庆典",
+  "universe": "水晶玫瑰",
+  "pushDate": "",
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gwen_4.jpg",
+  "splashHDPath": "https://image-1.uhdpaper.com/wallpaper/gwen-crystal-rose-prestige-edition-skin-lol-wild-rift-splash-art-8k-wallpaper-uhdpaper.com-398@1@m.jpg",
+  "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_gwen_skin04.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Gwen_PrestigeCrystalRoseCircle_WR.png?3c695",
+  "chromaPath": null,
+  "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Gwen_PrestigeCrystalRoseSquare_WR_Special_Edition.png?89807",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005405.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Gwen_PrestigeCrystalRoseLoading_WR_Special_Edition.png?005be",
+  "backstory": "格温不愧是最耀眼的魔法裁缝，她的设计才华令人惊叹！格温以独特精湛的技艺和别具匠心的创意，将魔法与时尚完美融合，创造出令人心驰神往的玫瑰礼服，每一件都璀璨夺目，如煌煌锦绣，似翩翩霓裳。",
+  "accessories": [
+    "边框",
+    "姿态：剪梦",
+    "姿态：芭蕾"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "version": {
+    "push": "4.4",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2023年12月3日10:00",
+    "endDate": "12月16日",
+    "description": "每年水晶玫瑰期间返场",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

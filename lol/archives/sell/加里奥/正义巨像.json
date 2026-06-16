@@ -1,0 +1,53 @@
+{
+  "id": 3000,
+  "name": "正义巨像",
+  "roitName": "Galio",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "德玛西亚",
+  "universe": "",
+  "pushDate": "2010年8月10日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/base/images/galio_splash_uncentered_0.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/base/images/galio_splash_tile_0.jpg",
+  "iconPath": "",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/base/images/galio_splash_centered_0.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/base/galioloadscreen.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "光彩熠熠的德玛西亚城外，石巨像加里奥始终如一地守望着。他被创造出来是为了抵挡来犯的法师，却往往伫立不动数十年，直至受到强烈魔法干扰的时候才会苏醒。只要加里奥醒来，他便会利用这段时间仔细品味战斗的刺激与守护人民的荣耀。可惜胜利对他而言永远都是一件喜忧参半的事情。因为他必须摧毁的魔法力量，同时也是激活他的泉源，而每一次战斗的胜利，都会让他再次陷入不知世事的深眠之中。",
+  "accessories": [],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6025",
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2023年9月1日10:00",
+    "priceEndDay": "10月7日9:59",
+    "description": "加里奥 肖像图标"
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "1.0.0.98",
+    "update": "7.6",
+    "updateChinese": "视觉玩法重做",
+    "updateName": "",
+    "video": "14.21"
+  }
+}

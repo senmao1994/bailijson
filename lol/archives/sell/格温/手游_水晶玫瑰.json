@@ -1,0 +1,62 @@
+{
+  "id": 1005404,
+  "name": "水晶玫瑰 格温",
+  "roitName": "Crystal Rose Gwen",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "180",
+  "priceUnit": "元保底",
+  "skinline": "庆典",
+  "universe": "水晶玫瑰",
+  "pushDate": "",
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gwen_3.jpg",
+  "splashHDPath": "",
+  "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_gwen_skin03.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005404.png",
+  "loadingSpecialEditionPath": "",
+  "backstory": "作为帝国最耀眼的魔法裁缝，格温受邀来亲自设计诸位尊贵宾客的礼服。她操起华丽闪耀的水晶剪刀，将魔法融入华服——裁掉仇恨与欲孽，缝入欢乐与梦想，再以水晶祝福为点缀，成就了每一件都独一无二的玫瑰礼服。",
+  "accessories": [
+    "边框",
+    "姿态：嬉戏",
+    "姿态：裁花"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "version": {
+    "push": "4.4",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2023年12月3日10:00",
+    "endDate": "2023年12月16日",
+    "description": "每年水晶玫瑰皮肤期间返场销售",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

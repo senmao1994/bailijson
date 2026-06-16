@@ -1,0 +1,53 @@
+{
+  "id": 3002,
+  "name": "机械迷城 加里奥",
+  "roitName": "Hextech Galio",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "海克斯科技",
+  "universe": "海克斯科技",
+  "pushDate": "2010年8月10日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin02/images/galio_splash_uncentered_2.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin02/images/galio_splash_tile_2.jpg",
+  "iconPath": "",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin02/images/galio_splash_centered_2.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin02/galioloadscreen_2.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "在觉察到海克斯科技产物市场性的转变后，数个皮特沃夫最大的工业家族共同创造了加里奥，这座巨大的魔像是这座城市和城市子民的馈赠。虽然从表面上看他是一个巨大的活体广告牌，但这个充满保护欲的生物不仅对世界充满了好奇心，也对他的责任感充满自豪。",
+  "accessories": [],
+  "roit": {
+    "price": 520,
+    "priceType": "限时直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "特殊获取",
+    "priceTypeChinese": "限定",
+    "priceStartDay": "2017年3月6日重做",
+    "priceEndDay": "未在商城直售",
+    "description": "腾讯服曾经可通过抽奖活动获取"
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.6VGU版本",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "14.21"
+  }
+}

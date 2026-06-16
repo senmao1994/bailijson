@@ -1,0 +1,56 @@
+{
+  "id": 1000908,
+  "name": "金猴耀世 孙悟空",
+  "roitName": "Jade Dragon Wukong (Special Edition)",
+  "sortName": "金猴耀世",
+  "rarity": "神话",
+  "raritySubType": "传承",
+  "price": "2000",
+  "priceUnit": "橙色原石",
+  "skinline": "空谷传承",
+  "universe": "",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Monkeyking_7.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_monkeyking_skin07.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000908.png",
+  "loadingSpecialEditionPath": "",
+  "backstory": "在获得远古玉龙之力后，悟空的战斗技巧已臻化境。虽然他的性格依然急躁莽撞，但是他的新能力却毋庸置疑。不过，这份能力也成了师父的心头大患，因为玉龙之力也是一种诅咒。",
+  "accessories": [
+    "边框",
+    "姿态：疏狂",
+    "姿态：筋斗云"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "sell": {
+    "startDate": "",
+    "endDate": "",
+    "description": "战利品 兑换商店 轮换上线",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

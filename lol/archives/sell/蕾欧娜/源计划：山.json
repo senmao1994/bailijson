@@ -1,0 +1,49 @@
+{
+  "id": 89008,
+  "name": "源计划：山 蕾欧娜",
+  "roitName": "PROJECT: Leona",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "源计划",
+  "universe": "源计划",
+  "pushDate": "2015年9月7日",
+  "series": null,
+  "backstory": "重装战斗人员蕾欧娜曾见证过源计划霓虹灯光背后的真相，现在她与艾希和基因动力叛军并肩作战。她拿着离子火花护盾，利用能量变量输出阻挡并击晕目标。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin08/images/leona_splash_uncentered_8.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin08/images/leona_splash_tile_8.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin08/images/leona_splash_centered_8.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin08/leonaloadscreen_8.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin08/leonaloadscreen_8_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "912",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2015年9月24日10:00",
+    "priceEndDay": "2015年10月07日23:59",
+    "description": "首发购买皮肤送专属头像和载入边框",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "5.17",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.12"
+  }
+}

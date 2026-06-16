@@ -1,0 +1,65 @@
+{
+  "id": 1000321,
+  "name": "告白气球 拉克丝",
+  "roitName": "Love Confession Lux",
+  "sortName": "告白气球",
+  "rarity": "传说",
+  "raritySubType": "告白气球",
+  "price": "1800",
+  "priceUnit": "点券随机保底1款",
+  "skinline": "告白气球",
+  "universe": "",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Lux_20.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_lux_skin20.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000321.png",
+  "loadingSpecialEditionPath": "",
+  "backstory": "拉克丝曾是维洛利亚最耀眼的钢琴新星，如今以指挥家的身份接任维洛利亚皇家乐团团长，外界议论纷纷。不过，拉克丝并不急于为自己辩解，她将以这曲告白协奏回应所有的质疑与期待。",
+  "accessories": [
+    "边框",
+    "姿态：聆音",
+    "姿态：结缘乐章"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.0",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年2月14日",
+    "endDate": "2026年3月15日",
+    "description": "告白气球·协奏 抽奖活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

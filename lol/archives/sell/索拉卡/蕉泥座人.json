@@ -1,0 +1,48 @@
+{
+  "id": 16005,
+  "name": "蕉泥座人 索拉卡",
+  "roitName": "Order of the Banana Soraka",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "上流社会",
+  "universe": "磨砺",
+  "pushDate": null,
+  "series": null,
+  "backstory": "蕉泥座人大约是在一年前出现的。当时索拉卡突然一个闪念，想到要把香蕉当作武器投掷出去，自此蕉泥座人诞生了。索拉卡和她的追随者们发誓捍卫蕉泥座人的尊严，决意要向任何胆敢崇拜其它水果的人投掷这种黄色农产品——尤其是崇拜石榴的人。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin05/images/soraka_splash_uncentered_5.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin05/images/soraka_splash_tile_5.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin05/images/soraka_splash_centered_5.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin05/sorakaloadscreen_5.jpg",
+  "roit": {
+    "price": 750,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 3500,
+  "icon": "",
+  "tencent": {
+    "price": 3500,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2015年3月31日",
+    "priceEndDay": "商城已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "",
+    "update": "14.19",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": ""
+  }
+}

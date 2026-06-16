@@ -1,0 +1,59 @@
+{
+  "id": 1001906,
+  "name": "博瀚超擎 赫卡里姆",
+  "roitName": "Neon Daredevil Hecarim",
+  "sortName": "博瀚超擎",
+  "rarity": "传说",
+  "raritySubType": "星速竞逐",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "星速竞逐",
+  "universe": "争锋",
+  "pushDate": "",
+  "series": null,
+  "backstory": "在混合着焦躁与暴怒的引擎声中，赫卡里姆悍然突破了限制器，以万钧之势冲向卡莎。作为被灌注进这辆攻城巨械的人类意志，赫卡里姆必须碾碎敌人，夺得驰能，才能从财团的可悲囚笼中解脱。而他也是如此厌恨、如此嫉妒……这份速度、这份自由……",
+  "accessories": [
+    "边框",
+    "姿态：碾压",
+    "姿态：电锯冲锋"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Hecarim_5.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_hecarim_skin05.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001906.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年4月30日",
+    "endDate": "2026年5月30日",
+    "description": "星速竞逐 限定",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

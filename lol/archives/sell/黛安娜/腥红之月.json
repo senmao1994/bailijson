@@ -1,0 +1,48 @@
+{
+  "id": 131011,
+  "name": "腥红之月 黛安娜",
+  "roitName": "Blood Moon Diana",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "腥红之月",
+  "universe": "艾欧尼亚诸月",
+  "pushDate": "2017年2月9日",
+  "series": null,
+  "backstory": "作为被血月教派选中的少年，黛安娜的思想已经全面地被血月的教义所占据—教派的领导人并不知晓，甚至连贪婪的恶魔也不清楚，只有黛安娜才能真正的明白，她的力量已经超越了所有的人和神。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin11/images/diana_splash_uncentered_11.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin11/images/diana_splash_tile_11.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin11/images/diana_splash_centered_11.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin11/dianaloadscreen_11.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "1589",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2017年2月9日",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.3",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  }
+}

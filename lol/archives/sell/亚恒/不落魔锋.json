@@ -1,0 +1,48 @@
+{
+  "id": 904000,
+  "name": "不落魔锋",
+  "roitName": "Zaahen",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "符文大陆",
+  "universe": "英雄联盟宇宙",
+  "pushDate": "2025年11月20日",
+  "series": null,
+  "backstory": "亚恒是陨落的神，是圣洁与污秽的化身。身为暗裔，亚恒既要猎杀他的暗裔同胞，亦要抵挡那股随时可能将他吞噬的堕落之力。为了阻止疯狂降临，他曾自愿被封印进他的长刀；而如今，他再度行走于世间，怀着一颗崇高的心，和野兽般的本性。在亚恒的内心，一场永恒的战争从未停止——但只要他尚未落败，那些染指符文之地的奸邪就注定遭他斩灭。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zaahen/skins/base/images/zaahen_splash_uncentered_0.jpg",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zaahen/skins/base/images/zaahen_splash_tile_0.jpg",
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zaahen/skins/base/images/zaahen_splash_centered_0.jpg",
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zaahen/skins/base/zaahenloadscreen_0.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "7024",
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2025年11月20日",
+    "priceEndDay": "2025年12月14日09:59",
+    "description": "亚恒 英雄肖像 图标",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "25.23",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  }
+}

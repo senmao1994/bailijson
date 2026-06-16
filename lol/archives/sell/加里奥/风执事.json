@@ -1,0 +1,53 @@
+{
+  "id": 3005,
+  "name": "风执事 加里奥",
+  "roitName": "Debonair Galio",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "执事",
+  "universe": "地下都市 梦魇",
+  "pushDate": "2015年8月13日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin05/images/galio_splash_uncentered_5.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin05/images/galio_splash_tile_5.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin05/images/galio_splash_centered_5.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin05/galioloadscreen_5.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "享受灵药吧。这为皇家权贵预留的圣洁白亮礼服伴随着一抹华紫相当高调，仿佛超脱尘世。因为当你是一位八十英尺高的贵族石像鬼时，你将总是目光的焦点。",
+  "accessories": [],
+  "roit": {
+    "price": 750,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 4900,
+  "icon": "",
+  "tencent": {
+    "price": 4900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2015年8月13日",
+    "priceEndDay": "14.5版本(2024年3月6日)下架",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.6VGU重做",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "14.21"
+  }
+}

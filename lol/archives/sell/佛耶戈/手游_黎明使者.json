@@ -1,0 +1,64 @@
+{
+  "id": 1005704,
+  "name": "黎明使者 佛耶戈",
+  "roitName": "Dawnbringer Viego",
+  "sortName": "黎明使者",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "交锋",
+  "universe": "秩序对决混沌",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Viego_3.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_viego_skin03.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005704.png",
+  "loadingSpecialEditionPath": "",
+  "backstory": "佛耶戈对秩序的偏执追求使他发动了一场灾难性的战争，但随之而来的失败也让他的王后陨落于混沌之中。从深渊中回返的他誓要铲除一切混乱，不惜任何代价，为了他的信念，他的爱人，他失去过以及将被他夺回的一切。",
+  "accessories": [
+    "边框",
+    "姿态：审视"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "6.1版本",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2025年5月30日",
+    "endDate": "长期销售",
+    "description": "2025年5月23日超前体验",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

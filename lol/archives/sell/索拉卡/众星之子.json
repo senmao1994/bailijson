@@ -1,0 +1,48 @@
+{
+  "id": 16000,
+  "name": "众星之子",
+  "roitName": "The Starchild Soraka",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "巨神峰",
+  "universe": "英雄联盟宇宙",
+  "pushDate": "",
+  "series": null,
+  "backstory": "作为一个来自天界的流浪者，索拉卡放弃了不朽的神格，只为保护凡人免于受到无知与暴力天性的危害。她对遇见的每一个人都施以慈悲与怜悯——即便是那些对她心存恶念的人也不例外。尽管早已经看遍这世上的苦痛与挣扎，索拉卡依然相信符文之地的人们有着更多的潜力等待发现。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/base/images/soraka_splash_uncentered_0.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/base/images/soraka_splash_tile_0.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/base/images/soraka_splash_centered_0.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/base/sorakaloadscreen.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6203",
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2023年9月1日10:00",
+    "priceEndDay": "10月7日9:59",
+    "description": "索拉卡 肖像图标",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "",
+    "update": "14.19",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": ""
+  }
+}

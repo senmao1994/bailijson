@@ -1,0 +1,55 @@
+{
+  "id": 1005403,
+  "name": "剪胜裁春 格温",
+  "roitName": "Mythmaker Gwen",
+  "sortName": "剪胜裁春",
+  "rarity": "传说",
+  "raritySubType": "兔年限定",
+  "price": "1290",
+  "priceUnit": "点券",
+  "skinline": "玉兔呈祥",
+  "universe": "故事世界",
+  "pushDate": "",
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gwen_2.jpg",
+  "splashHDPath": "",
+  "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_gwen_skin02.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005403.png",
+  "loadingSpecialEditionPath": "",
+  "backstory": "新春剧团即将上映一部名为《玉兔呈祥》的剪纸剧目。为了制作舞台背景，幕后创作者——格温花了好几个小时，裁剪出这些复杂的图案和景观。如今，格温被带入了这个由她亲手设计的世界。这个梦幻成真后的世界让她惊叹不已，但她必须克制自己，专注于寻找回家的路。",
+  "accessories": [
+    "边框",
+    "姿态：摆拍",
+    "姿态：裁春"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "sell": {
+    "startDate": "2023年1月11日",
+    "endDate": "2023年2月14日",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

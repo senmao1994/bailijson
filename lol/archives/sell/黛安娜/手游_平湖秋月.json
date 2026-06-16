@@ -1,0 +1,51 @@
+{
+  "id": 1001309,
+  "name": "平湖秋月 黛安娜",
+  "roitName": "Immortal Journey Diana",
+  "sortName": "平湖秋月",
+  "rarity": "史诗",
+  "raritySubType": "平湖秋月",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "对决",
+  "universe": "玉剑传说",
+  "pushDate": "",
+  "series": null,
+  "backstory": "黛安娜深信正义和道义的力量，始终秉承信念行侠仗义，以保护弱者和打击邪恶为己任。她听闻江湖中有一片神秘湖泊，被称为静湖。传说静湖中隐藏着神秘力量，只有真正的侠者能够得到它的传承。她慕名前往，希望获得更强大的力量，守护静湖仙力，也守护更多的人。",
+  "accessories": [
+    "边框",
+    "姿态：威势"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Diana_8.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_diana_skin08.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001309.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2023年9月22日",
+    "endDate": "限时销售",
+    "description": "亚洲之巅助威限定皮肤",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

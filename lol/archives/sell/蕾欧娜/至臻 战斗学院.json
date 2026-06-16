@@ -1,0 +1,49 @@
+{
+  "id": 89023,
+  "name": "至臻 战斗学院 蕾欧娜",
+  "roitName": "Prestige Battle Academia Leona",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "战斗学院",
+  "universe": "神之武器",
+  "pushDate": null,
+  "series": null,
+  "backstory": "在获选参加年度跨学院赛事之后，蕾欧娜几乎在她所有的空闲时间里都在磨练她的战斗技能，因为她知道自己必须击败来自竞争对手学院——例如杜朗德尔、巴比隆、俄利特、沙鲁尔——的其他顶尖学生。她的嗜血已受磨砺，她的盾牌已经就绪，她将把任何挑战她的人揍个鼻青脸肿。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin23/images/leona_splash_uncentered_23.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin23/images/leona_splash_tile_23.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin23/images/leona_splash_centered_23.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin23/leonaloadscreen_23.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin23/leonaloadscreen_23_le.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "4902",
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2021年3月19日10:00",
+    "priceEndDay": "2021年4月8日9:59",
+    "description": "首发至臻点兑换 后续神话精萃兑换",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "11.6",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "25.6"
+  }
+}

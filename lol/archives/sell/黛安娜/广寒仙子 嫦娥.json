@@ -1,0 +1,262 @@
+{
+  "id": 131002,
+  "name": "广寒仙子 嫦娥",
+  "roitName": "Lunar Goddess Diana",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "春节庆典",
+  "universe": "春节",
+  "pushDate": null,
+  "series": null,
+  "backstory": "",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin02/images/diana_splash_uncentered_2.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin02/images/diana_splash_tile_2.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin02/images/diana_splash_centered_2.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131002.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin02/dianaloadscreen_2.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "限时直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 19900,
+  "icon": "604",
+  "tencent": {
+    "price": 19900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "马年限定",
+    "priceStartDay": "2014年1月24日",
+    "priceEndDay": "2014年2月5日",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 131004,
+      "name": "轮辉霓裳 嫦娥",
+      "sortName": "轮辉霓裳 嫦娥",
+      "colorName": "红色",
+      "tencent": {
+        "price": 1500,
+        "priceType": "直售",
+        "priceStartDay": "2016年10月1日10:00",
+        "priceEndDay": "2016年10月7日23:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "轮辉霓裳 嫦娥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131004.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 131005,
+      "name": "皓彩霓裳 嫦娥",
+      "sortName": "皓彩霓裳 嫦娥",
+      "colorName": "白色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2023年9月28日",
+        "priceEndDay": "2023年10月28日",
+        "description": "时空商店兑换",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aave331gclbj7kf5wio9294hxhprzwbn.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "皓彩霓裳 嫦娥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131005.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 131006,
+      "name": "玉钩霓裳 嫦娥",
+      "sortName": "玉钩霓裳 嫦娥",
+      "colorName": "浅蓝色",
+      "tencent": {
+        "price": 1500,
+        "priceType": "直售",
+        "priceStartDay": "2016年10月1日10:00",
+        "priceEndDay": "2016年10月7日23:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "玉钩霓裳 嫦娥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131006.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ]
+    },
+    {
+      "id": 131007,
+      "name": "玄晖霓裳 嫦娥",
+      "sortName": "玄晖霓裳 嫦娥",
+      "colorName": "青色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a8x7hjvbbqx6bekcxq7gqwcyesj4q247.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "玄晖霓裳 嫦娥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131007.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 131008,
+      "name": "夜光霓裳 嫦娥",
+      "sortName": "夜光霓裳 嫦娥",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 1500,
+        "priceType": "直售",
+        "priceStartDay": "2016年10月1日10:00",
+        "priceEndDay": "2016年10月7日23:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "夜光霓裳 嫦娥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131008.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ]
+    },
+    {
+      "id": 131009,
+      "name": "金镜霓裳 嫦娥",
+      "sortName": "金镜霓裳 嫦娥",
+      "colorName": "浅绿色",
+      "tencent": {
+        "price": 1500,
+        "priceType": "直售",
+        "priceStartDay": "2016年10月1日10:00",
+        "priceEndDay": "2016年10月7日23:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "金镜霓裳 嫦娥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131009.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ]
+    },
+    {
+      "id": 131010,
+      "name": "素影霓裳 嫦娥",
+      "sortName": "素影霓裳 嫦娥",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "素影霓裳 嫦娥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/131/131010.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "4.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.11"
+  }
+}

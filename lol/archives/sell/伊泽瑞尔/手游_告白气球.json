@@ -1,0 +1,65 @@
+{
+  "id": 1009816,
+  "name": "告白气球 伊泽瑞尔",
+  "roitName": "Love Confession Ezreal",
+  "sortName": "告白气球",
+  "rarity": "史诗",
+  "raritySubType": "告白气球",
+  "price": "1800",
+  "priceUnit": "点券保底随机1款",
+  "skinline": "告白气球",
+  "universe": "",
+  "pushDate": "",
+  "series": null,
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ezreal_15.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ezreal_skin15.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009816.png",
+  "loadingSpecialEditionPath": "",
+  "backstory": "伊泽瑞尔是一名四处行游的天才小提琴手，音色跳脱，风格自由。他曾拒绝一切协奏的邀约，直到拉克丝带着乐团的邀请走入他的世界。这一次，他愿意收起独奏的旋律，尝试与他人一同奏响告白之声。",
+  "accessories": [
+    "边框",
+    "姿态：邀请",
+    "姿态：街头演出"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.0",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年2月14日",
+    "endDate": "2026年3月15日",
+    "description": "告白气球·协奏 抽奖活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

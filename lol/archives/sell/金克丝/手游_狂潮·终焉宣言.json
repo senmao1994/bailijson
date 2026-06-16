@@ -1,0 +1,51 @@
+{
+  "id": 1001820,
+  "name": "狂潮·终焉宣言 金克丝",
+  "roitName": "Supervillain Jinx Doombringe",
+  "sortName": "狂潮·终焉宣言",
+  "rarity": "觉醒",
+  "raritySubType": "终极",
+  "price": "6500",
+  "priceUnit": "觉醒值",
+  "skinline": "无界狂潮",
+  "universe": "神奇宇宙",
+  "pushDate": "",
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jinx_19.jpg",
+  "splashHDPath": "",
+  "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_jinx_skin19.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001820.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Jinx_SupervillainDoombringerLoading_WR_Special_Edition.png?16d91",
+  "backstory": "金克丝与她的异星伙伴小安，一起点燃上城的虚伪街道，一同成为下城的祸乱图腾……而在火海的尽头，她知道谁在等着自己，谁的怒火冲拳打算给这场即将沦为虚无的混乱画上休止符。“你要一起去吗？”金克丝的随口一问激起一阵兴奋的电涌，“有你陪我，那可就回不了头了。”",
+  "accessories": "边框 击杀计数 横幅 推塔 击杀 基地终结",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "sell": {
+    "startDate": "2025年11月28日10:00",
+    "endDate": "2026年3月8日23:59",
+    "description": "解锁狂潮·异想 金克丝后达到6500醒值",
+    "activityTitle": "觉醒之路",
+    "price": "",
+    "priceUnit": ""
+  }
+}

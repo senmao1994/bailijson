@@ -1,0 +1,50 @@
+{
+  "id": 1004,
+  "name": "舞会公主 安妮",
+  "roitName": "Prom Queen Annie",
+  "sortName": null,
+  "rarity": "",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "职场精英",
+  "universe": "磨砺",
+  "pushDate": null,
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/images/annie_splash_uncentered_4.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/images/annie_splash_tile_4.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/images/annie_splash_centered_4.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/annieloadscreen_4.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "",
+  "accessories": [],
+  "roit": {
+    "price": 520,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 9900,
+  "icon": "",
+  "tencent": {
+    "price": 9900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "TGC限定",
+    "priceStartDay": "2013年11月22日",
+    "priceEndDay": "2013年11月24日",
+    "description": ""
+  },
+  "chromas": [],
+  "version": {
+    "push": "",
+    "update": "10.3",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": "26.01"
+  }
+}

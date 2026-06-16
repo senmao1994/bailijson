@@ -1,0 +1,49 @@
+{
+  "id": 131026,
+  "name": "至臻 女帝 黛安娜",
+  "roitName": "Prestige Battle Queen Diana",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "女帝无双",
+  "universe": "女帝无双",
+  "pushDate": null,
+  "series": null,
+  "backstory": "在她的提名仪式上揭示了真理后，黛安娜将不会让任何事情阻挡她的道路。身穿如她的决心一般刚强的全新盔甲，黛安娜打算制服锦标赛的怪物们——还有那个阻抑了伊欧希亚的渴求权能的教团。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin26/images/diana_splash_uncentered_26.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin26/images/diana_splash_tile_26.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin26/images/diana_splash_centered_26.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin26/dianaloadscreen_26.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin26/dianaloadscreen_26_le.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "4857",
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2020年12月11日",
+    "priceEndDay": "2021年1月12日9:59",
+    "description": "首发女帝无双(2020)通行证解锁",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "10.25",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.11"
+  }
+}

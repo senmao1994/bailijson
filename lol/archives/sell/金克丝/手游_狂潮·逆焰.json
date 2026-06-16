@@ -1,0 +1,50 @@
+{
+  "id": 1001819,
+  "name": "狂潮·逆焰 金克丝",
+  "roitName": "Supervillain Jinx Blazing Defiance",
+  "sortName": "狂潮·逆焰",
+  "rarity": "觉醒",
+  "raritySubType": "神话",
+  "price": "600",
+  "priceUnit": "觉醒值",
+  "skinline": "无界狂潮",
+  "universe": "神奇宇宙",
+  "pushDate": "",
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jinx_18.jpg",
+  "splashHDPath": "",
+  "squareePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_jinx_skin18.png",
+  "iconPath": "",
+  "centeredPath": "",
+  "circlePath": "",
+  "chromaPath": null,
+  "specialEditionPath": "",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001819.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jinx_SupervillainBlazingDefianceLoading_WR_Special_Edition.png/140px-Jinx_SupervillainBlazingDefianceLoading_WR_Special_Edition.png?6571e",
+  "backstory": "砸碎了神奇先生的厅堂，扯下了英雄们伪善的面罩。这让金克丝感到一阵欣快……没错，这就是属于她的时刻，尽管成为一个恶人不为城市秩序所容，但谁在乎？有人为她发布悬赏，更多人因她掀起旗帜，走上街头。最有趣的是，她现在有了一位迷你“共犯”，接下来的情节，金克丝很难觉得无聊。",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "chromas": [],
+  "sell": {
+    "startDate": "2025年11月28日10:00",
+    "endDate": "2026年3月8日23:59",
+    "description": "解锁狂潮·异想 金克丝后达到600觉醒值",
+    "activityTitle": "觉醒之路",
+    "price": "",
+    "priceUnit": ""
+  }
+}

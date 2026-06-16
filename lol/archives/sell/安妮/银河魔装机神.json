@@ -1,0 +1,50 @@
+{
+  "id": 1011,
+  "name": "银河魔装机神 安妮",
+  "roitName": "Super Galaxy Annie",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "银河魔装机神",
+  "universe": "银河魔装机神",
+  "pushDate": "2017年10月16日",
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/images/annie_splash_uncentered_11.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/images/annie_splash_tile_11.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/images/annie_splash_centered_11.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/annieloadscreen_11.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "那一天，安妮将她的泰迪熊改装成自律机器人，以此证明了她的实力，并成为了超级银河战队中最年轻的学员。﻿尽管人们对于机械泰迪那高度易燃的设计和极不稳定的程序设定表示严重担忧，安妮的机械泰迪还是投入了全面生产。﻿毕竟绝望的非常规时代也需要颇具毁灭性的非常规手段。",
+  "accessories": [],
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "3172",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2017年10月18日11:00",
+    "priceEndDay": "长期销售",
+    "description": ""
+  },
+  "chromas": [],
+  "version": {
+    "push": "7.20",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.01"
+  }
+}

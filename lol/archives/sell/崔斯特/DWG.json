@@ -1,0 +1,85 @@
+{
+  "id": 4023,
+  "name": "DWG 崔斯特",
+  "roitName": "DWG Twisted Fate",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "全球总冠军：2020",
+  "universe": "电竞",
+  "pushDate": " 2021年4月29日",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/images/twistedfate_splash_uncentered_23.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/images/twistedfate_splash_tile_23.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/images/twistedfate_splash_centered_23.jpg",
+  "circlePath": "",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4023.png",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/twistedfateloadscreen_23.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/twistedfateloadscreen_23_le.jpg",
+  "backstory": "以此致敬ShowMaker在2020全球总决赛中使用崔斯特的夺胜表现。",
+  "accessories": [],
+  "roit": {
+    "price": 1350,
+    "priceType": "限时直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "4933",
+  "tencent": {
+    "price": 7900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "冠军限定",
+    "priceStartDay": "2021年4月30日12:00",
+    "priceEndDay": "6月16日9:59",
+    "description": "皮肤每年世界赛期间返场销售",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 4024,
+      "name": "DWG 崔斯特 精锐",
+      "sortName": "精锐",
+      "colorName": "全球总决赛2020",
+      "tencent": {
+        "price": 13900,
+        "priceType": "礼包",
+        "priceStartDay": "2021年4月30日12:00",
+        "priceEndDay": "6月16日9:59 ",
+        "description": "礼包专属炫彩",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "DWG 崔斯特 精锐",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/4/4024.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#050B19",
+        "#0055FF"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "11.9",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.04"
+  }
+}

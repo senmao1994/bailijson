@@ -1,0 +1,50 @@
+{
+  "id": 1010,
+  "name": "海克斯科技 安妮",
+  "roitName": "Hextech Annie",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "海克斯科技",
+  "universe": "海克斯科技",
+  "pushDate": "2016年3月15日\r",
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/images/annie_splash_uncentered_10.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/images/annie_splash_tile_10.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/images/annie_splash_centered_10.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/annieloadscreen_10.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "即使在海克斯科技复兴运动的高智识人士中，安妮也称得上是一个科学天才。她美丽、鲜活的战熊们足以跻身于该纪元最有价值的发明。她最神秘的创造物“提伯斯”总是呆在她身边——作为她的知己、好友和凶暴的保镖。",
+  "accessories": [],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 125,
+  "icon": "",
+  "tencent": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceTypeChinese": "海克斯",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "神话商店 每两周随机轮换上线"
+  },
+  "chromas": [],
+  "version": {
+    "push": "6.5",
+    "update": "13.24",
+    "updateChinese": "特效修复",
+    "updateName": "",
+    "video": "26.01"
+  }
+}

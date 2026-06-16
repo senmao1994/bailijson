@@ -1,0 +1,57 @@
+{
+  "id": 1007017,
+  "name": "风驰·超擎 易",
+  "roitName": "Neon Daredevil Master Yi: Megacorps",
+  "sortName": "风驰·超擎",
+  "rarity": "神话",
+  "raritySubType": "觉醒",
+  "price": "600",
+  "priceUnit": "觉醒值(三选一)",
+  "skinline": "风驰岐影",
+  "universe": "星速竞逐",
+  "pushDate": "",
+  "series": null,
+  "backstory": "在那场摧毁利铎星的灾难发生后，财团的总部研究室内，一具赛博终端于长久的沉眠中苏醒。金属线缆无法隔绝灵魂被撕裂的痛苦……而在心智遭到覆写前，这个灵魂唯一的愿望……便是统合分裂的自己。",
+  "accessories": [
+    "边框",
+    "姿态：锋刃",
+    "姿态：超擎燃动",
+    "姿态：凯旋庆贺"
+  ],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年5月22日10:00",
+    "endDate": "2026年10月20日23:59",
+    "description": "风驰 觉醒之路",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

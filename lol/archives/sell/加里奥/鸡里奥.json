@@ -1,0 +1,257 @@
+{
+  "id": 3006,
+  "name": "鸡里奥",
+  "roitName": "Birdio",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "烹饪大师",
+  "universe": "烹饪大师",
+  "pushDate": null,
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin06/images/galio_splash_uncentered_6.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin06/images/galio_splash_tile_6.jpg",
+  "iconPath": null,
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin06/images/galio_splash_centered_6.jpg",
+  "circlePath": "",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3006.png",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin06/galioloadscreen_6.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "加里奥是一个高贵自豪的美味炸鸡销售员。他是某个全球最大的炸鸡店的地区经理（和年度销售奖得主）。他和希维尔是彼此的劲敌，因为他俩都想证明自己才是更好的员工。",
+  "accessories": [],
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 3500,
+  "icon": "3377",
+  "tencent": {
+    "price": 3500,
+    "priceType": "",
+    "priceTypeChinese": "限定",
+    "priceStartDay": "2018年4月6日",
+    "priceEndDay": "2018年5月6日",
+    "description": "鸡里奥宝典70级奖励"
+  },
+  "chromas": [
+    {
+      "id": 3007,
+      "name": "红雀里奥",
+      "sortName": "红雀里奥",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年4月6日",
+        "priceEndDay": "2018年5月6日",
+        "description": "鸡里奥宝典等级获取",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "鸡里奥宝典等级获取"
+      },
+      "riotName": "红雀里奥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3007.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 3008,
+      "name": "蓝蕉鹃里奥",
+      "sortName": "蓝蕉鹃里奥",
+      "colorName": "浅蓝色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年4月6日",
+        "priceEndDay": "2018年5月6日",
+        "description": "鸡里奥宝典等级获取",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "鸡里奥宝典等级获取"
+      },
+      "riotName": "蓝蕉鹃里奥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3008.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ]
+    },
+    {
+      "id": 3009,
+      "name": "黄金鸡里奥",
+      "sortName": "黄金",
+      "colorName": "黄色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年4月6日",
+        "priceEndDay": "2018年5月6日",
+        "description": "鸡里奥宝典等级获取",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "鸡里奥宝典等级获取"
+      },
+      "riotName": "黄金鸡里奥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3009.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 3010,
+      "name": "高卢鸡里奥",
+      "sortName": "高卢",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年4月6日",
+        "priceEndDay": "2018年5月6日",
+        "description": "鸡里奥宝典等级获取",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "高卢鸡里奥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3010.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 3011,
+      "name": "火烈鸟里奥",
+      "sortName": "火烈鸟里奥",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年4月6日",
+        "priceEndDay": "2018年5月6日",
+        "description": "鸡里奥宝典等级获取",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "火烈鸟里奥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3011.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 3012,
+      "name": "白头鹰里奥",
+      "sortName": "白头鹰里奥",
+      "colorName": "棕色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "2018年4月6日",
+        "priceEndDay": "2018年5月6日",
+        "description": "鸡里奥宝典等级获取",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "白头鹰里奥",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3012.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#5F432B",
+        "#5F432B"
+      ]
+    },
+    {
+      "id": 3029,
+      "name": "鸡里奥 全球总决赛之翼",
+      "sortName": "全球总决赛之翼",
+      "colorName": "全球总决赛(2022)",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2022年10月8日",
+        "priceEndDay": "2022年11月26日6:59",
+        "description": "",
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "鸡里奥 全球总决赛之翼",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3029.png",
+      "mythicIcon": "5556",
+      "wildRiftSell": null,
+      "colors": [
+        "#0027F8",
+        "#252739"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "8.6",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "14.21"
+  }
+}

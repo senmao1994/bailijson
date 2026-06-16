@@ -1,0 +1,53 @@
+{
+  "id": 234000,
+  "name": "破败之王",
+  "roitName": "The Ruined King Viego",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "暗影岛",
+  "universe": null,
+  "pushDate": "2021年1月21日\r",
+  "series": null,
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/images/viego_splash_uncentered_0.jpg",
+  "splashHDPath": "",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/images/viego_splash_tile_0.jpg",
+  "iconPath": "",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/images/viego_splash_centered_0.jpg",
+  "circlePath": "",
+  "chromaPath": "",
+  "specialEditionPath": null,
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/base/viegoloadscreen.jpg",
+  "loadingSpecialEditionPath": "",
+  "backstory": "失落千年的王国之主——佛耶戈，为了让亡妻死而复生，引发了一场被后世称为“破败之咒”的魔灾，自己也不幸因此殒命。如今的佛耶戈已经变成了一个强大的幽魂，依然执着地迷恋着几百年前便已死去的王后。他号称破败之王，操纵着夺命的蚀魂夜，在符文之地上不懈地搜寻着，希望有朝一日能将她追回。无穷无尽的黑雾从他早已支离的心中涌出，扫除他面前的一切阻碍。",
+  "accessories": [],
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6226",
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2023年9月1日10:00",
+    "priceEndDay": "2023年10月7日9:59",
+    "description": "佛耶戈 肖像图标"
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "11.2",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.01"
+  }
+}
