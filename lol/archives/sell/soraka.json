@@ -2101,6 +2101,54 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 16006,
+      "name": "源代码 索拉卡",
+      "roitName": "Program Soraka",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "源代码",
+      "universe": "源计划",
+      "pushDate": null,
+      "series": null,
+      "backstory": "源代码索拉卡的创造是作为支援机器人保护人类的脆弱本质，以机械天使之手带来科技的救赎。如今被损坏代码入侵的她，不知道是否还以这个仁慈的使命作为自己的首要指令。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin06/images/soraka_splash_uncentered_6.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin06/images/soraka_splash_tile_6.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin06/images/soraka_splash_centered_6.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin06/sorakaloadscreen_6.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 6900,
+      "icon": "",
+      "tencent": {
+        "price": 6900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2016年4月6日",
+        "priceEndDay": "14.9版本已下架直售",
+        "description": "",
+        "hasFullGiftPack": false
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "",
+        "update": "14.19",
+        "updateChinese": "特效更新",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
