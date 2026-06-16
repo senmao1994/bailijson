@@ -1,7 +1,8 @@
 {
-  "id": "nilah",
-  "name": "不羁之悦",
-  "alias": "Nilah",
-  "key": 895,
-  "title": "尼菈"
+  "id": 10027,
+  "name": "尼菈",
+  "alias": "ni菈",
+  "key": "10027",
+  "title": "不羁之悦",
+  "platform": "wr"
 }
