@@ -2199,27 +2199,26 @@
       }
     },
     {
-      "id": 16004,
-      "name": "灵魂收割者 索拉卡",
-      "roitName": "Reaper Soraka",
+      "id": 16003,
+      "name": "圣洁化身 索拉卡",
+      "roitName": "Celestine Soraka",
       "sortName": null,
-      "rarity": "史诗",
+      "rarity": "特效",
       "raritySubType": null,
       "price": null,
       "priceUnit": null,
-      "skinline": "死亡誓约",
-      "universe": "死亡誓约",
+      "skinline": "峡谷勇者",
+      "universe": "峡谷勇者",
       "pushDate": null,
       "series": null,
-      "backstory": "崔斯特靠着他的三寸不烂之舌糊弄了所有活着的领主，他带走他们挚爱的众星之子的生命，换取他们自身的不朽。﻿但这些人不知道的是，没有了同情和怜悯的灵魂，永恒生命只会带来永恒的磨难。",
+      "backstory": "",
       "accessories": [],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin04/images/soraka_splash_uncentered_4.jpg",
-      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin04/images/soraka_splash_tile_4.jpg",
-      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin04/images/soraka_splash_centered_4.jpg",
-      "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16004.png",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin04/sorakaloadscreen_4.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin03/images/soraka_splash_uncentered_3.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin03/images/soraka_splash_tile_3.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin03/images/soraka_splash_centered_3.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin03/sorakaloadscreen_3.jpg",
       "roit": {
-        "price": 1350,
+        "price": 975,
         "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
@@ -2230,44 +2229,13 @@
       "tencent": {
         "price": 9900,
         "priceType": "直售",
-        "priceTypeChinese": "万圣节",
-        "priceStartDay": "2014年11月5日",
-        "priceEndDay": "限时销售 不定期返场",
+        "priceTypeChinese": "",
+        "priceStartDay": "2013年3月5日",
+        "priceEndDay": "商城已下架直售",
         "description": "",
         "hasFullGiftPack": false
       },
-      "chromas": [
-        {
-          "id": 16062,
-          "name": "灵魂收割者 索拉卡 末日",
-          "sortName": "末日",
-          "colorName": "末日人机",
-          "tencent": {
-            "price": 35,
-            "priceType": "神话商店",
-            "priceStartDay": "2025年9月11日",
-            "priceEndDay": "2025年10月23日",
-            "description": "末日人工智能(2025)战利品专属",
-            "hasFullGiftPack": false,
-            "wildRiftSell": null
-          },
-          "roit": {
-            "price": 35,
-            "priceType": "神话商店",
-            "priceStartDay": "",
-            "priceEndDay": "",
-            "description": ""
-          },
-          "riotName": "灵魂收割者 索拉卡 末日",
-          "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16062.png",
-          "mythicIcon": null,
-          "wildRiftSell": null,
-          "colors": [
-            "#E23129",
-            "#602E55"
-          ]
-        }
-      ],
+      "chromas": [],
       "formsCount": null,
       "forms": [],
       "version": {
