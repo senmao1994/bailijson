@@ -2052,6 +2052,55 @@
         "updateName": "",
         "video": ""
       }
+    },
+    {
+      "id": 16007,
+      "name": "星之守护者 索拉卡",
+      "roitName": "Star Guardian Soraka",
+      "sortName": null,
+      "rarity": "史诗",
+      "raritySubType": null,
+      "price": null,
+      "priceUnit": null,
+      "skinline": "星之守护者 第二季",
+      "universe": "星之守护者宇宙",
+      "pushDate": null,
+      "series": null,
+      "backstory": "温文尔雅的灵魂加上来自群星的神秘出身，索拉卡在战斗的后方保护着她的队友。虽然她外表怯懦害羞，但却拥有超凡的治疗能力，其他任何守护者都不曾见过同等的星光掌控力。",
+      "accessories": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin07/images/soraka_splash_uncentered_7.jpg",
+      "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin07/images/soraka_splash_tile_7.jpg",
+      "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin07/images/soraka_splash_centered_7.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin07/sorakaloadscreen_7.jpg",
+      "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin07/sorakaloadscreen_7_le.jpg",
+      "roit": {
+        "price": 1350,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "tencentPrice": 7900,
+      "icon": "3022",
+      "tencent": {
+        "price": 7900,
+        "priceType": "直售",
+        "priceTypeChinese": "",
+        "priceStartDay": "2017年9月8日",
+        "priceEndDay": "起源版限时上架",
+        "description": "",
+        "hasFullGiftPack": true
+      },
+      "chromas": [],
+      "formsCount": null,
+      "forms": [],
+      "version": {
+        "push": "7.17",
+        "update": "",
+        "updateChinese": "",
+        "updateName": "",
+        "video": ""
+      }
     }
   ]
 }
