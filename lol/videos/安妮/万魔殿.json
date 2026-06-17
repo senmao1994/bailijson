@@ -4,9 +4,9 @@
   "championId": "annie",
   "championName": "安妮",
   "championKey": "1",
-  "type": "skin",
   "videos": [
     {
+      "type": "skin",
       "date": "2026年04月27日 09:38:01",
       "cover": "e186e670e4daf31dbbc7dcd513da34409f8b5ac5",
       "bilibili": {
