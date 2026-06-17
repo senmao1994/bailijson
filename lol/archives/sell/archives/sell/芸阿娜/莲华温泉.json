@@ -35,7 +35,7 @@
     "priceStartDay": "2025年7月31日",
     "priceEndDay": "2025年8月24日9:59",
     "description": "",
-    "hasFullGiftPack": true
+    "hasFullGiftPack": false
   },
   "chromas": [
     {
@@ -134,9 +134,9 @@
       "tencent": {
         "price": 0,
         "priceType": "臻彩",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-55b04fca-a900-413f-abe9-80bb04b36c59.jpg",
+        "priceStartDay": "2026年6月5日",
+        "priceEndDay": "2026年7月5日",
+        "description": "璀璨臻彩召唤活动·一等奖",
         "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
@@ -145,7 +145,8 @@
           "activityTitle": "",
           "price": "",
           "priceUnit": ""
-        }
+        },
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-55b04fca-a900-413f-abe9-80bb04b36c59.jpg"
       },
       "roit": {
         "price": 290,
@@ -190,7 +191,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aatvkmyeg7ldnp8zlteylz52f91owu23.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-919c7763-6298-4c15-ac14-b6f25afeb206.jpg"
       },
       "roit": {
         "price": 290,
@@ -368,7 +369,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ae7t9qqq2pydqnhmdev7lcaf40fu9ggl.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-00d96bcd-35a8-416c-a628-49d920fee2b2.jpg"
       },
       "roit": {
         "price": 290,
@@ -402,5 +403,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }

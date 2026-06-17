@@ -1,0 +1,316 @@
+{
+  "id": 202036,
+  "name": "斗魂觉醒 烬",
+  "roitName": "Soul Fighter Jhin",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "",
+  "universe": "",
+  "pushDate": null,
+  "series": null,
+  "backstory": "别问他是怎么做到的，这位扭曲的导师就是能在适当的条件下解锁任何人的灵魂能量！做好准备吧，因为他的考验可是会要人命的！他已经准备好在世界上最大的舞台上充分展示他的艺术，甚至可能向那个悬赏猎人复仇！让我们把掌声给到……烬！",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin36/images/jhin_splash_uncentered_36.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin36/images/jhin_splash_tile_36.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin36/images/jhin_splash_centered_36.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202036.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin36/jhinloadscreen_36.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin36/jhinloadscreen_36_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "5939",
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2023年8月4日10:00",
+    "priceEndDay": "2023年9月5日6:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 202038,
+      "name": "斗魂觉醒 烬 烈之魂焰",
+      "sortName": "烈之魂焰",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 烬 烈之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202038.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 202039,
+      "name": "斗魂觉醒 烬 锐之魂焰",
+      "sortName": "锐之魂焰",
+      "colorName": "黄色",
+      "tencent": {
+        "price": 6300,
+        "priceType": "橙色精萃",
+        "priceStartDay": "2023年8月4日",
+        "priceEndDay": "2023年8月18日",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 烬 锐之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202039.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 202040,
+      "name": "斗魂觉醒 烬 幻之魂焰",
+      "sortName": "幻之魂焰",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2025年1月21日",
+        "priceEndDay": "2023年8月18日",
+        "description": "拥有指定10款烬皮肤",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-d183cca6-8de6-44d6-8461-d81ea6e1f730.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 烬 幻之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202040.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 202041,
+      "name": "斗魂觉醒 烬 韧之魂焰",
+      "sortName": "韧之魂焰",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 6300,
+        "priceType": "橙色精萃",
+        "priceStartDay": "2023年8月4日",
+        "priceEndDay": "2023年8月18日",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 烬 韧之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202041.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 202042,
+      "name": "斗魂觉醒 烬 狡之魂焰",
+      "sortName": "狡之魂焰",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 6300,
+        "priceType": "橙色精萃",
+        "priceStartDay": "2023年8月4日",
+        "priceEndDay": "2023年8月18日",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 烬 狡之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202042.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 202043,
+      "name": "斗魂觉醒 烬 魅之魂焰",
+      "sortName": "魅之魂焰",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 6300,
+        "priceType": "橙色精萃",
+        "priceStartDay": "2023年8月4日",
+        "priceEndDay": "2023年8月18日",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 烬 魅之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202043.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ]
+    },
+    {
+      "id": 202044,
+      "name": "斗魂觉醒 烬 飒之魂焰",
+      "sortName": "飒之魂焰",
+      "colorName": "青色",
+      "tencent": {
+        "price": 6300,
+        "priceType": "橙色精萃",
+        "priceStartDay": "2023年8月4日",
+        "priceEndDay": "2023年8月18日",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 烬 飒之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202044.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 202045,
+      "name": "斗魂觉醒 烬 幽之魂焰",
+      "sortName": "幽之魂焰",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 6300,
+        "priceType": "橙色精萃",
+        "priceStartDay": "2023年8月4日",
+        "priceEndDay": "2023年8月18日",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 烬 幽之魂焰",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202045.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 202046,
+      "name": "斗魂觉醒 烬 无限斗志",
+      "sortName": "无限斗志",
+      "colorName": "斗魂觉醒(2023)",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2023年8月4日",
+        "priceEndDay": "2023年9月5日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "斗魂觉醒 烬 无限斗志",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202046.png",
+      "mythicIcon": "5934",
+      "wildRiftSell": null,
+      "colors": [
+        "#C8D0CE",
+        "#AF65D1"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "platform": "lol"
+}
