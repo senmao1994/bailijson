@@ -35,7 +35,7 @@
     "priceStartDay": "2022年12月9日10:00",
     "priceEndDay": "2023年1月5日23:59",
     "description": "",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
