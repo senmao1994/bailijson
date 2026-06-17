@@ -2,1544 +2,1558 @@
   {
     "id": "annie",
     "key": "1",
-    "name": "黑暗之女",
-    "title": "安妮",
+    "name": "安妮",
+    "title": "黑暗之女",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "wrKey": "",
-    "color": "#270401"
+    "wr": 0
   },
   {
     "id": "olaf",
     "key": "2",
-    "name": "狂战士",
-    "title": "奥拉夫",
+    "name": "奥拉夫",
+    "title": "狂战士",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#000e14"
+    "wr": 0
   },
   {
     "id": "galio",
     "key": "3",
-    "name": "正义巨像",
-    "title": "加里奥",
+    "name": "加里奥",
+    "title": "正义巨像",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#17080c"
+    "wr": 0
   },
   {
     "id": "twistedfate",
     "key": "4",
-    "name": "卡牌大师",
-    "title": "崔斯特",
+    "name": "崔斯特",
+    "title": "卡牌大师",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#1b0b0c"
+    "wr": 0
   },
   {
     "id": "xinzhao",
     "key": "5",
-    "name": "德邦总管",
-    "title": "赵信",
+    "name": "赵信",
+    "title": "德邦总管",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "urgot",
     "key": "6",
-    "name": "无畏战车",
-    "title": "厄加特",
+    "name": "厄加特",
+    "title": "无畏战车",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#140c00"
+    "wr": 0
   },
   {
     "id": "leblanc",
     "key": "7",
-    "name": "诡术妖姬",
-    "title": "乐芙兰",
+    "name": "乐芙兰",
+    "title": "诡术妖姬",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#190915"
+    "wr": 0
   },
   {
     "id": "vladimir",
     "key": "8",
-    "name": "猩红收割者",
-    "title": "弗拉基米尔",
+    "name": "弗拉基米尔",
+    "title": "猩红收割者",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#1a0700"
+    "wr": 0
   },
   {
     "id": "fiddlesticks",
     "key": "9",
-    "name": "远古恐惧",
-    "title": "费德提克",
+    "name": "费德提克",
+    "title": "远古恐惧",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#001021"
+    "wr": 0
   },
   {
     "id": "kayle",
     "key": "10",
-    "name": "正义天使",
-    "title": "凯尔",
+    "name": "凯尔",
+    "title": "正义天使",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#2f0400"
+    "wr": 0
   },
   {
     "id": "masteryi",
     "key": "11",
-    "name": "无极剑圣",
-    "title": "易",
+    "name": "易",
+    "title": "无极剑圣",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#010d0d"
+    "wr": 0
   },
   {
     "id": "alistar",
     "key": "12",
-    "name": "牛头酋长",
-    "title": "阿利斯塔",
+    "name": "阿利斯塔",
+    "title": "牛头酋长",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#190c0c"
+    "wr": 0
   },
   {
     "id": "ryze",
     "key": "13",
-    "name": "符文法师",
-    "title": "瑞兹",
+    "name": "瑞兹",
+    "title": "符文法师",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#1b0428"
+    "wr": 0
   },
   {
     "id": "sion",
     "key": "14",
-    "name": "亡灵战神",
-    "title": "赛恩",
+    "name": "赛恩",
+    "title": "亡灵战神",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#400001"
+    "wr": 0
   },
   {
     "id": "sivir",
     "key": "15",
-    "name": "战争女神",
-    "title": "希维尔",
+    "name": "希维尔",
+    "title": "战争女神",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#2f0000"
+    "wr": 0
   },
   {
     "id": "soraka",
     "key": "16",
-    "name": "众星之子",
-    "title": "索拉卡",
+    "name": "索拉卡",
+    "title": "众星之子",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#330016"
+    "wr": 0
   },
   {
     "id": "teemo",
     "key": "17",
-    "name": "迅捷斥候",
-    "title": "提莫",
+    "name": "提莫",
+    "title": "迅捷斥候",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#110d00"
+    "wr": 0
   },
   {
     "id": "tristana",
     "key": "18",
-    "name": "麦林炮手",
-    "title": "崔丝塔娜",
+    "name": "崔丝塔娜",
+    "title": "麦林炮手",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#160b0e"
+    "wr": 0
   },
   {
     "id": "warwick",
     "key": "19",
-    "name": "祖安怒兽",
-    "title": "沃里克",
+    "name": "沃里克",
+    "title": "祖安怒兽",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#040b16"
+    "wr": 0
   },
   {
     "id": "nunu",
     "key": "20",
-    "name": "雪原双子",
-    "title": "努努和威朗普",
+    "name": "努努和威朗普",
+    "title": "雪原双子",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#090c2d"
+    "wr": 0
   },
   {
     "id": "missfortune",
     "key": "21",
-    "name": "赏金猎人",
-    "title": "厄运小姐",
+    "name": "厄运小姐",
+    "title": "赏金猎人",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#000f12"
+    "wr": 0
   },
   {
     "id": "ashe",
     "key": "22",
-    "name": "寒冰射手",
-    "title": "艾希",
+    "name": "艾希",
+    "title": "寒冰射手",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#020d2b"
+    "wr": 0
   },
   {
     "id": "tryndamere",
     "key": "23",
-    "name": "蛮族之王",
-    "title": "泰达米尔",
+    "name": "泰达米尔",
+    "title": "蛮族之王",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "jax",
     "key": "24",
-    "name": "武器大师",
-    "title": "贾克斯",
+    "name": "贾克斯",
+    "title": "武器大师",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#06082a"
+    "wr": 0
   },
   {
     "id": "morgana",
     "key": "25",
-    "name": "堕落天使",
-    "title": "莫甘娜",
+    "name": "莫甘娜",
+    "title": "堕落天使",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#100b1b"
+    "wr": 0
   },
   {
     "id": "zilean",
     "key": "26",
-    "name": "时光守护者",
-    "title": "基兰",
+    "name": "基兰",
+    "title": "时光守护者",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#0b0f0c"
+    "wr": 0
   },
   {
     "id": "singed",
     "key": "27",
-    "name": "炼金术士",
-    "title": "辛吉德",
+    "name": "辛吉德",
+    "title": "炼金术士",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#000f00"
+    "wr": 0
   },
   {
     "id": "evelynn",
     "key": "28",
-    "name": "痛苦之拥",
-    "title": "伊芙琳",
+    "name": "伊芙琳",
+    "title": "痛苦之拥",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#140a22"
+    "wr": 0
   },
   {
     "id": "twitch",
     "key": "29",
-    "name": "瘟疫之源",
-    "title": "图奇",
+    "name": "图奇",
+    "title": "瘟疫之源",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "karthus",
     "key": "30",
-    "name": "死亡颂唱者",
-    "title": "卡尔萨斯",
+    "name": "卡尔萨斯",
+    "title": "死亡颂唱者",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#030e19"
+    "wr": 0
   },
   {
     "id": "chogath",
     "key": "31",
-    "name": "虚空恐惧",
-    "title": "科加斯",
+    "name": "科加斯",
+    "title": "虚空恐惧",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#0f0c18"
+    "wr": 0
   },
   {
     "id": "amumu",
     "key": "32",
-    "name": "殇之木乃伊",
-    "title": "阿木木",
+    "name": "阿木木",
+    "title": "殇之木乃伊",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#190a09"
+    "wr": 0
   },
   {
     "id": "rammus",
     "key": "33",
-    "name": "披甲龙龟",
-    "title": "拉莫斯",
+    "name": "拉莫斯",
+    "title": "披甲龙龟",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#140b06"
+    "wr": 0
   },
   {
     "id": "anivia",
     "key": "34",
-    "name": "冰晶凤凰",
-    "title": "艾尼维亚",
+    "name": "艾尼维亚",
+    "title": "冰晶凤凰",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#060b33"
+    "wr": 0
   },
   {
     "id": "shaco",
     "key": "35",
-    "name": "恶魔小丑",
-    "title": "萨科",
+    "name": "萨科",
+    "title": "恶魔小丑",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#1b0a13"
+    "wr": 0
   },
   {
     "id": "drmundo",
     "key": "36",
-    "name": "祖安狂人",
-    "title": "蒙多医生",
+    "name": "蒙多医生",
+    "title": "祖安狂人",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#1a080d"
+    "wr": 0
   },
   {
     "id": "sona",
     "key": "37",
-    "name": "琴瑟仙女",
-    "title": "娑娜",
+    "name": "娑娜",
+    "title": "琴瑟仙女",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#0a091d"
+    "wr": 0
   },
   {
     "id": "kassadin",
     "key": "38",
-    "name": "虚空行者",
-    "title": "卡萨丁",
+    "name": "卡萨丁",
+    "title": "虚空行者",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "irelia",
     "key": "39",
-    "name": "刀锋舞者",
-    "title": "艾瑞莉娅",
+    "name": "艾瑞莉娅",
+    "title": "刀锋舞者",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#190b00"
+    "wr": 0
   },
   {
     "id": "janna",
     "key": "40",
-    "name": "风暴之怒",
-    "title": "迦娜",
+    "name": "迦娜",
+    "title": "风暴之怒",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#000e26"
+    "wr": 0
   },
   {
     "id": "gangplank",
     "key": "41",
-    "name": "海洋之灾",
-    "title": "普朗克",
+    "name": "普朗克",
+    "title": "海洋之灾",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#071011"
+    "wr": 0
   },
   {
     "id": "corki",
     "key": "42",
-    "name": "英勇投弹手",
-    "title": "库奇",
+    "name": "库奇",
+    "title": "英勇投弹手",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#170c05"
+    "wr": 0
   },
   {
     "id": "karma",
     "key": "43",
-    "name": "天启者",
-    "title": "卡尔玛",
+    "name": "卡尔玛",
+    "title": "天启者",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#2f0501"
+    "wr": 0
   },
   {
     "id": "taric",
     "key": "44",
-    "name": "瓦洛兰之盾",
-    "title": "塔里克",
+    "name": "塔里克",
+    "title": "瓦洛兰之盾",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0a2a"
+    "wr": 0
   },
   {
     "id": "veigar",
     "key": "45",
-    "name": "邪恶小法师",
-    "title": "维迦",
+    "name": "维迦",
+    "title": "邪恶小法师",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#20002e"
+    "wr": 0
   },
   {
     "id": "trundle",
     "key": "48",
-    "name": "巨魔之王",
-    "title": "特朗德尔",
+    "name": "特朗德尔",
+    "title": "巨魔之王",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#000a26"
+    "wr": 0
   },
   {
     "id": "swain",
     "key": "50",
-    "name": "诺克萨斯统领",
-    "title": "斯维因",
+    "name": "斯维因",
+    "title": "诺克萨斯统领",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#080e1d"
+    "wr": 0
   },
   {
     "id": "caitlyn",
     "key": "51",
-    "name": "皮城女警",
-    "title": "凯特琳",
+    "name": "凯特琳",
+    "title": "皮城女警",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#091013"
+    "wr": 0
   },
   {
     "id": "blitzcrank",
     "key": "53",
-    "name": "蒸汽机器人",
-    "title": "布里茨",
+    "name": "布里茨",
+    "title": "蒸汽机器人",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "malphite",
     "key": "54",
-    "name": "熔岩巨兽",
-    "title": "墨菲特",
+    "name": "墨菲特",
+    "title": "熔岩巨兽",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#1e090b"
+    "wr": 0
   },
   {
     "id": "katarina",
     "key": "55",
-    "name": "不祥之刃",
-    "title": "卡特琳娜",
+    "name": "卡特琳娜",
+    "title": "不祥之刃",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#440000"
+    "wr": 0
   },
   {
     "id": "nocturne",
     "key": "56",
-    "name": "永恒梦魇",
-    "title": "魔腾",
+    "name": "魔腾",
+    "title": "永恒梦魇",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d20"
+    "wr": 0
   },
   {
     "id": "maokai",
     "key": "57",
-    "name": "扭曲树精",
-    "title": "茂凯",
+    "name": "茂凯",
+    "title": "扭曲树精",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#000f26"
+    "wr": 0
   },
   {
     "id": "renekton",
     "key": "58",
-    "name": "荒漠屠夫",
-    "title": "雷克顿",
+    "name": "雷克顿",
+    "title": "荒漠屠夫",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#250800"
+    "wr": 0
   },
   {
     "id": "jarvaniv",
     "key": "59",
-    "name": "德玛西亚皇子",
-    "title": "嘉文四世",
+    "name": "嘉文四世",
+    "title": "德玛西亚皇子",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#170901"
+    "wr": 0
   },
   {
     "id": "elise",
     "key": "60",
-    "name": "蜘蛛女皇",
-    "title": "伊莉丝",
+    "name": "伊莉丝",
+    "title": "蜘蛛女皇",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#04101f"
+    "wr": 0
   },
   {
     "id": "orianna",
     "key": "61",
-    "name": "发条魔灵",
-    "title": "奥莉安娜",
+    "name": "奥莉安娜",
+    "title": "发条魔灵",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#1d0624"
+    "wr": 0
   },
   {
     "id": "monkeyking",
     "key": "62",
-    "name": "齐天大圣",
-    "title": "孙悟空",
+    "name": "孙悟空",
+    "title": "齐天大圣",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#180800"
+    "wr": 0
   },
   {
     "id": "brand",
     "key": "63",
-    "name": "复仇焰魂",
-    "title": "布兰德",
+    "name": "布兰德",
+    "title": "复仇焰魂",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#250601"
+    "wr": 0
   },
   {
     "id": "leesin",
     "key": "64",
-    "name": "盲僧",
-    "title": "李青",
+    "name": "李青",
+    "title": "盲僧",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#190809"
+    "wr": 0
   },
   {
     "id": "vayne",
     "key": "67",
-    "name": "暗夜猎手",
-    "title": "薇恩",
+    "name": "薇恩",
+    "title": "暗夜猎手",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#090927"
+    "wr": 0
   },
   {
     "id": "rumble",
     "key": "68",
-    "name": "机械公敌",
-    "title": "兰博",
+    "name": "兰博",
+    "title": "机械公敌",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#260701"
+    "wr": 0
   },
   {
     "id": "cassiopeia",
     "key": "69",
-    "name": "魔蛇之拥",
-    "title": "卡西奥佩娅",
+    "name": "卡西奥佩娅",
+    "title": "魔蛇之拥",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#140c01"
+    "wr": 0
   },
   {
     "id": "skarner",
     "key": "72",
-    "name": "上古领主",
-    "title": "斯卡纳",
+    "name": "斯卡纳",
+    "title": "上古领主",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "heimerdinger",
     "key": "74",
-    "name": "大发明家",
-    "title": "黑默丁格",
+    "name": "黑默丁格",
+    "title": "大发明家",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#27060c"
+    "wr": 0
   },
   {
     "id": "nasus",
     "key": "75",
-    "name": "沙漠死神",
-    "title": "内瑟斯",
+    "name": "内瑟斯",
+    "title": "沙漠死神",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0a18"
+    "wr": 0
   },
   {
     "id": "nidalee",
     "key": "76",
-    "name": "狂野女猎手",
-    "title": "奈德丽",
+    "name": "奈德丽",
+    "title": "狂野女猎手",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#021103"
+    "wr": 0
   },
   {
     "id": "udyr",
     "key": "77",
-    "name": "兽灵行者",
-    "title": "乌迪尔",
+    "name": "乌迪尔",
+    "title": "兽灵行者",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#000f0f"
+    "wr": 0
   },
   {
     "id": "poppy",
     "key": "78",
-    "name": "圣锤之毅",
-    "title": "波比",
+    "name": "波比",
+    "title": "圣锤之毅",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1
+    "wr": 0
   },
   {
     "id": "gragas",
     "key": "79",
-    "name": "酒桶",
-    "title": "古拉加斯",
+    "name": "古拉加斯",
+    "title": "酒桶",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#1b0708"
+    "wr": 0
   },
   {
     "id": "pantheon",
     "key": "80",
-    "name": "不屈之枪",
-    "title": "潘森",
+    "name": "潘森",
+    "title": "不屈之枪",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#100c07"
+    "wr": 0
   },
   {
     "id": "ezreal",
     "key": "81",
-    "name": "探险家",
-    "title": "伊泽瑞尔",
+    "name": "伊泽瑞尔",
+    "title": "探险家",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#180916"
+    "wr": 0
   },
   {
     "id": "mordekaiser",
     "key": "82",
-    "name": "铁铠冥魂",
-    "title": "莫德凯撒",
+    "name": "莫德凯撒",
+    "title": "铁铠冥魂",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "yorick",
     "key": "83",
-    "name": "牧魂人",
-    "title": "约里克",
+    "name": "约里克",
+    "title": "牧魂人",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#0f0906"
+    "wr": 0
   },
   {
     "id": "akali",
     "key": "84",
-    "name": "离群之刺",
-    "title": "阿卡丽",
+    "name": "阿卡丽",
+    "title": "离群之刺",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#000e3c"
+    "wr": 0
   },
   {
     "id": "kennen",
     "key": "85",
-    "name": "狂暴之心",
-    "title": "凯南",
+    "name": "凯南",
+    "title": "狂暴之心",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#000a3f"
+    "wr": 0
   },
   {
     "id": "garen",
     "key": "86",
-    "name": "德玛西亚之力",
-    "title": "盖伦",
+    "name": "盖伦",
+    "title": "德玛西亚之力",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#190711"
+    "wr": 0
   },
   {
     "id": "leona",
     "key": "89",
-    "name": "曙光女神",
-    "title": "蕾欧娜",
+    "name": "蕾欧娜",
+    "title": "曙光女神",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "malzahar",
     "key": "90",
-    "name": "虚空先知",
-    "title": "玛尔扎哈",
+    "name": "玛尔扎哈",
+    "title": "虚空先知",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#0e0912"
+    "wr": 0
   },
   {
     "id": "talon",
     "key": "91",
-    "name": "刀锋之影",
-    "title": "泰隆",
+    "name": "泰隆",
+    "title": "刀锋之影",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "riven",
     "key": "92",
-    "name": "放逐之刃",
-    "title": "锐雯",
+    "name": "锐雯",
+    "title": "放逐之刃",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "kogmaw",
     "key": "96",
-    "name": "深渊巨口",
-    "title": "克格莫",
+    "name": "克格莫",
+    "title": "深渊巨口",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#130a0e"
+    "wr": 0
   },
   {
     "id": "shen",
     "key": "98",
-    "name": "暮光之眼",
-    "title": "慎",
+    "name": "慎",
+    "title": "暮光之眼",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#0e0a1b"
+    "wr": 0
   },
   {
     "id": "lux",
     "key": "99",
-    "name": "光辉女郎",
-    "title": "拉克丝",
+    "name": "拉克丝",
+    "title": "光辉女郎",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "xerath",
     "key": "101",
-    "name": "远古巫灵",
-    "title": "泽拉斯",
+    "name": "泽拉斯",
+    "title": "远古巫灵",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#0b0e23"
+    "wr": 0
   },
   {
     "id": "shyvana",
     "key": "102",
-    "name": "龙血武姬",
-    "title": "希瓦娜",
+    "name": "希瓦娜",
+    "title": "龙血武姬",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#1f0907"
+    "wr": 0
   },
   {
     "id": "ahri",
     "key": "103",
-    "name": "九尾妖狐",
-    "title": "阿狸",
+    "name": "阿狸",
+    "title": "九尾妖狐",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#0a0920"
+    "wr": 0
   },
   {
     "id": "graves",
     "key": "104",
-    "name": "法外狂徒",
-    "title": "格雷福斯",
+    "name": "格雷福斯",
+    "title": "法外狂徒",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#110a08"
+    "wr": 0
   },
   {
     "id": "fizz",
     "key": "105",
-    "name": "潮汐海灵",
-    "title": "菲兹",
+    "name": "菲兹",
+    "title": "潮汐海灵",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#090f03"
+    "wr": 0
   },
   {
     "id": "volibear",
     "key": "106",
-    "name": "不灭狂雷",
-    "title": "沃利贝尔",
+    "name": "沃利贝尔",
+    "title": "不灭狂雷",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#000f2b"
+    "wr": 0
   },
   {
     "id": "rengar",
     "key": "107",
-    "name": "傲之追猎者",
-    "title": "雷恩加尔",
+    "name": "雷恩加尔",
+    "title": "傲之追猎者",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#001400"
+    "wr": 0
   },
   {
     "id": "varus",
     "key": "110",
-    "name": "惩戒之箭",
-    "title": "韦鲁斯",
+    "name": "韦鲁斯",
+    "title": "惩戒之箭",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#270509"
+    "wr": 0
   },
   {
     "id": "nautilus",
     "key": "111",
-    "name": "深海泰坦",
-    "title": "诺提勒斯",
+    "name": "诺提勒斯",
+    "title": "深海泰坦",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#0b0e00"
+    "wr": 0
   },
   {
     "id": "viktor",
     "key": "112",
-    "name": "奥术先驱",
-    "title": "维克托",
+    "name": "维克托",
+    "title": "奥术先驱",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#310000"
+    "wr": 0
   },
   {
     "id": "sejuani",
     "key": "113",
-    "name": "北地之怒",
-    "title": "瑟庄妮",
+    "name": "瑟庄妮",
+    "title": "北地之怒",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#090915"
+    "wr": 0
   },
   {
     "id": "fiora",
     "key": "114",
-    "name": "无双剑姬",
-    "title": "菲奥娜",
+    "name": "菲奥娜",
+    "title": "无双剑姬",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#0c091c"
+    "wr": 0
   },
   {
     "id": "ziggs",
     "key": "115",
-    "name": "爆破鬼才",
-    "title": "吉格斯",
+    "name": "吉格斯",
+    "title": "爆破鬼才",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#370000"
+    "wr": 0
   },
   {
     "id": "lulu",
     "key": "117",
-    "name": "仙灵女巫",
-    "title": "璐璐",
+    "name": "璐璐",
+    "title": "仙灵女巫",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#150d09"
+    "wr": 0
   },
   {
     "id": "draven",
     "key": "119",
-    "name": "荣耀行刑官",
-    "title": "德莱文",
+    "name": "德莱文",
+    "title": "荣耀行刑官",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#0b0921"
+    "wr": 0
   },
   {
     "id": "hecarim",
     "key": "120",
-    "name": "战争之影",
-    "title": "赫卡里姆",
+    "name": "赫卡里姆",
+    "title": "战争之影",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#000c12"
+    "wr": 0
   },
   {
     "id": "khazix",
     "key": "121",
-    "name": "虚空掠夺者",
-    "title": "卡兹克",
+    "name": "卡兹克",
+    "title": "虚空掠夺者",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#10090e"
+    "wr": 0
   },
   {
     "id": "darius",
     "key": "122",
-    "name": "诺克萨斯之手",
-    "title": "德莱厄斯",
+    "name": "德莱厄斯",
+    "title": "诺克萨斯之手",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#2e0509"
+    "wr": 0
   },
   {
     "id": "jayce",
     "key": "126",
-    "name": "未来守护者",
-    "title": "杰斯",
+    "name": "杰斯",
+    "title": "未来守护者",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1
+    "wr": 0
   },
   {
     "id": "lissandra",
     "key": "127",
-    "name": "冰霜女巫",
-    "title": "丽桑卓",
+    "name": "丽桑卓",
+    "title": "冰霜女巫",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#020f17"
+    "wr": 0
   },
   {
     "id": "diana",
     "key": "131",
-    "name": "皎月女神",
-    "title": "黛安娜",
+    "name": "黛安娜",
+    "title": "皎月女神",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#0f0b1b"
+    "wr": 0
   },
   {
     "id": "quinn",
     "key": "133",
-    "name": "德玛西亚之翼",
-    "title": "奎因",
+    "name": "奎因",
+    "title": "德玛西亚之翼",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "syndra",
     "key": "134",
-    "name": "暗黑元首",
-    "title": "辛德拉",
+    "name": "辛德拉",
+    "title": "暗黑元首",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#1c0a15"
+    "wr": 0
   },
   {
     "id": "aurelionsol",
     "key": "136",
-    "name": "铸星龙王",
-    "title": "奥瑞利安·索尔",
+    "name": "奥瑞利安·索尔",
+    "title": "铸星龙王",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "kayn",
     "key": "141",
-    "name": "影流之镰",
-    "title": "凯隐",
+    "name": "凯隐",
+    "title": "影流之镰",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "zoe",
     "key": "142",
-    "name": "暮光星灵",
-    "title": "佐伊",
+    "name": "佐伊",
+    "title": "暮光星灵",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "zyra",
     "key": "143",
-    "name": "荆棘之兴",
-    "title": "婕拉",
+    "name": "婕拉",
+    "title": "荆棘之兴",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#2f0104"
+    "wr": 0
   },
   {
     "id": "kaisa",
     "key": "145",
-    "name": "虚空之女",
-    "title": "卡莎",
+    "name": "卡莎",
+    "title": "虚空之女",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "seraphine",
     "key": "147",
-    "name": "星籁歌姬",
-    "title": "萨勒芬妮",
+    "name": "萨勒芬妮",
+    "title": "星籁歌姬",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "gnar",
     "key": "150",
-    "name": "迷失之牙",
-    "title": "纳尔",
+    "name": "纳尔",
+    "title": "迷失之牙",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#280500"
+    "wr": 0
   },
   {
     "id": "zac",
     "key": "154",
-    "name": "生化魔人",
-    "title": "扎克",
+    "name": "扎克",
+    "title": "生化魔人",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#001400"
+    "wr": 0
   },
   {
     "id": "yasuo",
     "key": "157",
-    "name": "疾风剑豪",
-    "title": "亚索",
+    "name": "亚索",
+    "title": "疾风剑豪",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#100d0b"
+    "wr": 0
   },
   {
     "id": "velkoz",
     "key": "161",
-    "name": "虚空之眼",
-    "title": "维克兹",
+    "name": "维克兹",
+    "title": "虚空之眼",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#100b29"
+    "wr": 0
   },
   {
     "id": "taliyah",
     "key": "163",
-    "name": "岩雀",
-    "title": "塔莉垭",
+    "name": "塔莉垭",
+    "title": "岩雀",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "camille",
     "key": "164",
-    "name": "青钢影",
-    "title": "卡蜜尔",
+    "name": "卡蜜尔",
+    "title": "青钢影",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "akshan",
     "key": "166",
-    "name": "影哨",
-    "title": "阿克尚",
+    "name": "阿克尚",
+    "title": "影哨",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "belveth",
     "key": "200",
-    "name": "虚空女皇",
-    "title": "卑尔维斯",
+    "name": "卑尔维斯",
+    "title": "虚空女皇",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "braum",
     "key": "201",
-    "name": "弗雷尔卓德之心",
-    "title": "布隆",
+    "name": "布隆",
+    "title": "弗雷尔卓德之心",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "jhin",
     "key": "202",
-    "name": "戏命师",
-    "title": "烬",
+    "name": "烬",
+    "title": "戏命师",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#120d0a"
+    "wr": 0
   },
   {
     "id": "kindred",
     "key": "203",
-    "name": "永猎双子",
-    "title": "千珏",
+    "name": "千珏",
+    "title": "永猎双子",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#130d13"
+    "wr": 0
   },
   {
     "id": "zeri",
     "key": "221",
-    "name": "祖安花火",
-    "title": "泽丽",
+    "name": "泽丽",
+    "title": "祖安花火",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1
+    "wr": 0
   },
   {
     "id": "jinx",
     "key": "222",
-    "name": "暴走萝莉",
-    "title": "金克丝",
+    "name": "金克丝",
+    "title": "暴走萝莉",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1
+    "wr": 0
   },
   {
     "id": "tahmkench",
     "key": "223",
-    "name": "河流之王",
-    "title": "塔姆",
+    "name": "塔姆",
+    "title": "河流之王",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": "#040c09"
+    "wr": 0
   },
   {
     "id": "briar",
     "key": "233",
-    "name": "狂厄蔷薇",
-    "title": "贝蕾亚",
+    "name": "贝蕾亚",
+    "title": "狂厄蔷薇",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "viego",
     "key": "234",
-    "name": "破败之王",
-    "title": "佛耶戈",
+    "name": "佛耶戈",
+    "title": "破败之王",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "senna",
     "key": "235",
-    "name": "涤魂圣枪",
-    "title": "赛娜",
+    "name": "赛娜",
+    "title": "涤魂圣枪",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "lucian",
     "key": "236",
-    "name": "圣枪游侠",
-    "title": "卢锡安",
+    "name": "卢锡安",
+    "title": "圣枪游侠",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#150b14"
+    "wr": 0
   },
   {
     "id": "zed",
     "key": "238",
-    "name": "影流之主",
-    "title": "劫",
+    "name": "劫",
+    "title": "影流之主",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#130d07"
+    "wr": 0
   },
   {
     "id": "kled",
     "key": "240",
-    "name": "暴怒骑士",
-    "title": "克烈",
+    "name": "克烈",
+    "title": "暴怒骑士",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "ekko",
     "key": "245",
-    "name": "时间刺客",
-    "title": "艾克",
+    "name": "艾克",
+    "title": "时间刺客",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": "#090f0d"
+    "wr": 0
   },
   {
     "id": "qiyana",
     "key": "246",
-    "name": "元素女皇",
-    "title": "奇亚娜",
+    "name": "奇亚娜",
+    "title": "元素女皇",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "vi",
     "key": "254",
-    "name": "皮城执法官",
-    "title": "蔚",
+    "name": "蔚",
+    "title": "皮城执法官",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#190707"
+    "wr": 0
   },
   {
     "id": "aatrox",
     "key": "266",
-    "name": "暗裔剑魔",
-    "title": "亚托克斯",
+    "name": "亚托克斯",
+    "title": "暗裔剑魔",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#23040f"
+    "wr": 0
   },
   {
     "id": "nami",
     "key": "267",
-    "name": "唤潮鲛姬",
-    "title": "娜美",
+    "name": "娜美",
+    "title": "唤潮鲛姬",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#00120c"
+    "wr": 0
   },
   {
     "id": "azir",
     "key": "268",
-    "name": "沙漠皇帝",
-    "title": "阿兹尔",
+    "name": "阿兹尔",
+    "title": "沙漠皇帝",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1
+    "wr": 0
   },
   {
     "id": "yuumi",
     "key": "350",
-    "name": "魔法猫咪",
-    "title": "悠米",
+    "name": "悠米",
+    "title": "魔法猫咪",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "samira",
     "key": "360",
-    "name": "沙漠玫瑰",
-    "title": "莎弥拉",
+    "name": "莎弥拉",
+    "title": "沙漠玫瑰",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "thresh",
     "key": "412",
-    "name": "魂锁典狱长",
-    "title": "锤石",
+    "name": "锤石",
+    "title": "魂锁典狱长",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#0d0d0d"
+    "wr": 0
   },
   {
     "id": "illaoi",
     "key": "420",
-    "name": "海兽祭司",
-    "title": "俄洛伊",
+    "name": "俄洛伊",
+    "title": "海兽祭司",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#090e01"
+    "wr": 0
   },
   {
     "id": "reksai",
     "key": "421",
-    "name": "虚空遁地兽",
-    "title": "雷克塞",
+    "name": "雷克塞",
+    "title": "虚空遁地兽",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": "#15080b"
+    "wr": 0
   },
   {
     "id": "ivern",
     "key": "427",
-    "name": "翠神",
-    "title": "艾翁",
+    "name": "艾翁",
+    "title": "翠神",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "kalista",
     "key": "429",
-    "name": "复仇之矛",
-    "title": "卡莉丝塔",
+    "name": "卡莉丝塔",
+    "title": "复仇之矛",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": "#00101c"
+    "wr": 0
   },
   {
     "id": "bard",
     "key": "432",
-    "name": "星界游神",
-    "title": "巴德",
+    "name": "巴德",
+    "title": "星界游神",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": "#290600"
+    "wr": 0
   },
   {
     "id": "rakan",
     "key": "497",
-    "name": "幻翎",
-    "title": "洛",
+    "name": "洛",
+    "title": "幻翎",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "xayah",
     "key": "498",
-    "name": "逆羽",
-    "title": "霞",
+    "name": "霞",
+    "title": "逆羽",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "ornn",
     "key": "516",
-    "name": "山隐之焰",
-    "title": "奥恩",
+    "name": "奥恩",
+    "title": "山隐之焰",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "sylas",
     "key": "517",
-    "name": "解脱者",
-    "title": "塞拉斯",
+    "name": "塞拉斯",
+    "title": "解脱者",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "neeko",
     "key": "518",
-    "name": "万花通灵",
-    "title": "妮蔻",
+    "name": "妮蔻",
+    "title": "万花通灵",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "aphelios",
     "key": "523",
-    "name": "残月之肃",
-    "title": "厄斐琉斯",
+    "name": "厄斐琉斯",
+    "title": "残月之肃",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "rell",
     "key": "526",
-    "name": "镕铁少女",
-    "title": "芮尔",
+    "name": "芮尔",
+    "title": "镕铁少女",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "pyke",
     "key": "555",
-    "name": "血港鬼影",
-    "title": "派克",
+    "name": "派克",
+    "title": "血港鬼影",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "vex",
     "key": "711",
-    "name": "愁云使者",
-    "title": "薇古丝",
+    "name": "薇古丝",
+    "title": "愁云使者",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "yone",
     "key": "777",
-    "name": "封魔剑魂",
-    "title": "永恩",
+    "name": "永恩",
+    "title": "封魔剑魂",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "ambessa",
     "key": "799",
-    "name": "铁血狼母",
-    "title": "安蓓萨",
+    "name": "安蓓萨",
+    "title": "铁血狼母",
+    "color": "#E67E22",
     "lol": 1,
     "wr": 0
   },
   {
     "id": "mel",
     "key": "800",
-    "name": "流光镜影",
-    "title": "梅尔",
+    "name": "梅尔",
+    "title": "流光镜影",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "yunara",
     "key": "804",
-    "name": "不破之誓",
-    "title": "芸阿娜",
+    "name": "芸阿娜",
+    "title": "不破之誓",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
+  },
+  {
+    "id": "locke",
+    "key": "805",
+    "name": "洛克",
+    "title": "灰烬驱魔人",
+    "color": "#E74C3C",
+    "lol": 1,
+    "wr": 0
   },
   {
     "id": "sett",
     "key": "875",
-    "name": "腕豪",
-    "title": "瑟提",
+    "name": "瑟提",
+    "title": "腕豪",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "lillia",
     "key": "876",
-    "name": "含羞蓓蕾",
-    "title": "莉莉娅",
+    "name": "莉莉娅",
+    "title": "含羞蓓蕾",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "gwen",
     "key": "887",
-    "name": "灵罗娃娃",
-    "title": "格温",
+    "name": "格温",
+    "title": "灵罗娃娃",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "renata",
     "key": "888",
-    "name": "炼金男爵",
-    "title": "烈娜塔 · 戈拉斯克",
+    "name": "烈娜塔 · 戈拉斯克",
+    "title": "炼金男爵",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "aurora",
     "key": "893",
-    "name": "双界灵兔",
-    "title": "阿萝拉",
+    "name": "阿萝拉",
+    "title": "双界灵兔",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "nilah",
     "key": "895",
-    "name": "不羁之悦",
-    "title": "尼菈",
+    "name": "尼菈",
+    "title": "不羁之悦",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "ksante",
     "key": "897",
-    "name": "纳祖芒荣耀",
-    "title": "奎桑提",
+    "name": "奎桑提",
+    "title": "纳祖芒荣耀",
+    "color": "#1ABC9C",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "smolder",
     "key": "901",
-    "name": "炽炎雏龙",
-    "title": "斯莫德",
+    "name": "斯莫德",
+    "title": "炽炎雏龙",
+    "color": "#3498DB",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "milio",
     "key": "902",
-    "name": "明烛",
-    "title": "米利欧",
+    "name": "米利欧",
+    "title": "明烛",
+    "color": "#2ECC71",
     "lol": 1,
-    "wr": 1,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "zaahen",
     "key": "904",
-    "name": "不落魔锋",
-    "title": "亚恒",
+    "name": "亚恒",
+    "title": "不落魔锋",
+    "color": "#E67E22",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "hwei",
     "key": "910",
-    "name": "异画师",
-    "title": "彗",
+    "name": "彗",
+    "title": "异画师",
+    "color": "#9B59B6",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   },
   {
     "id": "naafiri",
     "key": "950",
-    "name": "百裂冥犬",
-    "title": "纳亚菲利",
+    "name": "纳亚菲利",
+    "title": "百裂冥犬",
+    "color": "#E74C3C",
     "lol": 1,
-    "wr": 0,
-    "color": ""
+    "wr": 0
   }
 ]
