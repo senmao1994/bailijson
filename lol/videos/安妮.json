@@ -1,0 +1,22 @@
+{
+  "id": "annie",
+  "name": "安妮",
+  "key": "1",
+  "skins": [
+    {
+      "name": "万魔殿 安妮",
+      "bv": "BV1PPoBBWE4H",
+      "bvImageId": "e186e670e4daf31dbbc7dcd513da34409f8b5ac5",
+      "date": "2026年04月27日 09:38:01"
+    },
+    {
+      "name": "万魔殿 安妮",
+      "bv": "7633808051807571254",
+      "platform": "douyin",
+      "bvImageId": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/6f47e2e7880d41909ce987ddd208e5e0~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2097036000&x-signature=Dq3okmVvUyhrS9PbyabqR%2Bt7M8w%3D",
+      "date": "2026年04月27日 09:38:01"
+    }
+  ],
+  "other": [],
+  "mobile": []
+}
