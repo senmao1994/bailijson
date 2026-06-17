@@ -5,14 +5,16 @@
   "championName": "安妮",
   "championKey": "1",
   "type": "skin",
-  "date": "2026年04月27日 09:38:01",
-  "cover": "e186e670e4daf31dbbc7dcd513da34409f8b5ac5",
-  "bilibili": {
-    "bv": "BV1PPoBBWE4H",
-    "cover": "e186e670e4daf31dbbc7dcd513da34409f8b5ac5"
-  },
-  "douyin": {
-    "id": "7633808051807571254",
-    "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/6f47e2e7880d41909ce987ddd208e5e0~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2097036000&x-signature=Dq3okmVvUyhrS9PbyabqR%2Bt7M8w%3D"
-  }
+  "videos": [
+    {
+      "date": "2026年04月27日 09:38:01",
+      "cover": "e186e670e4daf31dbbc7dcd513da34409f8b5ac5",
+      "bilibili": {
+        "bv": "BV1PPoBBWE4H"
+      },
+      "douyin": {
+        "id": "7633808051807571254"
+      }
+    }
+  ]
 }
