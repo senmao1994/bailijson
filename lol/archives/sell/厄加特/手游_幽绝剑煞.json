@@ -1,0 +1,62 @@
+{
+  "id": 1010207,
+  "name": "幽绝剑煞 厄加特",
+  "roitName": "Abyssal Sword Urgot",
+  "sortName": "幽绝剑煞",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "对决",
+  "universe": "玉剑传说",
+  "pushDate": "",
+  "series": null,
+  "backstory": "厄加特本是宗派长老，执掌戒律，专斩宗门叛徒与堕恶修士。而门规愈肃，则积怨益深。一次暗斗之中，他痛失右臂，残躯落入绝渊。自此，世间少了一位修行者……而在得道之路上，却杀出了一头满身煞气的机关恶兽。",
+  "accessories": [
+    "边框",
+    "姿态：起势"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Urgot_6.jpg",
+  "splashHDPath": "https://wiki.leagueoflegends.com/en-us/images/Urgot_AbyssalSwordSkin_WR.jpg?c0938",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_urgot_skin06.png",
+  "circlePath": "https://wiki.leagueoflegends.com/en-us/images/Urgot_AbyssalSwordCircle_WR.png?9ff90",
+  "specialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Urgot_AbyssalSwordSquare_WR_Special_Edition.png?ae927",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010207.png",
+  "loadingSpecialEditionPath": "https://wiki.leagueoflegends.com/en-us/images/Urgot_AbyssalSwordLoading_WR_Special_Edition.png?ec09f",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年6月18日",
+    "endDate": "长期销售",
+    "description": "半价截止到6月24日前",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

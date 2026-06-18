@@ -1,7 +1,8 @@
 {
-  "id": "urgot",
-  "name": "无畏战车",
-  "alias": "Urgot",
-  "key": 6,
-  "title": "厄加特"
+  "id": 10102,
+  "name": "厄加特",
+  "alias": "ejiate",
+  "key": "10102",
+  "title": "无畏战车",
+  "platform": "wr"
 }
