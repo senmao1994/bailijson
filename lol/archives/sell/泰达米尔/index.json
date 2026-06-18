@@ -1,7 +1,8 @@
 {
-  "id": "tryndamere",
-  "name": "蛮族之王",
-  "alias": "Tryndamere",
-  "key": 23,
-  "title": "泰达米尔"
+  "id": 10015,
+  "name": "泰达米尔",
+  "alias": "taidamier",
+  "key": "10015",
+  "title": "蛮族之王",
+  "platform": "wr"
 }

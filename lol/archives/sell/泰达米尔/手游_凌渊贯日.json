@@ -1,0 +1,59 @@
+{
+  "id": 1001512,
+  "name": "凌渊贯日 泰达米尔",
+  "roitName": "Wavebreaker Sword Tryndamere Exquisite Edition",
+  "sortName": "凌渊贯日",
+  "rarity": "神话",
+  "raritySubType": "臻宝",
+  "price": "500",
+  "priceUnit": "橙色原石",
+  "skinline": "对决",
+  "universe": "玉剑传说",
+  "pushDate": "",
+  "series": null,
+  "backstory": "泰达米尔自极北酷寒之地而来，为寻求武道至高奥义，一路挑战直下江南。听闻静湖之底蕴藏仙力，他沐浴更衣，高声拜请静湖赐予他力量。黛安娜踏浪而来，她气吞湖海一般的剑招连连递向泰达米尔。两人从月下战至天明，依旧不分伯仲，但泰达米尔已经从黛安娜的剑意中，获得了精进自身武学的灵感。",
+  "accessories": [
+    "边框",
+    "姿态：气魄",
+    "姿态：灵剑威能"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Tryndamere_11.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_tryndamere_skin11.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001512.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.1",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年6月18日",
+    "endDate": "2026年7月17日",
+    "description": "战利品商店轮换：首周400橙色原石",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
