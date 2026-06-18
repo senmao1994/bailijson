@@ -1,7 +1,8 @@
 {
-  "id": "blitzcrank",
-  "name": "蒸汽机器人",
-  "alias": "Blitzcrank",
-  "key": 53,
-  "title": "布里茨"
+  "id": 10033,
+  "name": "布里茨",
+  "alias": "bulici",
+  "key": "10033",
+  "title": "蒸汽机器人",
+  "platform": "wr"
 }
