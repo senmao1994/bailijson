@@ -1,0 +1,50 @@
+{
+  "id": 202005,
+  "name": "暗星尊 烬",
+  "roitName": "Dark Cosmic Jhin",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "暗星",
+  "universe": "黑洞边境",
+  "pushDate": null,
+  "series": null,
+  "backstory": "烬曾是一个星间实体，被暗星吞噬并赋予了新的目标。现在，他不老的意志已被全能之力的幻觉所浸染，并被一种永不满足的饥饿所吞噬。他似乎因一时兴起就洗劫着整个太空领域，来用残余物创造奇异、寂静的艺术品。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin05/images/jhin_splash_uncentered_5.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin05/images/jhin_splash_tile_5.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin05/images/jhin_splash_centered_5.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin05/jhinloadscreen_5.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin05/jhinloadscreen_5_le.jpg",
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 9900,
+  "icon": "4161",
+  "tencent": {
+    "price": 9900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2019年6月18日10:00",
+    "priceEndDay": "2019年7月2日9:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "9.12",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.13"
+  },
+  "platform": "lol"
+}
