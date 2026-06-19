@@ -19,22 +19,22 @@
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin37/jhinloadscreen_37.jpg",
   "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin37/jhinloadscreen_37_le.jpg",
   "roit": {
-    "price": 30,
+    "price": 40,
     "priceType": "神话幻想",
     "priceStartDay": "",
     "priceEndDay": "",
     "description": ""
   },
-  "tencentPrice": 30,
+  "tencentPrice": 40,
   "icon": "6246",
   "tencent": {
-    "price": 30,
+    "price": 40,
     "priceType": "神话幻想",
     "priceTypeChinese": "神话幻想",
     "priceStartDay": "2023年9月1日",
     "priceEndDay": "2023年10月2日23:59",
     "description": "",
-    "hasFullGiftPack": true
+    "hasFullGiftPack": false
   },
   "chromas": [],
   "formsCount": null,
@@ -44,7 +44,7 @@
     "update": "",
     "updateChinese": "",
     "updateName": "",
-    "video": ""
+    "video": "26.13"
   },
   "platform": "lol"
 }
