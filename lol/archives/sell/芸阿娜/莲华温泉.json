@@ -134,9 +134,9 @@
       "tencent": {
         "price": 0,
         "priceType": "臻彩",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-55b04fca-a900-413f-abe9-80bb04b36c59.jpg",
+        "priceStartDay": "2026年6月5日",
+        "priceEndDay": "2026年7月5日",
+        "description": "璀璨臻彩召唤活动·一等奖",
         "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
@@ -145,7 +145,8 @@
           "activityTitle": "",
           "price": "",
           "priceUnit": ""
-        }
+        },
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-55b04fca-a900-413f-abe9-80bb04b36c59.jpg"
       },
       "roit": {
         "price": 290,
@@ -178,9 +179,9 @@
       "tencent": {
         "price": 0,
         "priceType": "臻彩",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "priceStartDay": "2026年1月5日",
+        "priceEndDay": "2026年2月4日",
+        "description": "幸运之门·召唤",
         "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
@@ -402,5 +403,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
