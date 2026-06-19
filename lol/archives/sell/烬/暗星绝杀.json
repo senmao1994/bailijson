@@ -34,7 +34,7 @@
     "priceStartDay": "2023年9月1日",
     "priceEndDay": "2023年10月2日23:59",
     "description": "",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [],
   "formsCount": null,
