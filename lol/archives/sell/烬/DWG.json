@@ -1,0 +1,82 @@
+{
+  "id": 202023,
+  "name": "DWG 烬",
+  "roitName": "DWG Jhin",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "全球总冠军：2020",
+  "universe": "电竞",
+  "pushDate": null,
+  "series": null,
+  "backstory": "以此致敬Ghost在2020全球总决赛中使用烬的夺胜表现。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin23/images/jhin_splash_uncentered_23.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin23/images/jhin_splash_tile_23.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin23/images/jhin_splash_centered_23.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202023.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin23/jhinloadscreen_23.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin23/jhinloadscreen_23_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "4929",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "冠军限定",
+    "priceStartDay": "2021年4月30日12:00",
+    "priceEndDay": "2021年6月16日9:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 202024,
+      "name": "DWG 烬 精锐",
+      "sortName": "精锐",
+      "colorName": "冠军战队",
+      "tencent": {
+        "price": 13900,
+        "priceType": "礼包",
+        "priceStartDay": "2021年4月30日12:00",
+        "priceEndDay": "2021年6月16日9:59",
+        "description": "礼包包含：皮肤+精锐 炫彩+签名图标",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "DWG 烬 精锐",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202024.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#050B19",
+        "#0055FF"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "11.9",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.13"
+  },
+  "platform": "lol"
+}
