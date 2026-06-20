@@ -221,9 +221,9 @@
       "tencent": {
         "price": 0,
         "priceType": "臻彩",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "priceStartDay": "2026年6月18日",
+        "priceEndDay": "2026年7月19日23:59",
+        "description": "璀璨臻彩召唤活动·特等奖",
         "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
@@ -401,5 +401,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
