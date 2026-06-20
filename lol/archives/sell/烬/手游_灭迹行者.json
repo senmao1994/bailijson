@@ -1,0 +1,59 @@
+{
+  "id": 1002206,
+  "name": "灭迹行者 烬",
+  "roitName": "Supervillain Jhin",
+  "sortName": "灭迹行者",
+  "rarity": "史诗",
+  "raritySubType": "宝典限定",
+  "price": "680",
+  "priceUnit": "点券",
+  "skinline": "神奇宇宙",
+  "universe": "",
+  "pushDate": "",
+  "series": null,
+  "backstory": "城市里远离街灯的黑暗中，潜伏着一道危险的暗影，正在寻找着下一个猎物。突然传来的骚动打断了暗影的猎捕，他及时收手，目睹了一场超能力对决——眼前的两个蒙面人仿佛刀枪不入，打得如火如荼。从此，他的心里埋下了一颗种子。很快，一株龙葵便会盛放。",
+  "accessories": [
+    "边框",
+    "姿态：深谋",
+    "姿态：嚣张"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jhin_5.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_jhin_skin05.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002206.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "3.5",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2022年11月18日",
+    "endDate": "2023年1月6日",
+    "description": "灭迹行者 烬 前卫艺术 75级领取",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
