@@ -1,0 +1,50 @@
+{
+  "id": 202004,
+  "name": "源计划：升华 烬",
+  "roitName": "PROJECT: Jhin",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "源计划",
+  "universe": "源计划",
+  "pushDate": null,
+  "series": null,
+  "backstory": "一次拙劣的手术过后，烬从一个黑市增强体黑客变为一个机械化雇佣杀手。他的程序依然嗜好高权限升级组件，但烬从猎物身上得来的部件让他出现严重的人格分裂，而且对源计划和整个人类的未来产生了一种黑暗愿景。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin04/images/jhin_splash_uncentered_4.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin04/images/jhin_splash_tile_4.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin04/images/jhin_splash_centered_4.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin04/jhinloadscreen_4.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin04/jhinloadscreen_4_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "3184",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2017年11月28日",
+    "priceEndDay": "2017年12月17日",
+    "description": "源计划：猎 任务 获取 可得图标和边框",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.23",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
