@@ -1,7 +1,7 @@
 {
   "id": 1002211,
   "name": "青花瓷 烬",
-  "roitName": "\rPorcelain Jhin",
+  "roitName": "Porcelain Jhin",
   "sortName": "青花瓷",
   "rarity": "史诗",
   "raritySubType": "",
@@ -9,7 +9,7 @@
   "priceUnit": "点券",
   "skinline": "古意",
   "universe": "青花瓷",
-  "pushDate": "",
+  "pushDate": "6.1",
   "series": null,
   "backstory": "深藏于历史阴影中的烬神秘而邪恶，在远古时代就曾暗中帮助女巫丽桑卓夺取灵蛇圣物。随着莎拉·厄运召唤初代守护者的灵魂前来协助，这位共谋者也从远古圣物中苏醒，试着完成他未竟的作品。这千年后的第一画，就以一发狙向守护者们的冷箭开始。",
   "accessories": [
@@ -40,13 +40,6 @@
   "chromas": [],
   "formsCount": null,
   "forms": [],
-  "version": {
-    "push": "6.1",
-    "update": "",
-    "updateChinese": "",
-    "updateName": "",
-    "video": ""
-  },
   "sell": {
     "startDate": "2025年6月27日",
     "endDate": "长期销售",
