@@ -57,7 +57,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a5g4o2evqg2i0tc3u7h138ggjuj01v67.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-a8642af1-1ca8-4a7f-a81c-6b8539b46f8d.jpg"
       },
       "roit": {
         "price": 290,
@@ -135,7 +135,7 @@
         "price": 0,
         "priceType": "臻彩",
         "priceStartDay": "2026年2月1日",
-        "priceEndDay": "3月1日23:59",
+        "priceEndDay": "2026年3月1日23:59",
         "description": "金鸿秘宝活动 臻彩红包",
         "hasFullGiftPack": false,
         "wildRiftSell": {
@@ -146,7 +146,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/agq04n84jtfs7stoub8woqc2g6mrxdbn.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-48d32c9c-909e-43ed-ba1f-3c9c5806c37c.jpg"
       },
       "roit": {
         "price": 290,
@@ -312,5 +312,6 @@
     "updateChinese": "视觉更新",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
