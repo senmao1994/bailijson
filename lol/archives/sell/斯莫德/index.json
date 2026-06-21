@@ -1,7 +1,7 @@
-{
-  "id": "smolder",
-  "name": "炽炎雏龙",
-  "alias": "Smolder",
-  "key": 901,
-  "title": "斯莫德"
+﻿{
+    "id":  "smolder",
+    "name":  "斯莫德",
+    "alias":  "Smolder",
+    "key":  901,
+    "title":  "炽炎雏龙"
 }

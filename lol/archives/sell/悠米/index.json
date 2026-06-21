@@ -1,7 +1,7 @@
-{
-  "id": "yuumi",
-  "name": "魔法猫咪",
-  "alias": "Yuumi",
-  "key": 350,
-  "title": "悠米"
+﻿{
+    "id":  "yuumi",
+    "name":  "悠米",
+    "alias":  "Yuumi",
+    "key":  350,
+    "title":  "魔法猫咪"
 }

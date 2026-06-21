@@ -1,7 +1,7 @@
-{
-  "id": "fiddlesticks",
-  "name": "远古恐惧",
-  "alias": "Fiddlesticks",
-  "key": 9,
-  "title": "费德提克"
+﻿{
+    "id":  "fiddlesticks",
+    "name":  "费德提克",
+    "alias":  "Fiddlesticks",
+    "key":  9,
+    "title":  "远古恐惧"
 }

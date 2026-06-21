@@ -1,7 +1,7 @@
-{
-  "id": "xerath",
-  "name": "远古巫灵",
-  "alias": "Xerath",
-  "key": 101,
-  "title": "泽拉斯"
+﻿{
+    "id":  "xerath",
+    "name":  "泽拉斯",
+    "alias":  "Xerath",
+    "key":  101,
+    "title":  "远古巫灵"
 }

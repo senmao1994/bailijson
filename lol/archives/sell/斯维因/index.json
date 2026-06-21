@@ -1,7 +1,7 @@
-{
-  "id": "swain",
-  "name": "诺克萨斯统领",
-  "alias": "Swain",
-  "key": 50,
-  "title": "斯维因"
+﻿{
+    "id":  "swain",
+    "name":  "斯维因",
+    "alias":  "Swain",
+    "key":  50,
+    "title":  "诺克萨斯统领"
 }

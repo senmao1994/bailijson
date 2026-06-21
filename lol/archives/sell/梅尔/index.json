@@ -1,7 +1,7 @@
-{
-  "id": "mel",
-  "name": "流光镜影",
-  "alias": "Mel",
-  "key": 800,
-  "title": "梅尔"
+﻿{
+    "id":  "mel",
+    "name":  "梅尔",
+    "alias":  "Mel",
+    "key":  800,
+    "title":  "流光镜影"
 }
