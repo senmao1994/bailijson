@@ -35,7 +35,7 @@
     "priceStartDay": "2019年4月24日4:00",
     "priceEndDay": "6月6日23:59",
     "description": "签名版礼包和皮肤均为限时销售，皮肤每年S赛期间返场",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -58,7 +58,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aog3fvty4lkg2vakynokwvnhtwy4h798.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-cc380834-baf6-4ae4-a8bb-cd72e37d398f.jpg"
       },
       "roit": {
         "price": 290,
@@ -103,7 +103,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a3mtr6m4pzhb98v5r0kd40h8zh2jfyb1.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-a07b551f-5b3a-4d89-bea8-55d2f7395576.jpg"
       },
       "roit": {
         "price": 290,
@@ -137,5 +137,6 @@
     "updateChinese": "视觉更新",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }

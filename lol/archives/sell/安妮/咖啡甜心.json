@@ -10,18 +10,15 @@
   "skinline": "咖啡甜心",
   "universe": "咖啡甜心",
   "pushDate": "2021年12月2日",
-  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_uncentered_22.jpg",
-  "splashHDPath": "",
-  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_tile_22.jpg",
-  "iconPath": null,
-  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_centered_22.jpg",
-  "circlePath": "",
-  "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1022.png",
-  "specialEditionPath": null,
-  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/annieloadscreen_22.jpg",
-  "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/annieloadscreen_22_le.jpg",
+  "series": null,
   "backstory": "作为咖啡馆老板的女儿和一位多才多艺的糕点法师神童，安妮对甜食有着不容忽视的酷爱。虽然她偶尔因肚饿而发脾气时，会派她施了魔法的小熊软糖在咖啡馆里搜寻适合主人吃的任何食物，但饱餐后的安妮就像糖一样甜！",
   "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_uncentered_22.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_tile_22.jpg",
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_centered_22.jpg",
+  "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1022.png",
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/annieloadscreen_22.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/annieloadscreen_22_le.jpg",
   "roit": {
     "price": 1350,
     "priceType": "直售",
@@ -37,7 +34,8 @@
     "priceTypeChinese": "",
     "priceStartDay": "2021年12月3日 10:00",
     "priceEndDay": "长期销售",
-    "description": ""
+    "description": "",
+    "hasFullGiftPack": false
   },
   "chromas": [
     {
@@ -51,6 +49,7 @@
         "priceStartDay": "2021年12月3日 10:00",
         "priceEndDay": "2022年1月2日 23:59",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
@@ -80,6 +79,7 @@
         "priceStartDay": "2021年12月3日 10:00",
         "priceEndDay": "14.5版本",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
@@ -109,6 +109,7 @@
         "priceStartDay": "2021年12月3日 10:00",
         "priceEndDay": "14.5版本",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
@@ -138,6 +139,7 @@
         "priceStartDay": "2021年12月3日 10:00",
         "priceEndDay": "14.5版本",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
@@ -167,6 +169,7 @@
         "priceStartDay": "2021年12月3日 10:00",
         "priceEndDay": "14.5版本",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
@@ -196,8 +199,9 @@
         "priceStartDay": "2021年12月3日 10:00",
         "priceEndDay": "2021年12月17日9:59",
         "description": "随礼包出售首发限时1点券",
+        "hasFullGiftPack": false,
         "wildRiftSell": null,
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ajsxfr55s448kuvg19qzrknjwxalwhnq.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-43028676-f1ae-4d76-98f7-20a7b5653598.jpg"
       },
       "roit": {
         "price": 290,
@@ -226,6 +230,7 @@
         "priceStartDay": "2021年12月3日 10:00",
         "priceEndDay": "14.5版本",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
@@ -255,6 +260,7 @@
         "priceStartDay": "2021年12月3日 10:00",
         "priceEndDay": "14.5版本",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
@@ -274,11 +280,14 @@
       ]
     }
   ],
+  "formsCount": null,
+  "forms": [],
   "version": {
     "push": "11.23",
     "update": "",
     "updateChinese": "",
     "updateName": "",
     "video": "26.01"
-  }
+  },
+  "platform": "lol"
 }

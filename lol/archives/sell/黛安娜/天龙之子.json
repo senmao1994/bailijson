@@ -35,7 +35,7 @@
     "priceStartDay": "2024年2月1日10:00",
     "priceEndDay": "2024年3月18日9:59",
     "description": "每年春节期间返场",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -294,8 +294,7 @@
         "priceEndDay": "2024年3月19日18:00",
         "description": "",
         "hasFullGiftPack": false,
-        "wildRiftSell": null,
-        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-f5069942-3c9f-4cb3-8a67-299d9b1b7406.jpg"
+        "wildRiftSell": null
       },
       "roit": {
         "price": 35,

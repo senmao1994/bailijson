@@ -201,7 +201,7 @@
         "description": "2026二月消费礼赠2000积分",
         "hasFullGiftPack": false,
         "wildRiftSell": null,
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/atm5owekzzsx64e9hpbyoxqdt2q6gc7u.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-2f8d3464-9548-4e8c-91ca-13d820808fa5.jpg"
       },
       "roit": {
         "price": 290,
@@ -292,7 +292,7 @@
         "description": "天龙之子究极大礼包随赠",
         "hasFullGiftPack": false,
         "wildRiftSell": null,
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/acziwkilu9u7s5714uvtq068tzsvyg1c.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-773c919a-2d4f-480a-97b6-a8417b8d56ce.jpg"
       },
       "roit": {
         "price": 290,
@@ -319,5 +319,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": "26.09"
-  }
+  },
+  "platform": "lol"
 }

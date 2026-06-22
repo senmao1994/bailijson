@@ -14,7 +14,7 @@
   "backstory": "安妮在泰勒姆王廷前展示了她的魔法天赋，将她亲爱的泰迪熊变成了一位由钢铁与火焰组成的骑士。尽管这对许多贵族来说几乎是一次近乎灾难性的表现，但女帝菲奥娜还是接受了这个孩子的潜力，并指定她作为继任者。安妮为了在未来的加冕礼上取得胜利而不断训练……但也不断给她的王室导师添乱。",
   "accessories": [],
   "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_uncentered_50.jpg",
-  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_tile_50.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_tile_50.jpg",
   "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_centered_50.jpg",
   "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1050.png",
   "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/annieloadscreen_50.jpg",
@@ -277,7 +277,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aw3a0l1ksb4qxup0fqtnq7vsopvon85f.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-c7e03a7b-0ee0-4743-891e-cecf150b9882.jpg"
       },
       "roit": {
         "price": 290,
@@ -322,7 +322,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a80zx0metb0jmkfwybja9ql6e36pxrmq.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-b4cdff8d-7801-4e18-8c79-56d3fded3635.jpg"
       },
       "roit": {
         "price": 290,
@@ -400,5 +400,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": "25.24"
-  }
+  },
+  "platform": "lol"
 }

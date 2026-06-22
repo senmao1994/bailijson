@@ -14,7 +14,7 @@
   "backstory": "赛娜启程去寻找北极光，但首先遇到的是一个小女孩——安妮，她正独自站在自家门前。她最珍视的童年伙伴——家中的宠物熊，不久前死掉了。安妮希望北极星能复活他，但赛娜拒绝了，只是给了她一只小熊玩偶。“生离死别在所难免，但他的记忆将寄托在这份礼物身上。”",
   "accessories": [],
   "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_uncentered_40.jpg",
-  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_tile_40.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_tile_40.jpg",
   "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_centered_40.jpg",
   "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1040.png",
   "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40.jpg",
@@ -35,7 +35,7 @@
     "priceStartDay": "2023年12月8日",
     "priceEndDay": "2024年1月10日9:59",
     "description": "",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -444,5 +444,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": "25.24"
-  }
+  },
+  "platform": "lol"
 }
