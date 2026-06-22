@@ -11,18 +11,14 @@
   "universe": "春节",
   "pushDate": "2026年2月4日",
   "series": null,
-  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_uncentered_46.skins_lillia_skin46.jpg",
-  "splashHDPath": "",
-  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_tile_46.skins_lillia_skin46.jpg",
-  "iconPath": "",
-  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_centered_46.skins_lillia_skin46.jpg",
-  "circlePath": "",
-  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876046.png",
-  "specialEditionPath": null,
-  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/lillialoadscreen_46.skins_lillia_skin46.jpg",
-  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/lillialoadscreen_46_le.skins_lillia_skin46.jpg",
   "backstory": "莉莉娅被新春使者选中守护灵界的神圣花园，并且自豪地履行着自己的职责。她勤恳地在植物丛中穿行，劝说每一朵花蕾重新绽放，用每一颗发芽的种子治愈凡界。她知道，她的职责会在严酷寒冬平息下来后完成——并且这时新春使者会回来使这些大地重获新生！",
   "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_uncentered_46.skins_lillia_skin46.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_tile_46.skins_lillia_skin46.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_centered_46.skins_lillia_skin46.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/876/876046.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/lillialoadscreen_46.skins_lillia_skin46.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/lillialoadscreen_46_le.skins_lillia_skin46.jpg",
   "roit": {
     "price": 1820,
     "priceType": "直售",
@@ -38,7 +34,8 @@
     "priceTypeChinese": "马年限定",
     "priceStartDay": "2026年2月4日",
     "priceEndDay": "2026年3月29日23:59",
-    "description": ""
+    "description": "",
+    "hasFullGiftPack": false
   },
   "chromas": [
     {
@@ -52,6 +49,7 @@
         "priceStartDay": "2026年2月4日",
         "priceEndDay": "2026年3月29日23:59",
         "description": "踏雪寻梅(2026)究极大礼包",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -59,7 +57,8 @@
           "activityTitle": "",
           "price": "",
           "priceUnit": ""
-        }
+        },
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-a76beb96-c162-4191-8063-43571cfaa184.jpg"
       },
       "roit": {
         "price": 290,
@@ -95,6 +94,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -138,6 +138,7 @@
         "priceStartDay": "2026年2月13日",
         "priceEndDay": "2026年3月12日",
         "description": "璀璨臻彩召唤202605期",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -182,6 +183,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -225,6 +227,7 @@
         "priceStartDay": "2026年2月4日",
         "priceEndDay": "2026年3月3日23:59",
         "description": "自选神话竹映梅香臻彩礼包/幸运之门202603期特等奖",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -269,6 +272,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -310,5 +314,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
