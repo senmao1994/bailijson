@@ -367,7 +367,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ahnrsd43n0nw7qdqh89ajtwk6uc8ymwu.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-59f7f5d5-6b62-4ad6-80ea-516d27e449b1.jpg"
       },
       "roit": {
         "price": 290,
@@ -401,5 +401,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
