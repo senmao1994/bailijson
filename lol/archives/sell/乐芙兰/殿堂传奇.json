@@ -57,7 +57,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aq5pwqylzs3ia9ckpk6r87qwa0t7qyc2.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-3bf46d19-e12d-422b-9e3d-6aea3861df4a.jpg"
       },
       "roit": {
         "price": 1950,
@@ -102,7 +102,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ahfzi16b6d8i48cg7xza7bnca3ilvj93.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-666ebc46-230d-471d-8043-f0152946a592.jpg"
       },
       "roit": {
         "price": 59260,
@@ -150,5 +150,6 @@
     "updateChinese": "视觉更新",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
