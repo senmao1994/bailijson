@@ -1,0 +1,291 @@
+{
+  "id": 166021,
+  "name": "西部魔影 阿克尚",
+  "roitName": "High Noon Akshan",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "西部风云",
+  "universe": "西部魔影 厄运金属",
+  "pushDate": null,
+  "series": null,
+  "backstory": "祭坛后面，通往地狱的道路敞开着。咧嘴笑着的人说：“死的东西应该一直死下去。”也许是这样，但阿克尚可不是来这里征求许可的。他来此是为了通行，没有什么能阻止他：法律不行，死亡不行，就连某些自称拥有这条路的、爱说教的赏金猎人也不行。阿克尚将他的枪对准那个咧嘴笑的人然后用拇指把击锤向后扳。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/images/akshan_splash_uncentered_21.skins_akshan_skin21.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/images/akshan_splash_tile_21.skins_akshan_skin21.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/images/akshan_splash_centered_21.skins_akshan_skin21.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166021.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/akshanloadscreen_21.skins_akshan_skin21.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "",
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年6月25日",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 166022,
+      "name": "西部魔影 阿克尚 温和",
+      "sortName": "温和",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "西部魔影 阿克尚 温和",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166022.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 166023,
+      "name": "西部魔影 阿克尚 慷慨",
+      "sortName": "慷慨",
+      "colorName": "黄色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "西部魔影 阿克尚 慷慨",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166023.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 166024,
+      "name": "西部魔影 阿克尚 善良",
+      "sortName": "善良",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "西部魔影 阿克尚 善良",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166024.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 166025,
+      "name": "西部魔影 阿克尚 诚实",
+      "sortName": "诚实",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "西部魔影 阿克尚 诚实",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166025.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ]
+    },
+    {
+      "id": 166026,
+      "name": "西部魔影 阿克尚 纯洁",
+      "sortName": "纯洁",
+      "colorName": "白色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "西部魔影 阿克尚 纯洁",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166026.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 166027,
+      "name": "西部魔影 阿克尚 节制",
+      "sortName": "节制",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "西部魔影 阿克尚 节制",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166027.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 166028,
+      "name": "西部魔影 阿克尚 忠诚",
+      "sortName": "忠诚",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "西部魔影 阿克尚 忠诚",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166028.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 166029,
+      "name": "西部魔影 阿克尚 谦卑",
+      "sortName": "谦卑",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "西部魔影 阿克尚 谦卑",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166029.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "26.13",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
