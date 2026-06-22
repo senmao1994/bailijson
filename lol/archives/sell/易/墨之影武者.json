@@ -81,7 +81,7 @@
         "description": "成就奖励：累计解锁900款皮肤",
         "hasFullGiftPack": false,
         "wildRiftSell": null,
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/agaub6002bmqm8nkahwx2wpysqm6nlja.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-ecc2d359-99ce-4e93-9b6e-011831615b0e.jpg"
       },
       "roit": {
         "price": 290,
@@ -228,5 +228,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": "26.09"
-  }
+  },
+  "platform": "lol"
 }
