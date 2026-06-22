@@ -50,7 +50,7 @@
         "description": "2021小蜜蜂宝典 炫彩升级包100级奖励",
         "hasFullGiftPack": false,
         "wildRiftSell": null,
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/awgsqw0ju537gix2vferg7mh1pus5d8q.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-5ca5fde6-8472-4a9e-81d4-e7c48aea244e.jpg"
       },
       "roit": {
         "price": 290,
@@ -171,7 +171,7 @@
         "description": "抽奖奖池300碎片兑换",
         "hasFullGiftPack": false,
         "wildRiftSell": null,
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ag1xre46oekoi6joz2r577vtnxsfxywr.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-883a937c-a169-4bb8-9ba3-cc1e030094e7.jpg"
       },
       "roit": {
         "price": 290,
@@ -198,5 +198,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": "26.08"
-  }
+  },
+  "platform": "lol"
 }
