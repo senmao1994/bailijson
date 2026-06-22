@@ -35,7 +35,7 @@
     "priceStartDay": "2018年12月11日12:00",
     "priceEndDay": "2019年1月14日 12:00",
     "description": "",
-    "hasFullGiftPack": true
+    "hasFullGiftPack": false
   },
   "chromas": [
     {
@@ -111,7 +111,7 @@
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null,
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/azcq7d0qwr5v3ml2l06qfmsyy4p6v95z.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-75027710-9774-4bb4-8dbc-63673080dfab.jpg"
       },
       "roit": {
         "price": 290,
@@ -198,5 +198,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": "26.08"
-  }
+  },
+  "platform": "lol"
 }
