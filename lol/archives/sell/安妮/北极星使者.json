@@ -35,7 +35,7 @@
     "priceStartDay": "2023年12月8日",
     "priceEndDay": "2024年1月10日9:59",
     "description": "",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -322,7 +322,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-f91060ab-cf3e-4e53-bf32-ab6d52507a09.jpg"
+        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/apwqmo6wfda7iye7ls18kbn6r20oxfa2.jpg"
       },
       "roit": {
         "price": 290,
