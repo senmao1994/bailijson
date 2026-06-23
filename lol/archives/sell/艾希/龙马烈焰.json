@@ -11,18 +11,14 @@
   "universe": "春节",
   "pushDate": "2026年2月4日",
   "series": null,
-  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_uncentered_84.skins_ashe_skin84.jpg",
-  "splashHDPath": "",
-  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_tile_84.skins_ashe_skin84.jpg",
-  "iconPath": "",
-  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_centered_84.skins_ashe_skin84.jpg",
-  "circlePath": "",
-  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22084.png",
-  "specialEditionPath": null,
-  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/asheloadscreen_84.skins_ashe_skin84.jpg",
-  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/asheloadscreen_84_le.skins_ashe_skin84.jpg",
   "backstory": "艾希优雅、自律、沉着冷静——但春节期间除外。那时的她会变本加厉！这种热闹气氛能让她放松心情，并且今年她将带来一场盛大的终场演出，而这场演出注定会点亮夜空，照亮新的一年。",
   "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_uncentered_84.skins_ashe_skin84.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_tile_84.skins_ashe_skin84.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_centered_84.skins_ashe_skin84.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22084.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/asheloadscreen_84.skins_ashe_skin84.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/asheloadscreen_84_le.skins_ashe_skin84.jpg",
   "roit": {
     "price": 1350,
     "priceType": "直售",
@@ -38,7 +34,8 @@
     "priceTypeChinese": "马年限定",
     "priceStartDay": "2026年2月10日",
     "priceEndDay": "2026年3月29日23:59",
-    "description": ""
+    "description": "",
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -52,6 +49,7 @@
         "priceStartDay": "2026年2月10日",
         "priceEndDay": "2026年3月29日23:59",
         "description": "龙马烈焰(2026)惊喜礼盒",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -95,6 +93,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -138,6 +137,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -181,6 +181,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -224,6 +225,7 @@
         "priceStartDay": "2026年2月10日",
         "priceEndDay": "2026年2月10日",
         "description": "龙马烈焰(2026)究极大礼包赠送",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -232,7 +234,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/axjdqjl0pog3vl4cvvkf3qiox7mfpcqa.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-05a3a3af-0710-4be3-bf60-ca8ef4d85908.jpg"
       },
       "roit": {
         "price": 290,
@@ -268,6 +270,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -311,6 +314,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -354,6 +358,7 @@
         "priceStartDay": "2026年2月1日",
         "priceEndDay": "2026年2月28日 59:59",
         "description": "2026 二月礼赠 消费达500元",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -362,7 +367,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/al8bsyrol1x7zqz992p7qmglx7dh73lt.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-1fa2cf02-49df-418a-8a84-2df00e8141fe.jpg"
       },
       "roit": {
         "price": 290,
@@ -396,5 +401,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
