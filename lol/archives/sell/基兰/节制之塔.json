@@ -1,0 +1,291 @@
+{
+  "id": 26024,
+  "name": "节制之塔 基兰",
+  "roitName": "Arcana Zilean",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "命运之子",
+  "universe": "命运之子",
+  "pushDate": null,
+  "series": null,
+  "backstory": "高耸入云的钟楼巍然屹立于高位世界，其塔尖几乎触碰到它位于低位世界的镜像尖顶。钟楼内中，错综复杂的精密装置有条不紊地运行着——精金辰星、铜制太阳和微缩世界中的微型人物——在基兰的注视之下勾勒出命运的变迁。于此，他得以窥见整个图案，小心谨慎地呵护这得来不易的平衡。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin24/images/zilean_splash_uncentered_24.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin24/images/zilean_splash_tile_24.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin24/images/zilean_splash_centered_24.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/26/26024.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin24/zileanloadscreen_24.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "",
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2025年9月25日",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 26025,
+      "name": "节制之塔 基兰 斗志",
+      "sortName": "斗志",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2025年9月25日",
+        "priceEndDay": "2025年10月09日09:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "节制之塔 基兰 斗志",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/26/26025.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 26026,
+      "name": "节制之塔 基兰 财富",
+      "sortName": "财富",
+      "colorName": "黄色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "节制之塔 基兰 财富",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/26/26026.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 26027,
+      "name": "节制之塔 基兰 学识",
+      "sortName": "学识",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年9月25日",
+        "priceEndDay": "2025年10月09日09:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "节制之塔 基兰 学识",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/26/26027.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 26028,
+      "name": "节制之塔 基兰 权威",
+      "sortName": "权威",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年9月25日",
+        "priceEndDay": "2025年10月09日09:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "节制之塔 基兰 权威",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/26/26028.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ]
+    },
+    {
+      "id": 26029,
+      "name": "节制之塔 基兰 丰足",
+      "sortName": "丰足",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年9月25日",
+        "priceEndDay": "2025年10月09日09:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "节制之塔 基兰 丰足",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/26/26029.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 26030,
+      "name": "节制之塔 基兰 忠诚",
+      "sortName": "忠诚",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "节制之塔 基兰 忠诚",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/26/26030.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 26031,
+      "name": "节制之塔 基兰 均衡",
+      "sortName": "均衡",
+      "colorName": "白色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "节制之塔 基兰 均衡",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/26/26031.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 26032,
+      "name": "节制之塔 基兰 哀伤",
+      "sortName": "哀伤",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年9月25日",
+        "priceEndDay": "2025年10月09日09:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "节制之塔 基兰 哀伤",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/26/26032.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "25.19",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
