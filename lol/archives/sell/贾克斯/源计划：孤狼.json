@@ -1,0 +1,291 @@
+{
+  "id": 24033,
+  "name": "源计划：孤狼 贾克斯",
+  "roitName": "PROJECT: Jax",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "源计划",
+  "universe": "源计划",
+  "pushDate": null,
+  "series": null,
+  "backstory": "贾克斯是一名古老的战士，他曾保卫过城市郊区，使其免遭源计划的恐怖控制。借助实验科技的力量，这位远古战士的寿命得以延长。然而，莫德凯撒的病毒迫使他屠戮自己的族人，他对未来的希望也就此破灭。如今，唯一照亮他前行之路的，便是他心中那复仇的怒火。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin33/images/jax_splash_uncentered_33.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin33/images/jax_splash_tile_33.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin33/images/jax_splash_centered_33.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24033.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin33/jaxloadscreen_33.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "",
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2024年3月8日",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 24034,
+      "name": "源计划：孤狼 贾克斯 裂变",
+      "sortName": "裂变",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2024年3月8日",
+        "priceEndDay": "2024年3月22日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "源计划：孤狼 贾克斯 裂变",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24034.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 24035,
+      "name": "源计划：孤狼 贾克斯 震击",
+      "sortName": "震击",
+      "colorName": "黄色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2024年3月8日",
+        "priceEndDay": "2024年3月22日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "源计划：孤狼 贾克斯 震击",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24035.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 24036,
+      "name": "源计划：孤狼 贾克斯 默化",
+      "sortName": "默化",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2024年3月8日",
+        "priceEndDay": "2024年3月22日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "源计划：孤狼 贾克斯 默化",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24036.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 24037,
+      "name": "源计划：孤狼 贾克斯 冥火",
+      "sortName": "冥火",
+      "colorName": "青色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2024年3月8日",
+        "priceEndDay": "2024年3月22日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "源计划：孤狼 贾克斯 冥火",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24037.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 24038,
+      "name": "源计划：孤狼 贾克斯 暴走",
+      "sortName": "暴走",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2024年3月8日",
+        "priceEndDay": "2024年3月22日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "源计划：孤狼 贾克斯 暴走",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24038.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ]
+    },
+    {
+      "id": 24039,
+      "name": "源计划：孤狼 贾克斯 地覆",
+      "sortName": "地覆",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2024年3月8日",
+        "priceEndDay": "2024年3月22日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "源计划：孤狼 贾克斯 地覆",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24039.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 24040,
+      "name": "源计划：孤狼 贾克斯 燎原",
+      "sortName": "燎原",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2024年3月8日",
+        "priceEndDay": "2024年3月22日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "源计划：孤狼 贾克斯 燎原",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24040.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 24041,
+      "name": "源计划：孤狼 贾克斯 飞沙",
+      "sortName": "飞沙",
+      "colorName": "灰色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2024年3月8日",
+        "priceEndDay": "2024年3月22日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "源计划：孤狼 贾克斯 飞沙",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24041.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DED6B0",
+        "#DED6B0"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "14.5",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
