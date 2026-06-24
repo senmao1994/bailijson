@@ -9,7 +9,7 @@
   "priceUnit": null,
   "skinline": "西部风云",
   "universe": "西部魔影 厄运金属",
-  "pushDate": null,
+  "pushDate": "2026年06月24日",
   "series": null,
   "backstory": "一个傻瓜大摇大摆地走进被烧毁的礼拜堂，找到了这位唯一跨越了地狱边界的赏金猎人。他拔出自己那把“赎魂之左轮”，要求猎人放他过去，去夺回地狱无权看守的那个灵魂。洛克倚在祭坛一旁，把玩着一根熔化的钉子，手指被地狱之火熏黑。“恕我冒犯，朋友，”洛克咧嘴一笑，“但死去的，就该永远死去。”",
   "accessories": [],
@@ -33,9 +33,9 @@
     "priceType": "直售",
     "priceTypeChinese": "伴生皮肤",
     "priceStartDay": "2026年6月25日",
-    "priceEndDay": "",
+    "priceEndDay": "2026年7月15日23:59",
     "description": "",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -44,10 +44,10 @@
       "sortName": "温和",
       "colorName": "红色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -74,10 +74,10 @@
       "sortName": "节制",
       "colorName": "蓝色",
       "tencent": {
-        "price": 0,
+        "price": 2000,
         "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -106,8 +106,8 @@
       "tencent": {
         "price": 0,
         "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -134,10 +134,10 @@
       "sortName": "忠诚",
       "colorName": "粉色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -164,11 +164,11 @@
       "sortName": "善良",
       "colorName": "绿色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "price": 4900,
+        "priceType": "惊喜礼盒",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月15日23:59",
+        "description": "绝息魔影(2026)惊喜礼盒",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
