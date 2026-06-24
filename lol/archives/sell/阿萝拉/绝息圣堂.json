@@ -9,7 +9,7 @@
   "priceUnit": null,
   "skinline": "绝息圣堂",
   "universe": "被遗忘的赞歌",
-  "pushDate": null,
+  "pushDate": "2026年06月24日",
   "series": null,
   "backstory": "阿萝拉是教团技艺精湛的高阶裁缝。她生性善良，不喜暴力，而是会从修补衣物中获得更大的乐趣。正是凭借她精湛的手艺，她发现了他们的圣服在用灵息编织时能获取的那股力量。多亏了阿萝拉，教团如今才能重返世间，履行其使命。",
   "accessories": [],
@@ -33,9 +33,9 @@
     "priceType": "直售",
     "priceTypeChinese": "",
     "priceStartDay": "2026年6月25日",
-    "priceEndDay": "",
+    "priceEndDay": "2026年7月15日23:59",
     "description": "",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -44,10 +44,10 @@
       "sortName": "残阳圆舞曲",
       "colorName": "红色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -74,10 +74,10 @@
       "sortName": "昼梦狂想曲",
       "colorName": "黄色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -104,11 +104,11 @@
       "sortName": "苏生回旋曲",
       "colorName": "绿色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "price": 4900,
+        "priceType": "惊喜礼盒",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
+        "description": "绝息魔影(2026)惊喜礼盒",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -134,10 +134,10 @@
       "sortName": "日冕摇篮曲",
       "colorName": "紫色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
