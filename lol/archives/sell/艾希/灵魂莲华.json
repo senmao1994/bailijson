@@ -1,0 +1,228 @@
+{
+  "id": 22076,
+  "name": "灵魂莲华 艾希",
+  "roitName": "Spirit Blossom Ashe",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "灵魂莲华",
+  "universe": "灵魂莲华",
+  "pushDate": "2025年04月30日",
+  "series": null,
+  "backstory": "据“迷途女王”的神话讲述，她的好奇心促使她与“林母”交换了位置。这个选择的代价是高昂的，她回来后看到她忠诚的“玉手剑侍”与“林母”陷入了战斗。她扑到他们中间，死在了“玉手剑侍”的怀里，并且她的遗言是一个道歉。现在，她在荒野里游荡，指引着迷途者们。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin76/images/ashe_splash_uncentered_76.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin76/images/ashe_splash_tile_76.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin76/images/ashe_splash_centered_76.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22076.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin76/asheloadscreen_76.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin76/asheloadscreen_76_le.jpg",
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 10900,
+  "icon": "6859",
+  "tencent": {
+    "price": 10900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2025年4月29日",
+    "priceEndDay": "2025年6月25日18:00",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 22077,
+      "name": "灵魂莲华 艾希 流火",
+      "sortName": "流火",
+      "colorName": "红色",
+      "tencent": {
+        "price": 12900,
+        "priceType": "礼包",
+        "priceStartDay": "2025年4月29日",
+        "priceEndDay": "2025年5月13日09:59",
+        "description": "完全体礼包随赠",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "灵魂莲华 艾希 流火",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22077.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 22078,
+      "name": "灵魂莲华 艾希 风起",
+      "sortName": "风起",
+      "colorName": "青色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2026年4月1日",
+        "priceEndDay": "2026年4月28日23:59",
+        "description": "璀璨臻彩召唤活动·特等奖",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-5c3286fc-35ac-4ab4-bbe3-652e7c340161.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "灵魂莲华 艾希 风起",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22078.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 22079,
+      "name": "灵魂莲华 艾希 雁来",
+      "sortName": "雁来",
+      "colorName": "黄色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2026年2月2日",
+        "priceEndDay": "2026年3月1日23:59",
+        "description": "金鸿秘宝",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-6decf91c-edac-4bb3-a01a-56548db8acaa.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "灵魂莲华 艾希 雁来",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22079.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 22080,
+      "name": "灵魂莲华 艾希 雪落",
+      "sortName": "雪落",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "灵魂莲华 艾希 雪落",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22080.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 22081,
+      "name": "灵魂莲华 艾希 月升",
+      "sortName": "月升",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "灵魂莲华 艾希 月升",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22081.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 22082,
+      "name": "灵魂莲华 艾希 朝花",
+      "sortName": "朝花",
+      "colorName": "白色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2025年7月10日",
+        "priceEndDay": "2025年8月9日12:00",
+        "description": "幸运之门：神女的花颜",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-8e170eb3-7071-4065-91ea-9830eeb12d30.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "灵魂莲华 艾希 朝花",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22082.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "platform": "lol"
+}
