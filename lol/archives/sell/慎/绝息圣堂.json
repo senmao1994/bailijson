@@ -9,7 +9,7 @@
   "priceUnit": null,
   "skinline": "绝息圣堂",
   "universe": "被遗忘的赞歌",
-  "pushDate": null,
+  "pushDate": "2026年06月24日",
   "series": null,
   "backstory": "多年以来，逐影教团被认为已经覆灭于无尽之战。事实上，慎带领着其幸存的成员们转入地下进行重建。如今，世界已达到新的平衡，而慎却将打破这种平衡视为自己的神圣使命。随着教团力量的复苏，他冒着引发更大混乱的风险，只为拯救那些可能永远失去的东西。",
   "accessories": [],
@@ -33,9 +33,9 @@
     "priceType": "直售",
     "priceTypeChinese": "",
     "priceStartDay": "2026年6月25日",
-    "priceEndDay": "",
+    "priceEndDay": "2026年7月15日23:59",
     "description": "",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -44,10 +44,10 @@
       "sortName": "残阳圆舞曲",
       "colorName": "红色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -104,10 +104,10 @@
       "sortName": "灵息变奏曲",
       "colorName": "蓝色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -134,11 +134,11 @@
       "sortName": "永生前奏曲",
       "colorName": "青色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "price": 4900,
+        "priceType": "惊喜礼盒",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月15日23:59",
+        "description": "绝息魔影(2026)惊喜礼盒",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -164,10 +164,10 @@
       "sortName": "朝霞幻想曲",
       "colorName": "粉色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -194,10 +194,10 @@
       "sortName": "日冕摇篮曲",
       "colorName": "紫色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -254,10 +254,10 @@
       "sortName": "黑昼交响曲",
       "colorName": "黑色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月9日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
