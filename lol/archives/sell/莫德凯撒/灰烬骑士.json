@@ -1,0 +1,82 @@
+{
+  "id": 82042,
+  "name": "灰烬骑士 莫德凯撒",
+  "roitName": "Ashen Graveknight Mordekaiser",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "灰烬骑士",
+  "universe": "堕落世界",
+  "pushDate": "2022年12月08日",
+  "series": null,
+  "backstory": "据说是一位统治亡者的军阀，出于未知的原因而努力从世界上消除魔法。或许莫德凯撒相信他的力量会得到幸免，或许这位老骑士打算背叛他的同僚们并统治他们黑暗的王国。现在这无关紧要，因为他等待着死亡本身的结束。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin42/images/mordekaiser_splash_uncentered_42.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin42/images/mordekaiser_splash_tile_42.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin42/images/mordekaiser_splash_centered_42.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82042.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin42/mordekaiserloadscreen_42.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin42/mordekaiserloadscreen_42_le.jpg",
+  "roit": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 125,
+  "icon": "5634",
+  "tencent": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceTypeChinese": "",
+    "priceStartDay": "2022年12月9日",
+    "priceEndDay": "2023年3月23日",
+    "description": "后续轮换兑换不含边框和图片",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 82043,
+      "name": "灰烬骑士 莫德凯撒 余烬觉醒",
+      "sortName": "余烬觉醒",
+      "colorName": "神话",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2022年12月9日",
+        "priceEndDay": "2023年3月23日",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "灰烬骑士 莫德凯撒 余烬觉醒",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82043.png",
+      "mythicIcon": "5635",
+      "wildRiftSell": null,
+      "colors": [
+        "#9D0606",
+        "#2B263F"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "12.23",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
