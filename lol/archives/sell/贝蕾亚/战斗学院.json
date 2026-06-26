@@ -8,7 +8,7 @@
   "price": null,
   "priceUnit": null,
   "skinline": "战斗学院",
-  "universe": null,
+  "universe": "神之武器",
   "pushDate": "2026年1月22日",
   "series": null,
   "backstory": "大多数神之武器学院的严苛规章制度让贝蕾亚很难成为学业有成的学生——直到她转学到巴比伦学院。这里没有规则或护栏，只有方向。想学神之武器的历史？武术？陶艺？对学生的唯一要求是要有求知欲，而贝蕾亚在求知欲方面可是<i>相当强烈</i>。",
@@ -88,7 +88,7 @@
       "colorName": "黄色",
       "tencent": {
         "price": 0,
-        "priceType": "臻彩",
+        "priceType": "暂无",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
@@ -100,8 +100,7 @@
           "activityTitle": "",
           "price": "",
           "priceUnit": ""
-        },
-        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-bd3ce601-6d7a-402b-a76e-7a1d799702dd.jpg"
+        }
       },
       "roit": {
         "price": 290,
@@ -353,10 +352,10 @@
       "colorName": "白色",
       "tencent": {
         "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "priceType": "臻彩",
+        "priceStartDay": "2026年6月25日",
+        "priceEndDay": "2026年7月26日23:59",
+        "description": "璀璨臻彩召唤活动·特等奖",
         "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
@@ -365,7 +364,8 @@
           "activityTitle": "",
           "price": "",
           "priceUnit": ""
-        }
+        },
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-bd3ce601-6d7a-402b-a76e-7a1d799702dd.jpg"
       },
       "roit": {
         "price": 290,
@@ -399,5 +399,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
