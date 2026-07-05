@@ -2,21 +2,19 @@
   "id": 1059,
   "name": "万魔殿 安妮",
   "championId": "annie",
-  "championName": "安妮",
+  "championName": "黑暗之女",
   "championKey": "1",
   "videos": [
     {
       "id": "rp5yr8sosq",
-      "title": "万魔殿 安妮 · 皮肤 · 2026年04月27日 09:38:01",
+      "title": "【英雄联盟】万魔殿 安妮 史诗皮肤 正式版展示",
       "type": "skin",
-      "date": "2026年04月27日 09:38:01",
+      "date": "2026年04月27日 09:38:00",
       "cover": "e186e670e4daf31dbbc7dcd513da34409f8b5ac5",
       "isRecommended": true,
       "bilibili": {
-        "bv": "BV1PPoBBWE4H"
-      },
-      "douyin": {
-        "id": "7633808051807571254"
+        "bv": "BV1PPoBBWE4H",
+        "author": "白礼白里白"
       }
     }
   ]
