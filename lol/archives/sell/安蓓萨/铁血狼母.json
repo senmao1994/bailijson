@@ -1,0 +1,50 @@
+{
+  "id": 799000,
+  "name": "铁血狼母",
+  "roitName": "Ambessa",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "诺克萨斯",
+  "universe": "英雄联盟宇宙",
+  "pushDate": "2024年11月06日",
+  "series": null,
+  "backstory": "但凡听闻过米达尔达家族威名的人，都晓得要敬畏它的族母——安蓓萨。作为诺克萨斯的将军，安蓓萨是无情伟力与钢铁意志的化身；作为米达尔达的族母，她亦尚武凌弱，精于权谋，不留余力培植家族势力。安蓓萨奉行恶狼之道，誓要守护家族的传承——无论任何代价，哪怕是子女的爱。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/base/images/ambessa_splash_uncentered_0.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/base/images/ambessa_splash_tile_0.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/base/images/ambessa_splash_centered_0.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/base/ambessaloadscreen_0.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6756",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2024年11月7日",
+    "priceEndDay": "2024年12月31日9:59",
+    "description": "安蓓萨 英雄肖像 图标",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "14.22",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.14"
+  },
+  "platform": "lol"
+}
