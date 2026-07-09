@@ -1,0 +1,60 @@
+{
+  "id": 1014802,
+  "name": "天棱闪弹 芸阿娜",
+  "roitName": "Weather Entity Yunara",
+  "sortName": "天棱闪弹",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "145",
+  "priceUnit": "天棱晶石",
+  "skinline": "天棱星象",
+  "universe": "",
+  "pushDate": "",
+  "series": null,
+  "backstory": "当大部分队员在地表执行对于天气精灵的收复作战时，芸阿娜，作为最初被精灵选中的人类之一，选择留在了宇宙进行技术研究，并研发出了独特的收容天气精灵的方式。而随着过去的战友艾希的回归，芸阿娜再次面临前路的选择，她应该投身控制天气精灵的战斗，还是试着解放它们？",
+  "accessories": [
+    "边框",
+    "姿态：起式",
+    "姿态：螺旋闪弹"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Yunara_1.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_yunara_skin01.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1014802.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.2",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年7月9日",
+    "endDate": "2026年8月13日",
+    "description": "天棱万象活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
