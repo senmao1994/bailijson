@@ -1,7 +1,8 @@
-﻿{
-    "id":  "poppy",
-    "name":  "波比",
-    "alias":  "Poppy",
-    "key":  78,
-    "title":  "圣锤之毅"
+{
+  "id": 10076,
+  "name": "波比",
+  "alias": "bobi",
+  "key": "10076",
+  "title": "圣锤之毅",
+  "platform": "wr"
 }
