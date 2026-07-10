@@ -1,0 +1,59 @@
+{
+  "id": 1015103,
+  "name": "天棱磁魇 魔腾",
+  "roitName": "Weather Entity Nocturne",
+  "sortName": "天棱磁魇",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "145",
+  "priceUnit": "天棱晶石",
+  "skinline": "天棱星象",
+  "universe": "",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "作为被天气精灵深度结合的个体，魔腾的肉体形态已经变得高度不稳定。他不再保有作为人类的记忆，意识被汹涌的破坏欲望所取代。为了确保安全，它被护送至空间站，但这也让雷暴精灵前所未有地波动了起来，魔腾渴望挣脱拘束并重新解放自己的真正力量——并且回归浩瀚的宇宙。                        ",
+  "accessories": [
+    "边框",
+    "姿态：互斥",
+    "姿态：磁暴旋风"
+  ],
+  "splashPath": "https://www.ghostoact.com/static/arts/img/skins/Nocturne_Splash_10001.jpg",
+  "squarePath": "https://www.ghostoact.com/static/arts/img/preimg/Nocturne_Splash_10001.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.2",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "sell": {
+    "startDate": "2026年7月9日",
+    "endDate": "2026年8月13日",
+    "description": "天棱万象活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
