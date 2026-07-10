@@ -1,0 +1,31 @@
+{
+  "heroKey": "洛克",
+  "heroName": "灰烬驱魔人",
+  "heroNameEn": "locke",
+  "lolKey": "805",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV16Xj263EF9",
+      "bvid": "BV16Xj263EF9",
+      "title": "【英雄联盟】灰烬驱魔人 洛克 英雄档案 初始皮肤展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/7d9ed64fd671ccf7837e205f5f710a54751b11eb.jpg",
+      "date": "2026-06-23",
+      "lastSync": 1783696047,
+      "skinName": "灰烬驱魔人",
+      "lolSkinId": "805000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1rKj26kEy1",
+      "bvid": "BV1rKj26kEy1",
+      "title": "【英雄联盟】西部魔影 洛克 伴生·史诗皮肤 全炫彩正式版",
+      "pic": "http://i2.hdslb.com/bfs/archive/d0deccadbb2af3dc48e59c12eaf5fb407f34b4ad.jpg",
+      "date": "2026-06-23",
+      "lastSync": 1783696047,
+      "skinName": "西部魔影 洛克",
+      "lolSkinId": "805001",
+      "category": "skin"
+    }
+  ]
+}
