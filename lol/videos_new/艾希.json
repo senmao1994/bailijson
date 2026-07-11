@@ -6,6 +6,17 @@
   "wrKey": "10079",
   "videos": [
     {
+      "id": "BV1UcTB6rEXE",
+      "bvid": "BV1UcTB6rEXE",
+      "title": "天棱星河 艾希 皮肤预览 - 英雄联盟手游 |  Weather Entity Ashe Skin Spotlight",
+      "pic": "http://i1.hdslb.com/bfs/archive/a1e2740ea91e9ab4df646dfcf6ad55a762d4bdc9.jpg",
+      "author": "SkinSpotlights",
+      "date": "2026年07月02日 18:00:00",
+      "lastSync": 1783753166,
+      "syncSource": "manual-add",
+      "category": "other"
+    },
+    {
       "id": "BV1Mrz9BaE5a",
       "bvid": "BV1Mrz9BaE5a",
       "title": "仙灵之息：夜之辉 艾希 皮肤预览 - 英雄联盟手游 | Elf Forest Ashe Skin Spotlight",
@@ -332,17 +343,6 @@
       "lolSkinId": "1007917",
       "wrSkinId": "1007917",
       "category": "skin"
-    },
-    {
-      "id": "BV1UcTB6rEXE",
-      "bvid": "BV1UcTB6rEXE",
-      "title": "天棱星河 艾希 皮肤预览 - 英雄联盟手游 |  Weather Entity Ashe Skin Spotlight",
-      "pic": "http://i1.hdslb.com/bfs/archive/a1e2740ea91e9ab4df646dfcf6ad55a762d4bdc9.jpg",
-      "author": "SkinSpotlights",
-      "date": "2026年07月02日 18:00:00",
-      "lastSync": 1783700348,
-      "syncSource": "manual-add",
-      "category": "other"
     },
     {
       "id": "BV1YKTy6aEGY",
