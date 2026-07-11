@@ -9,7 +9,7 @@
   "priceUnit": "乐斗积分",
   "skinline": "好玩",
   "universe": "",
-  "pushDate": "7.0",
+  "pushDate": "7.2",
   "series": null,
   "backstory": "在璐璐眼中，大蒜和花没什么不同，只要照料得当，也会长成漂亮又神气的模样。如果你路过璐璐的园圃，请一定小心再小心——要是谁不小心踩坏了她的蒜苗，她会立刻挥起小耙子，把这位冒失鬼变成蹦蹦跳跳的紫皮大蒜。",
   "accessories": [
@@ -42,13 +42,6 @@
   "chromas": [],
   "formsCount": null,
   "forms": [],
-  "version": {
-    "push": "7.2",
-    "update": "",
-    "updateChinese": "",
-    "updateName": "",
-    "video": ""
-  },
   "sell": {
     "startDate": "2026年7月11日",
     "endDate": "3个月(乐斗赛季)",
