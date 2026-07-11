@@ -6,30 +6,6 @@
   "wrKey": "10079",
   "videos": [
     {
-      "id": "BV1YKTy6aEGY",
-      "bvid": "BV1YKTy6aEGY",
-      "title": "【语音】天棱星河 艾希",
-      "pic": "http://i2.hdslb.com/bfs/archive/b8cc35dd105525b99edb749817c3be837ecf5ce4.jpg",
-      "author": "LOLM猫猫拳",
-      "date": "2026年07月05日 16:42:00",
-      "lastSync": 1783776080,
-      "syncSource": "manual-add",
-      "skinName": "天棱星河",
-      "category": "skin"
-    },
-    {
-      "id": "BV1nr4y117Di",
-      "bvid": "BV1nr4y117Di",
-      "title": "【英雄联盟】神龙尊者 苍龙 艾希 T3皮肤/全炫彩 正式版展示",
-      "pic": "http://i1.hdslb.com/bfs/archive/afcc92d7519ed3aa5a5f62ffa2b0431c7025b223.jpg",
-      "date": "2021-10-28",
-      "lastSync": 1783773339,
-      "syncSource": "manual-reskin",
-      "skinName": "神龙尊者 苍龙艾希",
-      "lolSkinId": "22023",
-      "category": "skin"
-    },
-    {
       "id": "BV1Zx4y1b71n",
       "bvid": "BV1Zx4y1b71n",
       "title": "【英雄联盟】寒冰射手 艾希 视觉辨识度更新 正式版展示",
@@ -160,6 +136,17 @@
       "lastSync": 1783767448,
       "skinName": "西部天使 艾希",
       "lolSkinId": "22017",
+      "category": "skin"
+    },
+    {
+      "id": "BV1nr4y117Di",
+      "bvid": "BV1nr4y117Di",
+      "title": "【英雄联盟】神龙尊者 苍龙 艾希 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/afcc92d7519ed3aa5a5f62ffa2b0431c7025b223.jpg",
+      "date": "2021-10-28",
+      "lastSync": 1783767448,
+      "skinName": "寒冰射手",
+      "lolSkinId": "22000",
       "category": "skin"
     },
     {
