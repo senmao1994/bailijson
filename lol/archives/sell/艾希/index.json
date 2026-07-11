@@ -1,7 +1,8 @@
 {
-  "id": "ashe",
+  "id": 10079,
   "name": "艾希",
-  "alias": "Ashe",
-  "key": 22,
-  "title": "寒冰射手"
+  "alias": "aixi",
+  "key": "10079",
+  "title": "寒冰射手",
+  "platform": "wr"
 }
