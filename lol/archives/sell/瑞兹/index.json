@@ -1,7 +1,8 @@
-﻿{
-    "id":  "ryze",
-    "name":  "瑞兹",
-    "alias":  "Ryze",
-    "key":  13,
-    "title":  "符文法师"
+{
+  "id": 10137,
+  "name": "瑞兹",
+  "alias": "ruizi",
+  "key": "10137",
+  "title": "符文法师",
+  "platform": "wr"
 }
