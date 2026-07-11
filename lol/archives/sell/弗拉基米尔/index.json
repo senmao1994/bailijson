@@ -1,7 +1,8 @@
-﻿{
-    "id":  "vladimir",
-    "name":  "弗拉基米尔",
-    "alias":  "Vladimir",
-    "key":  8,
-    "title":  "猩红收割者"
+{
+  "id": 10090,
+  "name": "弗拉基米尔",
+  "alias": "fulajimier",
+  "key": "10090",
+  "title": "猩红收割者",
+  "platform": "wr"
 }

@@ -1,0 +1,53 @@
+{
+  "id": 1009007,
+  "name": "至臻 天棱寒雨 弗拉基米尔",
+  "roitName": "Prestige Weather Entity Vladimir",
+  "sortName": "至臻 天棱寒雨",
+  "rarity": "神话",
+  "raritySubType": "至臻",
+  "price": "1000",
+  "priceUnit": "天棱晶石",
+  "skinline": "天棱星象",
+  "universe": "",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "天棱小队，富有活力，但从不安定……他们只会干扰到弗拉基米尔的浮华品味。而每次云间独处，便是他肆意挥洒，将手中雨云转化为烈风呼旋的完美时刻。",
+  "accessories": [
+    "边框",
+    "姿态：冷气漩",
+    "姿态：风急雪骤"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vladimir_6.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_vladimir_skin06.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009007.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年7月9日",
+    "endDate": "2026年8月13日",
+    "description": "天棱万象活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
