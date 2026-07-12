@@ -1,0 +1,322 @@
+{
+  "id": 107049,
+  "name": "胜利之傲 雷恩加尔",
+  "roitName": "Victorious Rengar",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "胜利诸神",
+  "universe": "胜利诸神",
+  "pushDate": "2026年06月23日",
+  "series": null,
+  "backstory": "玩家们在排位赛中积累了足够赛段点后，就会获得【胜利之傲 雷恩加尔】作为奖励。雷恩加尔斩杀了无数来自虚空的野兽，并用每次狩猎的战利品装点自己。他不断进化，凭借着异界之力，他的本能也愈发敏锐。如今，雷恩加尔将整个世界视为自己的猎场——渴望用他那骇人的利爪将宿敌撕成碎片。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/images/rengar_splash_uncentered_49.skins_rengar_skin49.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/images/rengar_splash_tile_49.skins_rengar_skin49.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/images/rengar_splash_centered_49.skins_rengar_skin49.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107049.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/rengarloadscreen_49.skins_rengar_skin49.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "赛季奖励",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "赛季奖励",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年4月29日",
+    "priceEndDay": "2026年7月30日前(赢得15场排位并达到荣誉2级)",
+    "description": "2026年7月30日后陆续结算发放",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 107050,
+      "name": "胜利之傲 雷恩加尔 英勇黄铜",
+      "sortName": "英勇黄铜",
+      "colorName": "赛季",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级"
+      },
+      "riotName": "Victorious Rengar (Bronze)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107050.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#764D43",
+        "#764D43"
+      ]
+    },
+    {
+      "id": 107051,
+      "name": "胜利之傲 雷恩加尔 不屈白银",
+      "sortName": "不屈白银",
+      "colorName": "赛季",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级"
+      },
+      "riotName": "Victorious Rengar (Silver)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107051.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#AAB5BA",
+        "#AAB5BA"
+      ]
+    },
+    {
+      "id": 107052,
+      "name": "胜利之傲 雷恩加尔 荣耀黄金",
+      "sortName": "荣耀黄金",
+      "colorName": "赛季",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级"
+      },
+      "riotName": "Victorious Rengar (Gold)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107052.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D9C445",
+        "#D9C445"
+      ]
+    },
+    {
+      "id": 107053,
+      "name": "胜利之傲 雷恩加尔 华贵铂金",
+      "sortName": "华贵铂金",
+      "colorName": "赛季",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级"
+      },
+      "riotName": "Victorious Rengar (Platinum)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107053.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#55CDE5",
+        "#55CDE5"
+      ]
+    },
+    {
+      "id": 107054,
+      "name": "胜利之傲 雷恩加尔 流光翡翠",
+      "sortName": "流光翡翠",
+      "colorName": "赛季",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级"
+      },
+      "riotName": "Victorious Rengar (Emerald)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107054.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#26854C",
+        "#26854C"
+      ]
+    },
+    {
+      "id": 107055,
+      "name": "胜利之傲 雷恩加尔 璀璨钻石",
+      "sortName": "璀璨钻石",
+      "colorName": "赛季",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级"
+      },
+      "riotName": "Victorious Rengar (Diamond)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107055.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#65337F",
+        "#65337F"
+      ]
+    },
+    {
+      "id": 107056,
+      "name": "胜利之傲 雷恩加尔 超凡大师",
+      "sortName": "超凡大师",
+      "colorName": "赛季",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级"
+      },
+      "riotName": "Victorious Rengar (Master)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107056.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9D228D",
+        "#9D228D"
+      ]
+    },
+    {
+      "id": 107057,
+      "name": "胜利之傲 雷恩加尔 傲世宗师",
+      "sortName": "傲世宗师",
+      "colorName": "赛季",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级"
+      },
+      "riotName": "Victorious Rengar (Grandmaster)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107057.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#B31316",
+        "#B31316"
+      ]
+    },
+    {
+      "id": 107058,
+      "name": "胜利之傲 雷恩加尔 最强王者",
+      "sortName": "最强王者",
+      "colorName": "赛季",
+      "tencent": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "赛季奖励",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "赢得15场排位并达到荣誉2级"
+      },
+      "riotName": "Victorious Rengar (Challenger)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107058.png",
+      "mythicIcon": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#1D62C8",
+        "#1D62C8"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "26.14",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
