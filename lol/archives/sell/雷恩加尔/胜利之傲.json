@@ -34,8 +34,8 @@
     "priceTypeChinese": "",
     "priceStartDay": "2026年4月29日",
     "priceEndDay": "2026年7月30日前",
-    "description": "2026年7月30日后陆续结算发放，赛季期间赢得15场排位并达到荣誉2级",
-    "hasFullGiftPack": false
+    "description": "2026年7月30日后陆续结算发放",
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
