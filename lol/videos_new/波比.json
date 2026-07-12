@@ -1,0 +1,45 @@
+{
+  "heroKey": "波比",
+  "heroName": "圣锤之毅",
+  "heroNameEn": "poppy",
+  "lolKey": "78",
+  "wrKey": "10076",
+  "videos": [
+    {
+      "id": "BV1uFTB6VE3d",
+      "bvid": "BV1uFTB6VE3d",
+      "title": "天棱晴雨 波比 皮肤预览 - 英雄联盟手游 |  Weather Entity Poppy Skin Spotlight",
+      "pic": "http://i0.hdslb.com/bfs/archive/d3cc7e9faec086dea097c17e606fb5e051bdb48e.jpg",
+      "date": "2026-07-02",
+      "lastSync": 1783875651,
+      "skinName": "天棱晴雨",
+      "lolSkinId": "1007606",
+      "wrSkinId": "1007606",
+      "category": "skin"
+    },
+    {
+      "id": "BV1pcoxYtExC",
+      "bvid": "BV1pcoxYtExC",
+      "title": "我是谁？！ 波比 皮肤预览 - 英雄联盟手游 | Guess Who Poppy Skin Spotlight",
+      "pic": "http://i1.hdslb.com/bfs/archive/0fcddb2a19142bb36447c64ebf0dfb8dee894436.jpg",
+      "date": "2025-03-25",
+      "lastSync": 1783875651,
+      "skinName": "我是谁？！",
+      "lolSkinId": "1007602",
+      "wrSkinId": "1007602",
+      "category": "skin"
+    },
+    {
+      "id": "BV18P9BYAEwb",
+      "bvid": "BV18P9BYAEwb",
+      "title": "圣锤之毅 波比 英雄预览 - 英雄联盟手游 | Classic Poppy Skin Spotlight",
+      "pic": "http://i0.hdslb.com/bfs/archive/c2d84614f70dafeb12fd05f301cb5e556b6c596a.jpg",
+      "date": "2025-03-04",
+      "lastSync": 1783875651,
+      "skinName": "圣锤之毅",
+      "lolSkinId": "1007601",
+      "wrSkinId": "1007601",
+      "category": "skin"
+    }
+  ]
+}
