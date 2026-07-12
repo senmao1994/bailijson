@@ -33,8 +33,8 @@
     "priceType": "赛季奖励",
     "priceTypeChinese": "",
     "priceStartDay": "2026年4月29日",
-    "priceEndDay": "2026年7月30日前(赢得15场排位并达到荣誉2级)",
-    "description": "2026年7月30日后陆续结算发放",
+    "priceEndDay": "2026年7月30日前",
+    "description": "2026年7月30日后陆续结算发放，赛季期间赢得15场排位并达到荣誉2级",
     "hasFullGiftPack": false
   },
   "chromas": [
@@ -46,9 +46,9 @@
       "tencent": {
         "price": 0,
         "priceType": "赛季奖励",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年7月30日前",
+        "description": "赢得15场排位赛",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -57,7 +57,7 @@
         "priceType": "赛季奖励",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级"
+        "description": "达到该排位等级并获取荣誉2级"
       },
       "riotName": "Victorious Rengar (Bronze)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107050.png",
@@ -76,9 +76,9 @@
       "tencent": {
         "price": 0,
         "priceType": "赛季奖励",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年7月30日前",
+        "description": "赢得15场排位赛",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -87,7 +87,7 @@
         "priceType": "赛季奖励",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级"
+        "description": "达到该排位等级并获取荣誉2级"
       },
       "riotName": "Victorious Rengar (Silver)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107051.png",
@@ -106,9 +106,9 @@
       "tencent": {
         "price": 0,
         "priceType": "赛季奖励",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年7月30日前",
+        "description": "赢得15场排位赛",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -117,7 +117,7 @@
         "priceType": "赛季奖励",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级"
+        "description": "达到该排位等级并获取荣誉2级"
       },
       "riotName": "Victorious Rengar (Gold)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107052.png",
@@ -136,9 +136,9 @@
       "tencent": {
         "price": 0,
         "priceType": "赛季奖励",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年7月30日前",
+        "description": "赢得15场排位赛",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -147,7 +147,7 @@
         "priceType": "赛季奖励",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级"
+        "description": "达到该排位等级并获取荣誉2级"
       },
       "riotName": "Victorious Rengar (Platinum)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107053.png",
@@ -166,9 +166,9 @@
       "tencent": {
         "price": 0,
         "priceType": "赛季奖励",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年7月30日前",
+        "description": "赢得15场排位赛",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -177,7 +177,7 @@
         "priceType": "赛季奖励",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级"
+        "description": "达到该排位等级并获取荣誉2级"
       },
       "riotName": "Victorious Rengar (Emerald)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107054.png",
@@ -196,9 +196,9 @@
       "tencent": {
         "price": 0,
         "priceType": "赛季奖励",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年7月30日前",
+        "description": "赢得15场排位赛",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -207,7 +207,7 @@
         "priceType": "赛季奖励",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级"
+        "description": "达到该排位等级并获取荣誉2级"
       },
       "riotName": "Victorious Rengar (Diamond)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107055.png",
@@ -226,9 +226,9 @@
       "tencent": {
         "price": 0,
         "priceType": "赛季奖励",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年7月30日前",
+        "description": "赢得15场排位赛",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -237,7 +237,7 @@
         "priceType": "赛季奖励",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级"
+        "description": "达到该排位等级并获取荣誉2级"
       },
       "riotName": "Victorious Rengar (Master)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107056.png",
@@ -256,9 +256,9 @@
       "tencent": {
         "price": 0,
         "priceType": "赛季奖励",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年7月30日前",
+        "description": "赢得15场排位赛",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -267,7 +267,7 @@
         "priceType": "赛季奖励",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级"
+        "description": "达到该排位等级并获取荣誉2级"
       },
       "riotName": "Victorious Rengar (Grandmaster)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107057.png",
@@ -286,9 +286,9 @@
       "tencent": {
         "price": 0,
         "priceType": "赛季奖励",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年7月30日前",
+        "description": "赢得15场排位赛",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -297,7 +297,7 @@
         "priceType": "赛季奖励",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "赢得15场排位并达到荣誉2级"
+        "description": "达到该排位等级并获取荣誉2级"
       },
       "riotName": "Victorious Rengar (Challenger)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/107/107058.png",
