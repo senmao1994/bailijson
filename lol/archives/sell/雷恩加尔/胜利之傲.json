@@ -31,7 +31,7 @@
   "tencent": {
     "price": 0,
     "priceType": "赛季奖励",
-    "priceTypeChinese": "",
+    "priceTypeChinese": "赢得15场排位赛并达到荣誉2级",
     "priceStartDay": "2026年4月29日",
     "priceEndDay": "2026年7月30日前",
     "description": "2026年7月30日后陆续结算发放",
