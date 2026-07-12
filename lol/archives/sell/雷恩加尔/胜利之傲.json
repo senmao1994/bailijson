@@ -35,7 +35,7 @@
     "priceStartDay": "2026年4月29日",
     "priceEndDay": "2026年7月30日前",
     "description": "2026年7月30日后陆续结算发放",
-    "hasFullGiftPack": true
+    "hasFullGiftPack": false
   },
   "chromas": [
     {
