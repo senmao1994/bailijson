@@ -9,7 +9,7 @@
   "priceUnit": "点券",
   "skinline": "重燃",
   "universe": "斗魂无双",
-  "pushDate": "",
+  "pushDate": "6.1",
   "series": null,
   "backstory": "我们收到独家线报！调查局的元老，兽骸战争的亲历者现在抵达了竞技场！在这位选手看来，千眼魔神，死敌！异象调查局，堕落！剩下的参赛者，杂鱼！行动统统否决，力量全部收缴……现在，臣服于真正的传奇，瑞兹！",
   "accessories": [
@@ -19,6 +19,7 @@
   "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ryze_4.jpg",
   "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ryze_skin04.png",
   "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013705.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ryze/Ryze_SoulFighterLoading_WR_Special_Edition-1.png",
   "roit": {
     "price": 0,
     "priceType": "直售",
@@ -28,6 +29,7 @@
   },
   "tencentPrice": 0,
   "icon": "",
+  "emote": null,
   "tencent": {
     "price": 0,
     "priceType": "",
@@ -40,13 +42,6 @@
   "chromas": [],
   "formsCount": null,
   "forms": [],
-  "version": {
-    "push": "6.1",
-    "update": "",
-    "updateChinese": "",
-    "updateName": "",
-    "video": ""
-  },
   "sell": {
     "startDate": "2025年4月17日",
     "endDate": "",
