@@ -1,0 +1,67 @@
+{
+  "heroKey": "芸阿娜",
+  "heroName": "不破之誓",
+  "heroNameEn": "yunara",
+  "lolKey": "804",
+  "wrKey": "10148",
+  "videos": [
+    {
+      "id": "BV1vDuJzpEPs",
+      "bvid": "BV1vDuJzpEPs",
+      "title": "【英雄联盟】不破之誓 芸阿娜 英雄档案 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/20f26861dceb81a191066d7430706e438b497038.jpg",
+      "date": "2025-07-15",
+      "lastSync": 1783915037,
+      "skinName": "不破之誓",
+      "lolSkinId": "804000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1XkupzsEAa",
+      "bvid": "BV1XkupzsEAa",
+      "title": "【英雄联盟】莲华温泉 芸阿娜 伴生·史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/72c17d99b2787cb0c5e691108b8fcca5a74228d5.jpg",
+      "date": "2025-07-16",
+      "lastSync": 1783915037,
+      "skinName": "莲华温泉 芸阿娜",
+      "lolSkinId": "804001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1zrMn65EA7",
+      "bvid": "BV1zrMn65EA7",
+      "title": "【英雄联盟手游】天棱闪弹 芸阿娜 限定·史诗皮肤 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/2f1577bf8526d9d2aa96210709a1b0f001e9788a.jpg",
+      "date": "2026-07-09",
+      "lastSync": 1783915037,
+      "skinName": "天棱闪弹",
+      "lolSkinId": "1014802",
+      "wrSkinId": "1014802",
+      "category": "skin"
+    },
+    {
+      "id": "BV1eDTq6EEKL",
+      "bvid": "BV1eDTq6EEKL",
+      "title": "天棱闪弹 芸阿娜 皮肤预览 - 英雄联盟手游 |  Weather Entity Yunara Skin Spotlight",
+      "pic": "http://i0.hdslb.com/bfs/archive/34cb09b581e7a7477433c4147b7cdb09277b8ba3.jpg",
+      "date": "2026-07-02",
+      "lastSync": 1783914841,
+      "skinName": "天棱闪弹",
+      "lolSkinId": "1014802",
+      "wrSkinId": "1014802",
+      "category": "skin"
+    },
+    {
+      "id": "BV1C4ET6kEve",
+      "bvid": "BV1C4ET6kEve",
+      "title": "不破之誓 芸阿娜 英雄预览 - 英雄联盟手游 |  Classic Yunara Skin Spotlight",
+      "pic": "http://i0.hdslb.com/bfs/archive/f5731b79e201708d519b300a05e34091127d351f.jpg",
+      "date": "2026-06-08",
+      "lastSync": 1783914841,
+      "skinName": "不破之誓",
+      "lolSkinId": "1014801",
+      "wrSkinId": "1014801",
+      "category": "skin"
+    }
+  ]
+}
