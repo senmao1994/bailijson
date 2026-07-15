@@ -21,21 +21,21 @@
   "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin69/missfortuneloadscreen_69_le.skins_missfortune_skin69.jpg",
   "roit": {
     "price": 1820,
-    "priceType": "直售",
+    "priceType": "限时直售",
     "priceStartDay": "",
     "priceEndDay": "",
     "description": ""
   },
   "tencentPrice": 10900,
   "icon": "7167",
-  "emote": null,
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/WorldsWinners2026/5111_GumaGoddess_Inventory.ACCESSORIES_16_14.png",
   "tencent": {
     "price": 10900,
-    "priceType": "直售",
+    "priceType": "限时直售",
     "priceTypeChinese": "",
     "priceStartDay": "2026年7月16日",
     "priceEndDay": "2026年11月18日",
-    "description": "2027年后加入轮换，双周/精选池200神话精萃兑换",
+    "description": "2027年后加入神话商店精选|双周轮换 200神话精萃兑换",
     "hasFullGiftPack": true
   },
   "chromas": [
