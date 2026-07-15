@@ -34,9 +34,9 @@
     "priceType": "限时直售",
     "priceTypeChinese": "限定",
     "priceStartDay": "2026年7月16日",
-    "priceEndDay": "2026年11月18日(签名版8月12后下架)",
-    "description": "",
-    "hasFullGiftPack": true
+    "priceEndDay": "2026年11月18日",
+    "description": "签名版：2026年8月12日23:59下架",
+    "hasFullGiftPack": false
   },
   "chromas": [
     {
