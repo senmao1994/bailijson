@@ -34,9 +34,9 @@
     "priceType": "限时直售",
     "priceTypeChinese": "限定",
     "priceStartDay": "2026年7月16日",
-    "priceEndDay": "2026年7月29日",
-    "description": "",
-    "hasFullGiftPack": true
+    "priceEndDay": "2026年11月18日",
+    "description": "签名版：2026年8月12日23:59下架",
+    "hasFullGiftPack": false
   },
   "chromas": [
     {
@@ -45,10 +45,10 @@
       "sortName": "精锐",
       "colorName": "黑红",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2026年7月16日",
+        "priceEndDay": "2026年8月12日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -58,7 +58,7 @@
         "priceType": "礼包",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": ""
+        "description": "礼包专属"
       },
       "riotName": "T1 Ambessa (Elite)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/799/799009.png",
@@ -75,10 +75,10 @@
       "sortName": "混合的世界",
       "colorName": "白色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年7月16日",
+        "priceEndDay": "2026年8月12日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -105,10 +105,10 @@
       "sortName": "决战在即",
       "colorName": "红色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2026年7月16日",
+        "priceEndDay": "2026年8月12日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -118,7 +118,7 @@
         "priceType": "礼包",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": ""
+        "description": "礼包专属"
       },
       "riotName": "T1 Ambessa (Ruby)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/799/799011.png",
@@ -135,10 +135,10 @@
       "sortName": "燃",
       "colorName": "粉色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年7月16日",
+        "priceEndDay": "2026年8月12日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -165,10 +165,10 @@
       "sortName": "登神",
       "colorName": "金色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年7月16日",
+        "priceEndDay": "2026年8月12日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -195,10 +195,10 @@
       "sortName": "王冠之重",
       "colorName": "蓝色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年7月16日",
+        "priceEndDay": "2026年8月12日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
