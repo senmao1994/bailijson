@@ -40,13 +40,55 @@
     "description": "",
     "hasFullGiftPack": false
   },
-  "chromas": [],
+  "chromas": [
+    {
+      "id": 101370601,
+      "name": "影坛巨匠 瑞兹 片场传奇",
+      "sortName": "片场传奇",
+      "colorName": "白色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年7月9日",
+          "endDate": "2026年8月27日",
+          "description": "",
+          "activityTitle": "精英宝典75级领取",
+          "price": "680",
+          "priceUnit": "点券"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ryze/Ryze_MovieDirector_(Ascended)_WR.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "2026年7月9日",
+        "endDate": "2026年8月27日",
+        "description": "",
+        "activityTitle": "精英宝典75级领取",
+        "price": "680",
+        "priceUnit": "点券"
+      },
+      "colors": []
+    }
+  ],
   "formsCount": null,
   "forms": [],
   "sell": {
     "startDate": "2026年7月9日",
     "endDate": "2026年8月27日",
-    "description": "高级宝典 360点券 精英宝典 680点券(含75级炫彩)",
+    "description": "高级宝典 360点券 精英宝典 680点券",
     "activityTitle": "",
     "price": "",
     "priceUnit": ""
