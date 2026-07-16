@@ -20,6 +20,7 @@
   "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ryze_5.jpg",
   "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ryze_skin05.png",
   "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013706.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yunara/Ryze_MovieDirectorLoading_WR_Special_Edition.png",
   "roit": {
     "price": 0,
     "priceType": "直售",
@@ -42,13 +43,6 @@
   "chromas": [],
   "formsCount": null,
   "forms": [],
-  "version": {
-    "push": "7.2",
-    "update": "",
-    "updateChinese": "",
-    "updateName": "",
-    "video": ""
-  },
   "sell": {
     "startDate": "2026年7月9日",
     "endDate": "2026年8月27日",
