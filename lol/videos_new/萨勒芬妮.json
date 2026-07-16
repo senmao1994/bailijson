@@ -6,14 +6,28 @@
   "wrKey": "10034",
   "videos": [
     {
+      "id": "BV1j8gLz5Ecr",
+      "bvid": "BV1j8gLz5Ecr",
+      "title": "【英雄联盟手游】碧海长歌 萨勒芬妮 传说皮肤 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/cd2abd11579869e54e93fea4a1002b4b99bed9be.jpg",
+      "date": "2025-07-21",
+      "lastSync": 1784216218,
+      "syncSource": "manual-reskin",
+      "skinName": "碧空长歌",
+      "lolSkinId": "1003411",
+      "wrSkinId": "1003401",
+      "category": "skin"
+    },
+    {
       "id": "BV1uW4y187i9",
       "bvid": "BV1uW4y187i9",
       "title": "【英雄联盟】KDA ALL OUT 萨勒芬妮 腾讯服版本 T1终极皮肤 展示",
       "pic": "http://i2.hdslb.com/bfs/archive/252d28b1301ccb04d5126b54f3e92b02a99687e0.jpg",
       "date": "2022-08-23",
-      "lastSync": 1784216128,
-      "skinName": "星籁歌姬",
-      "lolSkinId": "147000",
+      "lastSync": 1784216207,
+      "syncSource": "manual-reskin",
+      "skinName": "K/DA ALL OUT 萨勒芬妮 独立音乐人",
+      "lolSkinId": "147001",
       "category": "skin"
     },
     {
@@ -113,18 +127,6 @@
       "lastSync": 1784216128,
       "skinName": "T1 萨勒芬妮",
       "lolSkinId": "147068",
-      "category": "skin"
-    },
-    {
-      "id": "BV1j8gLz5Ecr",
-      "bvid": "BV1j8gLz5Ecr",
-      "title": "【英雄联盟手游】碧海长歌 萨勒芬妮 传说皮肤 正式版展示",
-      "pic": "http://i0.hdslb.com/bfs/archive/cd2abd11579869e54e93fea4a1002b4b99bed9be.jpg",
-      "date": "2025-07-21",
-      "lastSync": 1784216128,
-      "skinName": "星籁歌姬",
-      "lolSkinId": "1003401",
-      "wrSkinId": "1003401",
       "category": "skin"
     },
     {
