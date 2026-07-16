@@ -80,7 +80,10 @@
         "price": "680",
         "priceUnit": "点券"
       },
-      "colors": []
+      "colors": [
+        "#FFFFFF",
+        "#FFFFFF"
+      ]
     }
   ],
   "formsCount": null,
