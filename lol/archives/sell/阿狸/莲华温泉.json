@@ -9,7 +9,7 @@
   "priceUnit": null,
   "skinline": "莲华温泉",
   "universe": "清凉盛夏",
-  "pushDate": null,
+  "pushDate": "2020年08月06日",
   "series": null,
   "backstory": "作为灵魂莲华温泉浴场的主人和经营者，阿狸将她最喜欢的山变成了一个隐藏的绿洲。她深刻理解休息带来的能量，尽情享受生活中最丰富的滋味——每一次都是一段美妙记忆。只有既敏锐又善良的人才能应付她的那些朝气蓬勃的客人们。",
   "accessories": [],
@@ -28,6 +28,7 @@
   },
   "tencentPrice": 10900,
   "icon": "6919",
+  "emote": null,
   "tencent": {
     "price": 10900,
     "priceType": "直售",
@@ -58,7 +59,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/ad9bfhxljpmp89l9mmoszjkh1s6dstmc.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-b9c58311-c073-4b55-be1f-6357c5e0481f.jpg"
       },
       "roit": {
         "price": 290,
@@ -67,7 +68,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "莲华温泉 阿狸 流火",
+      "riotName": "Spirit Blossom Springs Ahri (Ruby)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103090.png",
       "mythicIcon": null,
       "wildRiftSell": {
@@ -111,7 +112,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "莲华温泉 阿狸 风起",
+      "riotName": "Spirit Blossom Springs Ahri (Turquoise)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103091.png",
       "mythicIcon": null,
       "wildRiftSell": {
@@ -146,7 +147,8 @@
           "activityTitle": "",
           "price": "",
           "priceUnit": ""
-        }
+        },
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-a7699a24-8688-4a93-b0fd-65aff78a8a4c.jpg"
       },
       "roit": {
         "price": 290,
@@ -155,7 +157,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "莲华温泉 阿狸 雁来",
+      "riotName": "Spirit Blossom Springs Ahri (Catseye)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103092.png",
       "mythicIcon": null,
       "wildRiftSell": {
@@ -191,7 +193,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a8yi53iaoq9abjtkiklzgkzbmkthlvpr.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-a88de00a-9098-447a-92a4-2e4fa68d45b1.jpg"
       },
       "roit": {
         "price": 290,
@@ -200,7 +202,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "莲华温泉 阿狸 星回",
+      "riotName": "Spirit Blossom Springs Ahri (Tanzanite)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103093.png",
       "mythicIcon": null,
       "wildRiftSell": {
@@ -236,7 +238,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/atqs5k3scoqchwysth2gdt3b3xvjojn0.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-5cc601bc-0d71-4976-a8c6-60015bb3033f.jpg"
       },
       "roit": {
         "price": 290,
@@ -245,7 +247,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "莲华温泉 阿狸 雪落",
+      "riotName": "Spirit Blossom Springs Ahri (Sapphire)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103094.png",
       "mythicIcon": null,
       "wildRiftSell": {
@@ -281,7 +283,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/a1fy1aerhn5ippk1k7w8egr48ap9fquz.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-269d8aed-ab41-48bc-b7f2-42ac9a880e91.jpg"
       },
       "roit": {
         "price": 290,
@@ -290,7 +292,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "莲华温泉 阿狸 朝花",
+      "riotName": "Spirit Blossom Springs Ahri (Pearl)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103095.png",
       "mythicIcon": null,
       "wildRiftSell": {
@@ -315,5 +317,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
