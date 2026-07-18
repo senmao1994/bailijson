@@ -1,0 +1,97 @@
+{
+  "id": 1003811,
+  "name": "幻梦甜心 阿狸",
+  "roitName": "Soda Pop Ahri",
+  "sortName": "幻梦甜心",
+  "rarity": "史诗",
+  "raritySubType": "宝典限定",
+  "price": "360",
+  "priceUnit": "点券",
+  "skinline": "",
+  "universe": "",
+  "pushDate": "4.2版本",
+  "series": null,
+  "backstory": "清爽气泡、浓郁果香、入口甜蜜——这款经典橙子汽水，现已在布隆超市开售！而它的酿造秘方，正是幻梦甜心阿狸注入的爱意。",
+  "accessories": [
+    "边框",
+    "姿态：揉揉",
+    "姿态：梦幻泡影"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_10.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ahri_skin10.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/Ahri_SodaPopCircle_WR.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003811.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/Ahri_SodaPopLoading_WR_Special_Edition.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 100381101,
+      "name": "幻梦甜心 阿狸 红粉魅惑",
+      "sortName": "红粉魅惑",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2023年5月26日",
+          "endDate": "2023年7月19日",
+          "description": "精英宝典75级领取",
+          "activityTitle": "宝典炫彩",
+          "price": "680",
+          "priceUnit": "点券"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/Ahri_SodaPop_(Ascended)_WR.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "2023年5月26日",
+        "endDate": "2023年7月19日",
+        "description": "精英宝典75级领取",
+        "activityTitle": "宝典炫彩",
+        "price": "680",
+        "priceUnit": "点券"
+      },
+      "colors": []
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2023年5月26日",
+    "endDate": "2023年7月19日",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
