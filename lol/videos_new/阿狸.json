@@ -6,6 +6,18 @@
   "wrKey": "10038",
   "videos": [
     {
+      "id": "BV1Cs421M7Vn",
+      "bvid": "BV1Cs421M7Vn",
+      "title": "【英雄联盟】联盟不朽 阿狸 卓越皮肤全形态 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/922e3433a1896ccb663b1c269598538274dd001c.jpg",
+      "date": "2024-06-13",
+      "lastSync": 1784392432,
+      "syncSource": "manual-reskin",
+      "skinName": "殿堂传奇 阿狸",
+      "lolSkinId": "103085",
+      "category": "skin"
+    },
+    {
       "id": "BV1fQKA6dEuP",
       "bvid": "BV1fQKA6dEuP",
       "title": "【英雄联盟手游】幻梦甜心 阿狸 宝典限定·史诗皮肤 正式版展示",
@@ -227,17 +239,6 @@
       "skinName": "殿堂传奇 阿狸",
       "lolSkinId": "103085",
       "category": "skin"
-    },
-    {
-      "id": "BV1Cs421M7Vn",
-      "bvid": "BV1Cs421M7Vn",
-      "title": "【英雄联盟】联盟不朽 阿狸 卓越皮肤全形态 正式版展示",
-      "pic": "http://i0.hdslb.com/bfs/archive/922e3433a1896ccb663b1c269598538274dd001c.jpg",
-      "date": "2024-06-13",
-      "lastSync": 1784392060,
-      "skinName": "九尾妖狐",
-      "lolSkinId": "103000",
-      "category": "other"
     },
     {
       "id": "BV1Y84y157iY",
