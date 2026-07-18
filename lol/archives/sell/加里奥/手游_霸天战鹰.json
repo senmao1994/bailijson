@@ -9,24 +9,17 @@
   "priceUnit": "点券",
   "skinline": "争端",
   "universe": "霸天",
-  "pushDate": "",
+  "pushDate": "4.3",
   "series": null,
-  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Galio_6.jpg",
-  "splashHDPath": "",
-  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_galio_skin06.png",
-  "iconPath": "",
-  "centeredPath": "",
-  "circlePath": "",
-  "chromaPath": null,
-  "specialEditionPath": "",
-  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009907.png",
-  "loadingSpecialEditionPath": "",
   "backstory": "机甲单位GAL-10是抵御威胁的最后一道防线。这台机甲应用了相对自主性技术，用于守护坚壁内的都市。在最近的一次入侵结束后，GAL-10并没有重新进入待机，而是切换成了主动的“索敌”状态。它离开了自己的岗哨，向着不明的威胁所在的方向进发。",
   "accessories": [
     "边框",
     "姿态：充能",
     "姿态：裂空战翼！出击！"
   ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Galio_6.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_galio_skin06.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009907.png",
   "roit": {
     "price": 0,
     "priceType": "直售",
@@ -36,13 +29,15 @@
   },
   "tencentPrice": 0,
   "icon": "",
+  "emote": null,
   "tencent": {
     "price": 0,
     "priceType": "",
     "priceTypeChinese": "",
     "priceStartDay": "",
     "priceEndDay": "",
-    "description": ""
+    "description": "",
+    "hasFullGiftPack": false
   },
   "chromas": [
     {
@@ -56,6 +51,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "2024年8月2日",
           "endDate": "",
@@ -73,7 +69,7 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/galio/Galio_Mecha_(Pink)_WR.png",
       "mythicIcon": null,
       "wildRiftSell": {
         "startDate": "2024年8月2日",
@@ -99,6 +95,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "2024年8月2日",
           "endDate": "",
@@ -116,7 +113,7 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/galio/Galio_Mecha_(Purple)_WR.png",
       "mythicIcon": null,
       "wildRiftSell": {
         "startDate": "2024年8月2日",
@@ -142,6 +139,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "2024年8月2日",
           "endDate": "",
@@ -159,7 +157,7 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/galio/Galio_Mecha_(Brass)_WR.png",
       "mythicIcon": null,
       "wildRiftSell": {
         "startDate": "2024年8月2日",
@@ -185,6 +183,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "2024年8月2日",
           "endDate": "",
@@ -202,7 +201,7 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/galio/Galio_Mecha_(Green)_WR.png",
       "mythicIcon": null,
       "wildRiftSell": {
         "startDate": "2024年8月2日",
@@ -228,6 +227,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "2024年8月2日",
           "endDate": "",
@@ -245,7 +245,7 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/galio/Galio_Mecha_(Aqua)_WR.png",
       "mythicIcon": null,
       "wildRiftSell": {
         "startDate": "2024年8月2日",
@@ -271,6 +271,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "2024年8月2日",
           "endDate": "",
@@ -288,7 +289,7 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/galio/Galio_Mecha_(Gold)_WR.png",
       "mythicIcon": null,
       "wildRiftSell": {
         "startDate": "2024年8月2日",
@@ -314,6 +315,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "2024年8月2日",
           "endDate": "",
@@ -331,7 +333,7 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/galio/Galio_Mecha_(Vermilion)_WR.png",
       "mythicIcon": null,
       "wildRiftSell": {
         "startDate": "2024年8月2日",
@@ -349,13 +351,6 @@
   ],
   "formsCount": null,
   "forms": [],
-  "version": {
-    "push": "4.3",
-    "update": "",
-    "updateChinese": "",
-    "updateName": "",
-    "video": ""
-  },
   "sell": {
     "startDate": "2023年8月25日",
     "endDate": "长期销售",

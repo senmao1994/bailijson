@@ -1,7 +1,8 @@
 {
-  "id": "galio",
+  "id": 10099,
   "name": "加里奥",
-  "alias": "Galio",
-  "key": 3,
-  "title": "正义巨像"
+  "alias": "jialiao",
+  "key": "10099",
+  "title": "正义巨像",
+  "platform": "wr"
 }
