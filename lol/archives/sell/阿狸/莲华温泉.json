@@ -135,7 +135,7 @@
       "colorName": "黄色",
       "tencent": {
         "price": 0,
-        "priceType": "暂无",
+        "priceType": "臻彩",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
@@ -181,9 +181,9 @@
       "tencent": {
         "price": 0,
         "priceType": "臻彩",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "priceStartDay": "2026年3月26日",
+        "priceEndDay": "2026年4月26日 23:59",
+        "description": "幸运之门·召唤",
         "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
