@@ -19,7 +19,6 @@
   ],
   "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_10.jpg",
   "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ahri_skin10.png",
-  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/Ahri_SodaPopCircle_WR.png",
   "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003811.png",
   "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/Ahri_SodaPopLoading_WR_Special_Edition.png",
   "roit": {
@@ -81,7 +80,10 @@
         "price": "680",
         "priceUnit": "点券"
       },
-      "colors": []
+      "colors": [
+        "#FF0000",
+        "#FF0000"
+      ]
     }
   ],
   "formsCount": null,
