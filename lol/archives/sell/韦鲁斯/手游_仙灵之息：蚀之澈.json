@@ -1,0 +1,57 @@
+{
+  "id": 1009319,
+  "name": "仙灵之息：蚀之澈 韦鲁斯",
+  "roitName": "Elf Forest Varus",
+  "sortName": "仙灵之息：蚀之澈",
+  "rarity": "典藏",
+  "raritySubType": "",
+  "price": "2000",
+  "priceUnit": "仙灵兑换券",
+  "skinline": "仙灵之息",
+  "universe": "",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "“……生命之树于不息的川流前分野，而在光与暗的交界处，原初精灵的守望亦恒久不变。自远征伊始、域界模糊，一对分离的恋人受那禁忌的冲动驱使试图冒犯界限，而那明澈之河瞬间转化为汹涌激浪……待冲刷殆尽，守望者的愠怒展现无遗。”\n                                                                          ——《明灭创生纪》，卷IV",
+  "accessories": [
+    "按键：仙灵之蚀",
+    "边框",
+    "姿态：问天",
+    "姿态：双生之魂",
+    "姿态：幽澈静思"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Varus_18.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_varus_skin18.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/varus/Varus_ElfForestCircle_WR.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009319.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/varus/Varus_ElfForestLoading_WR_Special_Edition.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年7月17日",
+    "endDate": "2026年9月21日",
+    "description": "首次兑换价格为1800兑换券",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
