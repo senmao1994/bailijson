@@ -1,0 +1,52 @@
+{
+  "id": 1003812,
+  "name": "星之守护者 永绽盛芒 阿狸",
+  "roitName": "Star Guardian Ahri Mythic Chroma",
+  "sortName": "星之守护者 永绽盛芒",
+  "rarity": "神话",
+  "raritySubType": "限定",
+  "price": "500",
+  "priceUnit": "橙色原石",
+  "skinline": "奇缘",
+  "universe": "星之守护者",
+  "pushDate": "",
+  "series": null,
+  "backstory": "阿狸是一位魅力十足的队长。带领星之守护者小队从外太空而来的她，既有蜂后般的威严，又不失狐狸的狡黠俏皮。她毫不费力便可赢得众人的青睐，无论朋友还是敌人，都无法招架那无可抵御的迷人气息。",
+  "accessories": [
+    "边框",
+    "姿态：降临"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_11.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ahri_skin11.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003812.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2023年9月28日",
+    "endDate": "限时下架",
+    "description": "战利品兑换商城轮换上架",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
