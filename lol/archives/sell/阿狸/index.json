@@ -1,8 +1,7 @@
 {
-  "id": 10038,
+  "id": "ahri",
   "name": "阿狸",
-  "alias": "eli",
-  "key": "10038",
-  "title": "九尾妖狐",
-  "platform": "wr"
+  "alias": "Ahri",
+  "key": 103,
+  "title": "九尾妖狐"
 }
