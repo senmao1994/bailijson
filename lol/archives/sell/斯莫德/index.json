@@ -1,8 +1,7 @@
 {
-  "id": 10138,
+  "id": "smolder",
   "name": "斯莫德",
-  "alias": "simode",
-  "key": "10138",
-  "title": "炽炎雏龙",
-  "platform": "wr"
+  "alias": "Smolder",
+  "key": 901,
+  "title": "炽炎雏龙"
 }
