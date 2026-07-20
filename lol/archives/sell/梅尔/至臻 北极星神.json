@@ -20,7 +20,7 @@
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/melloadscreen_10.jpg",
   "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/melloadscreen_10_le.jpg",
   "roit": {
-    "price": 0,
+    "price": 150,
     "priceType": "神话商店",
     "priceStartDay": "",
     "priceEndDay": "",
@@ -28,6 +28,7 @@
   },
   "tencentPrice": 150,
   "icon": "7040",
+  "emote": null,
   "tencent": {
     "price": 150,
     "priceType": "神话商店",
@@ -35,7 +36,7 @@
     "priceStartDay": "2025年12月4日版本更新后",
     "priceEndDay": "2026年1月21日版本更新前",
     "description": "首发神话商店精选栏兑换",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -66,7 +67,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "至臻 北极星神 梅尔 全开",
+      "riotName": "Prestige Winterblessed Mel (Vivid)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800011.png",
       "mythicIcon": null,
       "wildRiftSell": {
@@ -91,5 +92,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
