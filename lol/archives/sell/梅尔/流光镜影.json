@@ -1,0 +1,50 @@
+{
+  "id": 800000,
+  "name": "流光镜影",
+  "roitName": "Mel",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "诺克萨斯",
+  "universe": "英雄联盟宇宙",
+  "pushDate": "2025年01月23日",
+  "series": null,
+  "backstory": "梅尔·米达尔达是诺克萨斯旧贵族——米达尔达家族目前的第一顺位继承人。台前，她是优雅的贵族小姐；幕后，她是完美的政治家，对她遇到的每个人、每件事了然于胸，加以利用。在与神秘的黑色玫瑰接触之后，梅尔发现了母亲编织的层层谎言。也许是此生第一次，时局的发展超出了她的掌控。带着刚刚觉醒的魔法能力，梅尔乘船返回故乡探寻答案。许多人都想制服她体内的光，但梅尔的灵魂永远都昂扬倔强。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/base/images/mel_splash_uncentered_0.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/base/images/mel_splash_tile_0.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/base/images/mel_splash_centered_0.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/base/melloadscreen_0.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6886",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/FightingPits/4837_Drink_It_Up_Inventory.png",
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2025年6月26日",
+    "priceEndDay": "7月20日23:59",
+    "description": "梅尔 英雄肖像 图标",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "25.02",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "26.14"
+  },
+  "platform": "lol"
+}
