@@ -6,6 +6,19 @@
   "wrKey": "10070",
   "videos": [
     {
+      "id": "BV1XVGi6pE6D",
+      "bvid": "BV1XVGi6pE6D",
+      "title": "【英雄联盟手游】风驰岐影 易 觉醒皮肤 全形态正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/ae89ca73500d4457aab52bd5263c456580b358a6.jpg",
+      "date": "2026-05-23",
+      "lastSync": 1784601964,
+      "syncSource": "manual-reskin",
+      "skinName": "风驰·扬名",
+      "lolSkinId": "1007013",
+      "wrSkinId": "1007001",
+      "category": "skin"
+    },
+    {
       "id": "BV1bedrBiEMF",
       "bvid": "BV1bedrBiEMF",
       "title": "【英雄联盟】无极剑圣 易 英雄初始化皮肤档案",
@@ -248,18 +261,6 @@
       "skinName": "玄龙绛天",
       "lolSkinId": "1007014",
       "wrSkinId": "1007014",
-      "category": "skin"
-    },
-    {
-      "id": "BV1XVGi6pE6D",
-      "bvid": "BV1XVGi6pE6D",
-      "title": "【英雄联盟手游】风驰岐影 易 觉醒皮肤 全形态正式版展示",
-      "pic": "http://i2.hdslb.com/bfs/archive/ae89ca73500d4457aab52bd5263c456580b358a6.jpg",
-      "date": "2026-05-23",
-      "lastSync": 1784601921,
-      "skinName": "无极剑圣",
-      "lolSkinId": "1007001",
-      "wrSkinId": "1007001",
       "category": "skin"
     }
   ]
