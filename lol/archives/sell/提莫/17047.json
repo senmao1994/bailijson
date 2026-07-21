@@ -45,20 +45,20 @@
       "sortName": "“律动队长” 提莫 红霸符也种上！",
       "colorName": "",
       "tencent": {
-        "price": 0,
-        "priceType": "",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2022年11月18日10:00",
+        "priceEndDay": "长期销售",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
-        "price": 0,
-        "priceType": "直售",
+        "price": 290,
+        "priceType": "礼包",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "这个炫彩曾在2022年期间作为礼包专属发布。"
+        "description": ""
       },
       "riotName": "Space Groove Teemo (Ruby)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17048.png",
@@ -73,10 +73,10 @@
       "id": 17049,
       "name": "“律动队长” 提莫 兵线上也种上！",
       "sortName": "“律动队长” 提莫 兵线上也种上！",
-      "colorName": "",
+      "colorName": "黄色",
       "tencent": {
-        "price": 0,
-        "priceType": "",
+        "price": 2000,
+        "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
@@ -84,7 +84,7 @@
         "wildRiftSell": null
       },
       "roit": {
-        "price": 0,
+        "price": 290,
         "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
@@ -103,10 +103,10 @@
       "id": 17050,
       "name": "“律动队长” 提莫 男爵坑也种上！",
       "sortName": "“律动队长” 提莫 男爵坑也种上！",
-      "colorName": "",
+      "colorName": "黑色",
       "tencent": {
-        "price": 0,
-        "priceType": "",
+        "price": 2000,
+        "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
@@ -114,7 +114,7 @@
         "wildRiftSell": null
       },
       "roit": {
-        "price": 0,
+        "price": 290,
         "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
@@ -133,10 +133,10 @@
       "id": 17051,
       "name": "“律动队长” 提莫 草丛里也种上！",
       "sortName": "“律动队长” 提莫 草丛里也种上！",
-      "colorName": "",
+      "colorName": "浅绿色",
       "tencent": {
-        "price": 0,
-        "priceType": "",
+        "price": 2000,
+        "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
@@ -144,7 +144,7 @@
         "wildRiftSell": null
       },
       "roit": {
-        "price": 0,
+        "price": 290,
         "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
@@ -163,18 +163,18 @@
       "id": 17052,
       "name": "“律动队长” 提莫 小龙坑也种上！",
       "sortName": "“律动队长” 提莫 小龙坑也种上！",
-      "colorName": "",
+      "colorName": "粉色",
       "tencent": {
-        "price": 0,
-        "priceType": "",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 1,
+        "priceType": "礼包",
+        "priceStartDay": "2022年11月18日10:00",
+        "priceEndDay": "2022年12月2日10:00",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
-        "price": 0,
+        "price": 290,
         "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
@@ -193,10 +193,10 @@
       "id": 17053,
       "name": "“律动队长” 提莫 泉水边也种上！",
       "sortName": "“律动队长” 提莫 泉水边也种上！",
-      "colorName": "",
+      "colorName": "珍珠",
       "tencent": {
-        "price": 0,
-        "priceType": "",
+        "price": 2000,
+        "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
@@ -204,7 +204,7 @@
         "wildRiftSell": null
       },
       "roit": {
-        "price": 0,
+        "price": 290,
         "priceType": "直售",
         "priceStartDay": "",
         "priceEndDay": "",
