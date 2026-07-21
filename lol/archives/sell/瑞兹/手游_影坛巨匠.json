@@ -1,0 +1,99 @@
+{
+  "id": 1013706,
+  "name": "影坛巨匠 瑞兹",
+  "roitName": "Movie Director Ryz",
+  "sortName": "影坛巨匠",
+  "rarity": "史诗",
+  "raritySubType": "宝典限定",
+  "price": "360",
+  "priceUnit": "点券",
+  "skinline": "影坛巨匠",
+  "universe": "",
+  "pushDate": "7.1",
+  "series": null,
+  "backstory": "瑞兹，曾是胶片时代最耀眼的名字，无数被人反复谈起的经典镜头、奉为范式的叙事结构，都出自他手。如今，这位老派导演召集旧日人马重返影坛，他始终相信，真正的经典从不会过时——它只是在等待一次足够盛大的重逢。",
+  "accessories": [
+    "边框",
+    "姿态：指导",
+    "姿态：这段咔掉"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ryze_5.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ryze_skin05.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013706.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yunara/Ryze_MovieDirectorLoading_WR_Special_Edition.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 101370601,
+      "name": "影坛巨匠 瑞兹 片场传奇",
+      "sortName": "片场传奇",
+      "colorName": "白色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年7月9日",
+          "endDate": "2026年8月27日",
+          "description": "精英宝典75级领取",
+          "activityTitle": "宝典炫彩",
+          "price": "680",
+          "priceUnit": "点券"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ryze/Ryze_MovieDirector_(Ascended)_WR.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "2026年7月9日",
+        "endDate": "2026年8月27日",
+        "description": "精英宝典75级领取",
+        "activityTitle": "宝典炫彩",
+        "price": "680",
+        "priceUnit": "点券"
+      },
+      "colors": [
+        "#FFFFFF",
+        "#FFFFFF"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年7月9日",
+    "endDate": "2026年8月27日",
+    "description": "高级宝典 360点券 精英宝典 680点券",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
