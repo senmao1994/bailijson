@@ -1,7 +1,7 @@
 {
   "id": 17000,
   "name": "迅捷斥候",
-  "roitName": "Teemo",
+  "roitName": "The Swift Scout Teemo",
   "sortName": null,
   "rarity": "英雄",
   "raritySubType": null,
@@ -18,7 +18,7 @@
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/base/images/teemo_splash_centered_0.jpg",
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/base/teemoloadscreen_0.jpg",
   "roit": {
-    "price": 0,
+    "price": 585,
     "priceType": "直售",
     "priceStartDay": "",
     "priceEndDay": "",
@@ -26,7 +26,7 @@
   },
   "tencentPrice": 0,
   "icon": "6733",
-  "emote": null,
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Esports/Digital_Esports/4444_Its_Been_Forever_Inventory.png",
   "tencent": {
     "price": 0,
     "priceType": "直售",
