@@ -1,0 +1,58 @@
+{
+  "heroKey": "斯莫德",
+  "heroName": "炽炎雏龙",
+  "heroNameEn": "smolder",
+  "lolKey": "901",
+  "wrKey": "10138",
+  "videos": [
+    {
+      "id": "BV1K4421w7TF",
+      "bvid": "BV1K4421w7TF",
+      "title": "【英雄联盟】炽焰雏龙 斯莫德 英雄档案 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/caae0fb39951970a214981dd18ff30330f2054f5.jpg",
+      "author": "白礼白里白",
+      "date": "2024年02月05日 16:09:00",
+      "lastSync": 1784596854,
+      "skinName": "炽炎雏龙",
+      "lolSkinId": "901000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1B4421A7FG",
+      "bvid": "BV1B4421A7FG",
+      "title": "【英雄联盟】天龙之子 斯莫德 伴生·史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/8ce6d76273b04896e7281e3749446490ba376c98.jpg",
+      "author": "白礼白里白",
+      "date": "2024年02月05日 17:30:00",
+      "lastSync": 1784596829,
+      "skinName": "天龙之子 斯莫德",
+      "lolSkinId": "901001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1whSqBhEF3",
+      "bvid": "BV1whSqBhEF3",
+      "title": "【英雄联盟】圣诞驯鹿 斯莫德 冰雪节史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/df94da51e5e04f03da02d277ae466df71d85dd72.jpg",
+      "author": "白礼白里白",
+      "date": "2025年11月30日 22:30:00",
+      "lastSync": 1784596829,
+      "skinName": "圣诞驯鹿 斯莫德",
+      "lolSkinId": "901011",
+      "category": "skin"
+    },
+    {
+      "id": "BV1L9FTz8Ecr",
+      "bvid": "BV1L9FTz8Ecr",
+      "title": "【英雄联盟手游】蕊雪盈春：聚珍 斯莫德 史诗·马年限定 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/f29876ca8078ae70fca3b353b80506d811f7724c.jpg",
+      "author": "白礼白里白",
+      "date": "2026年02月02日 21:04:00",
+      "lastSync": 1784596829,
+      "skinName": "蕊雪盈春：聚珍",
+      "lolSkinId": "1013802",
+      "wrSkinId": "1013802",
+      "category": "skin"
+    }
+  ]
+}

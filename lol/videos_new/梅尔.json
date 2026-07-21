@@ -1,0 +1,54 @@
+{
+  "heroKey": "梅尔",
+  "heroName": "流光镜影",
+  "heroNameEn": "mel",
+  "lolKey": "800",
+  "wrKey": "10139",
+  "videos": [
+    {
+      "id": "BV14GwvezEsC",
+      "bvid": "BV14GwvezEsC",
+      "title": "【英雄联盟】流光镜影 梅尔 英雄档案 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/5d975c6d10c1fb4b8d4cc48410199ced66d0e25b.jpg",
+      "date": "2025-01-22",
+      "lastSync": 1784596968,
+      "skinName": "流光镜影",
+      "lolSkinId": "800000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1VFwvemEzQ",
+      "bvid": "BV1VFwvemEzQ",
+      "title": "【英雄联盟】皮城议员 梅尔 伴生·史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/2be41f54bd66d57db684b595e04d0e067f8896f6.jpg",
+      "date": "2025-01-22",
+      "lastSync": 1784596968,
+      "skinName": "皮城议员 梅尔",
+      "lolSkinId": "800001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1N1S4B3Eqb",
+      "bvid": "BV1N1S4B3Eqb",
+      "title": "【英雄联盟】至臻 北极星神 梅尔 神话皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/d47fa5058bdb6d066368fced1411ff67656e5718.jpg",
+      "date": "2025-12-02",
+      "lastSync": 1784596968,
+      "skinName": "至臻 北极星神 梅尔",
+      "lolSkinId": "800010",
+      "category": "skin"
+    },
+    {
+      "id": "BV1ofwxzRER8",
+      "bvid": "BV1ofwxzRER8",
+      "title": "【英雄联盟手游】告白乐章·情声 梅尔 史诗皮肤 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/a25523bef69e5137b8eef1a6eb9f73471996d25b.jpg",
+      "date": "2026-03-14",
+      "lastSync": 1784596968,
+      "skinName": "告白乐章·情声",
+      "lolSkinId": "1013902",
+      "wrSkinId": "1013902",
+      "category": "skin"
+    }
+  ]
+}
