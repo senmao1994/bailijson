@@ -1,0 +1,449 @@
+{
+  "id": 1040,
+  "name": "北极星使者 安妮",
+  "roitName": "Winterblessed Annie",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "北极星",
+  "universe": "北极光的传说",
+  "pushDate": "2023年12月6日",
+  "series": null,
+  "backstory": "赛娜启程去寻找北极光，但首先遇到的是一个小女孩——安妮，她正独自站在自家门前。她最珍视的童年伙伴——家中的宠物熊，不久前死掉了。安妮希望北极星能复活他，但赛娜拒绝了，只是给了她一只小熊玩偶。“生离死别在所难免，但他的记忆将寄托在这份礼物身上。”",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_uncentered_40.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_tile_40.jpg",
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_centered_40.jpg",
+  "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1040.png",
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "6465",
+  "tencent": {
+    "price": 8900,
+    "priceType": "限定",
+    "priceTypeChinese": "冰雪节",
+    "priceStartDay": "2023年12月8日",
+    "priceEndDay": "2024年1月10日9:59",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 1041,
+      "name": "北极星使者 安妮 激昂脉冲",
+      "sortName": "激昂脉冲",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2023年12月8日",
+        "priceEndDay": "2024年1月10日9:59",
+        "description": "仅随礼包销售",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "",
+        "description": "仅随礼包销售"
+      },
+      "riotName": "Winterblessed Annie (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1041.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 1042,
+      "name": "北极星使者 安妮 浪漫帘幕",
+      "sortName": "浪漫帘幕",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2023年12月8日",
+        "priceEndDay": "2024年1月10日9:59",
+        "description": "仅随礼包销售",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Winterblessed Annie (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1042.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 1043,
+      "name": "北极星使者 安妮 幸运漩涡",
+      "sortName": "幸运漩涡",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2023年12月8日",
+        "priceEndDay": "2024年1月10日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Winterblessed Annie (Catseye)",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1043.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 1044,
+      "name": "北极星使者 安妮 祥和面纱",
+      "sortName": "祥和面纱",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2023年12月8日",
+        "priceEndDay": "2024年1月10日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Winterblessed Annie (Emerald)",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1044.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 1045,
+      "name": "北极星使者 安妮 智慧纽带",
+      "sortName": "智慧纽带",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2023年12月8日",
+        "priceEndDay": "2024年1月10日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Winterblessed Annie (Sapphire)",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1045.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 1046,
+      "name": "北极星使者 安妮 聪颖光弧",
+      "sortName": "聪颖光弧",
+      "colorName": "海蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2023年12月8日",
+        "priceEndDay": "2024年1月10日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Winterblessed Annie (Aquamarine)",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1046.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ]
+    },
+    {
+      "id": 1047,
+      "name": "北极星使者 安妮 七彩光斑",
+      "sortName": "七彩光斑",
+      "colorName": "白色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2024年4月3日",
+        "priceEndDay": "长期活动",
+        "description": "第三期皮肤收藏活动 解锁安妮的9款皮肤，即可领取",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        },
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-f91060ab-cf3e-4e53-bf32-ab6d52507a09.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Winterblessed Annie (Rainbow)",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1047.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#C1F2FF",
+        "#C1F2FF"
+      ]
+    },
+    {
+      "id": 1048,
+      "name": "北极星使者 安妮 庄严光冕",
+      "sortName": "庄严光冕",
+      "colorName": "黑色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2023年12月8日",
+        "priceEndDay": "2024年1月10日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Winterblessed Annie (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1048.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 1049,
+      "name": "北极星使者 安妮 花冠极光",
+      "sortName": "花冠极光",
+      "colorName": "",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "2024年1月10日",
+        "description": "北极星(2023)通行证",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2023年12月6日",
+        "priceEndDay": "",
+        "description": "北极星(2023)通行证"
+      },
+      "riotName": "Winterblessed Annie (Wreathguard)",
+      "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/1/1049.png",
+      "mythicIcon": "6466",
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#BF2020",
+        "#368B25"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "13.24",
+    "update": "13.24",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "25.24"
+  },
+  "platform": "lol"
+}
