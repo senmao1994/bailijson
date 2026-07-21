@@ -1,0 +1,50 @@
+{
+  "id": 17000,
+  "name": "迅捷斥候",
+  "roitName": "Teemo",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "班德尔城",
+  "universe": "英雄联盟宇宙",
+  "pushDate": "2009年02月21日",
+  "series": null,
+  "backstory": "不畏艰难险阻、不惧坎坷危途，提莫怀着无比的热情和欢欣的精神探索着整个世界。作为一个约德尔人，他对自己的道德观坚定不移，也对班德尔斥候的信条倍感自豪，有时候，过分的热忱甚至会让他无法看到自己的行为将会导致什么样的后果。虽然有人认为，“班德尔斥候小队”是否真实存在还有待商榷，但有一件事可以肯定，那就是提莫的信念。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/base/images/teemo_splash_uncentered_0.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/base/images/teemo_splash_tile_0.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/base/images/teemo_splash_centered_0.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/base/teemoloadscreen_0.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6733",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2024年10月10日",
+    "priceEndDay": "2024年11月11日9:59",
+    "description": "提莫 英雄肖像 图标 II",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "首发",
+    "update": "14.20",
+    "updateChinese": "视觉更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
