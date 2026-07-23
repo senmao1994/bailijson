@@ -26,15 +26,15 @@
     "priceEndDay": "",
     "description": ""
   },
-  "tencentPrice": 0,
+  "tencentPrice": 8900,
   "icon": "6664",
   "emote": null,
   "tencent": {
-    "price": 0,
+    "price": 8900,
     "priceType": "直售",
-    "priceTypeChinese": "",
-    "priceStartDay": "",
-    "priceEndDay": "",
+    "priceTypeChinese": "伴生皮肤",
+    "priceStartDay": "2024年7月18日",
+    "priceEndDay": "2024年8月27日9:59",
     "description": "",
     "hasFullGiftPack": true
   },
@@ -314,5 +314,12 @@
   ],
   "formsCount": null,
   "forms": [],
+  "version": {
+    "push": "14.14",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
   "platform": "lol"
 }
