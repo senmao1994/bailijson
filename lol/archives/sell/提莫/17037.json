@@ -45,7 +45,7 @@
       "sortName": "恭喜发财",
       "colorName": "红色",
       "tencent": {
-        "price": 2000,
+        "price": 0,
         "priceType": "礼包",
         "priceStartDay": "2022年1月26日9:00",
         "priceEndDay": "2022年3月1日10:00",
@@ -60,7 +60,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "Firecracker Teemo (Ruby)",
+      "riotName": "招财进宝 提莫 恭喜发财",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17038.png",
       "mythicIcon": null,
       "wildRiftSell": null,
@@ -75,7 +75,7 @@
       "sortName": "阖家安康",
       "colorName": "绿色",
       "tencent": {
-        "price": 2000,
+        "price": 0,
         "priceType": "限时直售",
         "priceStartDay": "2022年1月26日9:00",
         "priceEndDay": "2022年3月1日10:00",
@@ -90,7 +90,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "Firecracker Teemo (Emerald)",
+      "riotName": "招财进宝 提莫 阖家安康",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17039.png",
       "mythicIcon": null,
       "wildRiftSell": null,
@@ -120,7 +120,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "Firecracker Teemo (Rose Quartz)",
+      "riotName": "招财进宝 提莫 前程似锦",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17040.png",
       "mythicIcon": null,
       "wildRiftSell": null,
@@ -135,7 +135,7 @@
       "sortName": "喜气洋洋",
       "colorName": "蓝色",
       "tencent": {
-        "price": 2000,
+        "price": 0,
         "priceType": "限时直售",
         "priceStartDay": "2022年1月26日9:00",
         "priceEndDay": "2022年3月1日10:00",
@@ -150,7 +150,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "Firecracker Teemo (Sapphire)",
+      "riotName": "招财进宝 提莫 喜气洋洋",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17041.png",
       "mythicIcon": null,
       "wildRiftSell": null,
@@ -165,7 +165,7 @@
       "sortName": "财源滚滚",
       "colorName": "橙色",
       "tencent": {
-        "price": 2000,
+        "price": 0,
         "priceType": "限时直售",
         "priceStartDay": "2022年1月26日9:00",
         "priceEndDay": "2022年3月1日10:00",
@@ -180,7 +180,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "Firecracker Teemo (Citrine)",
+      "riotName": "招财进宝 提莫 财源滚滚",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17042.png",
       "mythicIcon": null,
       "wildRiftSell": null,
@@ -195,7 +195,7 @@
       "sortName": "年年有余",
       "colorName": "紫色",
       "tencent": {
-        "price": 2000,
+        "price": 0,
         "priceType": "限时直售",
         "priceStartDay": "2022年1月26日9:00",
         "priceEndDay": "2022年3月1日10:00",
@@ -210,7 +210,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "Firecracker Teemo (Tanzanite)",
+      "riotName": "招财进宝 提莫 年年有余",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17043.png",
       "mythicIcon": null,
       "wildRiftSell": null,
@@ -225,7 +225,7 @@
       "sortName": "团团圆圆",
       "colorName": "黑色",
       "tencent": {
-        "price": 2000,
+        "price": 0,
         "priceType": "限时直售",
         "priceStartDay": "2022年1月26日9:00",
         "priceEndDay": "2022年3月1日10:00",
@@ -240,7 +240,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "Firecracker Teemo (Obsidian)",
+      "riotName": "招财进宝 提莫 团团圆圆",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17044.png",
       "mythicIcon": null,
       "wildRiftSell": null,
@@ -255,7 +255,7 @@
       "sortName": "吉祥如意",
       "colorName": "白色",
       "tencent": {
-        "price": 2000,
+        "price": 0,
         "priceType": "限时直售",
         "priceStartDay": "2022年1月26日9:00",
         "priceEndDay": "2022年3月1日10:00",
@@ -270,7 +270,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "Firecracker Teemo (Pearl)",
+      "riotName": "招财进宝 提莫 吉祥如意",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17045.png",
       "mythicIcon": null,
       "wildRiftSell": null,
@@ -300,7 +300,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "Firecracker Teemo (Golden Tiger)",
+      "riotName": "招财进宝 提莫 玉虎呈祥",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17046.png",
       "mythicIcon": "5240",
       "wildRiftSell": null,
