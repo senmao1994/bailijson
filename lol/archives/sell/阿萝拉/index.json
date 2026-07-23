@@ -1,9 +1,10 @@
 {
-  "id": "aurora",
+  "id": 10085,
   "name": "阿萝拉",
-  "alias": "Aurora",
-  "key": 893,
+  "alias": "eluola",
+  "key": "10085",
   "title": "双界灵兔",
+  "platform": "wr",
   "wr": {
     "id": 10085,
     "name": "阿萝拉",

@@ -3,5 +3,12 @@
   "name": "安妮",
   "alias": "Annie",
   "key": 1,
-  "title": "黑暗之女"
+  "title": "黑暗之女",
+  "lol": {
+    "id": "annie",
+    "name": "安妮",
+    "alias": "Annie",
+    "key": 1,
+    "title": "黑暗之女"
+  }
 }

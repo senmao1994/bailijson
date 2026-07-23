@@ -1,0 +1,55 @@
+{
+  "id": 1008504,
+  "name": "露展虹舞 阿萝拉",
+  "roitName": "Summer Party Aurora Edition",
+  "sortName": "露展虹舞",
+  "rarity": "神话",
+  "raritySubType": "臻宝",
+  "price": "500",
+  "priceUnit": "橙色原石",
+  "skinline": "夏日",
+  "universe": "碧空游纪",
+  "pushDate": "6.3",
+  "series": null,
+  "backstory": "空中旅行对阿萝拉最友好的地方就在于：能有个地方安静地阅读，还能研究一下高海拔对于灵界生物的影响并撰写报告……等一下，你是说这是假日，别的人都是来玩耍的？呃，算了，毕竟她没那么需要跟上别人的节拍。",
+  "accessories": [
+    "边框",
+    "姿态：凌空",
+    "姿态：云间轻旋"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Aurora_3.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_aurora_skin03.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/aurora/露展虹舞 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008504.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/aurora/露展虹舞 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2025年10月23日",
+    "endDate": "不定期轮换兑换",
+    "description": "首周8折400原石兑换",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
