@@ -3,5 +3,13 @@
   "name": "亚索",
   "alias": "Yasuo",
   "key": 157,
-  "title": "疾风剑豪"
+  "title": "疾风剑豪",
+  "wr": {
+    "id": 10037,
+    "name": "亚索",
+    "alias": "yasuo",
+    "key": "10037",
+    "title": "疾风剑豪",
+    "platform": "wr"
+  }
 }
