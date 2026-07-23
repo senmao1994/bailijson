@@ -19,7 +19,6 @@
   ],
   "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Aurora_1.jpg",
   "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_aurora_skin01.png",
-  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/aurora/极速虹影 头像.png",
   "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008502.png",
   "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/aurora/极速虹影 边框.png",
   "roit": {
@@ -41,7 +40,96 @@
     "description": "",
     "hasFullGiftPack": false
   },
-  "chromas": [],
+  "chromas": [
+    {
+      "id": 100850201,
+      "name": "极速虹影 阿萝拉 绽序",
+      "sortName": "炫彩 1",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年4月30日",
+          "endDate": "2026年5月30日",
+          "description": "",
+          "activityTitle": "星速竞逐活动—臻藏·传奇新驱 卡莎奖池",
+          "price": "100",
+          "priceUnit": "星速币保底1款"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/aurora/极速虹影 绽序 头像.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "2026年4月30日",
+        "endDate": "2026年5月30日",
+        "description": "",
+        "activityTitle": "星速竞逐活动—臻藏·传奇新驱 卡莎奖池",
+        "price": "100",
+        "priceUnit": "星速币保底1款"
+      },
+      "colors": [
+        "#00FF00",
+        "#00FF00"
+      ]
+    },
+    {
+      "id": 100850202,
+      "name": "极速虹影 阿萝拉 解构",
+      "sortName": "炫彩 2",
+      "colorName": "白色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年4月30日",
+          "endDate": "2026年5月30日",
+          "description": "",
+          "activityTitle": "星速竞逐活动—臻藏·传奇新驱 卡莎奖池",
+          "price": "100",
+          "priceUnit": "星速币保底1款"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/aurora/极速虹影 解构 头像.png",
+      "mythicIcon": null,
+      "wildRiftSell": {
+        "startDate": "2026年4月30日",
+        "endDate": "2026年5月30日",
+        "description": "",
+        "activityTitle": "星速竞逐活动—臻藏·传奇新驱 卡莎奖池",
+        "price": "100",
+        "priceUnit": "星速币保底1款"
+      },
+      "colors": [
+        "#FFFFFF",
+        "#FFFFFF"
+      ]
+    }
+  ],
   "formsCount": null,
   "forms": [],
   "sell": {
