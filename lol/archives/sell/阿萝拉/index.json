@@ -3,5 +3,13 @@
   "name": "阿萝拉",
   "alias": "Aurora",
   "key": 893,
-  "title": "双界灵兔"
+  "title": "双界灵兔",
+  "wr": {
+    "id": 10085,
+    "name": "阿萝拉",
+    "alias": "eluola",
+    "key": "10085",
+    "title": "双界灵兔",
+    "platform": "wr"
+  }
 }

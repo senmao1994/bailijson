@@ -1,0 +1,55 @@
+{
+  "id": 1003716,
+  "name": "渔帆满载 亚索",
+  "roitName": "Summer Party Yasuo Exquisite Edition",
+  "sortName": "渔帆满载",
+  "rarity": "神话",
+  "raritySubType": "臻宝",
+  "price": "500",
+  "priceUnit": "橙色原石",
+  "skinline": "夏日",
+  "universe": "碧空游纪",
+  "pushDate": "6.2",
+  "series": null,
+  "backstory": "浪人钓客屈膝坐于云畔，在碧空下甩出一道渔猎的弧光，云间气流吹拂亚索的严肃面容，而身旁的鱼篓依旧倔强地空荡着。嗬！孤高的垂钓者从不接受空手而归，毕竟，起竿时的浪花云涌，还有那快意的假日闲情，又何尝不是碧空的馈赠？",
+  "accessories": [
+    "边框",
+    "姿态：卧钓",
+    "姿态：永不空军"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Yasuo_15.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_yasuo_skin15.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yasuo/渔帆满载 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003716.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yasuo/渔帆满载 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2025年8月29日",
+    "endDate": "不定期轮换兑换",
+    "description": "首周9折450原石",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
