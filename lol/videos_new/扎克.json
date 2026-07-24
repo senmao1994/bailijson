@@ -1,0 +1,53 @@
+{
+  "heroKey": "扎克",
+  "heroName": "生化魔人",
+  "heroNameEn": "zac",
+  "lolKey": "154",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1T94y197hk",
+      "bvid": "BV1T94y197hk",
+      "title": "【英雄联盟】战地机甲 扎克 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/83831beec28f819ab5865f06f9685cf038b7dec0.jpg",
+      "date": "2022-07-13",
+      "lastSync": 1784858105,
+      "skinName": "战地机甲 扎克",
+      "lolSkinId": "154007",
+      "category": "skin"
+    },
+    {
+      "id": "BV1L8411h73t",
+      "bvid": "BV1L8411h73t",
+      "title": "【英雄联盟】至高天 扎克 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/716e59f405fa337b5911ad275171ef27259ac7e7.jpg",
+      "date": "2022-11-02",
+      "lastSync": 1784858105,
+      "skinName": "至高天 扎克",
+      "lolSkinId": "154014",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Hm421E7qB",
+      "bvid": "BV1Hm421E7qB",
+      "title": "【英雄联盟】香浓芝士 扎克 T3皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/6d76c61f96234808509f1c833be9ecf8762f6c3a.jpg",
+      "date": "2024-04-04",
+      "lastSync": 1784858105,
+      "skinName": "香浓芝士 扎克",
+      "lolSkinId": "154024",
+      "category": "skin"
+    },
+    {
+      "id": "BV14FDdBtEta",
+      "bvid": "BV14FDdBtEta",
+      "title": "【英雄联盟】太空律动 “节奏化身” 扎克 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/689ec37a33778741abd1010c7a1f1be05a9d2add.jpg",
+      "date": "2026-04-13",
+      "lastSync": 1784858105,
+      "skinName": "太空律动 “节奏化身” 扎克",
+      "lolSkinId": "154033",
+      "category": "skin"
+    }
+  ]
+}
