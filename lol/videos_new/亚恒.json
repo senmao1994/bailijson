@@ -1,0 +1,31 @@
+{
+  "heroKey": "亚恒",
+  "heroName": "不落魔锋",
+  "heroNameEn": "zaahen",
+  "lolKey": "904",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1n9CYBqE4J",
+      "bvid": "BV1n9CYBqE4J",
+      "title": "【英雄联盟】不落魔锋 亚恒 暗裔英雄 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/884a2d3b9a2acec6f785671814ef5e17b8d45e94.jpg",
+      "date": "2025-11-17",
+      "lastSync": 1784872211,
+      "skinName": "不落魔锋",
+      "lolSkinId": "904000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1wBCiBLE89",
+      "bvid": "BV1wBCiBLE89",
+      "title": "【英雄联盟】玉剑传说 海龙王 亚恒 伴生·史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/3a138e94c6acbb13b37210481e3966e01aabb9e8.jpg",
+      "date": "2025-11-17",
+      "lastSync": 1784872211,
+      "skinName": "玉剑传说 海龙王 亚恒",
+      "lolSkinId": "904001",
+      "category": "skin"
+    }
+  ]
+}
