@@ -1,0 +1,53 @@
+{
+  "heroKey": "卡尔萨斯",
+  "heroName": "死亡颂唱者",
+  "heroNameEn": "karthus",
+  "lolKey": "30",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1Wi7rzDE9s",
+      "bvid": "BV1Wi7rzDE9s",
+      "title": "【英雄联盟】Fnatic 卡尔萨斯 S1冠军皮肤展示 死歌",
+      "pic": "http://i0.hdslb.com/bfs/archive/d7e2b3875627b4677d484ae5177a4b495252c898.jpg",
+      "date": "2025-06-01",
+      "lastSync": 1784877475,
+      "skinName": "Fnatic 卡尔萨斯",
+      "lolSkinId": "30005",
+      "category": "skin"
+    },
+    {
+      "id": "BV11s4y1C7Hj",
+      "bvid": "BV11s4y1C7Hj",
+      "title": "【英雄联盟】永恒之森 卡尔萨斯 T3皮肤/全炫彩正式版展示 死歌",
+      "pic": "http://i0.hdslb.com/bfs/archive/9df6e6fd18689bee96203756ae365c3cced759be.jpg",
+      "date": "2023-06-26",
+      "lastSync": 1784877475,
+      "skinName": "永恒之森 卡尔萨斯",
+      "lolSkinId": "30026",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Ug411V7ER",
+      "bvid": "BV1Ug411V7ER",
+      "title": "【英雄联盟】五杀摇滚Ⅲ：遗失的章节 卡尔萨斯 T3皮肤/全炫彩 特效＆3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/e662dff04351e237847b277ee1ce9e9e6858d12b.jpg",
+      "date": "2021-09-06",
+      "lastSync": 1784877475,
+      "skinName": "死亡颂唱者",
+      "lolSkinId": "30000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1ZbnPzrE7a",
+      "bvid": "BV1ZbnPzrE7a",
+      "title": "【英雄联盟】永颂之歌 卡尔萨斯 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/7719c8083cf93e58b0f20d586ffbf4c65ce181b3.jpg",
+      "date": "2025-09-22",
+      "lastSync": 1784877475,
+      "skinName": "永颂之歌 卡尔萨斯",
+      "lolSkinId": "30035",
+      "category": "skin"
+    }
+  ]
+}
