@@ -1,0 +1,42 @@
+{
+  "heroKey": "维克兹",
+  "heroName": "虚空之眼",
+  "heroNameEn": "velkoz",
+  "lolKey": "161",
+  "wrKey": "10129",
+  "videos": [
+    {
+      "id": "BV1Db4y1D73H",
+      "bvid": "BV1Db4y1D73H",
+      "title": "【英雄联盟】黯晶之眼 维克兹 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/7c1c3e359b764a23d985df135167ff1b695fe631.jpg",
+      "date": "2021-04-19",
+      "lastSync": 1784857051,
+      "skinName": "黯晶之眼 维克兹",
+      "lolSkinId": "161011",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Vz4y1c77h",
+      "bvid": "BV1Vz4y1c77h",
+      "title": "【英雄联盟】天才蜂 维克兹 T3皮肤/全炫彩 正式版展示 大眼",
+      "pic": "http://i1.hdslb.com/bfs/archive/dba16f770f149af0e77311f737b4568c82b9a9b3.jpg",
+      "date": "2023-11-20",
+      "lastSync": 1784857051,
+      "skinName": "天才蜂 维克兹",
+      "lolSkinId": "161020",
+      "category": "skin"
+    },
+    {
+      "id": "BV17FGo6XE2p",
+      "bvid": "BV17FGo6XE2p",
+      "title": "【英雄联盟】飞天意面 维克兹 传说皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/60fab666b3257ec6c50b1369617f5afbe899934e.jpg",
+      "date": "2026-05-25",
+      "lastSync": 1784857051,
+      "skinName": "飞天意面 维克兹",
+      "lolSkinId": "161029",
+      "category": "skin"
+    }
+  ]
+}
