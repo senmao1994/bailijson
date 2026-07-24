@@ -1,0 +1,110 @@
+{
+  "heroKey": "德莱文",
+  "heroName": "荣耀行刑官",
+  "heroNameEn": "draven",
+  "lolKey": "119",
+  "wrKey": "10077",
+  "videos": [
+    {
+      "id": "BV1VT4y1S7rA",
+      "bvid": "BV1VT4y1S7rA",
+      "title": "【英雄联盟】王国机神青龙 德莱文 鼠年限定 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/99d08128fffda88bdaa367d63c064541790f50b1.jpg",
+      "date": "2022-03-03",
+      "lastSync": 1784860730,
+      "skinName": "机神青龙 德莱文",
+      "lolSkinId": "119013",
+      "category": "skin"
+    },
+    {
+      "id": "BV1xV4y1g7X4",
+      "bvid": "BV1xV4y1g7X4",
+      "title": "【英雄联盟】破败军团 德莱文 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/e68c9c224460f2654182ef3192c90bf35b1dcfc0.jpg",
+      "date": "2022-09-12",
+      "lastSync": 1784860730,
+      "skinName": "破败军团 德莱文",
+      "lolSkinId": "119020",
+      "category": "skin"
+    },
+    {
+      "id": "BV1FZ4y1R71Z",
+      "bvid": "BV1FZ4y1R71Z",
+      "title": "【英雄联盟】刃执事 德莱文 T3皮肤/全炫彩 特效＆3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/7954627615cdb1ecd3c4ab7f74b34fef038a6854.jpg",
+      "date": "2021-12-12",
+      "lastSync": 1784860730,
+      "skinName": "刃执事 德莱文",
+      "lolSkinId": "119029",
+      "category": "skin"
+    },
+    {
+      "id": "BV1X14y1a7MJ",
+      "bvid": "BV1X14y1a7MJ",
+      "title": "【英雄联盟】魔域梦魇 德莱文 T3皮肤/全炫彩 特效&3D展示 毒菇",
+      "pic": "http://i2.hdslb.com/bfs/archive/caf237c8ff1b8f2daa1fc54e00184be16c295636.jpg",
+      "date": "2022-09-16",
+      "lastSync": 1784860730,
+      "skinName": "魔域梦魇 德莱文",
+      "lolSkinId": "119039",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Ap4y1A7TS",
+      "bvid": "BV1Ap4y1A7TS",
+      "title": "【英雄联盟】魂蔷薇 德莱文 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/8317e58a6574d659dee009f54802a9248113ba38.jpg",
+      "date": "2023-09-26",
+      "lastSync": 1784860730,
+      "skinName": "魂蔷薇 德莱文",
+      "lolSkinId": "119048",
+      "category": "skin"
+    },
+    {
+      "id": "BV1PT93YjE17",
+      "bvid": "BV1PT93YjE17",
+      "title": "【英雄联盟】最高清算 德莱文 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/720f2a7833ef860c087bf9f2f7a35d45b8a28756.jpg",
+      "date": "2025-02-28",
+      "lastSync": 1784860730,
+      "skinName": "最高清算 德莱文",
+      "lolSkinId": "119058",
+      "category": "skin"
+    },
+    {
+      "id": "BV1ZhScB9E7o",
+      "bvid": "BV1ZhScB9E7o",
+      "title": "【英雄联盟】胜利行刑官 德莱文 S15第三主题赛季皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/f96d05049b6b15594973f09349603591ff4cca5c.jpg",
+      "date": "2025-11-30",
+      "lastSync": 1784860730,
+      "skinName": "胜利行刑官 德莱文",
+      "lolSkinId": "119068",
+      "category": "skin"
+    },
+    {
+      "id": "BV13x4y1R7Ww",
+      "bvid": "BV13x4y1R7Ww",
+      "title": "【手游先发】斗魂无双 德莱文 T3皮肤 3D&特效展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/b70596f2823b2460300e33b2bd6bfd72a46d56df.jpg",
+      "date": "2023-07-25",
+      "lastSync": 1784860730,
+      "skinName": "斗魂无双",
+      "lolSkinId": "1007708",
+      "wrSkinId": "1007708",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Rh4y1y7fy",
+      "bvid": "BV1Rh4y1y7fy",
+      "title": "【手游先发】斗魂耀世 德莱文 神话级特别版皮肤 3D&特效展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/bd6a238fb9c4f614a37716bb17c827dfd394aab9.jpg",
+      "date": "2023-07-25",
+      "lastSync": 1784860730,
+      "skinName": "斗魂耀世",
+      "lolSkinId": "1007709",
+      "wrSkinId": "1007709",
+      "category": "skin"
+    }
+  ]
+}
