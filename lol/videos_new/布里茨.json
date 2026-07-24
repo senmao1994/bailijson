@@ -1,0 +1,76 @@
+{
+  "heroKey": "布里茨",
+  "heroName": "蒸汽机器人",
+  "heroNameEn": "blitzcrank",
+  "lolKey": "53",
+  "wrKey": "10033",
+  "videos": [
+    {
+      "id": "BV1k54y187Qx",
+      "bvid": "BV1k54y187Qx",
+      "title": "【英雄联盟】太空律动 猫猫 布里和里茨 T2皮肤/全炫彩 特效＆3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/07d9cdcce5c85f601cade047ad638261fdacec57.jpg",
+      "date": "2021-03-18",
+      "lastSync": 1784856664,
+      "skinName": "蒸汽机器人",
+      "lolSkinId": "53000",
+      "category": "skin"
+    },
+    {
+      "id": "BV14V4y1u7CE",
+      "bvid": "BV14V4y1u7CE",
+      "title": "【英雄联盟】巅峰之星 布里茨（机器人）T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/f650df30fde2a08c7d8c9781f617816b2fa7ace6.jpg",
+      "date": "2022-09-09",
+      "lastSync": 1784856664,
+      "skinName": "巅峰之星 布里茨",
+      "lolSkinId": "53047",
+      "category": "skin"
+    },
+    {
+      "id": "BV19L4y1i7WD",
+      "bvid": "BV19L4y1i7WD",
+      "title": "【英雄联盟】胜利机器人 布里茨 S11赛季奖励皮肤/全炫彩（单排/双排 灵活排位） 特效＆3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/908633f488f90c0a4febb77fb1441fd85dc6de84.jpg",
+      "date": "2021-10-28",
+      "lastSync": 1784856664,
+      "skinName": "胜利机器人 布里茨",
+      "lolSkinId": "53036",
+      "category": "skin"
+    },
+    {
+      "id": "BV1iu411F7vt",
+      "bvid": "BV1iu411F7vt",
+      "title": "【英雄联盟】巨神蜂 布里茨 T3皮肤/全炫彩 正式版展示 机器人",
+      "pic": "http://i2.hdslb.com/bfs/archive/8747845b9e330e0614862fdeef59829b59bc3642.jpg",
+      "date": "2023-11-18",
+      "lastSync": 1784856664,
+      "skinName": "巨神蜂 布里茨",
+      "lolSkinId": "53056",
+      "category": "skin"
+    },
+    {
+      "id": "BV1CXXLB2EuB",
+      "bvid": "BV1CXXLB2EuB",
+      "title": "【英雄联盟】泡泡飘飘拳 布里茨 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/9c6ffe6b7de80d2be150240bad36d50ebe28045e.jpg",
+      "date": "2026-03-28",
+      "lastSync": 1784856664,
+      "skinName": "泡泡飘飘拳 布里茨",
+      "lolSkinId": "53066",
+      "category": "skin"
+    },
+    {
+      "id": "BV1TDja6jEbi",
+      "bvid": "BV1TDja6jEbi",
+      "title": "【英雄联盟手游】青花茨 布里茨 普通皮肤 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/8d81e113f53a8bffb08871f06b6dfab90c25b559.jpg",
+      "date": "2026-06-18",
+      "lastSync": 1784856664,
+      "skinName": "青花茨",
+      "lolSkinId": "1003311",
+      "wrSkinId": "1003311",
+      "category": "skin"
+    }
+  ]
+}
