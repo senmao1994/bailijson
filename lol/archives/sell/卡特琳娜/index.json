@@ -1,7 +1,15 @@
-﻿{
-    "id":  "katarina",
-    "name":  "卡特琳娜",
-    "alias":  "Katarina",
-    "key":  55,
-    "title":  "不祥之刃"
+{
+  "id": "katarina",
+  "name": "卡特琳娜",
+  "alias": "Katarina",
+  "key": 55,
+  "title": "不祥之刃",
+  "wr": {
+    "id": 10095,
+    "name": "卡特琳娜",
+    "alias": "katelinna",
+    "key": "10095",
+    "title": "不祥之刃",
+    "platform": "wr"
+  }
 }

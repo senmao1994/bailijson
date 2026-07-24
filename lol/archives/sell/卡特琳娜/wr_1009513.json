@@ -1,0 +1,55 @@
+{
+  "id": 1009513,
+  "name": "云栖锐想 卡特琳娜",
+  "roitName": "Summer Party Katarina Exquisite Edition",
+  "sortName": "云栖锐想",
+  "rarity": "神话",
+  "raritySubType": "臻宝",
+  "price": "500",
+  "priceUnit": "橙色原石",
+  "skinline": "海风",
+  "universe": "碧空悠游",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "休息二字在卡特琳娜的字典中一般指磨快自己匕首的时间，直到这次登上莎弥拉的浮空艇，她才意识到这种生活对于众人有多么强烈的吸引力。这会是一次物有所值的度假，毕竟她现在更理解如何在这种众人松懈的时刻展开自己的行动。",
+  "accessories": [
+    "边框",
+    "姿态：御风起",
+    "姿态：碧空畅游"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Katarina_12.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_katarina_skin12.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/katarina/云栖锐想 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009513.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/katarina/云栖锐想 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年7月14日",
+    "endDate": "2026年8月30日23:59",
+    "description": "战利品商城轮换，首发8折兑换",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
