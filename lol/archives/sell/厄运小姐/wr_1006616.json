@@ -1,0 +1,106 @@
+{
+  "id": 1006616,
+  "name": "深海奇域 厄运小姐",
+  "roitName": "Cryptic Depth Miss Fortune",
+  "sortName": "深海奇域",
+  "rarity": "传说",
+  "raritySubType": "限定",
+  "price": "180",
+  "priceUnit": "深海币(自选兑换)",
+  "skinline": "2025",
+  "universe": "深海奇域",
+  "pushDate": "6.3",
+  "series": null,
+  "backstory": "当莎拉·厄运，这位大海的女儿、遗忘国度的储君于深渊中醒来时，潮浪与洋流一齐诵唱，只为她身上承载的已逝荣耀与万千积怨。是的，海洋清算的时刻已经到来，首当其冲面对她那份致命华美之人，就将是那些冒犯深海的蠢货们。",
+  "accessories": [
+    "边框",
+    "姿态：甩枪",
+    "姿态：慵懒身姿"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Missfortune_15.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_missfortune_skin15.png",
+  "iconPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 图标.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006616.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 边框.png",
+  "emotePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 表情.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 100661601,
+      "name": "深海奇域 厄运小姐 暗潮",
+      "sortName": "暗潮",
+      "colorName": "靛色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "",
+          "endDate": "",
+          "description": "",
+          "activityTitle": "",
+          "price": "暂无",
+          "priceUnit": ""
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": null,
+      "mythicIcon": null,
+      "type": "mythic",
+      "borderPath": null,
+      "loadingMythicPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 暗潮 载入.jpg",
+      "splashMythicPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 暗潮.jpg",
+      "wildRiftSell": {
+        "startDate": "",
+        "endDate": "",
+        "description": "",
+        "activityTitle": "",
+        "price": "暂无",
+        "priceUnit": ""
+      },
+      "colors": [
+        "#4B0082",
+        "#4B0082"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2025年11月8日",
+    "endDate": "2025年11月29日",
+    "description": "首发2025年12月2日截止兑换",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
