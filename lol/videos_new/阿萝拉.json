@@ -6,71 +6,15 @@
   "wrKey": "10085",
   "videos": [
     {
-      "id": "BV1n2421Z7P3",
-      "bvid": "BV1n2421Z7P3",
-      "title": "【英雄联盟】双界灵兔 阿萝拉 英雄正式版展示",
-      "pic": "http://i1.hdslb.com/bfs/archive/a26ae2bd40db34c0178cb1f4ab60081751acda92.jpg",
-      "date": "2024-07-20",
-      "lastSync": 1783695354,
-      "skinName": "双界灵兔",
-      "lolSkinId": "893000",
-      "category": "skin"
-    },
-    {
-      "id": "BV1XW42197Ki",
-      "bvid": "BV1XW42197Ki",
-      "title": "【英雄联盟】幻灵战斗兔 阿萝拉 伴生史诗皮肤 全炫彩正式版展示",
-      "pic": "http://i1.hdslb.com/bfs/archive/3c7a84047578704cc0c4fa354264addd52859f9e.jpg",
-      "date": "2024-07-20",
-      "lastSync": 1783695354,
-      "skinName": "幻灵战斗兔 阿萝拉",
-      "lolSkinId": "893001",
-      "category": "skin"
-    },
-    {
-      "id": "BV1KbnAzXEsJ",
-      "bvid": "BV1KbnAzXEsJ",
-      "title": "【英雄联盟】慧理之贤 阿萝拉 史诗皮肤 全炫彩正式版展示",
-      "pic": "http://i1.hdslb.com/bfs/archive/b37c37019c45ef6ab0afe0d402a3c149b5c2da48.jpg",
-      "date": "2025-09-23",
-      "lastSync": 1783695354,
-      "skinName": "慧理之贤 阿萝拉",
-      "lolSkinId": "893011",
-      "category": "skin"
-    },
-    {
-      "id": "BV1wijb6FETi",
-      "bvid": "BV1wijb6FETi",
-      "title": "【英雄联盟】绝息圣堂 阿萝拉 史诗皮肤 全炫彩正式版展示",
-      "pic": "http://i1.hdslb.com/bfs/archive/c6b8d6e40f4ef29aae329183cc7e1db3d6172c26.jpg",
-      "date": "2026-06-21",
-      "lastSync": 1783695354,
-      "skinName": "绝息圣堂 阿萝拉",
-      "lolSkinId": "893020",
-      "category": "skin"
-    },
-    {
-      "id": "BV154gVzBEfJ",
-      "bvid": "BV154gVzBEfJ",
-      "title": "【英雄联盟手游】碧空灵跃 阿萝拉 伴生·限定皮肤 正式版展示",
-      "pic": "http://i2.hdslb.com/bfs/archive/d3fef2d1e315c5e7899d51dd2ded6b04d62438f0.jpg",
-      "date": "2025-07-21",
-      "lastSync": 1783695354,
-      "skinName": "碧空灵跃",
-      "lolSkinId": "1008503",
-      "wrSkinId": "1008503",
-      "category": "skin"
-    },
-    {
-      "id": "BV1Gf9oBmENE",
-      "bvid": "BV1Gf9oBmENE",
-      "title": "【英雄联盟手游】极速虹影 阿萝拉 星速竞逐·史诗皮肤 正式版展示",
-      "pic": "http://i1.hdslb.com/bfs/archive/2f6d8fa9a7932e6e8cca33d1ccc5558a17361294.jpg",
-      "date": "2026-05-03",
-      "lastSync": 1783695354,
-      "skinName": "极速虹影",
-      "lolSkinId": "1008502",
-      "wrSkinId": "1008502",
+      "id": "BV12bgx6yE6i",
+      "bvid": "BV12bgx6yE6i",
+      "title": "【英雄联盟手游】露展虹舞 阿萝拉 神话·臻宝皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/802da2bee612280677da0d5d2321812e7d97c97c.jpg",
+      "date": "2026-07-23",
+      "lastSync": 1784855936,
+      "skinName": "露展虹舞",
+      "lolSkinId": "1008504",
+      "wrSkinId": "1008504",
       "category": "skin"
     }
   ]
