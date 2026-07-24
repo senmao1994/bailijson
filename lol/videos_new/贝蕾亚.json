@@ -1,0 +1,53 @@
+{
+  "heroKey": "贝蕾亚",
+  "heroName": "狂厄蔷薇",
+  "heroNameEn": "briar",
+  "lolKey": "233",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV14u411A7SM",
+      "bvid": "BV14u411A7SM",
+      "title": "【英雄联盟】狂厄蔷薇 贝蕾亚 第165位英雄 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/65921a708c193c8411c3cae79ed440aa57968dd0.jpg",
+      "date": "2023-09-14",
+      "lastSync": 1784860154,
+      "skinName": "狂厄蔷薇",
+      "lolSkinId": "233000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Lw411i75J",
+      "bvid": "BV1Lw411i75J",
+      "title": "【英雄联盟】妖怪艺术家 贝蕾亚 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/fbd35a09b26bb1d76abd48d6e28a6f59a328e144.jpg",
+      "date": "2023-09-13",
+      "lastSync": 1784860154,
+      "skinName": "妖怪艺术家 贝蕾亚",
+      "lolSkinId": "233001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1pH4y1c74W",
+      "bvid": "BV1pH4y1c74W",
+      "title": "【英雄联盟】幻灵海魔人 贝蕾亚 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/8a50b37402d573ce9f97df90b43d03c3b67ced8e.jpg",
+      "date": "2024-07-31",
+      "lastSync": 1784860154,
+      "skinName": "幻灵海魔人 贝蕾亚",
+      "lolSkinId": "233010",
+      "category": "skin"
+    },
+    {
+      "id": "BV1x6rDBpE7G",
+      "bvid": "BV1x6rDBpE7G",
+      "title": "【英雄联盟】战斗学院 贝蕾亚 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/aa432a56aab91249f65d54a91b22c69632ac0c54.jpg",
+      "date": "2026-01-18",
+      "lastSync": 1784860154,
+      "skinName": "战斗学院 贝蕾亚",
+      "lolSkinId": "233020",
+      "category": "skin"
+    }
+  ]
+}
