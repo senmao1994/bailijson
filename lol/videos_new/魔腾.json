@@ -1,0 +1,54 @@
+{
+  "heroKey": "魔腾",
+  "heroName": "永恒梦魇",
+  "heroNameEn": "nocturne",
+  "lolKey": "56",
+  "wrKey": "10151",
+  "videos": [
+    {
+      "id": "BV1RH4y1z7jL",
+      "bvid": "BV1RH4y1z7jL",
+      "title": "【英雄联盟】古神 魔腾 T3皮肤/全炫彩 正式版展示 NOC 梦魇",
+      "pic": "http://i0.hdslb.com/bfs/archive/0b3d0042bc44c61c8734e66766b46af934e69543.jpg",
+      "date": "2023-11-02",
+      "lastSync": 1784856387,
+      "skinName": "古神 魔腾",
+      "lolSkinId": "56007",
+      "category": "skin"
+    },
+    {
+      "id": "BV12M4y1R72c",
+      "bvid": "BV12M4y1R72c",
+      "title": "【英雄联盟】绝息圣堂 魔腾 T3皮肤/全炫彩 最终版展示 NOC、梦魇",
+      "pic": "http://i0.hdslb.com/bfs/archive/a92baa3eef545166e2e2ff59c572014904ec2f5b.jpg",
+      "date": "2023-03-04",
+      "lastSync": 1784856387,
+      "skinName": "绝息圣堂 魔腾",
+      "lolSkinId": "56017",
+      "category": "skin"
+    },
+    {
+      "id": "BV1CC411J7R5",
+      "bvid": "BV1CC411J7R5",
+      "title": "【英雄联盟】至高天 魔腾 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/0fed203f72e7527cb12c32852413d6de1849e3b2.jpg",
+      "date": "2024-05-01",
+      "lastSync": 1784856387,
+      "skinName": "至高天 魔腾",
+      "lolSkinId": "56026",
+      "category": "skin"
+    },
+    {
+      "id": "BV1FwN46sEZm",
+      "bvid": "BV1FwN46sEZm",
+      "title": "【英雄联盟手游】天棱磁魇 魔腾 限定·史诗皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/1520f06d990c16897eab2f15dcba9719dd22a369.jpg",
+      "date": "2026-07-11",
+      "lastSync": 1784856387,
+      "skinName": "永恒梦魇",
+      "lolSkinId": "1015101",
+      "wrSkinId": "1015101",
+      "category": "skin"
+    }
+  ]
+}
