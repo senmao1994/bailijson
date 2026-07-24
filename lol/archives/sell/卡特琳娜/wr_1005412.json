@@ -1,0 +1,256 @@
+{
+  "id": 1005412,
+  "name": "碧空悠游 格温",
+  "roitName": "Island Vacation Gwen",
+  "sortName": "碧空悠游",
+  "rarity": "传说",
+  "raritySubType": "夏日限定",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "海风",
+  "universe": "碧空悠游",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "云朵像蓬松的棉花，气泡像散落的彩色纽扣。格温惊喜地发现，她能随自己的心意裁剪、缝纫，编织这片云海之上的梦幻。她沉浸在这场全身心的“玩耍”中，用快乐能量化作的丝线，为自己缝出独一无二的光芒。原来，被爱的玩偶，也可以亲手创造属于自己的快乐。",
+  "accessories": [
+    "边框",
+    "姿态：眺望",
+    "姿态：泡影嬉戏"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Gwen_11.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_gwen_skin11.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005412.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 100541201,
+      "name": "碧空悠游 格温 玄缎",
+      "sortName": "玄缎",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年7月24日",
+          "endDate": "2026年8月30日23:59",
+          "description": "炫彩宝箱",
+          "activityTitle": "22次炫彩宝箱随机保底1款",
+          "price": "2200",
+          "priceUnit": "点券"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 玄缎 头像.png",
+      "mythicIcon": null,
+      "type": "hidden",
+      "borderPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 玄缎 边框.png",
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": {
+        "startDate": "2026年7月24日",
+        "endDate": "2026年8月30日23:59",
+        "description": "炫彩宝箱",
+        "activityTitle": "22次炫彩宝箱随机保底1款",
+        "price": "2200",
+        "priceUnit": "点券"
+      },
+      "colors": [
+        "#FF0000",
+        "#FF0000"
+      ]
+    },
+    {
+      "id": 100541202,
+      "name": "碧空悠游 格温 冰绡",
+      "sortName": "冰绡",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年7月24日",
+          "endDate": "2026年8月30日23:59",
+          "description": "炫彩宝箱",
+          "activityTitle": "3次炫彩宝箱随机保底1款",
+          "price": "300",
+          "priceUnit": "点券"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 冰绡 头像.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": {
+        "startDate": "2026年7月24日",
+        "endDate": "2026年8月30日23:59",
+        "description": "炫彩宝箱",
+        "activityTitle": "3次炫彩宝箱随机保底1款",
+        "price": "300",
+        "priceUnit": "点券"
+      },
+      "colors": [
+        "#800080",
+        "#800080"
+      ]
+    },
+    {
+      "id": 100541203,
+      "name": "碧空悠游 格温 晴漪",
+      "sortName": "晴漪",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年7月24日",
+          "endDate": "2026年8月30日23:59",
+          "description": "炫彩宝箱",
+          "activityTitle": "3次炫彩宝箱随机保底1款",
+          "price": "300",
+          "priceUnit": "点券"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 晴漪 头像.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": {
+        "startDate": "2026年7月24日",
+        "endDate": "2026年8月30日23:59",
+        "description": "炫彩宝箱",
+        "activityTitle": "3次炫彩宝箱随机保底1款",
+        "price": "300",
+        "priceUnit": "点券"
+      },
+      "colors": [
+        "#00FF00",
+        "#00FF00"
+      ]
+    },
+    {
+      "id": 100541204,
+      "name": "碧空悠游 格温 轻霭",
+      "sortName": "轻霭",
+      "colorName": "青色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年7月24日",
+          "endDate": "2026年8月30日23:59",
+          "description": "炫彩宝箱",
+          "activityTitle": "3次宝箱随机保底1款",
+          "price": "300",
+          "priceUnit": "点券"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 轻霭 头像.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": {
+        "startDate": "2026年7月24日",
+        "endDate": "2026年8月30日23:59",
+        "description": "炫彩宝箱",
+        "activityTitle": "3次宝箱随机保底1款",
+        "price": "300",
+        "priceUnit": "点券"
+      },
+      "colors": [
+        "#00FFFF",
+        "#00FFFF"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年7月14日",
+    "endDate": "2026年8月30日23:59",
+    "description": "首发限时直售时间",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
