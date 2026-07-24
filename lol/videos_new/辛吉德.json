@@ -1,0 +1,42 @@
+{
+  "heroKey": "辛吉德",
+  "heroName": "炼金术士",
+  "heroNameEn": "singed",
+  "lolKey": "27",
+  "wrKey": "10096",
+  "videos": [
+    {
+      "id": "BV18K4y1S7Gh",
+      "bvid": "BV18K4y1S7Gh",
+      "title": "【英雄联盟】养蜂人 辛吉德 特效&3D展示 小蜜蜂宝典150级必得",
+      "pic": "http://i1.hdslb.com/bfs/archive/ab557293748a83b2844eb97a5b41abc98370c94d.jpg",
+      "date": "2021-02-20",
+      "lastSync": 1784877399,
+      "skinName": "养蜂人 辛吉德",
+      "lolSkinId": "27009",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Ao4y1v7Yg",
+      "bvid": "BV1Ao4y1v7Yg",
+      "title": "【英雄联盟】宇航员 辛吉德（炼金） T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/a2f2200b75fa0c23972d1c59b0ccc25e4cb8c93e.jpg",
+      "date": "2023-02-21",
+      "lastSync": 1784877399,
+      "skinName": "宇航员 辛吉德",
+      "lolSkinId": "27019",
+      "category": "skin"
+    },
+    {
+      "id": "BV1QoUsYDERc",
+      "bvid": "BV1QoUsYDERc",
+      "title": "【英雄联盟】双城之战2 微光实验室 辛吉德 双城之战2纪念皮肤 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/5462b1361ef6341e54caacdf392db705b31baf49.jpg",
+      "date": "2024-11-19",
+      "lastSync": 1784877399,
+      "skinName": "双城之战2 微光实验室 辛吉德",
+      "lolSkinId": "27028",
+      "category": "skin"
+    }
+  ]
+}
