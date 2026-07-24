@@ -1,0 +1,65 @@
+{
+  "heroKey": "薇古丝",
+  "heroName": "愁云使者",
+  "heroNameEn": "vex",
+  "lolKey": "711",
+  "wrKey": "10141",
+  "videos": [
+    {
+      "id": "BV1tq4y1f7W9",
+      "bvid": "BV1tq4y1f7W9",
+      "title": "【英雄联盟】黎明使者 薇古丝 T3皮肤/全炫彩 特效＆3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/47ed647dd5621307531d369d15b9e505b78c5bd0.jpg",
+      "date": "2021-09-18",
+      "lastSync": 1784858314,
+      "skinName": "黎明使者 薇古丝",
+      "lolSkinId": "711001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1vK411S7Wg",
+      "bvid": "BV1vK411S7Wg",
+      "title": "【英雄联盟】至高天 薇古丝 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/91d83e4995e4108961506d983538bda2e540b619.jpg",
+      "date": "2022-11-02",
+      "lastSync": 1784858314,
+      "skinName": "至高天 薇古丝",
+      "lolSkinId": "711010",
+      "category": "skin"
+    },
+    {
+      "id": "BV1yeEwzkEeE",
+      "bvid": "BV1yeEwzkEeE",
+      "title": "【英雄联盟】观星者 薇古丝 史诗皮肤 全炫彩正式版展示 熬夜波比",
+      "pic": "http://i1.hdslb.com/bfs/archive/cef6d8528918ebeaad4eab86af28ceccd110f268.jpg",
+      "date": "2025-05-13",
+      "lastSync": 1784858314,
+      "skinName": "观星者 薇古丝",
+      "lolSkinId": "711020",
+      "category": "skin"
+    },
+    {
+      "id": "BV1UsXDBXEWw",
+      "bvid": "BV1UsXDBXEWw",
+      "title": "【英雄联盟】惊悚派对 薇古丝 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/23bdde9ef2d773461b84026f5624a382787b863f.jpg",
+      "date": "2026-03-29",
+      "lastSync": 1784858314,
+      "skinName": "惊悚派对 薇古丝",
+      "lolSkinId": "711029",
+      "category": "skin"
+    },
+    {
+      "id": "BV1AqEwzrECy",
+      "bvid": "BV1AqEwzrECy",
+      "title": "【英雄联盟手游】星域巫灵 薇古丝 手游史诗皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/8f98dde17fef4c9978ffcedc4c6e268cad5316a7.jpg",
+      "date": "2025-05-13",
+      "lastSync": 1784858314,
+      "skinName": "星域巫灵",
+      "lolSkinId": "1014103",
+      "wrSkinId": "1014103",
+      "category": "skin"
+    }
+  ]
+}
