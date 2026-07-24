@@ -1,0 +1,53 @@
+{
+  "heroKey": "艾翁",
+  "heroName": "翠神",
+  "heroNameEn": "ivern",
+  "lolKey": "427",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1Yd4y1i7tC",
+      "bvid": "BV1Yd4y1i7tC",
+      "title": "【英雄联盟】古神 艾翁 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/e2915f801636ad9cc681664aa6827cea21776a14.jpg",
+      "date": "2022-10-11",
+      "lastSync": 1784857327,
+      "skinName": "古神 艾翁",
+      "lolSkinId": "427011",
+      "category": "skin"
+    },
+    {
+      "id": "BV1q84y1H7X5",
+      "bvid": "BV1q84y1H7X5",
+      "title": "【英雄联盟】宇航员 艾翁（翠神） T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/93eefc95a393f3290da86f2d02efb491edb11cb5.jpg",
+      "date": "2023-02-21",
+      "lastSync": 1784857327,
+      "skinName": "宇航员 艾翁",
+      "lolSkinId": "427020",
+      "category": "skin"
+    },
+    {
+      "id": "BV1a8G2zaETs",
+      "bvid": "BV1a8G2zaETs",
+      "title": "【英雄联盟】灵魂莲华 艾翁 通行证奖励皮肤 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/d2a96f93422f6f7e01416250fdc41f4465d5ec16.jpg",
+      "date": "2025-04-29",
+      "lastSync": 1784857327,
+      "skinName": "灵魂莲华 艾翁",
+      "lolSkinId": "427030",
+      "category": "skin"
+    },
+    {
+      "id": "BV1UE5564E4F",
+      "bvid": "BV1UE5564E4F",
+      "title": "【英雄联盟】青蛙雨衣 艾翁 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/c25c541fc43f255ff0b4fc2c2fb0a4e2af69b230.jpg",
+      "date": "2026-05-13",
+      "lastSync": 1784857327,
+      "skinName": "青蛙雨衣 艾翁",
+      "lolSkinId": "427031",
+      "category": "skin"
+    }
+  ]
+}
