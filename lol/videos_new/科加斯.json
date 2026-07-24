@@ -1,0 +1,64 @@
+{
+  "heroKey": "科加斯",
+  "heroName": "虚空恐惧",
+  "heroNameEn": "chogath",
+  "lolKey": "31",
+  "wrKey": "10088",
+  "videos": [
+    {
+      "id": "BV1Jm4y1u7Da",
+      "bvid": "BV1Jm4y1u7Da",
+      "title": "【英雄联盟】暗星 科加斯 慈善皮肤 正式版展示 大虫子",
+      "pic": "http://i0.hdslb.com/bfs/archive/3332433c534d56d9418fa498b38b80b173f7f935.jpg",
+      "date": "2023-08-25",
+      "lastSync": 1784860224,
+      "skinName": "暗星 科加斯",
+      "lolSkinId": "31007",
+      "category": "skin"
+    },
+    {
+      "id": "BV1JA411u7mW",
+      "bvid": "BV1JA411u7mW",
+      "title": "【英雄联盟】山海绘卷 科加斯（大虫子） 全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/069b34c7d69124cabbdb1ad12536c3a25c345d9e.jpg",
+      "date": "2021-01-28",
+      "lastSync": 1784860224,
+      "skinName": "山海绘卷 科加斯",
+      "lolSkinId": "31014",
+      "category": "skin"
+    },
+    {
+      "id": "BV1E24y137kz",
+      "bvid": "BV1E24y137kz",
+      "title": "【英雄联盟】绝息圣堂 科加斯 T3皮肤/全炫彩 最终版展示 大虫子",
+      "pic": "http://i2.hdslb.com/bfs/archive/78b15964cc2d854ed147bdbd4f2020e3d7798a39.jpg",
+      "date": "2023-03-04",
+      "lastSync": 1784860224,
+      "skinName": "绝息圣堂 科加斯",
+      "lolSkinId": "31023",
+      "category": "skin"
+    },
+    {
+      "id": "BV1GH4y1n7ce",
+      "bvid": "BV1GH4y1n7ce",
+      "title": "【英雄联盟】鳄加斯 科加斯 T3皮肤 全炫彩正式版展示 大虫子",
+      "pic": "http://i2.hdslb.com/bfs/archive/14147e2d457dc550c977dab55f69a7d0c3a98428.jpg",
+      "date": "2024-04-05",
+      "lastSync": 1784860224,
+      "skinName": "鳄加斯",
+      "lolSkinId": "31032",
+      "category": "skin"
+    },
+    {
+      "id": "BV1u2iqBVEzJ",
+      "bvid": "BV1u2iqBVEzJ",
+      "title": "【英雄联盟】禁魔石巨像 科加斯 通行证史诗皮肤 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/3d514bdb3806523f6120d3f3647a99dee77f8235.jpg",
+      "date": "2026-01-03",
+      "lastSync": 1784860224,
+      "skinName": "禁魔石巨像 科加斯",
+      "lolSkinId": "31041",
+      "category": "skin"
+    }
+  ]
+}
