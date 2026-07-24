@@ -1,0 +1,53 @@
+{
+  "heroKey": "彗",
+  "heroName": "异画师",
+  "heroNameEn": "hwei",
+  "lolKey": "910",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1Jc411i7R5",
+      "bvid": "BV1Jc411i7R5",
+      "title": "【英雄联盟】异画师 彗 英雄正式版展示 Hwei",
+      "pic": "http://i1.hdslb.com/bfs/archive/85d48a3da241aabe5dc2de24fe992d80f18d86d2.jpg",
+      "date": "2023-12-05",
+      "lastSync": 1784856916,
+      "skinName": "异画师",
+      "lolSkinId": "910000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1JG411v7Rw",
+      "bvid": "BV1JG411v7Rw",
+      "title": "【英雄联盟】北极星使者 彗 T3伴生皮肤/全炫彩 正式版展示 Hwei",
+      "pic": "http://i2.hdslb.com/bfs/archive/0a84d77549a85473a0721cc1d4f13a890427835c.jpg",
+      "date": "2023-12-05",
+      "lastSync": 1784856916,
+      "skinName": "北极星使者 彗",
+      "lolSkinId": "910001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1cyK5z3ErG",
+      "bvid": "BV1cyK5z3ErG",
+      "title": "【英雄联盟】灵魂莲华 彗 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/272b70337502f8814fbe76cfd08b14c4084cf2f0.jpg",
+      "date": "2025-06-25",
+      "lastSync": 1784856916,
+      "skinName": "灵魂莲华 彗",
+      "lolSkinId": "910011",
+      "category": "skin"
+    },
+    {
+      "id": "BV1F2E36jEgL",
+      "bvid": "BV1F2E36jEgL",
+      "title": "【英雄联盟】恶魔假日 彗 史诗皮肤 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/f206529102667b576f3680bf9d94a00ffb268b57.jpg",
+      "date": "2026-06-08",
+      "lastSync": 1784856916,
+      "skinName": "恶魔假日 彗",
+      "lolSkinId": "910021",
+      "category": "skin"
+    }
+  ]
+}
