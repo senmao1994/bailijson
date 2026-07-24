@@ -1,0 +1,64 @@
+{
+  "heroKey": "图奇",
+  "heroName": "瘟疫之源",
+  "heroNameEn": "twitch",
+  "lolKey": "29",
+  "wrKey": "10053",
+  "videos": [
+    {
+      "id": "BV123411d7EB",
+      "bvid": "BV123411d7EB",
+      "title": "【英雄联盟】狂心冰王 图奇（老鼠） 冰雪节T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/5d70d2bd83aca6d42b70f074a4e7c3775c48d939.jpg",
+      "date": "2023-01-18",
+      "lastSync": 1784877440,
+      "skinName": "狂心冰王 图奇",
+      "lolSkinId": "29012",
+      "category": "skin"
+    },
+    {
+      "id": "BV1RA41157Vp",
+      "bvid": "BV1RA41157Vp",
+      "title": "【英雄联盟】屠龙勇士 图奇 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/e6b5d00f3abbcb32cbbbb1c9dfe5387b46b0577c.jpg",
+      "date": "2021-04-09",
+      "lastSync": 1784877440,
+      "skinName": "屠龙勇士 图奇",
+      "lolSkinId": "29036",
+      "category": "skin"
+    },
+    {
+      "id": "BV12g411o7Ti",
+      "bvid": "BV12g411o7Ti",
+      "title": "【英雄联盟】西部魔影 送葬人 图奇 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/797f63e50ab912fa2ae435fe552e00ebda9440a9.jpg",
+      "date": "2022-05-28",
+      "lastSync": 1784877440,
+      "skinName": "西部魔影 送葬人 图奇",
+      "lolSkinId": "29045",
+      "category": "skin"
+    },
+    {
+      "id": "BV1HZ421i73m",
+      "bvid": "BV1HZ421i73m",
+      "title": "【英雄联盟】奶酪首领 图奇 T3皮肤 全炫彩正式版展示 老鼠",
+      "pic": "http://i0.hdslb.com/bfs/archive/bd465db54d599c3ea339c977eaee7c1bd916271d.jpg",
+      "date": "2024-04-04",
+      "lastSync": 1784877440,
+      "skinName": "奶酪首领 图奇",
+      "lolSkinId": "29055",
+      "category": "skin"
+    },
+    {
+      "id": "BV14zG2zxE5p",
+      "bvid": "BV14zG2zxE5p",
+      "title": "【英雄联盟】泳池派对 图奇 通行证奖励皮肤 正式版展示 老鼠",
+      "pic": "http://i1.hdslb.com/bfs/archive/a584b1438721ec0f6f5b86be796446010fd2ebfd.jpg",
+      "date": "2025-04-30",
+      "lastSync": 1784877440,
+      "skinName": "泳池派对 图奇",
+      "lolSkinId": "29064",
+      "category": "skin"
+    }
+  ]
+}
