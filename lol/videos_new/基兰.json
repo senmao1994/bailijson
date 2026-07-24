@@ -1,0 +1,54 @@
+{
+  "heroKey": "基兰",
+  "heroName": "时光守护者",
+  "heroNameEn": "zilean",
+  "lolKey": "26",
+  "wrKey": "10080",
+  "videos": [
+    {
+      "id": "BV1vG411676V",
+      "bvid": "BV1vG411676V",
+      "title": "【英雄联盟】糖果大战 基兰 T3皮肤/全炫彩 正式版展示 时光老头",
+      "pic": "http://i2.hdslb.com/bfs/archive/cca5d72dab950952d83dd75b5007487274074f65.jpg",
+      "date": "2023-12-26",
+      "lastSync": 1784856965,
+      "skinName": "糖果大战 基兰",
+      "lolSkinId": "26006",
+      "category": "skin"
+    },
+    {
+      "id": "BV1z14y1K7z4",
+      "bvid": "BV1z14y1K7z4",
+      "title": "【英雄联盟】北极星圣贤 基兰（时光） T3冰雪节皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/9fffe44096f9b76b52d1fd9b105e4f2d454368cb.jpg",
+      "date": "2022-12-08",
+      "lastSync": 1784856965,
+      "skinName": "北极星圣贤 基兰",
+      "lolSkinId": "26014",
+      "category": "skin"
+    },
+    {
+      "id": "BV1QCnPzwEcr",
+      "bvid": "BV1QCnPzwEcr",
+      "title": "【英雄联盟】节制之塔 基兰 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/59a0e3475239b99a02c8f7328e89d9545c9ac711.jpg",
+      "date": "2025-09-22",
+      "lastSync": 1784856965,
+      "skinName": "节制之塔 基兰",
+      "lolSkinId": "26024",
+      "category": "skin"
+    },
+    {
+      "id": "BV1gQVS6ZELa",
+      "bvid": "BV1gQVS6ZELa",
+      "title": "【英雄联盟手游】战斗学院 基兰 超级联赛·史诗皮肤 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/622b27ee13f7e630d4dea2d03779c6ec07ee257b.jpg",
+      "date": "2026-05-31",
+      "lastSync": 1784856965,
+      "skinName": "战斗学院",
+      "lolSkinId": "1008004",
+      "wrSkinId": "1008004",
+      "category": "skin"
+    }
+  ]
+}
