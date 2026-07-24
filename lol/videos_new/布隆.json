@@ -1,0 +1,64 @@
+{
+  "heroKey": "布隆",
+  "heroName": "弗雷尔卓德之心",
+  "heroNameEn": "braum",
+  "lolKey": "201",
+  "wrKey": "10021",
+  "videos": [
+    {
+      "id": "BV1zm4y1P7pK",
+      "bvid": "BV1zm4y1P7pK",
+      "title": "【英雄联盟】黑帮管家 布隆 T3皮肤/全炫彩 正式版展示 末日管家",
+      "pic": "http://i1.hdslb.com/bfs/archive/334646b0ea917b47fe4a4577a01c7d99474ddd56.jpg",
+      "date": "2023-09-11",
+      "lastSync": 1784857992,
+      "skinName": "黑帮管家 布隆",
+      "lolSkinId": "201011",
+      "category": "skin"
+    },
+    {
+      "id": "BV12N4y1s7ML",
+      "bvid": "BV12N4y1s7ML",
+      "title": "【英雄联盟】糖果大战 布隆 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/5240f461a7045d0cde52900a7aea835621c31b92.jpg",
+      "date": "2023-12-26",
+      "lastSync": 1784857992,
+      "skinName": "糖果大战 布隆",
+      "lolSkinId": "201024",
+      "category": "skin"
+    },
+    {
+      "id": "BV19A411g71b",
+      "bvid": "BV19A411g71b",
+      "title": "【英雄联盟】泳池派对 布隆 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/53c3c4d47af18829e4ae5f741c92cccdba3b28b8.jpg",
+      "date": "2021-05-26",
+      "lastSync": 1784857992,
+      "skinName": "泳池派对 布隆",
+      "lolSkinId": "201033",
+      "category": "skin"
+    },
+    {
+      "id": "BV15yfTYAE2A",
+      "bvid": "BV15yfTYAE2A",
+      "title": "【英雄联盟】烤肉大师 布隆 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/59b9dd465d64a899d6540400a615fc10a5fe5113.jpg",
+      "date": "2025-04-03",
+      "lastSync": 1784857992,
+      "skinName": "烤肉大师 布隆",
+      "lolSkinId": "201042",
+      "category": "skin"
+    },
+    {
+      "id": "BV1fzQhBmEkc",
+      "bvid": "BV1fzQhBmEkc",
+      "title": "【英雄联盟】胜利之心 布隆 S16第一赛季皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/ebe449cfa8fc162eca2a53b47afb2ff00a4bf5c3.jpg",
+      "date": "2026-04-13",
+      "lastSync": 1784857992,
+      "skinName": "胜利之心 布隆",
+      "lolSkinId": "201051",
+      "category": "skin"
+    }
+  ]
+}
