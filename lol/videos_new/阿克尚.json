@@ -1,0 +1,65 @@
+{
+  "heroKey": "阿克尚",
+  "heroName": "影哨",
+  "heroNameEn": "akshan",
+  "lolKey": "166",
+  "wrKey": "10100",
+  "videos": [
+    {
+      "id": "BV1qZ4y1J7E9",
+      "bvid": "BV1qZ4y1J7E9",
+      "title": "【英雄联盟】荣誉使者 阿克尚 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/785ff4f75175caff9f6d55d68961615c0a776f1b.jpg",
+      "date": "2024-01-22",
+      "lastSync": 1784856545,
+      "skinName": "荣誉使者 阿克尚",
+      "lolSkinId": "166020",
+      "category": "skin"
+    },
+    {
+      "id": "BV1fq4y1c7Nm",
+      "bvid": "BV1fq4y1c7Nm",
+      "title": "【英雄联盟】水晶玫瑰 阿克尚 情人节限定 皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/b82e9c21aa5e73c7c99eaed5c15a6a92046bb31e.jpg",
+      "date": "2022-01-23",
+      "lastSync": 1784856545,
+      "skinName": "水晶玫瑰 阿克尚",
+      "lolSkinId": "166010",
+      "category": "skin"
+    },
+    {
+      "id": "BV1NL411p7Rr",
+      "bvid": "BV1NL411p7Rr",
+      "title": "【英雄联盟】赛博潮流 阿克尚 T3伴生皮肤/全炫彩 特效＆3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/b27fd6ee19bbc2ab758760360228271ffed3e469.jpg",
+      "date": "2021-07-20",
+      "lastSync": 1784856545,
+      "skinName": "赛博潮流 阿克尚",
+      "lolSkinId": "166001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1BQ7T6aEBw",
+      "bvid": "BV1BQ7T6aEBw",
+      "title": "【英雄联盟】西部魔影 阿克尚 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/99ea205b423a2577cc1bcc5a0da5dcd239108511.jpg",
+      "date": "2026-06-22",
+      "lastSync": 1784856545,
+      "skinName": "西部魔影 阿克尚",
+      "lolSkinId": "166021",
+      "category": "skin"
+    },
+    {
+      "id": "BV1y44y117RQ",
+      "bvid": "BV1y44y117RQ",
+      "title": "【英雄联盟手游】战斗学院 阿克尚 局外/局内 模型&特效展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/92807220bf45aee0568a4fe5871e7869feccef15.jpg",
+      "date": "2021-08-03",
+      "lastSync": 1784856545,
+      "skinName": "战斗学院",
+      "lolSkinId": "1010002",
+      "wrSkinId": "1010002",
+      "category": "skin"
+    }
+  ]
+}
