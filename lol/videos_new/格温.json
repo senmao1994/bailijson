@@ -1,0 +1,148 @@
+{
+  "heroKey": "格温",
+  "heroName": "灵罗娃娃",
+  "heroNameEn": "gwen",
+  "lolKey": "887",
+  "wrKey": "10054",
+  "videos": [
+    {
+      "id": "BV1GK4y1m7tr",
+      "bvid": "BV1GK4y1m7tr",
+      "title": "【英雄联盟】太空律动 百万调音 格温 伴生T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/75199e41d27080d98e7d2f4274b454311ac44e20.jpg",
+      "date": "2021-04-04",
+      "lastSync": 1784859311,
+      "skinName": "太空律动 “百万调音” 格温",
+      "lolSkinId": "887001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Eq4y1k7Vy",
+      "bvid": "BV1Eq4y1k7Vy",
+      "title": "【英雄联盟】咖啡甜心 格温 T3皮肤/全炫彩 特效＆3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/b0e7a6ba3024f2ba3c1fc567ac9ab5195b66b7b7.jpg",
+      "date": "2021-11-09",
+      "lastSync": 1784859311,
+      "skinName": "咖啡甜心 格温",
+      "lolSkinId": "887011",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Lz4y147a6",
+      "bvid": "BV1Lz4y147a6",
+      "title": "【英雄联盟】斗魂觉醒 格温 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/820b5eb9beaf3b7216f1a2861fcc976dd9e9c887.jpg",
+      "date": "2023-07-29",
+      "lastSync": 1784859311,
+      "skinName": "斗魂觉醒 格温",
+      "lolSkinId": "887020",
+      "category": "skin"
+    },
+    {
+      "id": "BV11ns4e6Eom",
+      "bvid": "BV11ns4e6Eom",
+      "title": "【英雄联盟】女帝 格温 13周年限定 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/beb31378ebc07bcbfcd5971534e627e949e9911d.jpg",
+      "date": "2024-08-27",
+      "lastSync": 1784859311,
+      "skinName": "女帝 格温",
+      "lolSkinId": "887030",
+      "category": "skin"
+    },
+    {
+      "id": "BV173yGBzEAa",
+      "bvid": "BV173yGBzEAa",
+      "title": "【英雄联盟】青蛙雨衣 格温 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/bce06d076099533523c51a591fca46d3682c0fa9.jpg",
+      "date": "2025-11-18",
+      "lastSync": 1784859311,
+      "skinName": "青蛙雨衣 格温",
+      "lolSkinId": "887039",
+      "category": "skin"
+    },
+    {
+      "id": "BV154mABEEx8",
+      "bvid": "BV154mABEEx8",
+      "title": "【英雄联盟手游】剪胜裁春 格温 兔年限定·传说皮肤 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/6c1f8f2ebe8c520ff8a3b7cae7f5fe035f370536.jpg",
+      "date": "2025-12-08",
+      "lastSync": 1784859311,
+      "skinName": "剪胜裁春",
+      "lolSkinId": "1005403",
+      "wrSkinId": "1005403",
+      "category": "skin"
+    },
+    {
+      "id": "BV1v321BvEqa",
+      "bvid": "BV1v321BvEqa",
+      "title": "【英雄联盟手游】水晶玫瑰 格温 限定·史诗皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/34bcb24d65083be95eee147025a62010d6a3526e.jpg",
+      "date": "2025-12-08",
+      "lastSync": 1784859311,
+      "skinName": "水晶玫瑰",
+      "lolSkinId": "1005404",
+      "wrSkinId": "1005404",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Tx4y147mY",
+      "bvid": "BV1Tx4y147mY",
+      "title": "【英雄联盟手游】至臻 水晶玫瑰 格温 神话皮肤 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/b57632c166b015060c24d98308c6bdd76d971abe.jpg",
+      "date": "2024-08-08",
+      "lastSync": 1784859311,
+      "skinName": "至臻 水晶玫瑰",
+      "lolSkinId": "1005405",
+      "wrSkinId": "1005405",
+      "category": "skin"
+    },
+    {
+      "id": "BV1uEyuYZEBN",
+      "bvid": "BV1uEyuYZEBN",
+      "title": "【英雄联盟手游】 星域裁断使 格温 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/aa6a037836814d35760c07579172a87a75f03302.jpg",
+      "date": "2024-10-18",
+      "lastSync": 1784859311,
+      "skinName": "星域裁断使",
+      "lolSkinId": "1005406",
+      "wrSkinId": "1005406",
+      "category": "skin"
+    },
+    {
+      "id": "BV1MW2RBEEkF",
+      "bvid": "BV1MW2RBEEkF",
+      "title": "【英雄联盟手游】幻灵特战灵猫 格温 传说皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/315779b1ebb1ecd7e43f5579cf94f346f1c4271e.jpg",
+      "date": "2025-12-07",
+      "lastSync": 1784859311,
+      "skinName": "幻灵特战灵猫",
+      "lolSkinId": "1005407",
+      "wrSkinId": "1005407",
+      "category": "skin"
+    },
+    {
+      "id": "BV11ZmFB8EBU",
+      "bvid": "BV11ZmFB8EBU",
+      "title": "【英雄联盟手游】无声裁影 格温 臻宝皮肤 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/7e3470acc8db6d1343bb7a646e2094cd92d41b29.jpg",
+      "date": "2025-12-07",
+      "lastSync": 1784859311,
+      "skinName": "无声裁影",
+      "lolSkinId": "1005410",
+      "wrSkinId": "1005410",
+      "category": "skin"
+    },
+    {
+      "id": "BV1ALc5zYERz",
+      "bvid": "BV1ALc5zYERz",
+      "title": "【英雄联盟手游】告白气球 格温 告白气球·限定皮肤正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/45340e6ef83999c049304ce9bf1804f1d23ae2e2.jpg",
+      "date": "2026-02-13",
+      "lastSync": 1784859311,
+      "skinName": "告白气球",
+      "lolSkinId": "1005411",
+      "wrSkinId": "1005411",
+      "category": "skin"
+    }
+  ]
+}
