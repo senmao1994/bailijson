@@ -1,0 +1,64 @@
+{
+  "heroKey": "泽拉斯",
+  "heroName": "远古巫灵",
+  "heroNameEn": "xerath",
+  "lolKey": "101",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1vw411D7Sm",
+      "bvid": "BV1vw411D7Sm",
+      "title": "【英雄联盟】暗星 泽拉斯 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/3540424456ded8219fdac984f671241a8ba04431.jpg",
+      "date": "2023-08-22",
+      "lastSync": 1784859078,
+      "skinName": "暗星 泽拉斯",
+      "lolSkinId": "101005",
+      "category": "skin"
+    },
+    {
+      "id": "BV1zZ4y1F79t",
+      "bvid": "BV1zZ4y1F79t",
+      "title": "【英雄联盟】塔罗牌：欲望之主 泽拉斯 皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/24080ed9b9e427802040c7ed0438c8f5d7f10394.jpg",
+      "date": "2021-05-05",
+      "lastSync": 1784859078,
+      "skinName": "欲望之主 泽拉斯",
+      "lolSkinId": "101012",
+      "category": "skin"
+    },
+    {
+      "id": "BV19D4y1G72d",
+      "bvid": "BV19D4y1G72d",
+      "title": "【英雄联盟】宇航员 泽拉斯 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/04a898baf422d3b4b3d939bb2a18d1c099250af8.jpg",
+      "date": "2023-02-21",
+      "lastSync": 1784859078,
+      "skinName": "宇航员 泽拉斯",
+      "lolSkinId": "101021",
+      "category": "skin"
+    },
+    {
+      "id": "BV1S1421k7Uu",
+      "bvid": "BV1S1421k7Uu",
+      "title": "【英雄联盟】水晶巫灵 泽拉斯 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/14262b19abbd18dd715fb8b2e59c93168643c63e.jpg",
+      "date": "2024-06-07",
+      "lastSync": 1784859078,
+      "skinName": "水晶巫灵 泽拉斯",
+      "lolSkinId": "101030",
+      "category": "skin"
+    },
+    {
+      "id": "BV1VVPFzEEdz",
+      "bvid": "BV1VVPFzEEdz",
+      "title": "【英雄联盟】腐化禁魔石巨像 泽拉斯 通行证皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/74766d440d1a29c75aa5659b8f11534cc7483cd7.jpg",
+      "date": "2026-03-03",
+      "lastSync": 1784859078,
+      "skinName": "腐化禁魔石巨像 泽拉斯",
+      "lolSkinId": "101032",
+      "category": "skin"
+    }
+  ]
+}
