@@ -1,0 +1,42 @@
+{
+  "heroKey": "兰博",
+  "heroName": "机械公敌",
+  "heroNameEn": "rumble",
+  "lolKey": "68",
+  "wrKey": "10140",
+  "videos": [
+    {
+      "id": "BV1CH4y1F7cn",
+      "bvid": "BV1CH4y1F7cn",
+      "title": "【英雄联盟】银河魔装机神 兰博 T2传说皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/5f1d5f69f76b83daeb13383eeb7f75d573c0dcf4.jpg",
+      "date": "2024-07-07",
+      "lastSync": 1784999308,
+      "skinName": "银河魔装机神 兰博",
+      "lolSkinId": "68003",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Kv411h785",
+      "bvid": "BV1Kv411h785",
+      "title": "【英雄联盟】太空律动 串烧大师 兰博 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/7bb0eaff5078a85d458d2ef39786e8417a6c7a47.jpg",
+      "date": "2021-04-01",
+      "lastSync": 1784999308,
+      "skinName": "机械公敌",
+      "lolSkinId": "68000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1yC4y137eS",
+      "bvid": "BV1yC4y137eS",
+      "title": "【英雄联盟】咖啡甜心 兰博 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/be4153dfdc766da9f047d18f38513d0eca1131eb.jpg",
+      "date": "2023-10-24",
+      "lastSync": 1784999308,
+      "skinName": "咖啡甜心 兰博",
+      "lolSkinId": "68023",
+      "category": "skin"
+    }
+  ]
+}
