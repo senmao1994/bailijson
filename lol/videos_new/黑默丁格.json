@@ -1,0 +1,31 @@
+{
+  "heroKey": "黑默丁格",
+  "heroName": "大发明家",
+  "heroNameEn": "heimerdinger",
+  "lolKey": "74",
+  "wrKey": "10127",
+  "videos": [
+    {
+      "id": "BV1f44y1n7tZ",
+      "bvid": "BV1f44y1n7tZ",
+      "title": "【英雄联盟】小蜜蜂 黑默丁格 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/dbafd8823b2e7c4417d56f830d8b33e67f54daf6.jpg",
+      "date": "2022-02-25",
+      "lastSync": 1784999390,
+      "skinName": "小蜜蜂 黑默丁格",
+      "lolSkinId": "74024",
+      "category": "skin"
+    },
+    {
+      "id": "BV1cjqkYXEWC",
+      "bvid": "BV1cjqkYXEWC",
+      "title": "【英雄联盟】双城之战2 教授 黑默丁格 史诗皮肤&典范炫彩 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/1019cd2cc82e0b585e3939e304bed95d402d772d.jpg",
+      "date": "2024-12-11",
+      "lastSync": 1784999390,
+      "skinName": "双城之战2 教授 黑默丁格",
+      "lolSkinId": "74033",
+      "category": "skin"
+    }
+  ]
+}
