@@ -1,0 +1,55 @@
+{
+  "id": 1000710,
+  "name": "碧空悠游 卡尔玛",
+  "roitName": "\rIsland Vacation Karma",
+  "sortName": "碧空悠游",
+  "rarity": "史诗",
+  "raritySubType": "夏日限定",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "海风",
+  "universe": "碧空悠游",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "云海在卡尔玛的脚下缓缓流淌，她伸出手看着一团落在掌心的松软云絮慢慢散开。她暂时放下精神的负担，把那些古老声音的规训搁在一边，只是静静地坐在这里，看云来云去。她发现真正的平衡不只源于奉献，守护他人之前，先让自己的心也拥有被守护的资格。",
+  "accessories": [
+    "边框",
+    "姿态：聆涛",
+    "姿态：拨云寻踪"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Karma_9.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_karma_skin09.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/karma/碧空悠游 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000710.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/karma/碧空悠游 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年7月14日",
+    "endDate": "2026年8月30日23:59",
+    "description": "首发限时直售时间",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
