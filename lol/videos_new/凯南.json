@@ -1,0 +1,31 @@
+{
+  "heroKey": "凯南",
+  "heroName": "狂暴之心",
+  "heroNameEn": "kennen",
+  "lolKey": "85",
+  "wrKey": "10061",
+  "videos": [
+    {
+      "id": "BV1e5411A7ZT",
+      "bvid": "BV1e5411A7ZT",
+      "title": "【英雄联盟】DWG 凯南 S10冠军战队 皮肤/精锐炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/db41a4b75daf33781fdae6ce9e91937ef6873a0f.jpg",
+      "date": "2021-04-15",
+      "lastSync": 1784998567,
+      "skinName": "DWG 凯南",
+      "lolSkinId": "85023",
+      "category": "skin"
+    },
+    {
+      "id": "BV1eA411m7oB",
+      "bvid": "BV1eA411m7oB",
+      "title": "【英雄联盟】宇航员 凯南 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/3b3664aa4befe9d59077530ea706879e4f0889cb.jpg",
+      "date": "2023-02-22",
+      "lastSync": 1784998567,
+      "skinName": "宇航员 凯南",
+      "lolSkinId": "85025",
+      "category": "skin"
+    }
+  ]
+}
