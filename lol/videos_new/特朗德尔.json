@@ -1,0 +1,31 @@
+{
+  "heroKey": "特朗德尔",
+  "heroName": "巨魔之王",
+  "heroNameEn": "trundle",
+  "lolKey": "48",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1te4y1k7Qf",
+      "bvid": "BV1te4y1k7Qf",
+      "title": "【英雄联盟】魔域梦魇 特朗德尔 T3皮肤/全炫彩 特效&3D展示 毒菇 巨魔",
+      "pic": "http://i2.hdslb.com/bfs/archive/eb0f2386d11b1c356a465ff5134dc36ed18acef6.jpg",
+      "date": "2022-09-18",
+      "lastSync": 1784999136,
+      "skinName": "魔域梦魇 特朗德尔",
+      "lolSkinId": "48012",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Gr2PYsEax",
+      "bvid": "BV1Gr2PYsEax",
+      "title": "【英雄联盟】 超级电竞粉丝 特朗德尔 T3皮肤/全炫彩 正式版展示 巨魔",
+      "pic": "http://i1.hdslb.com/bfs/archive/3cf2209fbec22735130a60cb8228feaff9168b9b.jpg",
+      "date": "2024-10-10",
+      "lastSync": 1784999136,
+      "skinName": "超级电竞粉丝 特朗德尔",
+      "lolSkinId": "48021",
+      "category": "skin"
+    }
+  ]
+}
