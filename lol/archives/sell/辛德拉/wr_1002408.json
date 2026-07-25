@@ -1,0 +1,55 @@
+{
+  "id": 1002408,
+  "name": "碧空悠游 辛德拉",
+  "roitName": "\rIsland Vacation Syndra",
+  "sortName": "碧空悠游",
+  "rarity": "传说",
+  "raritySubType": "夏日限定",
+  "price": "1090",
+  "priceUnit": "点券",
+  "skinline": "海风",
+  "universe": "碧空悠游",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "辛德拉被一枚蕴含快乐能量的气泡邀请函引至碧空之上。来到这里后她意外发现，这股能量没有压制她汹涌的力量，反而与之共鸣，让力量在纯粹的快乐中升华。她第一次体验到，极致的强大不必源于痛苦。这份感悟如同一把钥匙，能释放自我、通往真正的自由。",
+  "accessories": [
+    "边框",
+    "姿态：驭能",
+    "姿态：悠游自在"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Syndra_7.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_syndra_skin07.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/syndra/碧空悠游 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002408.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/syndra/碧空悠游 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年7月14日",
+    "endDate": "2026年8月30日23:59",
+    "description": "首发限时直售时间",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

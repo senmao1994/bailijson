@@ -3,5 +3,13 @@
   "name": "辛德拉",
   "alias": "xindela",
   "key": "10024",
-  "title": "暗黑元首"
+  "title": "暗黑元首",
+  "wr": {
+    "id": 10024,
+    "name": "辛德拉",
+    "alias": "xindela",
+    "key": "10024",
+    "title": "暗黑元首",
+    "platform": "wr"
+  }
 }
