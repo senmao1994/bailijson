@@ -70,13 +70,13 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 人物.jpg",
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 玄缎 头像.png",
       "mythicIcon": null,
       "type": "hidden",
       "borderPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 玄缎 边框.png",
       "loadingMythicPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 玄缎 载入.png",
       "splashMythicPath": null,
-      "modelPath": null,
+      "modelPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 人物.jpg",
       "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "2026年7月24日",
@@ -120,13 +120,13 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/冰绡.jpg",
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 冰绡 头像.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
       "loadingMythicPath": null,
       "splashMythicPath": null,
-      "modelPath": null,
+      "modelPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/冰绡.jpg",
       "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "2026年7月24日",
@@ -170,13 +170,13 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/晴漪.jpg",
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 晴漪 头像.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
       "loadingMythicPath": null,
       "splashMythicPath": null,
-      "modelPath": null,
+      "modelPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/晴漪.jpg",
       "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "2026年7月24日",
@@ -220,13 +220,13 @@
         "description": ""
       },
       "riotName": null,
-      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/轻霭.jpg",
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/碧空悠游 轻霭 头像.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
       "loadingMythicPath": null,
       "splashMythicPath": null,
-      "modelPath": null,
+      "modelPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/gwen/轻霭.jpg",
       "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "2026年7月24日",
