@@ -1,7 +1,15 @@
-﻿{
-    "id":  "morgana",
-    "name":  "莫甘娜",
-    "alias":  "Morgana",
-    "key":  25,
-    "title":  "堕落天使"
+{
+  "id": "morgana",
+  "name": "莫甘娜",
+  "alias": "Morgana",
+  "key": 25,
+  "title": "堕落天使",
+  "wr": {
+    "id": 10028,
+    "name": "莫甘娜",
+    "alias": "moganna",
+    "key": "10028",
+    "title": "堕落天使",
+    "platform": "wr"
+  }
 }

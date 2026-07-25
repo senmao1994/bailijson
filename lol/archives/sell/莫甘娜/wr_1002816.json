@@ -1,0 +1,55 @@
+{
+  "id": 1002816,
+  "name": "碧空悠游 莫甘娜",
+  "roitName": "Island Vacation Morgana",
+  "sortName": "碧空悠游",
+  "rarity": "史诗",
+  "raritySubType": "夏日限定",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "海风",
+  "universe": "碧空悠游",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "在这片梦幻的云海间，莫甘娜躺在云畔，任凭松软的云絮拂过她的羽翼，气泡在她身旁轻轻破碎，带走满脑子的愁苦。不用去判断对错，也不用去分辨谁该被惩罚、谁该被守护。她闭上眼睛，发现自己竟然在微笑。那个永远紧绷的自己，终于可以歇一歇了。",
+  "accessories": [
+    "边框",
+    "姿态：聆涛",
+    "姿态：拨云寻踪"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Morgana_15.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_morgana_skin15.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/morgana/碧空悠游 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002816.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/morgana/碧空悠游 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年7月14日",
+    "endDate": "2026年8月30日23:59",
+    "description": "首发限时直售时间",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
