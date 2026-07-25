@@ -1,0 +1,86 @@
+{
+  "heroKey": "玛尔扎哈",
+  "heroName": "虚空先知",
+  "heroNameEn": "malzahar",
+  "lolKey": "90",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1ub4y1R7CL",
+      "bvid": "BV1ub4y1R7CL",
+      "title": "【英雄联盟】小蜜蜂 玛尔扎哈 皮肤&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/2e5b3d6c5b6c8d02b2a9d10b273faf81a86f78d1.jpg",
+      "date": "2021-02-18",
+      "lastSync": 1784999562,
+      "skinName": "小蜜蜂 玛尔扎哈",
+      "lolSkinId": "90018",
+      "category": "skin"
+    },
+    {
+      "id": "BV1cN411d7Nd",
+      "bvid": "BV1cN411d7Nd",
+      "title": "【英雄联盟】小蜜蜂 玛尔扎哈 全炫彩（9款）皮肤&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/0e41fdb800a4ef62070b9e1e479ca6f1707c065d.jpg",
+      "date": "2021-02-18",
+      "lastSync": 1784999562,
+      "skinName": "小蜜蜂 玛尔扎哈",
+      "lolSkinId": "90018",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Eg411w7RF",
+      "bvid": "BV1Eg411w7RF",
+      "title": "【英雄联盟】虚空执事 玛尔扎哈 T3皮肤/全炫彩 特效＆3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/d2f5c994fa87a4ba88d1d3c25b65460963f81298.jpg",
+      "date": "2021-12-11",
+      "lastSync": 1784999562,
+      "skinName": "虚空执事 玛尔扎哈",
+      "lolSkinId": "90028",
+      "category": "skin"
+    },
+    {
+      "id": "BV1o84y1q7Yh",
+      "bvid": "BV1o84y1q7Yh",
+      "title": "【英雄联盟】荣誉使者 玛尔扎哈（蚂蚱） 2022年5级荣誉皮肤 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/646b5d4e2288c27a7bdd161eb7354a71c8fb55cd.jpg",
+      "date": "2022-10-20",
+      "lastSync": 1784999562,
+      "skinName": "荣誉使者 玛尔扎哈",
+      "lolSkinId": "90038",
+      "category": "skin"
+    },
+    {
+      "id": "BV1zT421C7kp",
+      "bvid": "BV1zT421C7kp",
+      "title": "【英雄联盟】至高天 玛尔扎哈 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/840c6f800ab39766ff6d6e4ea1b54fb9bc42640a.jpg",
+      "date": "2024-04-28",
+      "lastSync": 1784999562,
+      "skinName": "至高天 玛尔扎哈",
+      "lolSkinId": "90039",
+      "category": "skin"
+    },
+    {
+      "id": "BV1VfocYrEhV",
+      "bvid": "BV1VfocYrEhV",
+      "title": "【英雄联盟】逆命 玛尔扎哈 史诗皮肤 全炫彩正式版展示 蚂蚱",
+      "pic": "http://i1.hdslb.com/bfs/archive/e32a283add77c2e844a64ed9ae276efc4973cbfa.jpg",
+      "date": "2025-04-16",
+      "lastSync": 1784999562,
+      "skinName": "逆命 玛尔扎哈",
+      "lolSkinId": "90049",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Ja3tzsEoX",
+      "bvid": "BV1Ja3tzsEoX",
+      "title": "【英雄联盟】海克斯科技 玛尔扎哈 神话皮肤 正式版展示 蚂蚱",
+      "pic": "http://i2.hdslb.com/bfs/archive/60d159b960d49195b0d28c573b8f2f75a37f812c.jpg",
+      "date": "2025-07-02",
+      "lastSync": 1784999562,
+      "skinName": "海克斯科技 玛尔扎哈",
+      "lolSkinId": "90007",
+      "category": "skin"
+    }
+  ]
+}
