@@ -1,0 +1,53 @@
+{
+  "heroKey": "拉莫斯",
+  "heroName": "披甲龙龟",
+  "heroNameEn": "rammus",
+  "lolKey": "33",
+  "wrKey": "10064",
+  "videos": [
+    {
+      "id": "BV14z4y1J7Dk",
+      "bvid": "BV14z4y1J7Dk",
+      "title": "【英雄联盟】国王 拉莫斯 正式版展示 龙龟",
+      "pic": "http://i0.hdslb.com/bfs/archive/3a8c905717bad3784e06f68758ca9ccc49ab769e.jpg",
+      "date": "2023-07-12",
+      "lastSync": 1784998697,
+      "skinName": "国王 拉莫斯",
+      "lolSkinId": "33001",
+      "category": "skin"
+    },
+    {
+      "id": "BV17m7DzNE6n",
+      "bvid": "BV17m7DzNE6n",
+      "title": "【英雄联盟】海克斯科技 拉莫斯 神话皮肤展示 龙龟",
+      "pic": "http://i1.hdslb.com/bfs/archive/ffe3168dfd82a24872d57479728bec9cb78ade68.jpg",
+      "date": "2025-06-02",
+      "lastSync": 1784998697,
+      "skinName": "海克斯科技 拉莫斯",
+      "lolSkinId": "33016",
+      "category": "skin"
+    },
+    {
+      "id": "BV1kG411X79y",
+      "bvid": "BV1kG411X79y",
+      "title": "【英雄联盟】制胜金球 拉莫斯 全炫彩 正式版展示 龙龟",
+      "pic": "http://i0.hdslb.com/bfs/archive/04f173906176a75cf7eb334bceb86568c8f28eb4.jpg",
+      "date": "2023-11-04",
+      "lastSync": 1784998697,
+      "skinName": "制胜金球 拉莫斯",
+      "lolSkinId": "33008",
+      "category": "skin"
+    },
+    {
+      "id": "BV1YJ4m157fJ",
+      "bvid": "BV1YJ4m157fJ",
+      "title": "【英雄联盟】榴莲龙龟 拉莫斯 T3皮肤 全炫彩正式版展示 龙龟",
+      "pic": "http://i2.hdslb.com/bfs/archive/defa54dc201a191c292e0c8522c8cbb9abd2405f.jpg",
+      "date": "2024-04-04",
+      "lastSync": 1784998697,
+      "skinName": "榴莲龙龟 拉莫斯",
+      "lolSkinId": "33026",
+      "category": "skin"
+    }
+  ]
+}
