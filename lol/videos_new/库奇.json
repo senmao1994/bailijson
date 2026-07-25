@@ -1,0 +1,64 @@
+{
+  "heroKey": "库奇",
+  "heroName": "英勇投弹手",
+  "heroNameEn": "corki",
+  "lolKey": "42",
+  "wrKey": "10060",
+  "videos": [
+    {
+      "id": "BV1uT7kz8E8W",
+      "bvid": "BV1uT7kz8E8W",
+      "title": "【英雄联盟】Fnatic 库奇 S1冠军皮肤展示 飞机",
+      "pic": "http://i1.hdslb.com/bfs/archive/ab5c00137cbea99f8d74cdb339499371eefd8f2c.jpg",
+      "date": "2025-06-01",
+      "lastSync": 1784998968,
+      "skinName": "Fnatic 库奇",
+      "lolSkinId": "42007",
+      "category": "skin"
+    },
+    {
+      "id": "BV1hK411e7DM",
+      "bvid": "BV1hK411e7DM",
+      "title": "【英雄联盟】神龙之翼 库奇 全炫彩（新增飞龙腾云）正式版展示 2013蛇年限定 飞机",
+      "pic": "http://i2.hdslb.com/bfs/archive/e82e0acc9a382bedc245b336d2e448650724c865.jpg",
+      "date": "2024-01-19",
+      "lastSync": 1784998968,
+      "skinName": "神龙之翼 库奇",
+      "lolSkinId": "42006",
+      "category": "skin"
+    },
+    {
+      "id": "BV1ek4y1Y7sM",
+      "bvid": "BV1ek4y1Y7sM",
+      "title": "【英雄联盟】柯基 库奇 T3皮肤/全炫彩 正式版展示 猫狗大战 飞机",
+      "pic": "http://i1.hdslb.com/bfs/archive/57e833616350be4df4495a0b14d36c2b1dd5da54.jpg",
+      "date": "2023-04-11",
+      "lastSync": 1784998968,
+      "skinName": "柯基 库奇",
+      "lolSkinId": "42018",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Zb4y1d7xH",
+      "bvid": "BV1Zb4y1d7xH",
+      "title": "【英雄联盟】宇航员 库奇 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/53fde820bbfd1f5a09fe98c928c41d692732a589.jpg",
+      "date": "2021-06-14",
+      "lastSync": 1784998968,
+      "skinName": "宇航员 库奇",
+      "lolSkinId": "42026",
+      "category": "skin"
+    },
+    {
+      "id": "BV15sbKzaEnk",
+      "bvid": "BV15sbKzaEnk",
+      "title": "【英雄联盟】飞鸡 库奇 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/bf6bc3262d4b80726b6dfeecda9454bd42f16053.jpg",
+      "date": "2025-08-10",
+      "lastSync": 1784998968,
+      "skinName": "飞鸡 库奇",
+      "lolSkinId": "42036",
+      "category": "skin"
+    }
+  ]
+}
