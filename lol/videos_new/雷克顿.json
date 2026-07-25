@@ -1,0 +1,64 @@
+{
+  "heroKey": "雷克顿",
+  "heroName": "荒漠屠夫",
+  "heroNameEn": "renekton",
+  "lolKey": "58",
+  "wrKey": "10121",
+  "videos": [
+    {
+      "id": "BV1SN411o7p1",
+      "bvid": "BV1SN411o7p1",
+      "title": "【英雄联盟】源计划：泯灭 雷克顿 T2皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/ef69eb9b403a6a072357a07d3ae0960f6ef253d6.jpg",
+      "date": "2021-05-15",
+      "lastSync": 1784999204,
+      "skinName": "源计划：泯灭 雷克顿",
+      "lolSkinId": "58026",
+      "category": "skin"
+    },
+    {
+      "id": "BV1SV4y1Z7wR",
+      "bvid": "BV1SV4y1Z7wR",
+      "title": "【英雄联盟】黎明使者 雷克顿 T3皮肤/全炫彩 正式版展示 鳄鱼",
+      "pic": "http://i1.hdslb.com/bfs/archive/1d55a81fbc8ac7f64c42008925f9132c30b547df.jpg",
+      "date": "2023-04-16",
+      "lastSync": 1784999204,
+      "skinName": "黎明使者 雷克顿",
+      "lolSkinId": "58033",
+      "category": "skin"
+    },
+    {
+      "id": "BV1ow411r7Dj",
+      "bvid": "BV1ow411r7Dj",
+      "title": "【英雄联盟】2023全球总决赛 雷克顿 T3皮肤/全炫彩 正式版展示 鳄鱼",
+      "pic": "http://i1.hdslb.com/bfs/archive/31e6dc8d39c89e4e933c093a2677002ea738e44e.jpg",
+      "date": "2023-10-10",
+      "lastSync": 1784999204,
+      "skinName": "荒漠屠夫",
+      "lolSkinId": "58000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1xLgQz8EV2",
+      "bvid": "BV1xLgQz8EV2",
+      "title": "【英雄联盟】海克斯科技 雷克顿 神话皮肤 正式版展示 鳄鱼",
+      "pic": "http://i2.hdslb.com/bfs/archive/ed7567bc0511d7096afcf93e8a5052a4d90a051a.jpg",
+      "date": "2025-07-01",
+      "lastSync": 1784999204,
+      "skinName": "海克斯科技 雷克顿",
+      "lolSkinId": "58017",
+      "category": "skin"
+    },
+    {
+      "id": "BV14XT9zwE6s",
+      "bvid": "BV14XT9zwE6s",
+      "title": "【英雄联盟】墨之影 雷克顿 史诗皮肤 全炫彩正式版 鳄鱼",
+      "pic": "http://i0.hdslb.com/bfs/archive/98035ebdd28b9c4531d17fa3c129a6b8e99b08d6.jpg",
+      "date": "2025-06-08",
+      "lastSync": 1784999204,
+      "skinName": "墨之影 雷克顿",
+      "lolSkinId": "58048",
+      "category": "skin"
+    }
+  ]
+}
