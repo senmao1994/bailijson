@@ -1,0 +1,108 @@
+{
+  "heroKey": "迦娜",
+  "heroName": "风暴之怒",
+  "heroNameEn": "janna",
+  "lolKey": "40",
+  "wrKey": "10075",
+  "videos": [
+    {
+      "id": "BV1Qz4y1p7w4",
+      "bvid": "BV1Qz4y1p7w4",
+      "title": "【英雄联盟】玉剑传说 风仙子 迦娜 T3皮肤/全炫彩 正式版展示 风女",
+      "pic": "http://i0.hdslb.com/bfs/archive/72fd77abd6e6480d6e4cc83dd57e23944ded145a.jpg",
+      "date": "2023-08-07",
+      "lastSync": 1784998879,
+      "skinName": "玉剑传说 风仙子",
+      "lolSkinId": "40008",
+      "category": "skin"
+    },
+    {
+      "id": "BV1UG411u7Un",
+      "bvid": "BV1UG411u7Un",
+      "title": "【英雄联盟】女帝 迦娜（风女） T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/fe4e715603a417624a1a40a83b8008fefba68795.jpg",
+      "date": "2022-09-19",
+      "lastSync": 1784998879,
+      "skinName": "女帝 迦娜",
+      "lolSkinId": "40027",
+      "category": "skin"
+    },
+    {
+      "id": "BV1EL411F7d4",
+      "bvid": "BV1EL411F7d4",
+      "title": "【英雄联盟】水晶玫瑰 迦娜（风女）  T3皮肤/全炫彩 特效&3D展示 2022情人节限定",
+      "pic": "http://i1.hdslb.com/bfs/archive/01c85b315b566e25fc9b46814dc7897fa0b7b949.jpg",
+      "date": "2022-01-27",
+      "lastSync": 1784998879,
+      "skinName": "水晶玫瑰 迦娜",
+      "lolSkinId": "40036",
+      "category": "skin"
+    },
+    {
+      "id": "BV14G4y1a771",
+      "bvid": "BV14G4y1a771",
+      "title": "【英雄联盟】海珀利安小队 X09-星环灵风 迦娜（风女） T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/bbcb2e65148c8a0dd6ed081b7d589e4810c08da1.jpg",
+      "date": "2022-08-17",
+      "lastSync": 1784998879,
+      "skinName": "海珀利安小队 X09-星环灵风 迦娜",
+      "lolSkinId": "40045",
+      "category": "skin"
+    },
+    {
+      "id": "BV1L14y1t72m",
+      "bvid": "BV1L14y1t72m",
+      "title": "【英雄联盟】至臻 海珀利安小队 X09-星环灵风 迦娜（风女） 神话皮肤 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/2779f2de6970f2e9dbde24ba7d25ab8e1327e019.jpg",
+      "date": "2022-08-21",
+      "lastSync": 1784998879,
+      "skinName": "至臻 海珀利安小队 X09-星环灵风 迦娜",
+      "lolSkinId": "40046",
+      "category": "skin"
+    },
+    {
+      "id": "BV1FU421f74S",
+      "bvid": "BV1FU421f74S",
+      "title": "【英雄联盟】天龙之子 迦娜 T3皮肤全炫彩 正式版展示 风女",
+      "pic": "http://i1.hdslb.com/bfs/archive/dca3c06a9d5e9073c5980bffa71fd868ff93c6ce.jpg",
+      "date": "2024-01-30",
+      "lastSync": 1784998879,
+      "skinName": "天龙之子 迦娜",
+      "lolSkinId": "40056",
+      "category": "skin"
+    },
+    {
+      "id": "BV1EnykYvEev",
+      "bvid": "BV1EnykYvEev",
+      "title": "【英雄联盟】魅惑女巫 迦娜 T3皮肤全炫彩 正式版展示 风女",
+      "pic": "http://i2.hdslb.com/bfs/archive/9d1ab5d448de719a986c1f065e01c98d6e232128.jpg",
+      "date": "2024-10-24",
+      "lastSync": 1784998879,
+      "skinName": "魅惑女巫 迦娜",
+      "lolSkinId": "40013",
+      "category": "skin"
+    },
+    {
+      "id": "BV1KV7kzxEQh",
+      "bvid": "BV1KV7kzxEQh",
+      "title": "【英雄联盟】Fnatic 迦娜 S1冠军皮肤展示 风女",
+      "pic": "http://i2.hdslb.com/bfs/archive/e8c9b0423119cf7413f7e7d83da4781cac93ef2c.jpg",
+      "date": "2025-06-01",
+      "lastSync": 1784998879,
+      "skinName": "Fnatic 迦娜",
+      "lolSkinId": "40006",
+      "category": "skin"
+    },
+    {
+      "id": "BV1fbKPz6EzZ",
+      "bvid": "BV1fbKPz6EzZ",
+      "title": "【英雄联盟】黎明使者 迦娜 通行证奖励皮肤 正式版展示 风女",
+      "pic": "http://i2.hdslb.com/bfs/archive/6d0f26f7329dd97dcee7e66304569d60161109ea.jpg",
+      "date": "2025-06-20",
+      "lastSync": 1784998879,
+      "skinName": "黎明使者 迦娜",
+      "lolSkinId": "40066",
+      "category": "skin"
+    }
+  ]
+}
