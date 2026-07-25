@@ -1,0 +1,42 @@
+{
+  "heroKey": "卡萨丁",
+  "heroName": "虚空行者",
+  "heroNameEn": "kassadin",
+  "lolKey": "38",
+  "wrKey": "10103",
+  "videos": [
+    {
+      "id": "BV1264y1K76q",
+      "bvid": "BV1264y1K76q",
+      "title": "【英雄联盟】神龙尊者 星界之龙 卡萨丁 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/846ffd02f4c99ab0f9a98fb22cb8a2448770754a.jpg",
+      "date": "2024-01-09",
+      "lastSync": 1784998815,
+      "skinName": "神龙尊者 星界之龙 卡萨丁",
+      "lolSkinId": "38024",
+      "category": "skin"
+    },
+    {
+      "id": "BV1hS4y1G7jN",
+      "bvid": "BV1hS4y1G7jN",
+      "title": "【英雄联盟】冲击之刃 卡萨丁 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/86d9c4c932b55baed69756f6a25fbf33f33c2adc.jpg",
+      "date": "2022-02-12",
+      "lastSync": 1784998815,
+      "skinName": "冲击之刃 卡萨丁",
+      "lolSkinId": "38015",
+      "category": "skin"
+    },
+    {
+      "id": "BV1QN4y1w74Z",
+      "bvid": "BV1QN4y1w74Z",
+      "title": "【英雄联盟】伯爵 卡萨丁 T3皮肤/全炫彩 特效&3D展示 2019年万圣节峡谷传说系列",
+      "pic": "http://i1.hdslb.com/bfs/archive/c12b967b43863dfbd6878fb41fb7cc16a6460188.jpg",
+      "date": "2022-10-21",
+      "lastSync": 1784998815,
+      "skinName": "伯爵 卡萨丁",
+      "lolSkinId": "38006",
+      "category": "skin"
+    }
+  ]
+}
