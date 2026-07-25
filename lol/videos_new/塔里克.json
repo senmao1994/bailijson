@@ -1,0 +1,29 @@
+{
+  "heroKey": "塔里克",
+  "heroName": "瓦洛兰之盾",
+  "heroNameEn": "taric",
+  "lolKey": "44",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1z841187Yc",
+      "bvid": "BV1z841187Yc",
+      "title": "【英雄联盟】太空律动 爱乐之子 塔里克（宝石） T3皮肤/全炫彩 最终版 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/4166e2f4e98a285ae8c00c8b9dbf392149c7b3c6.jpg",
+      "date": "2022-11-16",
+      "lastSync": 1784999031,
+      "category": "other"
+    },
+    {
+      "id": "BV1eC5qzUEoX",
+      "bvid": "BV1eC5qzUEoX",
+      "title": "【英雄联盟】逆命 塔里克 史诗皮肤 全炫彩正式版展示 宝石",
+      "pic": "http://i0.hdslb.com/bfs/archive/42b3e1f959e98d49e3998ac7f6e0bf4c22d31ff3.jpg",
+      "date": "2025-04-17",
+      "lastSync": 1784999031,
+      "skinName": "逆命 塔里克",
+      "lolSkinId": "44027",
+      "category": "skin"
+    }
+  ]
+}
