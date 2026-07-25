@@ -1,0 +1,54 @@
+{
+  "heroKey": "蒙多医生",
+  "heroName": "祖安狂人",
+  "heroNameEn": "drmundo",
+  "lolKey": "36",
+  "wrKey": "10062",
+  "videos": [
+    {
+      "id": "BV1Th4y1A7Mw",
+      "bvid": "BV1Th4y1A7Mw",
+      "title": "【英雄联盟】妖怪艺术家 蒙多 T3皮肤/全炫彩 正式版展示 蒙多医生",
+      "pic": "http://i2.hdslb.com/bfs/archive/6235437efb8242c7bd05b9db6c8e11a087319ee3.jpg",
+      "date": "2023-09-12",
+      "lastSync": 1784998777,
+      "skinName": "祖安狂人",
+      "lolSkinId": "36000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1qq4y1E7Vg",
+      "bvid": "BV1qq4y1E7Vg",
+      "title": "【英雄联盟】律政大亨 蒙多（重做） T2皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/e92f83034658618e0654feba6cbf1424a97c8000.jpg",
+      "date": "2021-05-28",
+      "lastSync": 1784998777,
+      "skinName": "律政大亨 蒙多",
+      "lolSkinId": "36003",
+      "category": "skin"
+    },
+    {
+      "id": "BV1MK411k7ZP",
+      "bvid": "BV1MK411k7ZP",
+      "title": "【英雄联盟】冰封王子 蒙多 T3冰雪节皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/41301888d1ae88c7f1e2c9e17806c32e10f2472b.jpg",
+      "date": "2023-01-19",
+      "lastSync": 1784998777,
+      "skinName": "冰封王子 蒙多",
+      "lolSkinId": "36010",
+      "category": "skin"
+    },
+    {
+      "id": "BV1HvcWecE5h",
+      "bvid": "BV1HvcWecE5h",
+      "title": "【英雄联盟手游】赤影磷火 蒙多医生 限定史诗皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/c715faf3e8bf05d446745f407ca220a20d7fa226.jpg",
+      "date": "2025-01-11",
+      "lastSync": 1784998777,
+      "skinName": "赤影磷火",
+      "lolSkinId": "1006206",
+      "wrSkinId": "1006206",
+      "category": "skin"
+    }
+  ]
+}
