@@ -4,5 +4,12 @@
   "alias": "bulici",
   "key": "10033",
   "title": "蒸汽机器人",
-  "platform": "wr"
+  "platform": "wr",
+  "lol": {
+    "id": "blitzcrank",
+    "name": "布里茨",
+    "alias": "Blitzcrank",
+    "key": 53,
+    "title": "蒸汽机器人"
+  }
 }
