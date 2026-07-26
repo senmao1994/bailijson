@@ -1,0 +1,53 @@
+{
+  "heroKey": "巴德",
+  "heroName": "星界游神",
+  "heroNameEn": "bard",
+  "lolKey": "432",
+  "wrKey": "10105",
+  "videos": [
+    {
+      "id": "BV1pM4y1P7PS",
+      "bvid": "BV1pM4y1P7PS",
+      "title": "【英雄联盟】咖啡甜心 巴德 T3皮肤/全炫彩 特效＆3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/7ba250fb1de3b69baed29b247a8ee212c2d53462.jpg",
+      "date": "2021-11-24",
+      "lastSync": 1785033294,
+      "skinName": "咖啡甜心 巴德",
+      "lolSkinId": "432017",
+      "category": "skin"
+    },
+    {
+      "id": "BV1qu4y1o78J",
+      "bvid": "BV1qu4y1o78J",
+      "title": "【英雄联盟】山海绘卷 巴德 T3皮肤/全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/cb36a83eab39aa66ee0221a5757a208c30144ca2.jpg",
+      "date": "2023-06-16",
+      "lastSync": 1785033294,
+      "skinName": "山海绘卷 巴德",
+      "lolSkinId": "432026",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Gz421i78U",
+      "bvid": "BV1Gz421i78U",
+      "title": "【英雄联盟】T1 巴德 T3皮肤/精锐炫彩 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/03192b0e2994a84cdc3c8dca19431831e0f10748.jpg",
+      "date": "2024-08-14",
+      "lastSync": 1785033294,
+      "skinName": "T1 巴德",
+      "lolSkinId": "432035",
+      "category": "skin"
+    },
+    {
+      "id": "BV1kaLozQEUF",
+      "bvid": "BV1kaLozQEUF",
+      "title": "【英雄联盟】灵魂莲华 巴德 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/89a899a41f19c0dc8c392919260a8134e33ab4d8.jpg",
+      "date": "2025-04-26",
+      "lastSync": 1785033294,
+      "skinName": "灵魂莲华 巴德",
+      "lolSkinId": "432037",
+      "category": "skin"
+    }
+  ]
+}
