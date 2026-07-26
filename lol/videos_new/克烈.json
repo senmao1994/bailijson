@@ -1,0 +1,42 @@
+{
+  "heroKey": "克烈",
+  "heroName": "暴怒骑士",
+  "heroNameEn": "kled",
+  "lolKey": "240",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1Gt4y1j7i4",
+      "bvid": "BV1Gt4y1j7i4",
+      "title": "【英雄联盟】黑暗骑士 克烈 T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/3d1929e9d4c931044b0ee678b5e9102e673135ce.jpg",
+      "date": "2022-09-13",
+      "lastSync": 1785033045,
+      "skinName": "黑暗骑士 克烈",
+      "lolSkinId": "240009",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Dh41137Lu",
+      "bvid": "BV1Dh41137Lu",
+      "title": "【英雄联盟】狗粮 克烈 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/40899b6e0b17f79106c7fde751591ec7b8e94320.jpg",
+      "date": "2023-04-01",
+      "lastSync": 1785033045,
+      "skinName": "暴怒骑士",
+      "lolSkinId": "240000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Xv1tYQE8Y",
+      "bvid": "BV1Xv1tYQE8Y",
+      "title": "【英雄联盟】克烈 古拉伯爵 T3皮肤全炫彩 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/4e70e02c375192508d7aed13472e3c0755d56311.jpg",
+      "date": "2024-10-27",
+      "lastSync": 1785033045,
+      "skinName": "暴怒骑士",
+      "lolSkinId": "240000",
+      "category": "skin"
+    }
+  ]
+}
