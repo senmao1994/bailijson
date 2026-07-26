@@ -1,0 +1,53 @@
+{
+  "heroKey": "卑尔维斯",
+  "heroName": "虚空女皇",
+  "heroNameEn": "belveth",
+  "lolKey": "200",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1Va411L7Ho",
+      "bvid": "BV1Va411L7Ho",
+      "title": "【英雄联盟】虚空女皇 卑尔维斯 第160位英雄 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/798e513f7a23a0c885c6d6e5bd9e906d469a3a79.jpg",
+      "date": "2022-06-10",
+      "lastSync": 1785033005,
+      "skinName": "虚空女皇",
+      "lolSkinId": "200000",
+      "category": "skin"
+    },
+    {
+      "id": "BV12t4y1n7Jv",
+      "bvid": "BV12t4y1n7Jv",
+      "title": "【英雄联盟】战场BOSS 卑尔维斯 T3伴生皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/6d13c9511c00bb29ffba5463a2ce47cdfead515e.jpg",
+      "date": "2022-06-10",
+      "lastSync": 1785033005,
+      "skinName": "战场BOSS 卑尔维斯",
+      "lolSkinId": "200001",
+      "category": "skin"
+    },
+    {
+      "id": "BV15P411Y7tM",
+      "bvid": "BV15P411Y7tM",
+      "title": "【英雄联盟】星界女神 卑尔维斯 T3皮肤/全炫彩 正式版展示 大卑",
+      "pic": "http://i1.hdslb.com/bfs/archive/57a153fca36f653ff5fbfc9b98a76dcdf2c41269.jpg",
+      "date": "2023-08-28",
+      "lastSync": 1785033005,
+      "skinName": "星界女神 卑尔维斯",
+      "lolSkinId": "200010",
+      "category": "skin"
+    },
+    {
+      "id": "BV1tE4m1R73h",
+      "bvid": "BV1tE4m1R73h",
+      "title": "【英雄联盟】海魔女 卑尔维斯 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/c8e30022cb7fd540105b0f9e2316286779d73f5e.jpg",
+      "date": "2024-07-17",
+      "lastSync": 1785033005,
+      "skinName": "海魔女 卑尔维斯",
+      "lolSkinId": "200019",
+      "category": "skin"
+    }
+  ]
+}
