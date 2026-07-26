@@ -1,0 +1,86 @@
+{
+  "heroKey": "厄斐琉斯",
+  "heroName": "残月之肃",
+  "heroNameEn": "aphelios",
+  "lolKey": "523",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1Z14y187v2",
+      "bvid": "BV1Z14y187v2",
+      "title": "【英雄联盟】灵魂莲华 厄斐琉斯（月男） T3皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/f9d4997b955d76db8ba899a98ca7f74dc0627c33.jpg",
+      "date": "2022-10-05",
+      "lastSync": 1785033399,
+      "skinName": "灵魂莲华 厄斐琉斯",
+      "lolSkinId": "523020",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Bu411k7hH",
+      "bvid": "BV1Bu411k7hH",
+      "title": "【英雄联盟】EDG Viper 厄斐琉斯 S11全球总决赛冠军纪念皮肤/破军炫彩 特效&3D 展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/21f9e52242496d124cfdc24bdcf67d69a36cc1df.jpg",
+      "date": "2022-04-28",
+      "lastSync": 1785033399,
+      "skinName": "残月之肃",
+      "lolSkinId": "523000",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Nt4y167DF",
+      "bvid": "BV1Nt4y167DF",
+      "title": "【英雄联盟】福牛守护者 厄斐琉斯 特效＆3D展示 2021福牛限定",
+      "pic": "http://i0.hdslb.com/bfs/archive/8180603db62cc11526a3a6dd579ba4ea56a649b1.jpg",
+      "date": "2021-01-21",
+      "lastSync": 1785033399,
+      "skinName": "福牛守护者 厄斐琉斯",
+      "lolSkinId": "523009",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Lr4y1M7aT",
+      "bvid": "BV1Lr4y1M7aT",
+      "title": "【英雄联盟】福牛守护者 厄斐琉斯 全炫彩&3D人物展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/c3e3e2ea37740a8be2d43b43584fd64072fb252e.jpg",
+      "date": "2021-01-27",
+      "lastSync": 1785033399,
+      "skinName": "福牛守护者 厄斐琉斯",
+      "lolSkinId": "523009",
+      "category": "skin"
+    },
+    {
+      "id": "BV1fP4y1k7YH",
+      "bvid": "BV1fP4y1k7YH",
+      "title": "【英雄联盟】黑夜使者 厄斐琉斯（月男） T3伴生皮肤/全炫彩 特效&3D展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/2910c349cdd77ffaf5af83b59ce0302584c79d46.jpg",
+      "date": "2023-01-18",
+      "lastSync": 1785033399,
+      "skinName": "黑夜使者 厄斐琉斯",
+      "lolSkinId": "523001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1uz4y1P7xF",
+      "bvid": "BV1uz4y1P7xF",
+      "title": "【英雄联盟】心之钢 厄斐琉斯 T3皮肤/全炫彩 正式版展示 月男 亚飞",
+      "pic": "http://i2.hdslb.com/bfs/archive/f122070f9aefaa4e996dc2dba75fbe202d02850e.jpg",
+      "date": "2023-11-08",
+      "lastSync": 1785033399,
+      "skinName": "心之钢 厄斐琉斯",
+      "lolSkinId": "523030",
+      "category": "skin"
+    },
+    {
+      "id": "BV17c8fzQEJo",
+      "bvid": "BV17c8fzQEJo",
+      "title": "【英雄联盟】至臻 莲华温泉 厄斐琉斯 神话皮肤 正式版展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/77e9ce99fef4fc9646936eda1b947ea5781832be.jpg",
+      "date": "2025-07-30",
+      "lastSync": 1785033399,
+      "skinName": "至臻 莲华温泉 厄斐琉斯",
+      "lolSkinId": "523040",
+      "category": "skin"
+    }
+  ]
+}
