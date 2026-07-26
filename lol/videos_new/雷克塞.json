@@ -1,0 +1,31 @@
+{
+  "heroKey": "雷克塞",
+  "heroName": "虚空遁地兽",
+  "heroNameEn": "reksai",
+  "lolKey": "421",
+  "wrKey": "",
+  "videos": [
+    {
+      "id": "BV1fa411z72N",
+      "bvid": "BV1fa411z72N",
+      "title": "【英雄联盟】永恒之森 雷克塞 T3皮肤/全炫彩 特效＆3D展示",
+      "pic": "http://i2.hdslb.com/bfs/archive/c6ce5d377b2db15840d600b2bfb448b0a5db818b.jpg",
+      "date": "2021-12-23",
+      "lastSync": 1785033235,
+      "skinName": "永恒之森 雷克塞",
+      "lolSkinId": "421017",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Ui421Y7mY",
+      "bvid": "BV1Ui421Y7mY",
+      "title": "【英雄联盟】海魔兽 雷克塞 T3皮肤/全炫彩 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/a7649acf49e9f782a941e69dff3cb4fb1f50ed42.jpg",
+      "date": "2024-07-17",
+      "lastSync": 1785033235,
+      "skinName": "海魔兽 雷克塞",
+      "lolSkinId": "421026",
+      "category": "skin"
+    }
+  ]
+}
