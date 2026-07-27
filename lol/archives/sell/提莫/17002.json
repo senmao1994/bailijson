@@ -1,0 +1,51 @@
+{
+  "id": 17002,
+  "name": "军情五处 提莫",
+  "roitName": "Recon Teemo",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "珍宝",
+  "universe": "珍宝",
+  "pushDate": "2009年12月17日",
+  "series": null,
+  "backstory": "这只小精灵对于任何事物都抱有坚定的乐观和快乐，但有些人曾相信在提莫欢快的外表下隐藏着一颗杀手之心。这些持否定态度的人全都在非常正常的情况下消失了。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin02/images/teemo_splash_uncentered_2.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin02/images/teemo_splash_tile_2.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin02/images/teemo_splash_centered_2.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin02/teemoloadscreen_2.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/teemoloadscreen_1_le.jpg",
+  "roit": {
+    "price": 750,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 1000,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 1000,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2024年10月10日",
+    "priceEndDay": "2024年10月24日(直营服限时返场)",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "",
+    "update": "14.20",
+    "updateChinese": "视觉美术更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
