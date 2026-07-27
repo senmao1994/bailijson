@@ -1,0 +1,51 @@
+{
+  "id": 33035,
+  "name": "男爵 拉莫斯",
+  "roitName": "Baron Rammus",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "珍宝",
+  "universe": "珍宝",
+  "pushDate": "2026年07月14日",
+  "series": null,
+  "backstory": "",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/images/rammus_splash_uncentered_35.project_jade.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/images/rammus_splash_tile_35.project_jade.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/images/rammus_splash_centered_35.project_jade.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/rammusloadscreen_35.project_jade.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/rammusloadscreen_35_le.project_jade.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年7月27日",
+    "priceEndDay": "限时直售",
+    "description": "经典模式纪念1折售卖",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "26.15",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
