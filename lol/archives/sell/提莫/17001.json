@@ -1,0 +1,51 @@
+{
+  "id": 17001,
+  "name": "圣诞开心鬼 提莫",
+  "roitName": "Happy Elf Teemo",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "冰雪节大对决",
+  "universe": "冰雪节",
+  "pushDate": "2009年12月17日",
+  "series": null,
+  "backstory": "这只小精灵对于任何事物都抱有坚定的乐观和快乐，但有些人曾相信在提莫欢快的外表下隐藏着一颗杀手之心。这些持否定态度的人全都在非常正常的情况下消失了。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/images/teemo_splash_uncentered_1.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/images/teemo_splash_tile_1.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/images/teemo_splash_centered_1.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/teemoloadscreen_1.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/teemoloadscreen_1_le.jpg",
+  "roit": {
+    "price": 750,
+    "priceType": "限时直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 8900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "冰雪节",
+    "priceStartDay": "直营服限时返场(美术更新纪念)",
+    "priceEndDay": "2024年10月24日",
+    "description": "商城已下架直售",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "",
+    "update": "14.20",
+    "updateChinese": "视觉美术更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
