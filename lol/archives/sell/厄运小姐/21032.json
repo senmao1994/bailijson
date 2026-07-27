@@ -1,0 +1,51 @@
+{
+  "id": 21032,
+  "name": "幻灵战斗兔司令 厄运小姐",
+  "roitName": "Admiral Battle Bunny Miss Fortune",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "幻灵战队",
+  "universe": "幻灵科技",
+  "pushDate": "2024年07月17日",
+  "series": null,
+  "backstory": "在前任队长锐雯神秘失踪后，莎拉 · 厄运是第二位担负“幻灵战斗队长”头衔的人。考虑到锐雯作为战争英雄的地位，这个头衔就好比一双大一码的兔靴，但莎拉聪明、老练并且勇敢，足以在为了人类的战斗中创造她自己的传奇。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin32/images/missfortune_splash_uncentered_32.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin32/images/missfortune_splash_tile_32.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin32/images/missfortune_splash_centered_32.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin32/missfortuneloadscreen_32.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin32/missfortuneloadscreen_32_le.jpg",
+  "roit": {
+    "price": 40,
+    "priceType": "圣堂抽奖",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 40,
+  "icon": "6667",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/AnimaSquad/4560_Admiral_Battle_Bunny_Inventory.png",
+  "tencent": {
+    "price": 40,
+    "priceType": "圣堂抽奖",
+    "priceTypeChinese": "神话幻想",
+    "priceStartDay": "2024年7月19日",
+    "priceEndDay": "圣堂系统返场(无图标和边框)",
+    "description": "幻灵战队(2024)魔法引擎保底30个",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "14.14",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
