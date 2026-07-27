@@ -1,7 +1,14 @@
-﻿{
-    "id":  "alistar",
-    "name":  "阿利斯塔",
-    "alias":  "Alistar",
-    "key":  12,
-    "title":  "牛头酋长"
+{
+  "id": "alistar",
+  "name": "阿利斯塔",
+  "alias": "Alistar",
+  "key": 12,
+  "title": "牛头酋长",
+  "lol": {
+    "id": "alistar",
+    "name": "阿利斯塔",
+    "alias": "Alistar",
+    "key": 12,
+    "title": "牛头酋长"
+  }
 }

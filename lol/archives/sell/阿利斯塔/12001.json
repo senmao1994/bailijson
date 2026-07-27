@@ -1,0 +1,50 @@
+{
+  "id": 12001,
+  "name": "暗黑灵魂 阿利斯塔",
+  "roitName": "Black Alistar",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "收藏版",
+  "universe": "收藏版",
+  "pushDate": "2009年06月13日",
+  "series": null,
+  "backstory": "这个皮肤仅给予那些预约了英雄联盟数字典藏版的玩家。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin01/images/alistar_splash_uncentered_1.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin01/images/alistar_splash_tile_1.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin01/images/alistar_splash_centered_1.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin01/alistarloadscreen_1.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "限定",
+    "priceStartDay": "2009年06月13日",
+    "priceEndDay": "曾出现在网页抽奖活动",
+    "description": "2009 年美服预购“数字典藏版”客户端赠送",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "内测",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
