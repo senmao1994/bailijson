@@ -1,0 +1,50 @@
+{
+  "id": 12049,
+  "name": "暗黑灵魂 阿利斯塔 现代",
+  "roitName": "Black Alistar Modern",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "收藏版",
+  "universe": "收藏版",
+  "pushDate": "2026年7月30日",
+  "series": null,
+  "backstory": "",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jade_alistar/skins/skin49/images/jade_alistar_splash_uncentered_49.project_jade.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jade_alistar/skins/skin49/images/jade_alistar_splash_tile_49.project_jade.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jade_alistar/skins/skin49/images/jade_alistar_splash_centered_49.project_jade.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jade_alistar/skins/skin49/jade_alistarloadscreen_49.project_jade.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年7月30日上线",
+    "priceEndDay": "经典皮肤",
+    "description": "暂无获取方式",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "26.15",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
