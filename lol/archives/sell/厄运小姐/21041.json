@@ -1,0 +1,51 @@
+{
+  "id": 21041,
+  "name": "至臻 绝息圣堂 厄运小姐",
+  "roitName": "Prestige Broken Covenant Miss Fortune",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "绝息圣堂",
+  "universe": "被遗忘的赞歌",
+  "pushDate": "2023年03月09日",
+  "series": null,
+  "backstory": "每年都有成千上万的人前来盛会进行参观，希望一睹厄运小姐的最新风采。她从不热衷于回避她的忠实信徒，总是像对待家人一样对待每一位信徒。即便如此，她的对手们也知道不要惹她生气，以免他们感受到她的怒火。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin41/images/missfortune_splash_uncentered_41.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin41/images/missfortune_splash_tile_41.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin41/images/missfortune_splash_centered_41.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin41/missfortuneloadscreen_41.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin41/missfortuneloadscreen_41_le.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "5726",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/BrokenCovenant/EM_PRSTIGE_EDITION_MF_BROKEN_COVENANT_Inventory.png",
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2023年3月10日10:00",
+    "priceEndDay": "2023年4月9日23:59",
+    "description": "首发125神话精萃",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "13.5",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": "14.17"
+  },
+  "platform": "lol"
+}
