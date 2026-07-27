@@ -1,15 +1,9 @@
 {
-  "id": "missfortune",
-  "name": "厄运小姐",
-  "alias": "Missfortune",
-  "key": 21,
-  "title": "赏金猎人",
-  "wr": {
-    "id": 10066,
+  "lol": {
+    "id": "missfortune",
     "name": "厄运小姐",
-    "alias": "eyunxiaojie",
-    "key": "10066",
-    "title": "赏金猎人",
-    "platform": "wr"
+    "alias": "Missfortune",
+    "key": 21,
+    "title": "赏金猎人"
   }
 }
