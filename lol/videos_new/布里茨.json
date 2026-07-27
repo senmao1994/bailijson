@@ -6,15 +6,47 @@
   "wrKey": "10033",
   "videos": [
     {
+      "id": "BV1C53J69EMT",
+      "bvid": "BV1C53J69EMT",
+      "title": "【英雄联盟】铁锈斑斑 布里茨 普通皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/1179ece718d52125cc48458fa48efb7c32aee5b5.jpg",
+      "date": "2026-07-26",
+      "lastSync": 1785114895,
+      "skinName": "铁锈斑斑 布里茨",
+      "lolSkinId": "53001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1fr3E6jEkS",
+      "bvid": "BV1fr3E6jEkS",
+      "title": "【英雄联盟】铁锈重重 布里茨 特效皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/1f03a6372625c656328496792958ebbd39c3d3f3.jpg",
+      "date": "2026-07-26",
+      "lastSync": 1785114895,
+      "skinName": "铁锈重重 布里茨",
+      "lolSkinId": "53075",
+      "category": "skin"
+    },
+    {
+      "id": "BV1GG3E6TEUz",
+      "bvid": "BV1GG3E6TEUz",
+      "title": "【英雄联盟】铁锈浓浓 布里茨 特效皮肤 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/b1d40b20c566632f406a2296fb42f824622e39e1.jpg",
+      "date": "2026-07-26",
+      "lastSync": 1785114895,
+      "skinName": "铁锈浓浓 布里茨",
+      "lolSkinId": "53076",
+      "category": "skin"
+    },
+    {
       "id": "BV1k54y187Qx",
       "bvid": "BV1k54y187Qx",
       "title": "【英雄联盟】太空律动 猫猫 布里和里茨 T2皮肤/全炫彩 特效＆3D展示",
       "pic": "http://i0.hdslb.com/bfs/archive/07d9cdcce5c85f601cade047ad638261fdacec57.jpg",
       "date": "2021-03-18",
-      "lastSync": 1785059006,
-      "syncSource": "manual-reskin",
-      "skinName": "太空律动 “猫猫” 布里和里茨",
-      "lolSkinId": "53029",
+      "lastSync": 1784856664,
+      "skinName": "蒸汽机器人",
+      "lolSkinId": "53000",
       "category": "skin"
     },
     {
