@@ -1,7 +1,9 @@
-﻿{
-    "id":  "kayle",
-    "name":  "凯尔",
-    "alias":  "Kayle",
-    "key":  10,
-    "title":  "正义天使"
+{
+  "lol": {
+    "id": "kayle",
+    "name": "凯尔",
+    "alias": "Kayle",
+    "key": 10,
+    "title": "正义天使"
+  }
 }
