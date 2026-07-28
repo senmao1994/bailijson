@@ -1,0 +1,88 @@
+{
+  "id": 17004,
+  "name": "提莫:'约德尔人的一大步'",
+  "roitName": "Astronaut Teemo",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "宇航员",
+  "universe": "星际航行",
+  "pushDate": "2010年10月27日",
+  "series": null,
+  "backstory": "并且我认为这是一段很长、很长的时间<br>直到触地感让我清醒过来并再次发现<br>我踩到了另一个提莫的地雷上！<br>噢，不不不！",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin04/images/teemo_splash_uncentered_4.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin04/images/teemo_splash_tile_4.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin04/images/teemo_splash_centered_4.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17004.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin04/teemoloadscreen_4.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "1630",
+  "emote": null,
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2010年10月27日",
+    "priceEndDay": "14.5版本已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 17026,
+      "name": "提莫:'约德尔人的一大步' 无尽永前",
+      "sortName": "无尽永前",
+      "colorName": "战利品",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2020年5月15日12:00",
+        "priceEndDay": "2020年6月16日6:59",
+        "description": "未来战士(2020)战利品专属",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "未来战士(2020)战利品专属"
+      },
+      "riotName": "Astronaut Teemo (Chrono)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17026.png",
+      "mythicIcon": "4614",
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#162D57",
+        "#A50031"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "",
+    "update": "14.20",
+    "updateChinese": "视觉美术",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
