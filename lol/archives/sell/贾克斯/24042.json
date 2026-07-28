@@ -1,0 +1,89 @@
+{
+  "id": 24042,
+  "name": "至臻 熔岩大厅 贾克斯",
+  "roitName": "Prestige Magma Chamber Jax",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "熔岩大厅",
+  "universe": "遗忘之地",
+  "pushDate": "2026年07月14日",
+  "series": null,
+  "backstory": "贾克斯对着黑曜石镜子炫耀自己的肌肉。“酷毙了，”他说，“太棒了。简直帅呆了。”他被困在熔岩大厅里好几年了，所以他的词汇量可能有点过时了。但这无关紧要。随着这巨大洞穴的墙壁终于破碎，他准备走出去，向所有人展示真正的武器能带来什么。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/images/jax_splash_uncentered_42.skins_jax_skin42.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/images/jax_splash_tile_42.skins_jax_skin42.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/images/jax_splash_centered_42.skins_jax_skin42.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24042.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/jaxloadscreen_42.skins_jax_skin42.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/jaxloadscreen_42_le.skins_jax_skin42.jpg",
+  "roit": {
+    "price": 8900,
+    "priceType": "通行证",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "7181",
+  "emote": null,
+  "tencent": {
+    "price": 8900,
+    "priceType": "通行证",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2026年7月30日",
+    "priceEndDay": "预计为2026年9月23日",
+    "description": "首发725经典硬币兑换",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 24043,
+      "name": "至臻 熔岩大厅 贾克斯 至强",
+      "sortName": "至强",
+      "colorName": "战利品",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2026年7月30日",
+        "priceEndDay": "预计为2026年9月23日",
+        "description": "战利品专属",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "战利品专属"
+      },
+      "riotName": "Prestige Magma Chamber Jax (Vivid)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24043.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73B9F7",
+        "#3F2989"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "26.15",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}

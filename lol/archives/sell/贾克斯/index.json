@@ -3,5 +3,12 @@
   "name": "贾克斯",
   "alias": "Jax",
   "key": 24,
-  "title": "武器大师"
+  "title": "武器大师",
+  "lol": {
+    "id": "jax",
+    "name": "贾克斯",
+    "alias": "Jax",
+    "key": 24,
+    "title": "武器大师"
+  }
 }
