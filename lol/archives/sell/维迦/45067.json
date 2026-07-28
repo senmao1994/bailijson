@@ -1,0 +1,89 @@
+{
+  "id": 45067,
+  "name": "至臻 熔岩大厅 维迦",
+  "roitName": "Prestige Magma Chamber Veigar",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "熔岩大厅",
+  "universe": "遗忘之地",
+  "pushDate": "2026年07月14日",
+  "series": null,
+  "backstory": "“亲爱的日记，这将是我最后一篇。我终于找到了一条逃离这诅咒之地的路！终于，这世界要像我一样受苦了！终于，这世界要像我一样灼烧了！我征服世界的道路已经重回正轨！重回正轨！”——维迦的《不义日记》第2013页",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/images/veigar_splash_uncentered_67.skins_veigar_skin67.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/images/veigar_splash_tile_67.skins_veigar_skin67.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/images/veigar_splash_centered_67.skins_veigar_skin67.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/45/45067.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/veigarloadscreen_67.skins_veigar_skin67.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/veigarloadscreen_67_le.skins_veigar_skin67.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "通行证",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "7180",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "通行证",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2026年7月30日",
+    "priceEndDay": "2026年9月23日",
+    "description": "2026第三赛季：第1幕通行证",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 45068,
+      "name": "至臻 熔岩大厅 维迦 至强",
+      "sortName": "至强",
+      "colorName": "通行证",
+      "tencent": {
+        "price": 17575,
+        "priceType": "礼包",
+        "priceStartDay": "2026年7月30日",
+        "priceEndDay": "2026年9月23日",
+        "description": "2026第三赛季：第1幕通行证",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2440,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "通行证礼包"
+      },
+      "riotName": "Prestige Magma Chamber Veigar (Vivid)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/45/45068.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D8EDFF",
+        "#501ABB"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "26.15",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
