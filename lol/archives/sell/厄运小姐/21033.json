@@ -1,0 +1,50 @@
+{
+  "id": 21033,
+  "name": "至臻 魅惑女巫 厄运小姐 (2022)",
+  "roitName": "Prestige Bewitching Miss Fortune (2022)",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "魅惑女巫",
+  "universe": "峡谷传说",
+  "pushDate": "2022年4月1日",
+  "series": null,
+  "backstory": "厄运小姐是一位强大的女巫，具有戏剧才华，并且钟爱迷途的怪物们。她已带着可怕的姐妹们为了一个充满冒险的夜晚而重新现身。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin20/images/missfortune_splash_uncentered_20.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin20/images/missfortune_splash_tile_20.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin20/images/missfortune_splash_centered_20.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin33/missfortuneloadscreen_33.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "典藏",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "典藏",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2022年4月01日",
+    "priceEndDay": "2022年3月30日23:59",
+    "description": "通过18/19至臻礼赠页面另外(网页搜索进入查看是否可领取)",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "12.5",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
