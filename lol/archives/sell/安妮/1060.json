@@ -19,7 +19,7 @@
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/annieloadscreen_1.jpg",
   "roit": {
     "price": 4437,
-    "priceType": "限时直售",
+    "priceType": "礼包",
     "priceStartDay": "",
     "priceEndDay": "",
     "description": ""
@@ -29,7 +29,7 @@
   "emote": null,
   "tencent": {
     "price": 28000,
-    "priceType": "限时直售",
+    "priceType": "礼包",
     "priceTypeChinese": "",
     "priceStartDay": "2026年7月30日上线",
     "priceEndDay": "2026年9月22日23:59",
