@@ -45,17 +45,17 @@
       "sortName": "至强",
       "colorName": "战利品",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "暂未公布上架时间",
         "priceEndDay": "",
         "description": "战利品专属",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
-        "price": 0,
-        "priceType": "暂无",
+        "price": 35,
+        "priceType": "神话商店",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "战利品专属"
