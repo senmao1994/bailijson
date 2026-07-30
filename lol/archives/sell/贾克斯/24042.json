@@ -9,7 +9,7 @@
   "priceUnit": null,
   "skinline": "熔岩大厅",
   "universe": "遗忘之地",
-  "pushDate": "2026年7月30日",
+  "pushDate": "2026年07月14日",
   "series": null,
   "backstory": "贾克斯对着黑曜石镜子炫耀自己的肌肉。“酷毙了，”他说，“太棒了。简直帅呆了。”他被困在熔岩大厅里好几年了，所以他的词汇量可能有点过时了。但这无关紧要。随着这巨大洞穴的墙壁终于破碎，他准备走出去，向所有人展示真正的武器能带来什么。",
   "accessories": [],
@@ -34,8 +34,8 @@
     "priceType": "通行证",
     "priceTypeChinese": "至臻",
     "priceStartDay": "2026年7月30日",
-    "priceEndDay": "2026年9月22日23:59",
-    "description": "经典模式通行证：第1幕 725经典硬币兑换",
+    "priceEndDay": "预计为2026年9月23日",
+    "description": "首发725经典硬币兑换",
     "hasFullGiftPack": true
   },
   "chromas": [
@@ -45,17 +45,17 @@
       "sortName": "至强",
       "colorName": "战利品",
       "tencent": {
-        "price": 35,
-        "priceType": "神话商店",
-        "priceStartDay": "2026年7月30日",
-        "priceEndDay": "预计为2026年9月23日",
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
         "description": "战利品专属",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
-        "price": 35,
-        "priceType": "神话商店",
+        "price": 0,
+        "priceType": "暂无",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "战利品专属"
