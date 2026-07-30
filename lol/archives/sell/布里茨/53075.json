@@ -18,8 +18,8 @@
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/images/blitzcrank_splash_centered_1.jpg",
   "loadingPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/blitzcrank/铁锈重重 载入.jpg",
   "roit": {
-    "price": 975,
-    "priceType": "直售",
+    "price": 0,
+    "priceType": "通行证",
     "priceStartDay": "",
     "priceEndDay": "",
     "description": ""
@@ -29,11 +29,11 @@
   "emote": null,
   "tencent": {
     "price": 0,
-    "priceType": "直售",
+    "priceType": "通行证",
     "priceTypeChinese": "",
     "priceStartDay": "2026年7月30日上线",
-    "priceEndDay": "经典皮肤",
-    "description": "暂无获取方式",
+    "priceEndDay": "2026年9月22日23:59",
+    "description": "经典模式30级领取",
     "hasFullGiftPack": false
   },
   "chromas": [],
