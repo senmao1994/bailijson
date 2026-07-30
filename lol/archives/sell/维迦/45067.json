@@ -34,8 +34,8 @@
     "priceType": "通行证",
     "priceTypeChinese": "至臻",
     "priceStartDay": "2026年7月30日",
-    "priceEndDay": "2026年9月23日",
-    "description": "2026第三赛季：第1幕通行证",
+    "priceEndDay": "2026年10月8日23:59",
+    "description": "2026第3赛季：第1幕",
     "hasFullGiftPack": true
   },
   "chromas": [
@@ -48,8 +48,8 @@
         "price": 17575,
         "priceType": "礼包",
         "priceStartDay": "2026年7月30日",
-        "priceEndDay": "2026年9月23日",
-        "description": "2026第三赛季：第1幕通行证",
+        "priceEndDay": "2026年10月8日23:59",
+        "description": "2026第3赛季：第1幕 通行证礼包",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
