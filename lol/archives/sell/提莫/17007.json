@@ -1,0 +1,50 @@
+{
+  "id": 17007,
+  "name": "熊猫 提莫",
+  "roitName": "Panda Teemo",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "世界奇观",
+  "universe": "世界奇观",
+  "pushDate": "2012年07月09日",
+  "series": null,
+  "backstory": "熊猫天生并不对人类有攻击性，但这家伙并不是熊猫。这是穿着熊猫装的提莫。保持警惕。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin07/images/teemo_splash_uncentered_7.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin07/images/teemo_splash_tile_7.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin07/images/teemo_splash_centered_7.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin07/teemoloadscreen_7.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 6900,
+  "icon": "6616",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Esports/DigitalEsports/4520_Pandatastic_Inventory.png",
+  "tencent": {
+    "price": 6900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2012年6月20日",
+    "priceEndDay": "已下架常规购买渠道",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "1.0.0.141",
+    "update": "14.20",
+    "updateChinese": "视觉美术",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
