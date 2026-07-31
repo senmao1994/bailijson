@@ -45,10 +45,10 @@
       "colorName": "珍珠白",
       "tencent": {
         "price": 0,
-        "priceType": "",
+        "priceType": "暂无",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "当前可通过抽奖活动随机获取",
+        "description": "暂通过抽奖活动随机获取",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -81,10 +81,10 @@
       "colorName": "棕褐色",
       "tencent": {
         "price": 0,
-        "priceType": "",
+        "priceType": "暂无",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "当前可通过抽奖活动随机获取",
+        "description": "暂通过抽奖活动随机获取",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -117,10 +117,10 @@
       "colorName": "黑曜石",
       "tencent": {
         "price": 0,
-        "priceType": "",
+        "priceType": "暂无",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "当前可通过抽奖活动随机获取",
+        "description": "暂通过抽奖活动随机获取",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
