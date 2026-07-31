@@ -6,25 +6,82 @@
   "wrKey": "10081",
   "videos": [
     {
-      "id": "BV1ZV3w6hEWA",
-      "bvid": "BV1ZV3w6hEWA",
-      "title": "【英雄联盟】暗黑灵魂 阿利斯塔 普通皮肤 正式版展示",
-      "pic": "http://i1.hdslb.com/bfs/archive/ab1b2a4a6e3e2b7d0e8c12cc4787579e626d822a.jpg",
-      "date": "2026-07-27",
-      "lastSync": 1785217049,
-      "skinName": "暗黑灵魂 阿利斯塔",
-      "lolSkinId": "12001",
-      "category": "skin"
-    },
-    {
       "id": "BV1h43w6XEum",
       "bvid": "BV1h43w6XEum",
       "title": "【英雄联盟】暗黑灵魂 阿利斯塔 现代 普通皮肤 正式版展示",
       "pic": "http://i2.hdslb.com/bfs/archive/c0b52ef6f65fa2996768ca7dad84cf218763a96b.jpg",
       "date": "2026-07-27",
-      "lastSync": 1785217049,
+      "lastSync": 1785484849,
+      "syncSource": "manual-reskin",
+      "skinName": "暗黑灵魂 阿利斯塔 现代",
+      "lolSkinId": "12049",
+      "category": "skin"
+    },
+    {
+      "id": "BV1ZV3w6hEWA",
+      "bvid": "BV1ZV3w6hEWA",
+      "title": "【英雄联盟】暗黑灵魂 阿利斯塔 普通皮肤 正式版展示",
+      "pic": "http://i1.hdslb.com/bfs/archive/ab1b2a4a6e3e2b7d0e8c12cc4787579e626d822a.jpg",
+      "date": "2026-07-27",
+      "lastSync": 1785484849,
       "skinName": "暗黑灵魂 阿利斯塔",
       "lolSkinId": "12001",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Q54y1s7fk",
+      "bvid": "BV1Q54y1s7fk",
+      "title": "【英雄联盟】福牛守护者 阿利斯塔(牛头) 皮肤＆3D人物展示 2021年福牛限定",
+      "pic": "http://i2.hdslb.com/bfs/archive/51eeeaacefe9c24bc6afceffeb016adfbf3fb351.jpg",
+      "date": "2021-01-21",
+      "lastSync": 1784858393,
+      "skinName": "福牛守护者 阿利斯塔",
+      "lolSkinId": "12029",
+      "category": "skin"
+    },
+    {
+      "id": "BV1Rv4y1f7eM",
+      "bvid": "BV1Rv4y1f7eM",
+      "title": "【英雄联盟】福牛守护者 阿利斯塔(牛头) 全炫彩&3D人物展示 牛年限定有牛牛了！",
+      "pic": "http://i0.hdslb.com/bfs/archive/0fa31726c574ec07005641c6279458cf611ee816.jpg",
+      "date": "2021-01-29",
+      "lastSync": 1784858393,
+      "skinName": "福牛守护者 阿利斯塔",
+      "lolSkinId": "12029",
+      "category": "skin"
+    },
+    {
+      "id": "BV1vDdLYJEf6",
+      "bvid": "BV1vDdLYJEf6",
+      "title": "【英雄联盟】海克斯科技 阿利斯塔 神话皮肤 正式版展示 牛头",
+      "pic": "http://i2.hdslb.com/bfs/archive/d1486c0e7dc36177ceba294bdf2e9d195404784b.jpg",
+      "date": "2025-04-10",
+      "lastSync": 1784858393,
+      "skinName": "海克斯科技 阿利斯塔",
+      "lolSkinId": "12019",
+      "category": "skin"
+    },
+    {
+      "id": "BV1fPvNzmEum",
+      "bvid": "BV1fPvNzmEum",
+      "title": "【英雄联盟】永恒之森 阿利斯塔 史诗皮肤 全炫彩正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/c1a8298607aae25719546fb87d65ba35c7da770d.jpg",
+      "date": "2025-08-26",
+      "lastSync": 1784858393,
+      "skinName": "永恒之森 阿利斯塔",
+      "lolSkinId": "12040",
+      "category": "skin"
+    },
+    {
+      "id": "BV1qyXNBGEXF",
+      "bvid": "BV1qyXNBGEXF",
+      "title": "【英雄联盟手游】朝九晚五 阿利斯塔 特效·限定皮肤 正式版展示",
+      "pic": "http://i0.hdslb.com/bfs/archive/36c306eb22d4228c6f147110aaa9264a372ee0d8.jpg",
+      "date": "2026-03-27",
+      "lastSync": 1784858393,
+      "skinName": "朝九晚五",
+      "lolSkinId": "1008110",
+      "wrSkinId": "1008110",
       "category": "skin"
     }
   ]
