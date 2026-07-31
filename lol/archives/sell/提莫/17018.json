@@ -25,14 +25,14 @@
     "priceEndDay": "",
     "description": ""
   },
-  "tencentPrice": 0,
+  "tencentPrice": 7900,
   "icon": "",
   "emote": null,
   "tencent": {
-    "price": 0,
+    "price": 7900,
     "priceType": "直售",
     "priceTypeChinese": "",
-    "priceStartDay": "",
+    "priceStartDay": "2018年5月10日",
     "priceEndDay": "",
     "description": "",
     "hasFullGiftPack": false
@@ -224,11 +224,11 @@
       "sortName": "野心勃勃特工蝇 提莫",
       "colorName": "黑曜石",
       "tencent": {
-        "price": 0,
-        "priceType": "特殊获取",
+        "price": 15752,
+        "priceType": "礼包",
         "priceStartDay": "2018年5月10日",
         "priceEndDay": "2018年5月21日23:59",
-        "description": "活动期间购买其他五款炫彩赠送",
+        "description": "购买炫彩礼包赠送",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
