@@ -1,0 +1,89 @@
+{
+  "id": 61038,
+  "name": "T1 奥莉安娜",
+  "roitName": "T1 Orianna",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "总决赛冠军：2023",
+  "universe": "电竞",
+  "pushDate": "2024年08月14日",
+  "series": null,
+  "backstory": "以此致敬Faker在2023全球总决赛中使用奥莉安娜的夺胜表现。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin38/images/orianna_splash_uncentered_38.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin38/images/orianna_splash_tile_38.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin38/images/orianna_splash_centered_38.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/61/61038.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin38/oriannaloadscreen_38.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin38/oriannaloadscreen_38_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "6696",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/TFT/4680_Easy_Inventory.png",
+  "tencent": {
+    "price": 8900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "限定",
+    "priceStartDay": "2024年8月15日",
+    "priceEndDay": "2024年9月12日9:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 61039,
+      "name": "T1 奥莉安娜 精锐",
+      "sortName": "精锐",
+      "colorName": "冠军",
+      "tencent": {
+        "price": 14900,
+        "priceType": "礼包",
+        "priceStartDay": "2024年8月15日",
+        "priceEndDay": "2024年9月12日9:59",
+        "description": "签名版专属炫彩",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 1640,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "签名版专属炫彩"
+      },
+      "riotName": "T1 Orianna (Elite)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/61/61039.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#AE1F1F",
+        "#DF4F1A"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "14.16",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}

@@ -3,5 +3,12 @@
   "name": "奥莉安娜",
   "alias": "aolianna",
   "key": "10012",
-  "title": "发条魔灵"
+  "title": "发条魔灵",
+  "lol": {
+    "id": "orianna",
+    "name": "奥莉安娜",
+    "alias": "Orianna",
+    "key": 61,
+    "title": "发条魔灵"
+  }
 }
