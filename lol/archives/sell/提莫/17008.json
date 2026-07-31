@@ -1,0 +1,153 @@
+{
+  "id": 17008,
+  "name": "欧米伽小队 幽灵特工",
+  "roitName": "Omega Squad Teemo",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "欧米伽小队",
+  "universe": "战争真糟糕",
+  "pushDate": "2015年04月08日",
+  "series": null,
+  "backstory": "提莫曾经靠着一个代号来过活。因为过于久远导致他忘记了这个代号是什么，甚至忘了战斗是什么时候开始的，但他仍然记得两件事：没有人是无辜的，并且账总是要算的。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin08/images/teemo_splash_uncentered_8.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin08/images/teemo_splash_tile_8.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin08/images/teemo_splash_centered_8.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17008.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin08/teemoloadscreen_8.jpg",
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "787",
+  "emote": null,
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2015年4月23日10:00",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 17015,
+      "name": "欧米伽小队 幽灵特工 雪境幽灵",
+      "sortName": "雪境幽灵",
+      "colorName": "珍珠白",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "当前可通过抽奖活动随机获取",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Omega Squad Teemo (Pearl)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17015.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 17016,
+      "name": "欧米伽小队 幽灵特工 沙漠幽灵",
+      "sortName": "沙漠幽灵",
+      "colorName": "棕褐色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "当前可通过抽奖活动随机获取",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Omega Squad Teemo (Sandstone)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17016.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DED6B0",
+        "#DED6B0"
+      ]
+    },
+    {
+      "id": 17017,
+      "name": "欧米伽小队 幽灵特工 死沼幽灵",
+      "sortName": "死沼幽灵",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "当前可通过抽奖活动随机获取",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Omega Squad Teemo (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/17/17017.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "platform": "lol"
+}
