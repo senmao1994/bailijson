@@ -31,8 +31,8 @@
     "price": 125,
     "priceType": "神话商店",
     "priceTypeChinese": "",
-    "priceStartDay": "",
-    "priceEndDay": "",
+    "priceStartDay": "2018年3月27日",
+    "priceEndDay": "不定期轮换",
     "description": "神话商店双周轮换",
     "hasFullGiftPack": false
   },
