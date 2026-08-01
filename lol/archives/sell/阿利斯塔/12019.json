@@ -1,0 +1,50 @@
+{
+  "id": 12019,
+  "name": "海克斯科技 阿利斯塔",
+  "roitName": "Hextech Alistar",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "海克斯科技",
+  "universe": "海克斯科技",
+  "pushDate": "2018年03月26日",
+  "series": null,
+  "backstory": "阿利斯塔融合了奥术魔法和皮尔特沃夫的巧思，是一个先进的有机活体，由符文之地最好的匠人们打造。它的任务是守卫海克斯科技的秘密，如果有人想要滥用它所创之物的幕后理论，那么它就会将那个人碾碎。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin19/images/alistar_splash_uncentered_19.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin19/images/alistar_splash_tile_19.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin19/images/alistar_splash_centered_19.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin19/alistarloadscreen_19.jpg",
+  "roit": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 125,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "神话商店双周轮换",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "8.6",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
