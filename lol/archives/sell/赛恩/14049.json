@@ -1,0 +1,51 @@
+{
+  "id": 14049,
+  "name": "最高清算 赛恩",
+  "roitName": "Grand Reckoning Sion",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "最高清算",
+  "universe": "符文之地时代",
+  "pushDate": "2025年03月05日",
+  "series": null,
+  "backstory": "在冰冷的盔甲下，是赛恩鲜活的血肉之躯——与历任诺克萨斯之手并无二致。但只要他决定进入竞技场，他的咆哮就会撼动看台，他的钝斧会敲碎骨头，留下生硬的碎裂声作为他血腥的署名。他只要跺跺脚，就能让最老练的角斗士畏缩胆寒……这样的每一分每一秒，都让观众甘之若饴。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_uncentered_49.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_tile_49.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_centered_49.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/sionloadscreen_49.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/sionloadscreen_49_le.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "通行证",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6836",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "通行证",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年3月6日",
+    "priceEndDay": "2026年4月28日9:59",
+    "description": "S15欢迎来到诺克萨斯第2幕通行证40级奖励",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "25.5",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
