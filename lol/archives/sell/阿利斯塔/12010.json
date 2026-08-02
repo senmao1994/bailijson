@@ -1,0 +1,340 @@
+{
+  "id": 12010,
+  "name": "哞利斯塔",
+  "roitName": "Moo Cow Alistar",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "玩具箱",
+  "universe": "玩具箱",
+  "pushDate": "2017年03月29日",
+  "series": null,
+  "backstory": "哞利斯塔是人气王阿利斯塔毛绒玩具的一个罕见的奶牛主题型号，未开封的盒装版已被拍卖到数千美元。而在昨天，这一只被沉入了浴缸。小孩子们从来都不会珍惜好东西。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin10/images/alistar_splash_uncentered_10.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin10/images/alistar_splash_tile_10.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin10/images/alistar_splash_centered_10.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12010.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin10/alistarloadscreen_10.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 4500,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 4500,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2017年4月1日‌",
+    "priceEndDay": "14.5版本已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 12011,
+      "name": "哞利斯塔 草莓牛奶",
+      "sortName": "草莓牛奶",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2019年4月17日12:00",
+        "priceEndDay": "2019年4月23日11:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Moo Cow Alistar (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12011.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 12012,
+      "name": "哞利斯塔 青苹果牛奶",
+      "sortName": "青苹果牛奶",
+      "colorName": "竹绿",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2019年4月17日12:00",
+        "priceEndDay": "2019年4月23日11:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Moo Cow Alistar (Peridot)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12012.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ]
+    },
+    {
+      "id": 12013,
+      "name": "哞利斯塔 香蕉牛奶",
+      "sortName": "香蕉牛奶",
+      "colorName": "金黄",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2019年4月17日12:00",
+        "priceEndDay": "2019年4月23日11:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Moo Cow Alistar (Catseye)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12013.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 12014,
+      "name": "哞利斯塔 蓝莓牛奶",
+      "sortName": "蓝莓牛奶",
+      "colorName": "海蓝",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2019年4月17日12:00",
+        "priceEndDay": "2019年4月23日11:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Moo Cow Alistar (Aquamarine)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12014.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ]
+    },
+    {
+      "id": 12015,
+      "name": "哞利斯塔 巧克力牛奶",
+      "sortName": "巧克力牛奶",
+      "colorName": "棕褐色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2019年4月17日12:00",
+        "priceEndDay": "2019年4月23日11:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Moo Cow Alistar (Jasper)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12015.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9F4A25",
+        "#9F4A25"
+      ]
+    },
+    {
+      "id": 12016,
+      "name": "哞利斯塔 酸奶",
+      "sortName": "酸奶",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2019年4月17日12:00",
+        "priceEndDay": "2019年4月23日11:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Moo Cow Alistar (Sapphire)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12016.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 12017,
+      "name": "哞利斯塔 花生牛奶",
+      "sortName": "花生牛奶",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2019年4月17日12:00",
+        "priceEndDay": "2019年4月23日11:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Moo Cow Alistar (Citrine)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12017.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 12018,
+      "name": "哞利斯塔 葡萄牛奶",
+      "sortName": "葡萄牛奶",
+      "colorName": "浅紫",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2019年4月17日12:00",
+        "priceEndDay": "2019年4月23日11:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Moo Cow Alistar (Amethyst)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/12/12018.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "7.6",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
