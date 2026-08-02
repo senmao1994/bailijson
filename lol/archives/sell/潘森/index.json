@@ -3,5 +3,12 @@
   "name": "潘森",
   "alias": "pansen",
   "key": "10030",
-  "title": "不屈之枪"
+  "title": "不屈之枪",
+  "lol": {
+    "id": "pantheon",
+    "name": "潘森",
+    "alias": "Pantheon",
+    "key": 80,
+    "title": "不屈之枪"
+  }
 }
