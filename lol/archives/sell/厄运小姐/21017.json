@@ -1,0 +1,50 @@
+{
+  "id": 21017,
+  "name": "睡衣守护者 厄运小姐",
+  "roitName": "Pajama Guardian Miss Fortune",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "星之守护者 第二季",
+  "universe": "星之守护者宇宙",
+  "pushDate": "2018年11月21日",
+  "series": null,
+  "backstory": "莎拉·厄运通常不参加睡衣派对。也不穿毛绒睡衣。也不玩真心话大冒险。但璐璐非常坚持，而且拉克丝的邀请是如此盛情，以至于莎拉发现她自己把这三样都做了。至少她的睡衣带有枪套——以防……以防有些星界敌人现身。世事难料。防微杜渐。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin17/images/missfortune_splash_uncentered_17.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin17/images/missfortune_splash_tile_17.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin17/images/missfortune_splash_centered_17.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin17/missfortuneloadscreen_17.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "3837",
+  "emote": null,
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2018年11月26日",
+    "priceEndDay": "",
+    "description": "拥有星守皮肤5.5折",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "8.23",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
