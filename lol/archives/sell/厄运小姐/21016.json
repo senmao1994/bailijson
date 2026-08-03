@@ -52,7 +52,7 @@
       "acquisition": "",
       "borderName": "",
       "colors": [
-        "紫色"
+        "#800080"
       ]
     },
     {
@@ -67,7 +67,7 @@
       "acquisition": "",
       "borderName": "",
       "colors": [
-        "红色"
+        "#FF0000"
       ]
     },
     {
@@ -82,7 +82,7 @@
       "acquisition": "",
       "borderName": "",
       "colors": [
-        "金色"
+        "#FFD700"
       ]
     },
     {
@@ -97,7 +97,7 @@
       "acquisition": "",
       "borderName": "",
       "colors": [
-        "蓝色"
+        "#0000FF"
       ]
     }
   ],
