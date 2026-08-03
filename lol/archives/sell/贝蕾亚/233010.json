@@ -342,9 +342,9 @@
         "wildRiftSell": null
       },
       "roit": {
-        "price": 290,
-        "priceType": "直售",
-        "priceStartDay": "2024年8月1日",
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
         "priceEndDay": "",
         "description": "幻灵战队(2024)战利品专属"
       },
