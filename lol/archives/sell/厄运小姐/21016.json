@@ -51,7 +51,9 @@
       "note": "",
       "acquisition": "",
       "borderName": "",
-      "colors": []
+      "colors": [
+        "紫色"
+      ]
     },
     {
       "name": "总攻时刻",
@@ -64,7 +66,9 @@
       "note": "",
       "acquisition": "",
       "borderName": "",
-      "colors": []
+      "colors": [
+        "红色"
+      ]
     },
     {
       "name": "皇家武装",
@@ -77,7 +81,9 @@
       "note": "",
       "acquisition": "",
       "borderName": "",
-      "colors": []
+      "colors": [
+        "金色"
+      ]
     },
     {
       "name": "血色女王",
@@ -90,7 +96,9 @@
       "note": "",
       "acquisition": "",
       "borderName": "",
-      "colors": []
+      "colors": [
+        "蓝色"
+      ]
     }
   ],
   "version": {
