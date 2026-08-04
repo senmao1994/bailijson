@@ -1,0 +1,50 @@
+{
+  "id": 12003,
+  "name": "斗牛士 阿利斯塔",
+  "roitName": "Matador Alistar",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "职场精英",
+  "universe": "磨砺",
+  "pushDate": "2010年5月11日",
+  "series": null,
+  "backstory": "每个人最伟大的一场战役，是那场必须与自己作战的战役，除非他既是斗牛士，又是大公牛。然后，这场战役就更加名实相符了。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin03/images/alistar_splash_uncentered_3.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin03/images/alistar_splash_tile_3.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin03/images/alistar_splash_centered_3.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin03/alistarloadscreen_3.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "限时直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 4500,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 4500,
+    "priceType": "限时直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2010年5月11日",
+    "priceEndDay": "商城已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "1.0.0.79",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
