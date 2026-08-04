@@ -1,0 +1,50 @@
+{
+  "id": 12004,
+  "name": "荒野镖客 阿利斯塔",
+  "roitName": "Longhorn Alistar",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "西部风云",
+  "universe": "西部魔影 厄运金属",
+  "pushDate": "2011年2月16日",
+  "series": null,
+  "backstory": "旧西部地区中有一些较务实的人已经融入了人类社会——笨重的牛魔阿利斯塔就是其中之一。作为出租劳力的肌肉男，他经常被人们发现在酒吧打架或放倒银行金库的门。只要给钱，牛角就到位。  ",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin04/images/alistar_splash_uncentered_4.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin04/images/alistar_splash_tile_4.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin04/images/alistar_splash_centered_4.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin04/alistarloadscreen_4.jpg",
+  "roit": {
+    "price": 520,
+    "priceType": "典藏",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 2300,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 2300,
+    "priceType": "典藏",
+    "priceTypeChinese": "",
+    "priceStartDay": "2011年2月16日",
+    "priceEndDay": "商城已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "1.0.0.111",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
