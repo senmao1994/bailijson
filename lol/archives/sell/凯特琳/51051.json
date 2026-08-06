@@ -1,0 +1,90 @@
+{
+  "id": 51051,
+  "name": "至臻 双城之战2 指挥官 凯特琳",
+  "roitName": "Prestige Arcane Commander Caitlyn",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "双城之战",
+  "universe": "双城之战",
+  "pushDate": "2024年11月20日",
+  "series": null,
+  "backstory": "作为吉拉曼恩家族的后裔，凯特琳知道如何在进门的瞬间就赢得所有人的尊重——凭的不仅是她利落的外表，更是她那双犀利的眼睛。如今，她已经爬到了执法官领袖的位置，誓要为皮尔特沃夫的将来做出更有价值的贡献。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin51/images/caitlyn_splash_uncentered_51.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin51/images/caitlyn_splash_tile_51.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin51/images/caitlyn_splash_centered_51.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/51/51051.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin51/caitlynloadscreen_51.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin51/caitlynloadscreen_51_le.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "6762",
+  "emote": null,
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "",
+    "priceStartDay": "2024年11月21日",
+    "priceEndDay": "2024年12月31日9:59",
+    "description": "首发双城之战2024代币兑换",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 51053,
+      "name": "至臻 双城之战2 指挥官 凯特琳 华星",
+      "sortName": "华星",
+      "colorName": "通行证",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2024年11月21日",
+        "priceEndDay": "",
+        "description": "【双城之战2】战利品专属",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-ff18242d-3299-42b6-878d-d8bd63ad7203.jpg"
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "2024年12月31日9:59",
+        "description": "【双城之战2】战利品专属"
+      },
+      "riotName": "Prestige Arcane Commander Caitlyn (Stellar)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/51/51053.png",
+      "mythicIcon": "",
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#464AF7",
+        "#FAFDC4"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "14.23",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
