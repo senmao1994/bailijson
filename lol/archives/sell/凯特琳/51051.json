@@ -48,7 +48,7 @@
         "price": 35,
         "priceType": "神话商店",
         "priceStartDay": "2024年11月21日",
-        "priceEndDay": "",
+        "priceEndDay": "2024年12月31日9:59",
         "description": "【双城之战2】战利品专属",
         "hasFullGiftPack": false,
         "wildRiftSell": null,
@@ -58,8 +58,8 @@
         "price": 35,
         "priceType": "神话商店",
         "priceStartDay": "",
-        "priceEndDay": "2024年12月31日9:59",
-        "description": "【双城之战2】战利品专属"
+        "priceEndDay": "",
+        "description": ""
       },
       "riotName": "Prestige Arcane Commander Caitlyn (Stellar)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/51/51053.png",
