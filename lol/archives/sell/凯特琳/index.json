@@ -1,7 +1,9 @@
-﻿{
-    "id":  "caitlyn",
-    "name":  "凯特琳",
-    "alias":  "Caitlyn",
-    "key":  51,
-    "title":  "皮城女警"
+{
+  "lol": {
+    "id": "caitlyn",
+    "name": "凯特琳",
+    "alias": "Caitlyn",
+    "key": 51,
+    "title": "皮城女警"
+  }
 }
