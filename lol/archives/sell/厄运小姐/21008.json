@@ -1,0 +1,50 @@
+{
+  "id": 21008,
+  "name": "女船长 厄运小姐",
+  "roitName": "Captain Fortune",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "比尔吉沃特：焰浪之潮",
+  "universe": "符文之地时代",
+  "pushDate": "2015年7月30日",
+  "series": null,
+  "backstory": "在另一个世界中，莎拉·厄运是一位备受尊敬的船长，拥有来自她母亲的爱和城市的敬意，但是被比尔吉沃特夺走的东西，你可不一定总能要回来。这个美梦在很久之前就已经消逝了。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin08/images/missfortune_splash_uncentered_8.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin08/images/missfortune_splash_tile_8.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin08/images/missfortune_splash_centered_8.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin08/missfortuneloadscreen_8.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 6900,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 6900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2015年7月30日",
+    "priceEndDay": "商城已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "",
+    "update": "14.17",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
