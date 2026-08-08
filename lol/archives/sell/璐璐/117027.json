@@ -1,0 +1,51 @@
+{
+  "id": 117027,
+  "name": "至臻 太空律动 “节奏幻师” 璐璐",
+  "roitName": "Prestige Space Groove Lulu",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "太空律动",
+  "universe": "太空律动",
+  "pushDate": "2021年4月01日",
+  "series": null,
+  "backstory": "在刚刚访问过星系中心的三派对女神后，璐璐与“律动”达成了空前的合拍。她的幻景甚至更加强而有力，她的节奏甚至更加不可抵挡，并且没人知道璐璐接下来会在哪出现。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin27/images/lulu_splash_uncentered_27.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin27/images/lulu_splash_tile_27.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin27/images/lulu_splash_centered_27.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin27/lululoadscreen_27.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin27/lululoadscreen_27_le.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "4921",
+  "emote": null,
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2021年4月2日10:00",
+    "priceEndDay": " 2021年5月4日23:59",
+    "description": "首发太空律动(2021)通行证",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "11.7",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
