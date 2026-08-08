@@ -1,0 +1,51 @@
+{
+  "id": 117055,
+  "name": "愚乐之巫 璐璐",
+  "roitName": "Arcana Lulu",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "命运之子",
+  "universe": "命运之子",
+  "pushDate": "2025年8月27日",
+  "series": null,
+  "backstory": "小丑女巫璐璐兴奋地看着下面的人们，渴望看到他们如何迎接她从高处降下的那些奇思妙想且神奇迷人的惊喜。尽管有些人怀疑近期发生在图案里的那些扰乱就是她干的，但那些认识璐璐的人也知道她永远不会把自己的艺术用在摧毁上。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin55/images/lulu_splash_uncentered_55.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin55/images/lulu_splash_tile_55.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin55/images/lulu_splash_centered_55.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin55/lululoadscreen_55.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin55/lululoadscreen_55_le.jpg",
+  "roit": {
+    "price": 1650,
+    "priceType": "通行证",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "6930",
+  "emote": null,
+  "tencent": {
+    "price": 8900,
+    "priceType": "通行证",
+    "priceTypeChinese": "",
+    "priceStartDay": "2025年8月28日",
+    "priceEndDay": "2025年10月22日23:59",
+    "description": "【暮光试炼：第1幕】通行证8级领取",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "25.17",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
