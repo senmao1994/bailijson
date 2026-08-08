@@ -1,7 +1,14 @@
-﻿{
-    "id":  "xayah",
-    "name":  "霞",
-    "alias":  "Xayah",
-    "key":  498,
-    "title":  "逆羽"
+{
+  "id": "xayah",
+  "name": "霞",
+  "alias": "Xayah",
+  "key": 498,
+  "title": "逆羽",
+  "lol": {
+    "id": "xayah",
+    "name": "霞",
+    "alias": "Xayah",
+    "key": 498,
+    "title": "逆羽"
+  }
 }

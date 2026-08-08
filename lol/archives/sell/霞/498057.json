@@ -28,6 +28,7 @@
   },
   "tencentPrice": 10900,
   "icon": "6851",
+  "emote": null,
   "tencent": {
     "price": 10900,
     "priceType": "直售",
@@ -47,7 +48,7 @@
         "price": 2000,
         "priceType": "礼包",
         "priceStartDay": "2025年3月20日",
-        "priceEndDay": "4月3日9:59",
+        "priceEndDay": "2025年4月3日9:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": {
@@ -66,9 +67,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "战斗学院 霞 不死鸟",
+      "riotName": "Battle Academia Xayah (Ruby)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498058.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -86,13 +93,13 @@
       "id": 498059,
       "name": "战斗学院 霞 雄狮",
       "sortName": "雄狮",
-      "colorName": "黄色",
+      "colorName": "金黄",
       "tencent": {
         "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "priceType": "臻彩",
+        "priceStartDay": "2026年3月1日 00:00:00",
+        "priceEndDay": "2026年3月31日 23:59:59",
+        "description": "心悦巅峰盛典202602期",
         "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
@@ -101,7 +108,8 @@
           "activityTitle": "",
           "price": "",
           "priceUnit": ""
-        }
+        },
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-b8890b94-fd18-4ee5-a844-388c74036edd.jpg"
       },
       "roit": {
         "price": 290,
@@ -110,9 +118,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "战斗学院 霞 雄狮",
+      "riotName": "Battle Academia Xayah (Catseye)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498059.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -134,8 +148,8 @@
       "tencent": {
         "price": 0,
         "priceType": "臻彩",
-        "priceStartDay": "2025年7月24日",
-        "priceEndDay": "2025年8月17日",
+        "priceStartDay": "2026年8月7日",
+        "priceEndDay": "2026年9月6日23:59",
         "description": "璀璨臻彩召唤202507期",
         "hasFullGiftPack": false,
         "wildRiftSell": {
@@ -146,7 +160,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/aeygz3gnz9temh86nbdzaz0bmd1jcqfn.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-34b482fc-34c3-4e34-9db6-b331dd7b1a5c.jpg"
       },
       "roit": {
         "price": 290,
@@ -155,9 +169,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "战斗学院 霞 天马",
+      "riotName": "Battle Academia Xayah (Sapphire)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498060.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -180,7 +200,7 @@
         "price": 2000,
         "priceType": "限时直售",
         "priceStartDay": "2025年3月20日",
-        "priceEndDay": "4月3日9:59",
+        "priceEndDay": "2025年4月3日9:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": {
@@ -199,9 +219,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "战斗学院 霞 森林龙",
+      "riotName": "Battle Academia Xayah (Emerald)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498061.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -224,7 +250,7 @@
         "price": 2000,
         "priceType": "限时直售",
         "priceStartDay": "2025年3月20日",
-        "priceEndDay": "4月3日9:59",
+        "priceEndDay": "2025年4月3日9:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": {
@@ -243,9 +269,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "战斗学院 霞 逆卫",
+      "riotName": "Battle Academia Xayah (Rebelguard)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498062.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -263,12 +295,12 @@
       "id": 498063,
       "name": "战斗学院 霞 狮鹫",
       "sortName": "狮鹫",
-      "colorName": "白色",
+      "colorName": "珍珠白",
       "tencent": {
         "price": 2000,
         "priceType": "限时直售",
         "priceStartDay": "2025年3月20日",
-        "priceEndDay": "4月3日9:59",
+        "priceEndDay": "2025年4月3日9:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": {
@@ -287,9 +319,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "战斗学院 霞 狮鹫",
+      "riotName": "Battle Academia Xayah (Pearl)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498063.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -312,5 +350,6 @@
     "updateChinese": "",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
