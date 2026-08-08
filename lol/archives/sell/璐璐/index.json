@@ -4,5 +4,12 @@
   "alias": "lulu",
   "key": "10048",
   "title": "仙灵女巫",
-  "platform": "wr"
+  "platform": "wr",
+  "lol": {
+    "id": "lulu",
+    "name": "璐璐",
+    "alias": "Lulu",
+    "key": 117,
+    "title": "仙灵女巫"
+  }
 }

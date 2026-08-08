@@ -1,0 +1,377 @@
+{
+  "id": 117026,
+  "name": "太空律动 “节奏幻师” 璐璐",
+  "roitName": "Space Groove Lulu",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "太空律动",
+  "universe": "太空律动",
+  "pushDate": "2021年4月01日",
+  "series": null,
+  "backstory": "璐璐来自布吉乐仙境，“纯粹律动”星系的一颗星球。她对星界迪斯科能量的共鸣有种独特的感应力。她用她的法杖变出自由和恣意的幻景，甚至可以让银河系中最笨拙的生物跟着一起打拍子。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin26/images/lulu_splash_uncentered_26.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin26/images/lulu_splash_tile_26.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin26/images/lulu_splash_centered_26.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117026.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin26/lululoadscreen_26.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin26/lululoadscreen_26_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "4912",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/SpaceGroove/EM_SpaceGroove_Emote_Toofers_Inventory.png",
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": " 2021年4月2日10:00",
+    "priceEndDay": " 2021年5月4日23:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 117028,
+      "name": "“节奏幻师” 璐璐 把你变成小橘",
+      "sortName": "“节奏幻师” 璐璐 把你变成小橘",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2021年4月2日10:00",
+        "priceEndDay": "2021年5月4日23:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Space Groove Lulu (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117028.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 117029,
+      "name": "“节奏幻师” 璐璐 把你变成小蓝",
+      "sortName": "“节奏幻师” 璐璐 把你变成小蓝",
+      "colorName": "海蓝",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Space Groove Lulu (Aquamarine)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117029.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#6ABBEE",
+        "#6ABBEE"
+      ]
+    },
+    {
+      "id": 117030,
+      "name": "“节奏幻师” 璐璐 把你变成小绿",
+      "sortName": "“节奏幻师” 璐璐 把你变成小绿",
+      "colorName": "竹绿",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Space Groove Lulu (Peridot)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117030.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ]
+    },
+    {
+      "id": 117031,
+      "name": "“节奏幻师” 璐璐 把你变成小粉",
+      "sortName": "“节奏幻师” 璐璐 把你变成小粉",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 1,
+        "priceType": "礼包",
+        "priceStartDay": "2021年4月2日10:00",
+        "priceEndDay": "2021年4月16日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Space Groove Lulu (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117031.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 117032,
+      "name": "“节奏幻师” 璐璐 把你变成小黄",
+      "sortName": "“节奏幻师” 璐璐 把你变成小黄",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Space Groove Lulu (Citrine)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117032.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 117033,
+      "name": "“节奏幻师” 璐璐 把你变成小紫",
+      "sortName": "“节奏幻师” 璐璐 把你变成小紫",
+      "colorName": "深紫",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Space Groove Lulu (Tanzanite)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117033.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ]
+    },
+    {
+      "id": 117034,
+      "name": "“节奏幻师” 璐璐 把你变成小柠檬",
+      "sortName": "“节奏幻师” 璐璐 把你变成小柠檬",
+      "colorName": "青绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Space Groove Lulu (Turquoise)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117034.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 117035,
+      "name": "“节奏幻师” 璐璐 把你变成小黑",
+      "sortName": "“节奏幻师” 璐璐 把你变成小黑",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Space Groove Lulu (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117035.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 117036,
+      "name": "“节奏幻师” 璐璐 把你变成小花",
+      "sortName": "“节奏幻师” 璐璐 把你变成小花",
+      "colorName": "战利品",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2021年4月2日10:00",
+        "priceEndDay": "2021年5月18日9:59",
+        "description": "太空律动2021战利品",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Space Groove Lulu (Disco)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117036.png",
+      "mythicIcon": "4919",
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9DFFEF",
+        "#AA55FF"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "11.7",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
