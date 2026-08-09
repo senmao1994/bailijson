@@ -1,0 +1,50 @@
+{
+  "id": 117004,
+  "name": "寒冬精灵 璐璐",
+  "roitName": "Winter Wonder Lulu",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "冬季仙境",
+  "universe": "冰雪节",
+  "pushDate": "2013年12月19日",
+  "series": null,
+  "backstory": "和善的小女巫身后跟着魄罗小伙伴皮克斯，这是璐璐在用古怪的冰雪魔法给各地的冰雪节狂欢送去惊喜与欢欣。她同时也是个老练的战士，能够发射夺命的冰川长枪，还能把敌人变成无害的雪娃娃。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin04/images/lulu_splash_uncentered_4.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin04/images/lulu_splash_tile_4.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin04/images/lulu_splash_centered_4.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin04/lululoadscreen_4.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 9900,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 9900,
+    "priceType": "直售",
+    "priceTypeChinese": "冰雪节",
+    "priceStartDay": "2013年12月19日",
+    "priceEndDay": "冰雪节限时返场",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "3.15",
+    "update": "9.12",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
