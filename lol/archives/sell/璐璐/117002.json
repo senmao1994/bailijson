@@ -1,0 +1,50 @@
+{
+  "id": 117002,
+  "name": "邪恶女巫 璐璐",
+  "roitName": "Wicked Lulu",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "不给糖就捣蛋",
+  "universe": "峡谷传说",
+  "pushDate": "2012年03月20日",
+  "series": null,
+  "backstory": "在符文之地，父母告诫孩子要听话，以免在晚上被邪恶的璐璐抢走。在那里，她会把他们变成皮克斯精灵，让他们在令人毛骨悚然的森林里采花，以实施她的邪恶计划！",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin02/images/lulu_splash_uncentered_2.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin02/images/lulu_splash_tile_2.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin02/images/lulu_splash_centered_2.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin02/lululoadscreen_2.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 4500,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 4500,
+    "priceType": "直售",
+    "priceTypeChinese": "伴生皮肤",
+    "priceStartDay": "2012年3月20日",
+    "priceEndDay": "商城已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "1.0.0.136",
+    "update": "9.12",
+    "updateChinese": "特效更新 ",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
