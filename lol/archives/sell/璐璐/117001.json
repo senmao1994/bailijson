@@ -1,0 +1,50 @@
+{
+  "id": 117001,
+  "name": "糖果女巫 璐璐",
+  "roitName": "Bittersweet Lulu",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "糖果大战",
+  "universe": "糖果大战",
+  "pushDate": "2012年3月20日",
+  "series": null,
+  "backstory": "作为一个住在薄荷松埌外围地区的糖果女巫，璐璐众所周知的糖果魔法赋予任何想要得到它的人难以置信的力量……但是，这仅仅需要他们的糖果灵魂付出沉重的代价而已。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin01/images/lulu_splash_uncentered_1.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin01/images/lulu_splash_tile_1.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin01/images/lulu_splash_centered_1.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin01/lululoadscreen_1.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 4500,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 4500,
+    "priceType": "直售",
+    "priceTypeChinese": "伴生皮肤",
+    "priceStartDay": " 2012年3月20日",
+    "priceEndDay": "商城已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "1.0.0.136",
+    "update": "9.12",
+    "updateChinese": "特效更新 ",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
