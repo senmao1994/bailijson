@@ -1,0 +1,51 @@
+{
+  "id": 117006,
+  "name": "星之守护者 璐璐",
+  "roitName": "Star Guardian Lulu",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "星之守护者 第一季",
+  "universe": "星之守护者宇宙",
+  "pushDate": "2016年10月05日",
+  "series": null,
+  "backstory": "作为拉克丝小队中最年幼的成员，璐璐是一名古怪但却有天赋的星之守护者。虽然她与星光的独特连接有时让她迷惑不解，但璐璐能够肩负起支援全队的重任——她将让队友们知道，星光也在支援着他们。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin06/images/lulu_splash_uncentered_6.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin06/images/lulu_splash_tile_6.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin06/images/lulu_splash_centered_6.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin06/lululoadscreen_6.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin06/lululoadscreen_6_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "5866",
+  "emote": null,
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2023年6月30日10:00",
+    "priceEndDay": "2023年7月23日23:59",
+    "description": "2016年10月11日皮肤上线",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "6.20",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
