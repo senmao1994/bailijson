@@ -1,0 +1,50 @@
+{
+  "id": 21001,
+  "name": "西部牛仔 厄运小姐",
+  "roitName": "Cowgirl Miss Fortune",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "西部风云",
+  "universe": "西部魔影 厄运金属",
+  "pushDate": "2010年09月08日",
+  "series": null,
+  "backstory": "草原上没有哪个赏金猎人比莎拉·厄运的技术更加娴熟，但她却从不接受钱少的活。在高境之边造成了足够的麻烦，并且，是的，她会响应征召，带着两把闪闪发光的手枪，以及刻有悬赏者名字的子弹。 ",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin01/images/missfortune_splash_uncentered_1.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin01/images/missfortune_splash_tile_1.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin01/images/missfortune_splash_centered_1.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin01/missfortuneloadscreen_1.jpg",
+  "roit": {
+    "price": 750,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 1000,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 1000,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2010年9月8日",
+    "priceEndDay": "商城已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "",
+    "update": "14.17",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
