@@ -372,10 +372,11 @@
         "price": 0,
         "priceType": "臻彩",
         "priceStartDay": "2026年8月14日",
-        "priceEndDay": "预计2026年9月13日",
+        "priceEndDay": "2026年9月13日",
         "description": "景德镇·幸运之门",
         "hasFullGiftPack": false,
-        "wildRiftSell": null
+        "wildRiftSell": null,
+        "ExquisitePath": "https://i0.hdslb.com/bfs/new_dyn/e154d7e280f32dc364775b4210ab40f39385598.jpg"
       },
       "roit": {
         "price": 290,
@@ -386,7 +387,7 @@
       },
       "riotName": "Porcelain Lissandra (Auspicious)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127052.png",
-      "mythicIcon": null,
+      "mythicIcon": "",
       "type": "normal",
       "borderPath": null,
       "loadingMythicPath": null,
