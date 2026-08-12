@@ -1,7 +1,14 @@
-﻿{
-    "id":  "irelia",
-    "name":  "艾瑞莉娅",
-    "alias":  "Irelia",
-    "key":  39,
-    "title":  "刀锋舞者"
+{
+  "id": "irelia",
+  "name": "艾瑞莉娅",
+  "alias": "Irelia",
+  "key": 39,
+  "title": "刀锋舞者",
+  "lol": {
+    "id": "irelia",
+    "name": "艾瑞莉娅",
+    "alias": "Irelia",
+    "key": 39,
+    "title": "刀锋舞者"
+  }
 }

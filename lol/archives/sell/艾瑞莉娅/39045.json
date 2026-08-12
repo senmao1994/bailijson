@@ -1,0 +1,418 @@
+{
+  "id": 39045,
+  "name": "青花瓷 艾瑞莉娅",
+  "roitName": "Porcelain Irelia",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "青花瓷",
+  "universe": "春节",
+  "pushDate": "2024年02月22日",
+  "series": null,
+  "backstory": "艾瑞莉娅早在成为生肖神卫之前就致力于保护古代圣物了。大学的第一年，她就在著名的考古研究所实习。这是她短暂一生的亮点……直到她被羊生肖圣物赋予了神话力量，并被卷入了一场长达数百年的战争。与之相比，学业就略显苍白了。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin45/images/irelia_splash_uncentered_45.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin45/images/irelia_splash_tile_45.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin45/images/irelia_splash_centered_45.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39045.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin45/irelialoadscreen_45.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin45/irelialoadscreen_45_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "6549",
+  "emote": null,
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2024年2月27日",
+    "priceEndDay": "2024年3月18日9:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 39046,
+      "name": "青花瓷 艾瑞莉娅 牡丹",
+      "sortName": "牡丹",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2025年11月14日",
+        "priceEndDay": "2025年12月14日",
+        "description": "璀璨臻彩召唤·特等奖池",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-b1a7fa6f-d9d8-47b6-b463-09c87b23d169.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39046.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 39047,
+      "name": "青花瓷 艾瑞莉娅 芭蕉",
+      "sortName": "芭蕉",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Emerald)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39047.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 39048,
+      "name": "青花瓷 艾瑞莉娅 天青",
+      "sortName": "天青",
+      "colorName": "青绿色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Turquoise)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39048.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 39049,
+      "name": "青花瓷 艾瑞莉娅 釉色",
+      "sortName": "釉色",
+      "colorName": "深紫",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2024年1月21日",
+        "priceEndDay": "长期有效",
+        "description": "皮肤成就·解锁12款指定艾瑞莉娅皮肤",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-84ddc684-0f13-4e02-ae27-c6a23ffcd0e9.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Tanzanite)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39049.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ]
+    },
+    {
+      "id": 39050,
+      "name": "青花瓷 艾瑞莉娅 含苞",
+      "sortName": "含苞",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39050.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 39051,
+      "name": "青花瓷 艾瑞莉娅 月色",
+      "sortName": "月色",
+      "colorName": "珍珠白",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2025年1月1日",
+        "priceEndDay": "2025年2月5日",
+        "description": "2025一月赠礼1000积分",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-28633a2a-4fd7-404b-938f-21881fa67976.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Pearl)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39051.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 39052,
+      "name": "青花瓷 艾瑞莉娅 墨色",
+      "sortName": "墨色",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39052.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 39053,
+      "name": "青花瓷 艾瑞莉娅 金辉玉洁",
+      "sortName": "金辉玉洁",
+      "colorName": "金黄",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2024年7月1日 00:00:",
+        "priceEndDay": "2024年7月31日 23:59",
+        "description": "心悦巅峰榜第九期",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-c5da2b3b-4428-4084-90b8-95e3bf7f03b8.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Catseye)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39053.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 39054,
+      "name": "青花瓷 艾瑞莉娅 锦鲤",
+      "sortName": "锦鲤",
+      "colorName": "春节2024",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "2024年3月18日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Opulent)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39054.png",
+      "mythicIcon": "6550",
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#3AC8B1",
+        "#B0412A"
+      ]
+    },
+    {
+      "id": 39072,
+      "name": "青花瓷 艾瑞莉娅 青白月之羚",
+      "sortName": "青白月之羚",
+      "colorName": "景德镇联名",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2026年8月14日",
+        "priceEndDay": "2026年9月13日",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://i0.hdslb.com/bfs/new_dyn/797932d5dda9ae3f9364ba1eacfc6efa9385598.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "限时直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Porcelain Irelia (Lustrous)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39072.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#CEC8BF",
+        "#367378"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "14.4",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
