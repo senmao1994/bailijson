@@ -1,7 +1,9 @@
-﻿{
-    "id":  "milio",
-    "name":  "米利欧",
-    "alias":  "Milio",
-    "key":  902,
-    "title":  "明烛"
+{
+  "lol": {
+    "id": "milio",
+    "name": "米利欧",
+    "alias": "Milio",
+    "key": 902,
+    "title": "明烛"
+  }
 }
