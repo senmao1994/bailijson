@@ -3,5 +3,12 @@
   "name": "丽桑卓",
   "alias": "lisangzhuo",
   "key": "10109",
-  "title": "冰霜女巫"
+  "title": "冰霜女巫",
+  "lol": {
+    "id": "lissandra",
+    "name": "丽桑卓",
+    "alias": "Lissandra",
+    "key": 127,
+    "title": "冰霜女巫"
+  }
 }
