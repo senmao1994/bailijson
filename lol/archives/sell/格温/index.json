@@ -1,17 +1,4 @@
 {
-  "id": "gwen",
-  "name": "格温",
-  "alias": "Gwen",
-  "key": 887,
-  "title": "灵罗娃娃",
-  "wr": {
-    "id": 10054,
-    "name": "格温",
-    "alias": "gewen",
-    "key": "10054",
-    "title": "灵罗娃娃",
-    "platform": "wr"
-  },
   "lol": {
     "id": "gwen",
     "name": "格温",
