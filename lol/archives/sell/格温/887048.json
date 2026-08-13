@@ -32,8 +32,8 @@
     "price": 8900,
     "priceType": "直售",
     "priceTypeChinese": "",
-    "priceStartDay": "2026年08月13日",
-    "priceEndDay": "",
+    "priceStartDay": "2026年8月13日",
+    "priceEndDay": "2026年9月9日23:59",
     "description": "图标和表情礼包限时销售",
     "hasFullGiftPack": false
   },
