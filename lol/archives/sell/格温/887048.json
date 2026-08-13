@@ -35,7 +35,7 @@
     "priceStartDay": "2026年8月13日",
     "priceEndDay": "2026年9月9日23:59",
     "description": "图标和表情礼包限时销售",
-    "hasFullGiftPack": false
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
