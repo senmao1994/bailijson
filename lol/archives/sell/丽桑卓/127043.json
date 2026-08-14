@@ -1,0 +1,341 @@
+{
+  "id": 127043,
+  "name": "绝命花妖 丽桑卓",
+  "roitName": "Flora Fatalis Lissandra",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "绝命花妖",
+  "universe": null,
+  "pushDate": "2025年10月08日",
+  "series": null,
+  "backstory": "她心甘情愿地来到我们的身边，一位不为毒液所动却易受预言左右的先知，“丽桑卓”，人们曾这般称呼她——不过无所谓了，反正一切的自我意志都会在此被迅速地剥离，最终被世间忘却。于我们的深渊之中，她痛饮，她酣醉。我们交织相融为一体，完美地绽放。在眠梦之中，我们交谈之时，这脆弱的世界正一点点地土崩瓦解。唯有将其身扎根于我们之中者方能繁荣不朽。万物皆需成为我们土壤的养料。  ",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin43/images/lissandra_splash_uncentered_43.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin43/images/lissandra_splash_tile_43.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin43/images/lissandra_splash_centered_43.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127043.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin43/lissandraloadscreen_43.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin43/lissandraloadscreen_43_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "6947",
+  "emote": null,
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2025年10月09日",
+    "priceEndDay": "2025年11月19日23:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 127044,
+      "name": "绝命花妖 丽桑卓 绚丽绽放",
+      "sortName": "绚丽绽放",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2025年10月09日",
+        "priceEndDay": "2025年10月23日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Flora Fatalis Lissandra (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127044.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 127045,
+      "name": "绝命花妖 丽桑卓 灿烂绽放",
+      "sortName": "灿烂绽放",
+      "colorName": "金黄",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Flora Fatalis Lissandra (Catseye)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127045.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 127046,
+      "name": "绝命花妖 丽桑卓 葱茏绽放",
+      "sortName": "葱茏绽放",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年10月09日",
+        "priceEndDay": "2025年10月23日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Flora Fatalis Lissandra (Emerald)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127046.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 127047,
+      "name": "绝命花妖 丽桑卓 冷艳绽放",
+      "sortName": "冷艳绽放",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年10月09日",
+        "priceEndDay": "2025年10月23日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Flora Fatalis Lissandra (Sapphire)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127047.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 127048,
+      "name": "绝命花妖 丽桑卓 梦幻绽放",
+      "sortName": "梦幻绽放",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Flora Fatalis Lissandra (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127048.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 127049,
+      "name": "绝命花妖 丽桑卓 清新绽放",
+      "sortName": "清新绽放",
+      "colorName": "青绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年10月09日",
+        "priceEndDay": "2025年10月23日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Flora Fatalis Lissandra (Turquoise)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127049.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 127050,
+      "name": "绝命花妖 丽桑卓 素净绽放",
+      "sortName": "素净绽放",
+      "colorName": "珍珠白",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Flora Fatalis Lissandra (Pearl)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127050.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 127051,
+      "name": "绝命花妖 丽桑卓 幽香绽放",
+      "sortName": "幽香绽放",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年10月09日",
+        "priceEndDay": "2025年10月23日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Flora Fatalis Lissandra (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127051.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "25.20",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
