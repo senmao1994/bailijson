@@ -1,0 +1,89 @@
+{
+  "id": 122065,
+  "name": "至臻 凯旋将军 德莱厄斯",
+  "roitName": "Prestige Triumphant General Darius",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "最高清算",
+  "universe": "符文之地时代",
+  "pushDate": "2025年03月05日",
+  "series": null,
+  "backstory": "待到空气里的硝烟落定，斧刃上的鲜血凝固，德莱厄斯才意识到——战斗胜利了。征战告捷，解甲归乡，但德莱厄斯的讨伐拼杀绝不是为了这场盛大的凯旋游行——他觉得这种仪式无聊透顶，但那些夹道欢迎的人，都是他的血亲同胞。他战斗，是为了他的国家，而这些人，他们就是诺克萨斯。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/darius/skins/skin65/images/darius_splash_uncentered_65.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/darius/skins/skin65/images/darius_splash_tile_65.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/darius/skins/skin65/images/darius_splash_centered_65.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122065.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/darius/skins/skin65/dariusloadscreen_65.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/darius/skins/skin65/dariusloadscreen_65_le.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "6835",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/FightingPits/4836_Big_Flex_Inventory.png",
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2025年3月6日",
+    "priceEndDay": "2025年4月28日09:59",
+    "description": "2025欢迎来到诺克萨斯第2幕通行证",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 122066,
+      "name": "至臻 凯旋将军 德莱厄斯 常胜战神",
+      "sortName": "常胜战神",
+      "colorName": "通行证礼包",
+      "tencent": {
+        "price": 17575,
+        "priceType": "礼包",
+        "priceStartDay": "2025年3月6日",
+        "priceEndDay": "2025年4月28日09:59",
+        "description": "欢迎来到诺克萨斯：第2幕通行证战利品专属",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2650,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "欢迎来到诺克萨斯：第2幕通行证战利品专属"
+      },
+      "riotName": "至臻 凯旋将军 德莱厄斯 常胜战神",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122066.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#C6CACD",
+        "#4A53F3"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "25.05",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
