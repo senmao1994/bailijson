@@ -1,0 +1,51 @@
+{
+  "id": 127033,
+  "name": "至臻 青花瓷 丽桑卓",
+  "roitName": "Prestige Porcelain Lissandra",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "青花瓷",
+  "universe": "春节",
+  "pushDate": "2023年01月26日",
+  "series": null,
+  "backstory": "如果雕塑不是时尚，那什么才是时尚？这难道不是物质形式的美丽和优雅吗？丽桑卓就是由白色、蓝色和金色精心搭配的迷人塑像，在T台上下都是一件艺术品。 ",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin33/images/lissandra_splash_uncentered_33.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin33/images/lissandra_splash_tile_33.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin33/images/lissandra_splash_centered_33.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin33/lissandraloadscreen_33.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin33/lissandraloadscreen_33_le.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "5689",
+  "emote": null,
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2023年1月12日10:00",
+    "priceEndDay": "2023年2月21日23:59",
+    "description": "春节(2023)事件代币兑换",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "13.1b",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
