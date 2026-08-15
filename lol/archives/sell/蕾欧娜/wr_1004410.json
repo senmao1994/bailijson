@@ -1,0 +1,53 @@
+{
+  "id": 1004410,
+  "name": "水晶玫瑰 蕾欧娜",
+  "roitName": "Crystal Rose Leona",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "180",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "守护",
+  "universe": "水晶玫瑰",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "一切在众人见证与祝福中得以联结的真心，都会得到水晶玫瑰守护者蕾欧娜的庇护。那些庄严许下的誓言，也终将在她的光辉之下历久弥坚，为岁月所见证。",
+  "accessories": [
+    "边框",
+    "姿态：转攻",
+    "姿态：守护誓约"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Leona_9.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_leona_skin09.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004410.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年8月14日",
+    "endDate": "2026年9月21日",
+    "description": "水晶玫瑰2026·永恒绽放",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

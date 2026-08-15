@@ -1,7 +1,15 @@
-﻿{
-    "id":  "leona",
-    "name":  "蕾欧娜",
-    "alias":  "Leona",
-    "key":  89,
-    "title":  "曙光女神"
+{
+  "id": "leona",
+  "name": "蕾欧娜",
+  "alias": "Leona",
+  "key": 89,
+  "title": "曙光女神",
+  "wr": {
+    "id": 10044,
+    "name": "蕾欧娜",
+    "alias": "leiouna",
+    "key": "10044",
+    "title": "曙光女神",
+    "platform": "wr"
+  }
 }
