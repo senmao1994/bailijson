@@ -1,7 +1,15 @@
-﻿{
-    "id":  "nami",
-    "name":  "娜美",
-    "alias":  "Nami",
-    "key":  267,
-    "title":  "唤潮鲛姬"
+{
+  "id": "nami",
+  "name": "娜美",
+  "alias": "Nami",
+  "key": 267,
+  "title": "唤潮鲛姬",
+  "wr": {
+    "id": 10091,
+    "name": "娜美",
+    "alias": "namei",
+    "key": "10091",
+    "title": "唤潮鲛姬",
+    "platform": "wr"
+  }
 }

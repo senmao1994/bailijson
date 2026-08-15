@@ -1,0 +1,55 @@
+{
+  "id": 1009112,
+  "name": "水晶玫瑰 娜美",
+  "roitName": "Crystal Rose Nami",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "180",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "守护",
+  "universe": "水晶玫瑰",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "同气连枝之族，早已构成彼此命运的一部分。纵然风浪曾使他们离散，黑暗曾令他们停驻，但那份源自同族血脉的牵系，却始终将他们引向同一个方向。守护者娜美在玫瑰的光华之下见证着这份守望相依的同族之爱。",
+  "accessories": [
+    "边框",
+    "姿态：馨悦",
+    "姿态：盛情相邀"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nami_11.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_nami_skin11.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/nami/水晶玫瑰 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009112.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/nami/水晶玫瑰 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年8月14日",
+    "endDate": "2026年9月21日",
+    "description": "水晶玫瑰2026·永恒绽放",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
