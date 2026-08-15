@@ -1,0 +1,53 @@
+{
+  "id": 1001312,
+  "name": "水晶玫瑰 黛安娜",
+  "roitName": "Crystal Rose Diana",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "守护",
+  "universe": "水晶玫瑰",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "并非所有真心都能为世人所容，有些誓言之所以沉重，只因它们必须在质疑与非议中被反复证明。可真正坚定的连结，从不会因世界的否定而轻易崩塌。在这条不见天日的道路中，守护者黛安娜与那些心意始终相随。",
+  "accessories": [
+    "边框",
+    "姿态：逆月",
+    "姿态：水晶锋刃"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Diana_11.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_diana_skin11.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1001312.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年8月14日",
+    "endDate": "2026年9月21日",
+    "description": "水晶玫瑰2026·永恒绽放",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

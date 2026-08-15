@@ -3,5 +3,13 @@
   "name": "黛安娜",
   "alias": "Diana",
   "key": 131,
-  "title": "皎月女神"
+  "title": "皎月女神",
+  "wr": {
+    "id": 10013,
+    "name": "黛安娜",
+    "alias": "daianna",
+    "key": "10013",
+    "title": "皎月女神",
+    "platform": "wr"
+  }
 }
