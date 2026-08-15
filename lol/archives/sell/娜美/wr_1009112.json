@@ -5,7 +5,7 @@
   "sortName": "水晶玫瑰",
   "rarity": "史诗",
   "raritySubType": "限定",
-  "price": "180",
+  "price": "1800",
   "priceUnit": "点券(随机保底1款)",
   "skinline": "守护",
   "universe": "水晶玫瑰",
@@ -19,7 +19,6 @@
   ],
   "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nami_11.jpg",
   "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_nami_skin11.png",
-  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/nami/水晶玫瑰 头像.png",
   "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009112.png",
   "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/nami/水晶玫瑰 边框.png",
   "roit": {
