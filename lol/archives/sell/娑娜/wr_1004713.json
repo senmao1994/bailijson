@@ -1,0 +1,54 @@
+{
+  "id": 1004713,
+  "name": "至臻 水晶玫瑰 娑娜",
+  "roitName": "Prestige Crystal Rose Sona",
+  "sortName": "至臻 水晶玫瑰",
+  "rarity": "神话",
+  "raritySubType": "至臻",
+  "price": "1000",
+  "priceUnit": "橙色原石",
+  "skinline": "守护",
+  "universe": "水晶玫瑰",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "娑娜踏着琴声款款步入舞池，裙裾之上、珠光玲珑；举手投足、音律流转。这份华美，让水晶玫瑰的守护者们都心生认可。",
+  "accessories": [
+    "边框",
+    "姿态：抚琴",
+    "姿态：玫瑰恋曲",
+    "姿态：红晶恋心"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sona_12.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_sona_skin12.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1004713.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年8月14日",
+    "endDate": "2026年9月21日",
+    "description": "首周900橙色原石",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

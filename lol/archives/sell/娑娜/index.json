@@ -1,7 +1,15 @@
-﻿{
-    "id":  "sona",
-    "name":  "娑娜",
-    "alias":  "Sona",
-    "key":  37,
-    "title":  "琴瑟仙女"
+{
+  "id": "sona",
+  "name": "娑娜",
+  "alias": "Sona",
+  "key": 37,
+  "title": "琴瑟仙女",
+  "wr": {
+    "id": 10047,
+    "name": "娑娜",
+    "alias": "suona",
+    "key": "10047",
+    "title": "琴瑟仙女",
+    "platform": "wr"
+  }
 }
