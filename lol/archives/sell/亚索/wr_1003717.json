@@ -1,0 +1,57 @@
+{
+  "id": 1003717,
+  "name": "水晶玫瑰 亚索",
+  "roitName": "Crystal Rose Yasuo",
+  "sortName": "水晶玫瑰",
+  "rarity": "传说",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "守护",
+  "universe": "水晶玫瑰",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "风中许下的重逢之约，独行中背负的旧誓……那些未能抵达终点的真情，在沉默中更显清晰。亚索曾在自己的旅途中经历过太多离散，而此刻，正以水晶玫瑰守护者的身份守望着世间所有浪漫的缺憾。",
+  "accessories": [
+    "边框",
+    "姿态：持剑",
+    "姿态：傲立剑风",
+    "姿态：双剑争花",
+    "姿态：孤风品花"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Yasuo_16.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_yasuo_skin16.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/水晶玫瑰 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003717.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/水晶玫瑰 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年8月14日",
+    "endDate": "2026年9月21日",
+    "description": "水晶玫瑰2026·永恒绽放",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
