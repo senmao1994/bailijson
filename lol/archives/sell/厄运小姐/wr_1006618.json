@@ -1,0 +1,55 @@
+{
+  "id": 1006618,
+  "name": "水晶玫瑰 厄运小姐",
+  "roitName": "Crystal Rose Miss Fortune",
+  "sortName": "水晶玫瑰",
+  "rarity": "传说",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "守护",
+  "universe": "水晶玫瑰",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "魅力可以成就真情，也可以掩饰伪意。那些借浪漫之名，织就空洞誓言的伪君子，都会面对守护者莎拉的审判。毕竟她的信条是：唯有真正炽热的情感，才配在她的祝福下盛放，一如玫瑰。",
+  "accessories": [
+    "边框",
+    "姿态：预瞄",
+    "姿态：火力优势"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Missfortune_17.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_missfortune_skin17.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/水晶玫瑰 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006618.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/水晶玫瑰 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年8月14日",
+    "endDate": "2026年9月21日",
+    "description": "水晶玫瑰2026·永恒绽放",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
