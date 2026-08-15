@@ -1,0 +1,56 @@
+{
+  "id": 1003115,
+  "name": "臻藏 水晶玫瑰 阿卡丽",
+  "roitName": "Prestige Select Crystal Rose Akali",
+  "sortName": "臻藏 水晶玫瑰",
+  "rarity": "神话",
+  "raritySubType": "臻藏",
+  "price": "1500",
+  "priceUnit": "橙色原石",
+  "skinline": "守护",
+  "universe": "水晶玫瑰",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "刃状裙摆随着轻悄的步履扫过地面，不带半分声响——舞池中的阿卡丽耀眼而危险。既然她不愿被人定义，那她的浪漫，也不会由旧日的权威来审视。",
+  "accessories": [
+    "边框",
+    "姿态：迎立",
+    "姿态：伺机而动",
+    "姿态：晶化武装"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Akali_14.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_akali_skin14.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/akali/臻藏 水晶玫瑰 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003115.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/akali/臻藏 水晶玫瑰 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年8月14日",
+    "endDate": "2026年9月21日",
+    "description": "首周1350橙色原石",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
