@@ -3,5 +3,13 @@
   "name": "锐雯",
   "alias": "ruiwen",
   "key": "10092",
-  "title": "放逐之刃"
+  "title": "放逐之刃",
+  "wr": {
+    "id": 10092,
+    "name": "锐雯",
+    "alias": "ruiwen",
+    "key": "10092",
+    "title": "放逐之刃",
+    "platform": "wr"
+  }
 }

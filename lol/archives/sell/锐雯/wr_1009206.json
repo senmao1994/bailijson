@@ -1,0 +1,54 @@
+{
+  "id": 1009206,
+  "name": "水晶玫瑰 锐雯",
+  "roitName": "Crystal Rose Riven",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "舞会",
+  "universe": "水晶玫瑰",
+  "pushDate": "3.4",
+  "series": null,
+  "backstory": "锐雯一直梦想能够收到水晶玫瑰舞会的邀请。现在终于有机会参加了，她希望能找个机会来澄清一下舞伴之间的一些流言蜚语。",
+  "accessories": [
+    "边框",
+    "姿态：荆棘"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Riven_5.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_riven_skin05.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/riven/水晶玫瑰 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1009206.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/riven/水晶玫瑰 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2022年9月25日",
+    "endDate": "2022年10月9日",
+    "description": "每年水晶玫瑰活动返场",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
