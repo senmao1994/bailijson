@@ -1,0 +1,55 @@
+{
+  "id": 1006903,
+  "name": "水晶玫瑰 永恩",
+  "roitName": "Crystal Rose Yone",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "舞会",
+  "universe": "水晶玫瑰",
+  "pushDate": "3.4",
+  "series": null,
+  "backstory": "永恩很高兴收到来自水晶玫瑰舞会的邀请。虽然他也想抽出时间与合适的舞伴共舞一曲，但他更急着想找舞会的主办人谈谈，希望借机了解自己恶魔面具所隐藏的力量。",
+  "accessories": [
+    "边框",
+    "姿态：护花",
+    "姿态：花间双影"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Yone_2.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_yone_skin02.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yone/水晶玫瑰 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006903.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yone/水晶玫瑰 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2022年9月22日",
+    "endDate": "每年水晶玫瑰活动返场",
+    "description": "限时790点券直售1年，后续抽奖返场",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

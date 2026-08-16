@@ -1,7 +1,15 @@
-﻿{
-    "id":  "yone",
-    "name":  "永恩",
-    "alias":  "Yone",
-    "key":  777,
-    "title":  "封魔剑魂"
+{
+  "id": "yone",
+  "name": "永恩",
+  "alias": "Yone",
+  "key": 777,
+  "title": "封魔剑魂",
+  "wr": {
+    "id": 10069,
+    "name": "永恩",
+    "alias": "yongen",
+    "key": "10069",
+    "title": "封魔剑魂",
+    "platform": "wr"
+  }
 }
