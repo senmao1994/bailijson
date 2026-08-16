@@ -1,0 +1,55 @@
+{
+  "id": 1010108,
+  "name": "水晶玫瑰 杰斯",
+  "roitName": "Crystal Rose Jayce",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "舞会",
+  "universe": "水晶玫瑰",
+  "pushDate": "4.4",
+  "series": null,
+  "backstory": "杰斯是一年一度水晶玫瑰舞会的守护者，也是这座殿宇中鼎鼎大名的水晶玫瑰法阵的发明人——当英雄们绚烂起舞时，他的法阵就能将祝福的力量，幻化成璀璨耀眼的水晶玫瑰。",
+  "accessories": [
+    "边框",
+    "姿态：绅士",
+    "姿态：邀约"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Jayce_7.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_jayce_skin07.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/jayce/水晶玫瑰 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010108.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/jayce/水晶玫瑰 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2023年12月3日",
+    "endDate": "2023年12月16日",
+    "description": "每年水晶玫瑰活动返场",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
