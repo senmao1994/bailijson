@@ -3,5 +3,13 @@
   "name": "萨勒芬妮",
   "alias": "Seraphine",
   "key": 147,
-  "title": "星籁歌姬"
+  "title": "星籁歌姬",
+  "wr": {
+    "id": 10034,
+    "name": "萨勒芬妮",
+    "alias": "salefenni",
+    "key": "10034",
+    "title": "星籁歌姬",
+    "platform": "wr"
+  }
 }

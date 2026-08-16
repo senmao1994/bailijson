@@ -1,0 +1,55 @@
+{
+  "id": 1003406,
+  "name": "水晶玫瑰 萨勒芬妮",
+  "roitName": "Crystal Rose Seraphine",
+  "sortName": "水晶玫瑰",
+  "rarity": "传说",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "庆典",
+  "universe": "水晶玫瑰",
+  "pushDate": "4.4",
+  "series": null,
+  "backstory": "萨勒芬妮受到诚挚邀请，来参加充满魔力的水晶玫瑰舞会。在这里，四面八方的客人摒弃所有嫌隙，为了认识新朋友、缔结新盟约而共度良宵。由于萨勒芬妮的能力是可以听到灵魂的声音，所以她是舞会上的红人，所有人都争抢与她共处片刻的时间。不过，萨勒芬妮来到这里并不是为了攀附权贵，也不是为了找寻浪漫，其实，她只是想找个理由与好闺蜜格温一起穿上漂亮衣服，一起开心。",
+  "accessories": [
+    "边框",
+    "姿态：晶耀",
+    "姿态：悦耳"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Seraphine_5.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_seraphine_skin05.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/seraphine/水晶玫瑰 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003406.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/seraphine/水晶玫瑰 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2023年12月3日",
+    "endDate": "2023年12月16日",
+    "description": "每年水晶玫瑰活动返场",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
