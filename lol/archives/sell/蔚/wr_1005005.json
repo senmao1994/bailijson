@@ -1,0 +1,54 @@
+{
+  "id": 1005005,
+  "name": "水晶玫瑰 蔚",
+  "roitName": "Crystal Rose Vi",
+  "sortName": "水晶玫瑰",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "1800",
+  "priceUnit": "点券(随机保底1款)",
+  "skinline": "舞会",
+  "universe": "水晶玫瑰",
+  "pushDate": "3.4",
+  "series": null,
+  "backstory": "尽管蔚觉得自己与水晶玫瑰舞会的浮华光影有些格格不入，但她还是在这个夜晚发现了自己优雅又调皮的一面。她希望在今夜找到一个不介意由她来领舞的舞伴。",
+  "accessories": [
+    "边框",
+    "姿态：怒放"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vi_4.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_vi_skin04.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/vi/水晶玫瑰 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005005.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/vi/水晶玫瑰 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2022年9月25日",
+    "endDate": "2022年10月9日",
+    "description": "每年水晶玫瑰活动返场",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
