@@ -10,18 +10,15 @@
   "skinline": "斗魂觉醒",
   "universe": "斗魂觉醒",
   "pushDate": "2023年8月3日",
-  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/images/gwen_splash_uncentered_20.jpg",
-  "splashHDPath": "",
-  "squareePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/images/gwen_splash_tile_20.jpg",
-  "iconPath": "",
-  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/images/gwen_splash_centered_20.jpg",
-  "circlePath": "",
-  "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887020.png",
-  "specialEditionPath": null,
-  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/gwenloadscreen_20.jpg",
-  "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/gwenloadscreen_20_le.jpg",
+  "series": null,
   "backstory": "她去过世界的尽头……以及彼岸……去拯救她的朋友！根据我现在看到的排名表，她必须和这个朋友一决高下才能赢得这次武道大会！噢！我发誓，这不是故意安排的，伙计们。这可是实况电视节目！一个心怀友谊的少女拿着能够起死回生的剪子：有请格温！",
   "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/images/gwen_splash_uncentered_20.jpg",
+  "squarePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/images/gwen_splash_tile_20.jpg",
+  "centeredPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/images/gwen_splash_centered_20.jpg",
+  "chromaPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887020.png",
+  "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/gwenloadscreen_20.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/gwenloadscreen_20_le.jpg",
   "roit": {
     "price": 1350,
     "priceType": "直售",
@@ -31,13 +28,15 @@
   },
   "tencentPrice": 8900,
   "icon": "5940",
+  "emote": null,
   "tencent": {
     "price": 8900,
     "priceType": "直售",
     "priceTypeChinese": "",
     "priceStartDay": "2023年8月4日10:00",
-    "priceEndDay": "长期销售",
-    "description": ""
+    "priceEndDay": "2023年9月5日6:59",
+    "description": "",
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
@@ -51,6 +50,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -67,9 +67,15 @@
         "priceEndDay": "",
         "description": "这个炫彩曾在2023年期间作为礼包专属发布。"
       },
-      "riotName": "斗魂觉醒 格温 烈之魂焰",
+      "riotName": "Soul Fighter Gwen (Ruby)",
       "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887021.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -94,6 +100,7 @@
         "priceStartDay": "2023年8月4日",
         "priceEndDay": "2023年8月18日9:59",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -110,9 +117,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "斗魂觉醒 格温 毅之魂焰",
+      "riotName": "Soul Fighter Gwen (Citrine)",
       "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887022.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -137,6 +150,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -144,7 +158,8 @@
           "activityTitle": "",
           "price": "",
           "priceUnit": ""
-        }
+        },
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-7a66e879-aa34-474c-99b8-9df6b0531f2b.jpg"
       },
       "roit": {
         "price": 290,
@@ -153,9 +168,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "斗魂觉醒 格温 狡之魂焰",
+      "riotName": "Soul Fighter Gwen (Sapphire)",
       "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887023.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -180,6 +201,7 @@
         "priceStartDay": "2023年8月4日",
         "priceEndDay": "2023年8月18日9:59",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -196,9 +218,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "斗魂觉醒 格温 韧之魂焰",
+      "riotName": "Soul Fighter Gwen (Emerald)",
       "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887024.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -216,13 +244,14 @@
       "id": 887025,
       "name": "斗魂觉醒 格温 飒之魂焰",
       "sortName": "飒之魂焰",
-      "colorName": "青色",
+      "colorName": "青绿色",
       "tencent": {
         "price": 6300,
         "priceType": "橙色精萃",
         "priceStartDay": "2023年8月4日",
         "priceEndDay": "2023年8月18日9:59",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -239,9 +268,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "斗魂觉醒 格温 飒之魂焰",
+      "riotName": "Soul Fighter Gwen (Turquoise)",
       "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887025.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -259,13 +294,14 @@
       "id": 887026,
       "name": "斗魂觉醒 格温 魅之魂焰",
       "sortName": "魅之魂焰",
-      "colorName": "紫色",
+      "colorName": "浅紫",
       "tencent": {
         "price": 6300,
         "priceType": "橙色精萃",
         "priceStartDay": "2023年8月4日",
         "priceEndDay": "2023年8月18日9:59",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -282,9 +318,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "斗魂觉醒 格温 魅之魂焰",
+      "riotName": "Soul Fighter Gwen (Amethyst)",
       "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887026.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -309,6 +351,7 @@
         "priceStartDay": "2024年12月10日",
         "priceEndDay": "长期开放",
         "description": "皮肤成就：解锁4款指定格温皮肤",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -317,7 +360,7 @@
           "price": "",
           "priceUnit": ""
         },
-        "ExquisitePath": "https://www.ghostoact.com/static/arts/img/chroma/auso2mc25t13evs1do3s12bsiredhnyk.jpg"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-b530d906-9f27-42f4-9a06-b2d7bbb97eb3.jpg"
       },
       "roit": {
         "price": 290,
@@ -326,9 +369,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "斗魂觉醒 格温 幻之魂焰",
+      "riotName": "Soul Fighter Gwen (Rose Quartz)",
       "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887027.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -353,6 +402,7 @@
         "priceStartDay": "",
         "priceEndDay": "",
         "description": "",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -369,9 +419,15 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": "斗魂觉醒 格温 灵之魂焰",
+      "riotName": "Soul Fighter Gwen (Sandstone)",
       "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887028.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -396,6 +452,7 @@
         "priceStartDay": "2023年8月4日",
         "priceEndDay": "2023年8月18日9:59",
         "description": "斗魂觉醒(2023)",
+        "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
           "endDate": "",
@@ -412,9 +469,15 @@
         "priceEndDay": "",
         "description": "这个炫彩曾在斗魂觉醒(2023)活动期间作为战利品专属发布。"
       },
-      "riotName": "斗魂觉醒 格温 无限斗志",
+      "riotName": "Soul Fighter Gwen (Limitless)",
       "chromasPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887029.png",
       "mythicIcon": "5935",
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -429,11 +492,14 @@
       ]
     }
   ],
+  "formsCount": null,
+  "forms": [],
   "version": {
     "push": "13.15",
     "update": "",
     "updateChinese": "",
     "updateName": "",
-    "video": "26.01"
-  }
+    "video": ""
+  },
+  "platform": "lol"
 }
