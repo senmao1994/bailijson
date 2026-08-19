@@ -1,7 +1,14 @@
-﻿{
-    "id":  "lux",
-    "name":  "拉克丝",
-    "alias":  "Lux",
-    "key":  99,
-    "title":  "光辉女郎"
+{
+  "id": "lux",
+  "name": "拉克丝",
+  "alias": "Lux",
+  "key": 99,
+  "title": "光辉女郎",
+  "lol": {
+    "id": "lux",
+    "name": "拉克丝",
+    "alias": "Lux",
+    "key": 99,
+    "title": "光辉女郎"
+  }
 }
