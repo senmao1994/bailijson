@@ -1,7 +1,14 @@
-﻿{
-    "id":  "ezreal",
-    "name":  "伊泽瑞尔",
-    "alias":  "Ezreal",
-    "key":  81,
-    "title":  "探险家"
+{
+  "id": "ezreal",
+  "name": "伊泽瑞尔",
+  "alias": "Ezreal",
+  "key": 81,
+  "title": "探险家",
+  "lol": {
+    "id": "ezreal",
+    "name": "伊泽瑞尔",
+    "alias": "Ezreal",
+    "key": 81,
+    "title": "探险家"
+  }
 }
