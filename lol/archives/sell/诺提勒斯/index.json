@@ -1,7 +1,15 @@
-﻿{
-    "id":  "nautilus",
-    "name":  "诺提勒斯",
-    "alias":  "Nautilus",
-    "key":  111,
-    "title":  "深海泰坦"
+{
+  "id": "nautilus",
+  "name": "诺提勒斯",
+  "alias": "Nautilus",
+  "key": 111,
+  "title": "深海泰坦",
+  "wr": {
+    "id": 10132,
+    "name": "诺提勒斯",
+    "alias": "nuotilesi",
+    "key": "10132",
+    "title": "深海泰坦",
+    "platform": "wr"
+  }
 }

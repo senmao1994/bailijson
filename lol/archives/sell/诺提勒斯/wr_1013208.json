@@ -1,0 +1,103 @@
+{
+  "id": 1013208,
+  "name": "“圾”流勇进 诺提勒斯",
+  "roitName": "\rTrash Diver Nautilus",
+  "sortName": "“圾”流勇进",
+  "rarity": "特效",
+  "raritySubType": "",
+  "price": "450",
+  "priceUnit": "点券",
+  "skinline": "",
+  "universe": "",
+  "pushDate": "7.2",
+  "series": null,
+  "backstory": "为了整顿校园内乱丢垃圾的现象，新上任的“卫生督导员”诺提勒斯开始了一天的工作。他扛着巨大的拾取器穿行于各个角落，以无声威压劝导乱丢垃圾的同学。遇到屡教不改者，他便将其请到背后的回收桶内“学习”垃圾分类知识。在他的铁腕“劝导”下，连最顽固的刺头都会主动帮忙打扫卫生。",
+  "accessories": [
+    "姿态：环保",
+    "姿态：尽收桶中"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nautilus_7.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_nautilus_skin07.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013208.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 101320801,
+      "name": "“圾”流勇进 诺提勒斯 桶治达人",
+      "sortName": "桶治达人",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年8月21日",
+          "endDate": "2026年9月20日23:59",
+          "description": "",
+          "activityTitle": "限时礼包",
+          "price": "250",
+          "priceUnit": "点券"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": null,
+      "chromasPath": null,
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/nautilus/Screenshot_2026-08-21-23-10-07-840_com.tencent.l..jpg",
+      "closeUpPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/nautilus/Screenshot_2026-08-21-23-10-11-223_com.tencent.l..jpg",
+      "wildRiftSell": {
+        "startDate": "2026年8月21日",
+        "endDate": "2026年9月20日23:59",
+        "description": "",
+        "activityTitle": "限时礼包",
+        "price": "250",
+        "priceUnit": "点券"
+      },
+      "colors": [
+        "#FF0000",
+        "#FF0000"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "sell": {
+    "startDate": "2026年8月21日",
+    "endDate": "2026年9月20日23:59",
+    "description": "限时60点券折扣售卖",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
