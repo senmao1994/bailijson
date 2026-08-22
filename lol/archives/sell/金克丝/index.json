@@ -3,5 +3,12 @@
   "name": "金克丝",
   "alias": "jinkesi",
   "key": "10018",
-  "title": "暴走萝莉"
+  "title": "暴走萝莉",
+  "lol": {
+    "id": "jinx",
+    "name": "金克丝",
+    "alias": "Jinx",
+    "key": 222,
+    "title": "暴走萝莉"
+  }
 }
