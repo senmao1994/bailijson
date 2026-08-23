@@ -19,8 +19,11 @@
   ],
   "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Missfortune_15.jpg",
   "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_missfortune_skin15.png",
+  "iconPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 图标.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 头像.png",
   "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006616.png",
   "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 边框.png",
+  "emotePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 表情.png",
   "roit": {
     "price": 0,
     "priceType": "直售",
@@ -69,7 +72,7 @@
         "priceEndDay": "",
         "description": ""
       },
-      "riotName": null,
+      "riotName": "Cryptic Depth Miss Fortune (Amethyst)",
       "chromasPath": null,
       "mythicIcon": null,
       "type": "mythic",
