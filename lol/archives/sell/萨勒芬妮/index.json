@@ -11,5 +11,12 @@
     "key": "10034",
     "title": "星籁歌姬",
     "platform": "wr"
+  },
+  "lol": {
+    "id": "seraphine",
+    "name": "萨勒芬妮",
+    "alias": "Seraphine",
+    "key": 147,
+    "title": "星籁歌姬"
   }
 }
