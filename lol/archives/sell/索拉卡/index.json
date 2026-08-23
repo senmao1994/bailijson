@@ -1,7 +1,14 @@
-﻿{
-    "id":  "soraka",
-    "name":  "索拉卡",
-    "alias":  "Soraka",
-    "key":  16,
-    "title":  "众星之子"
+{
+  "id": "soraka",
+  "name": "索拉卡",
+  "alias": "Soraka",
+  "key": 16,
+  "title": "众星之子",
+  "lol": {
+    "id": "soraka",
+    "name": "索拉卡",
+    "alias": "Soraka",
+    "key": 16,
+    "title": "众星之子"
+  }
 }
