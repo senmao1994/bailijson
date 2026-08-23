@@ -56,8 +56,8 @@
         "wildRiftSell": {
           "startDate": "2026年8月21日",
           "endDate": "2026年9月21日",
-          "description": "拥有对应原皮才能使用焕彩",
-          "activityTitle": "深海奇域活动",
+          "description": "深海奇域2026活动",
+          "activityTitle": "拥有对应原皮才能使用焕彩",
           "price": "120",
           "priceUnit": "深海珍珠"
         }
@@ -81,8 +81,8 @@
       "wildRiftSell": {
         "startDate": "2026年8月21日",
         "endDate": "2026年9月21日",
-        "description": "拥有对应原皮才能使用焕彩",
-        "activityTitle": "深海奇域活动",
+        "description": "深海奇域2026活动",
+        "activityTitle": "拥有对应原皮才能使用焕彩",
         "price": "120",
         "priceUnit": "深海珍珠"
       },
