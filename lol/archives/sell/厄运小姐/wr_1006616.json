@@ -54,12 +54,12 @@
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": {
-          "startDate": "",
-          "endDate": "",
-          "description": "暂无",
-          "activityTitle": "暂无",
-          "price": "暂无",
-          "priceUnit": ""
+          "startDate": "2026年8月21日",
+          "endDate": "2026年9月21日",
+          "description": "拥有对应原皮才能使用焕彩",
+          "activityTitle": "深海奇域活动",
+          "price": "120",
+          "priceUnit": "深海珍珠"
         }
       },
       "roit": {
@@ -73,18 +73,18 @@
       "chromasPath": null,
       "mythicIcon": null,
       "type": "mythic",
-      "borderPath": null,
+      "borderPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 暗潮 边框.png",
       "loadingMythicPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 暗潮 载入.jpg",
       "splashMythicPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/missfortune/深海奇域 暗潮.jpg",
       "modelPath": null,
       "closeUpPath": null,
       "wildRiftSell": {
-        "startDate": "",
-        "endDate": "",
-        "description": "暂无",
-        "activityTitle": "暂无",
-        "price": "暂无",
-        "priceUnit": ""
+        "startDate": "2026年8月21日",
+        "endDate": "2026年9月21日",
+        "description": "拥有对应原皮才能使用焕彩",
+        "activityTitle": "深海奇域活动",
+        "price": "120",
+        "priceUnit": "深海珍珠"
       },
       "colors": [
         "#4B0082",
