@@ -1,0 +1,50 @@
+{
+  "id": 887000,
+  "name": "灵罗娃娃",
+  "roitName": "The Hallowed Seamstress Gwen",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "暗影岛",
+  "universe": "英雄联盟宇宙",
+  "pushDate": "2021年04月15日",
+  "series": null,
+  "backstory": "格温是一个被魔法赋予了生命的玩偶，而她所挥使的正是当初创造了她自己的工具。格温无比珍惜这份机缘，踏出的每一步都承载着曾经主人的爱意。格温拥有控制“圣霭”的能力。这是一种来自远古的庇护性法术，她的剪刀、衣针和缝线都因圣霭而得到了庇佑。即便有这么多新奇的事物等待着格温，她既感到兴奋，但又带着强烈的使命感，决心拯救在这个破碎世界里艰难挣扎的人们。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/base/images/gwen_splash_uncentered_0.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/base/images/gwen_splash_tile_0.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/base/images/gwen_splash_centered_0.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/base/gwenloadscreen_0.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6031",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Rewards/TFTBattlepass/EM_BATTLEPASS_GWENPEACE_Inventory.png",
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2023年9月1日10:00",
+    "priceEndDay": "2023年10月7日9:59",
+    "description": "格温 肖像图标",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "11.8",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
