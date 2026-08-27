@@ -30,11 +30,11 @@
   "emote": null,
   "tencent": {
     "price": 8900,
-    "priceType": "直售",
+    "priceType": "特殊获取",
     "priceTypeChinese": "15周年限定",
     "priceStartDay": "2026年8月27日",
-    "priceEndDay": "限时上架销售",
-    "description": "",
+    "priceEndDay": "2026年10月7日",
+    "description": "完成1场胜利 9月13日免费领取",
     "hasFullGiftPack": false
   },
   "chromas": [
@@ -68,6 +68,7 @@
       "splashMythicPath": null,
       "modelPath": null,
       "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#D33528",
@@ -104,6 +105,7 @@
       "splashMythicPath": null,
       "modelPath": null,
       "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#FFEE59",
@@ -140,6 +142,7 @@
       "splashMythicPath": null,
       "modelPath": null,
       "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#2DA130",
@@ -176,6 +179,7 @@
       "splashMythicPath": null,
       "modelPath": null,
       "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#73BFBE",
@@ -212,6 +216,7 @@
       "splashMythicPath": null,
       "modelPath": null,
       "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#2756CE",
@@ -248,6 +253,7 @@
       "splashMythicPath": null,
       "modelPath": null,
       "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#E58BA5",
@@ -284,6 +290,7 @@
       "splashMythicPath": null,
       "modelPath": null,
       "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#27211C",
@@ -302,7 +309,8 @@
         "priceEndDay": "",
         "description": "",
         "hasFullGiftPack": false,
-        "wildRiftSell": null
+        "wildRiftSell": null,
+        "ExquisitePath": "https://img.crawler.qq.com/lolwebschool/0/JAutoCMS_LCU_d9601b28fcf400acbbc1db17950b4a2b/0"
       },
       "roit": {
         "price": 290,
@@ -320,6 +328,7 @@
       "splashMythicPath": null,
       "modelPath": null,
       "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#ECF9F8",
