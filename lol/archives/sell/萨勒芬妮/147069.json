@@ -34,7 +34,7 @@
     "priceType": "直售",
     "priceTypeChinese": "守护者的赤诚",
     "priceStartDay": "2026年8月27日",
-    "priceEndDay": "限时上架销售",
+    "priceEndDay": "2026年10月8日",
     "description": "2026年慈善皮肤",
     "hasFullGiftPack": true
   },
@@ -46,12 +46,13 @@
       "colorName": "红色",
       "tencent": {
         "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "priceType": "臻彩",
+        "priceStartDay": "2026年8月27日",
+        "priceEndDay": "2026年10月8日",
+        "description": "幸运之门",
         "hasFullGiftPack": false,
-        "wildRiftSell": null
+        "wildRiftSell": null,
+        "ExquisitePath": "https://img.crawler.qq.com/lolwebschool/0/JAutoCMS_LCU_e315484a87e376eae25870678a260c2e/0"
       },
       "roit": {
         "price": 290,
@@ -83,12 +84,13 @@
       "colorName": "蓝色",
       "tencent": {
         "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "priceType": "臻彩",
+        "priceStartDay": "2026年8月27日",
+        "priceEndDay": "2026年10月8日",
+        "description": "幸运之门",
         "hasFullGiftPack": false,
-        "wildRiftSell": null
+        "wildRiftSell": null,
+        "ExquisitePath": "https://img.crawler.qq.com/lolwebschool/0/JAutoCMS_LCU_260f9bc418e57455a0f4dfb86c80698a/0"
       },
       "roit": {
         "price": 290,
@@ -120,12 +122,13 @@
       "colorName": "珍珠白",
       "tencent": {
         "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "priceType": "臻彩",
+        "priceStartDay": "2026年8月27日",
+        "priceEndDay": "2026年10月8日",
+        "description": "幸运之门",
         "hasFullGiftPack": false,
-        "wildRiftSell": null
+        "wildRiftSell": null,
+        "ExquisitePath": "https://img.crawler.qq.com/lolwebschool/0/JAutoCMS_LCU_8e8568b5157fb030a428064ed2997f07/0"
       },
       "roit": {
         "price": 290,
