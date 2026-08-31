@@ -1,0 +1,350 @@
+{
+  "id": 147034,
+  "name": "星之守护者 萨勒芬妮",
+  "roitName": "Star Guardian Seraphine",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "星之守护者 第四季",
+  "universe": "星之守护者宇宙",
+  "pushDate": "2023年06月28日",
+  "series": null,
+  "backstory": "萨勒芬妮的全银河系巡回个人演唱会刚刚结束，是时候回到星之守护者的行列了。能和新的英雄组队让她超级兴奋，她也毫不掩饰地传递着自己的热情。他们在为真爱而战……还有比这更浪漫的事吗？！",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin34/images/seraphine_splash_uncentered_34.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin34/images/seraphine_splash_tile_34.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin34/images/seraphine_splash_centered_34.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147034.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin34/seraphineloadscreen_34.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin34/seraphineloadscreen_34_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "5868",
+  "emote": null,
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2023年6月30日10:00",
+    "priceEndDay": "2023年7月14日9:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 147035,
+      "name": "星之守护者 萨勒芬妮 热情之光",
+      "sortName": "热情之光",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2023年6月30日10:00",
+        "priceEndDay": "2023年7月14日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Star Guardian Seraphine (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147035.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 147036,
+      "name": "星之守护者 萨勒芬妮 智慧之光",
+      "sortName": "智慧之光",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "2023年6月30日10:00",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Star Guardian Seraphine (Sapphire)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147036.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 147037,
+      "name": "星之守护者 萨勒芬妮 未来之光",
+      "sortName": "未来之光",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 1,
+        "priceType": "礼包",
+        "priceStartDay": "2023年6月30日10:00",
+        "priceEndDay": "2023年7月14日10:0",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-2ef62468-95ce-4ecc-a539-f83b484cfabf.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Star Guardian Seraphine (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147037.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 147038,
+      "name": "星之守护者 萨勒芬妮 拥抱之光",
+      "sortName": "拥抱之光",
+      "colorName": "青绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "2023年6月30日10:00",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Star Guardian Seraphine (Turquoise)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147038.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 147039,
+      "name": "星之守护者 萨勒芬妮 勇气之光",
+      "sortName": "勇气之光",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "2023年6月30日10:00",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Star Guardian Seraphine (Emerald)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147039.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 147040,
+      "name": "星之守护者 萨勒芬妮 正义之光",
+      "sortName": "正义之光",
+      "colorName": "珍珠白",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "2023年6月30日10:00",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Star Guardian Seraphine (Pearl)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147040.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 147041,
+      "name": "星之守护者 萨勒芬妮 守护之光",
+      "sortName": "守护之光",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "2023年6月30日10:00",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Star Guardian Seraphine (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147041.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 147042,
+      "name": "星之守护者 萨勒芬妮 月虹之光",
+      "sortName": "月虹之光",
+      "colorName": "彩虹",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "2023年6月30日10:00",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Star Guardian Seraphine (Rainbow)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147042.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#C1F2FF",
+        "#C1F2FF"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "13.13",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
