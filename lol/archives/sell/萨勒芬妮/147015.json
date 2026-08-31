@@ -1,0 +1,51 @@
+{
+  "id": 147015,
+  "name": "至臻 海之歌 萨勒芬妮",
+  "roitName": "Prestige Ocean Song Seraphine",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "海之歌",
+  "universe": "清凉盛夏",
+  "pushDate": "2022年06月09日",
+  "series": null,
+  "backstory": "永不满足于随波逐流的萨勒芬妮以她全新的海之微风造型掀起波澜。无论是在伸展台上还是音乐会舞台上，沙滩季开场，海水暖洋洋。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin15/images/seraphine_splash_uncentered_15.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin15/images/seraphine_splash_tile_15.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin15/images/seraphine_splash_centered_15.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin15/seraphineloadscreen_15.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin15/seraphineloadscreen_15_le.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "5389",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/OceanSong/EM_PRESTIGE_OCEAN_SONG_SERAPHINE_Inventory.png",
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "",
+    "priceStartDay": "2022年5月13日",
+    "priceEndDay": "2022年6月26日23:59",
+    "description": "首发125神话精萃",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "12.11",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
