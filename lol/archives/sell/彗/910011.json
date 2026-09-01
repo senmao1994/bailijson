@@ -1,0 +1,388 @@
+{
+  "id": 910011,
+  "name": "灵魂莲华 彗",
+  "roitName": "Spirit Blossom Hwei",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "灵魂莲华",
+  "universe": "灵魂莲华",
+  "pushDate": "2025年06月25日",
+  "series": null,
+  "backstory": "传说中有位四处云游的画圣，他喜欢徜徉在灵魂的交界之处，行走于光与暗之间。他手中掌握着明昼与夜幽的力量，大笔一挥便能勘破所画之物的内心。机缘巧合下，他来到一座神庙，便为这片圣地的守护者——狩灵之箭画了张像。然而，画像却逐渐扭曲，化为了纯粹的怒火——这个故事警醒世人，做人要忠于自己，否则终究会被画圣识破自己内心的秘密。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin11/images/hwei_splash_uncentered_11.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin11/images/hwei_splash_tile_11.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin11/images/hwei_splash_centered_11.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910011.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin11/hweiloadscreen_11.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin11/hweiloadscreen_11_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "6891",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/SpiritBlossom/4885_Broken_Hweart_Inventory.png",
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年6月26日",
+    "priceEndDay": "2026年8月27日",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 910012,
+      "name": "灵魂莲华 彗 流火",
+      "sortName": "流火",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2025年6月26日",
+        "priceEndDay": "2025年7月10日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Spirit Blossom Hwei (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910012.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 910013,
+      "name": "灵魂莲华 彗 雁来",
+      "sortName": "雁来",
+      "colorName": "金黄",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2026年4月29日",
+        "priceEndDay": "2026年5月27日23:59",
+        "description": "华彩秘宝·召唤",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-e27b368d-8a98-45f1-ac06-2f160a7c1400.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Spirit Blossom Hwei (Catseye)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910013.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 910014,
+      "name": "灵魂莲华 彗 云开",
+      "sortName": "云开",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 4900,
+        "priceType": "惊喜礼盒",
+        "priceStartDay": "2025年6月26日",
+        "priceEndDay": "2026年8月27日",
+        "description": "莲华绽放·第2幕惊喜礼盒",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Spirit Blossom Hwei (Emerald)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910014.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 910015,
+      "name": "灵魂莲华 彗 风起",
+      "sortName": "风起",
+      "colorName": "青绿色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年6月26日",
+        "priceEndDay": "2025年7月10日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Spirit Blossom Hwei (Turquoise)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910015.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#73BFBE",
+        "#73BFBE"
+      ]
+    },
+    {
+      "id": 910016,
+      "name": "灵魂莲华 彗 兰秋",
+      "sortName": "兰秋",
+      "colorName": "浅紫",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年6月26日",
+        "priceEndDay": "2025年7月10日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Spirit Blossom Hwei (Amethyst)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910016.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9C68D7",
+        "#9C68D7"
+      ]
+    },
+    {
+      "id": 910017,
+      "name": "灵魂莲华 彗 朝花",
+      "sortName": "朝花",
+      "colorName": "珍珠白",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "2026年8月7日",
+        "priceEndDay": "2026年9月6日23:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null,
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-ea2cca95-1f41-4050-87e0-04ecf96a4784.jpg"
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Spirit Blossom Hwei (Pearl)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910017.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 910018,
+      "name": "灵魂莲华 彗 月升",
+      "sortName": "月升",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2025年6月26日",
+        "priceEndDay": "2025年7月10日9:59",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Spirit Blossom Hwei (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910018.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 910019,
+      "name": "灵魂莲华 彗 春晓",
+      "sortName": "春晓",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Spirit Blossom Hwei (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910019.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 910020,
+      "name": "灵魂莲华 彗 至强",
+      "sortName": "至强",
+      "colorName": "圣堂",
+      "tencent": {
+        "price": 10,
+        "priceType": "圣堂抽奖",
+        "priceStartDay": "2025年6月26日",
+        "priceEndDay": "2025年8月27日",
+        "description": "灵魂莲华 莫甘娜 A阶奖池炫彩",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 10,
+        "priceType": "圣堂抽奖",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Spirit Blossom Hwei (Paragon)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/910/910020.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#9836EB",
+        "#233CF4"
+      ]
+    }
+  ],
+  "formsCount": null,
+  "forms": [],
+  "version": {
+    "push": "25.13",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
