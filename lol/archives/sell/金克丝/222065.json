@@ -16,7 +16,7 @@
   "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin65/images/jinx_splash_uncentered_65.skins_jinx_skin65.jpg",
   "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin65/images/jinx_splash_tile_65.skins_jinx_skin65.jpg",
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin65/images/jinx_splash_centered_65.skins_jinx_skin65.jpg",
-  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222065.png",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin65/chromapreview.skins_jinx_skin65.png",
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin65/jinxloadscreen_65.skins_jinx_skin65.jpg",
   "roit": {
     "price": 1350,
@@ -310,7 +310,7 @@
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null,
-        "ExquisitePath": "https://img.crawler.qq.com/lolwebschool/0/JAutoCMS_LCU_2da2f44125dc0c7720ab0ef7e829af5c/0"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-bf21aa87-2066-477e-8d7f-9940e022bf15.jpg"
       },
       "roit": {
         "price": 290,
