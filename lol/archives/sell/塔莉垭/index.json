@@ -1,7 +1,14 @@
-﻿{
-    "id":  "taliyah",
-    "name":  "塔莉垭",
-    "alias":  "Taliyah",
-    "key":  163,
-    "title":  "岩雀"
+{
+  "id": "taliyah",
+  "name": "塔莉垭",
+  "alias": "Taliyah",
+  "key": 163,
+  "title": "岩雀",
+  "lol": {
+    "id": "taliyah",
+    "name": "塔莉垭",
+    "alias": "Taliyah",
+    "key": 163,
+    "title": "岩雀"
+  }
 }
