@@ -16,7 +16,7 @@
   "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin63/images/soraka_splash_uncentered_63.skins_soraka_skin63.jpg",
   "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin63/images/soraka_splash_tile_63.skins_soraka_skin63.jpg",
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin63/images/soraka_splash_centered_63.skins_soraka_skin63.jpg",
-  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16063.png",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin63/chromapreview.skins_soraka_skin63.png",
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin63/sorakaloadscreen_63.skins_soraka_skin63.jpg",
   "roit": {
     "price": 1350,
@@ -310,7 +310,7 @@
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null,
-        "ExquisitePath": "https://img.crawler.qq.com/lolwebschool/0/JAutoCMS_LCU_d9601b28fcf400acbbc1db17950b4a2b/0"
+        "ExquisitePath": "https://game.gtimg.cn/images/lol/act/a20230715chromahub/skin/site3-ba8d1eeb-4916-45ca-b10c-b91e4fccc169.jpg"
       },
       "roit": {
         "price": 290,
