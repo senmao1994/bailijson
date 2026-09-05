@@ -44,7 +44,7 @@
       "sortName": "至强",
       "colorName": "名人堂礼包",
       "tencent": {
-        "price": 56260,
+        "price": 0,
         "priceType": "礼包",
         "priceStartDay": "2026年9月10日",
         "priceEndDay": "预计2026年10月31日下架",
@@ -53,7 +53,7 @@
         "wildRiftSell": null
       },
       "roit": {
-        "price": 328650,
+        "price": 0,
         "priceType": "礼包",
         "priceStartDay": "",
         "priceEndDay": "",
