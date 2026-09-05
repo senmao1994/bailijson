@@ -16,6 +16,7 @@
   "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_uncentered_5.jpg",
   "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_tile_5.jpg",
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_centered_5.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/chromapreview.chroma_leblanc_elderwood_paragon.png",
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/leblancloadscreen_5.jpg",
   "roit": {
     "price": 1350,
@@ -26,6 +27,7 @@
   },
   "tencentPrice": 9900,
   "icon": "",
+  "emote": null,
   "tencent": {
     "price": 9900,
     "priceType": "限时直售",
@@ -35,7 +37,45 @@
     "description": "2016年上海季中冠军赛纪念·腾讯服不定期返场销售",
     "hasFullGiftPack": false
   },
-  "chromas": [],
+  "chromas": [
+    {
+      "id": 7061,
+      "name": "永恒之森 乐芙兰 至强",
+      "sortName": "至强",
+      "colorName": "名人堂2026",
+      "tencent": {
+        "price": 328650,
+        "priceType": "礼包",
+        "priceStartDay": "2026年9月10日",
+        "priceEndDay": "预计2026年10月31日下架",
+        "description": "签名版收藏礼包",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 56260,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "签名版收藏礼包"
+      },
+      "riotName": "Elderwood LeBlanc (Paragon)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin61/chromapreview.chroma_leblanc_elderwood_paragon.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#B0E1F1",
+        "#614D96"
+      ]
+    }
+  ],
   "formsCount": null,
   "forms": [],
   "version": {
@@ -44,5 +84,6 @@
     "updateChinese": "视觉更新",
     "updateName": "",
     "video": ""
-  }
+  },
+  "platform": "lol"
 }
