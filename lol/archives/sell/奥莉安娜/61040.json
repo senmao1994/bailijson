@@ -1,0 +1,140 @@
+{
+  "id": 61040,
+  "name": "殿堂传奇 奥莉安娜",
+  "roitName": "Risen Legend Orianna",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "殿堂传奇",
+  "universe": "名人堂",
+  "pushDate": "2024年6月12日",
+  "series": null,
+  "backstory": "带着整个中队来尝试我的试炼真够有胆的，奥莉安娜——也差点让你完蛋。但现在给你第二次机会的不是命运，而是你的朋友。继续活下去，在这具她亲手打造的机械躯体中，以我的和谐守护者的身份。你的成功证明了真正的力量在于毅力，而克服困难的最佳方式是团队合作。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin40/images/orianna_splash_uncentered_40.skins_orianna_skin40.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin40/images/orianna_splash_tile_40.skins_orianna_skin40.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin40/images/orianna_splash_centered_40.skins_orianna_skin40.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin40/chromapreview.skins_orianna_skin40.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin40/oriannaloadscreen_40.skins_orianna_skin40.jpg",
+  "roit": {
+    "price": 1950,
+    "priceType": "名人堂通行证",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 10900,
+  "icon": "7220",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/HallofLegends/5142_LEC_Victory_Inventory.ACCESSORIES_16_18.png",
+  "tencent": {
+    "price": 10900,
+    "priceType": "名人堂通行证",
+    "priceTypeChinese": "名人堂(2024)：联盟不朽",
+    "priceStartDay": "2026年9月10日",
+    "priceEndDay": "预计2026年10月31日下架",
+    "description": "10级解锁皮肤 30级解锁边框 98级解锁图标",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 61041,
+      "name": "殿堂传奇 奥莉安娜 至强",
+      "sortName": "至强",
+      "colorName": "名人堂2026签名版",
+      "tencent": {
+        "price": 328650,
+        "priceType": "礼包",
+        "priceStartDay": "2026年9月10日",
+        "priceEndDay": "预计2026年10月31日下架",
+        "description": "2026名人堂签名版收藏礼包",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 59260,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "2026名人堂签名版收藏礼包"
+      },
+      "riotName": "Risen Legend Orianna (Paragon)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin41/chromapreview.chroma_orianna_hall.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D8EDFF",
+        "#4854D3"
+      ]
+    },
+    {
+      "id": 61042,
+      "name": "殿堂传奇 奥莉安娜 登神",
+      "sortName": "登神",
+      "colorName": "名人堂2026通行证",
+      "tencent": {
+        "price": 10900,
+        "priceType": "名人堂通行证",
+        "priceStartDay": "2026年9月10日",
+        "priceEndDay": "预计2026年10月31日下架",
+        "description": "通行证100级解锁",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 1950,
+        "priceType": "名人堂通行证",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "通行证100级解锁"
+      },
+      "riotName": "Risen Legend Orianna (Mythclimber)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin42/chromapreview.chroma_orianna_risenlegend.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFAB40",
+        "#4C89A3"
+      ]
+    }
+  ],
+  "formsCount": 1,
+  "forms": [
+    {
+      "name": "殿堂传奇 奥莉安娜 签名版",
+      "type": "签名版",
+      "icon": "7222",
+      "image": "",
+      "loadingPath": "",
+      "trigger": "",
+      "description": "Capsr专属签名版",
+      "note": "Caps专属签名：生涯 边框 选用界面 推塔签名 局内CTRL+5投影",
+      "acquisition": "签名版 联盟不朽 崔丝塔娜 收藏礼包",
+      "borderName": "名人堂(2026)：Caps的签名 边框",
+      "colors": []
+    }
+  ],
+  "version": {
+    "push": "26.18",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
