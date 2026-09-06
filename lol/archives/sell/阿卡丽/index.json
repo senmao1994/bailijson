@@ -6,5 +6,12 @@
     "key": "10031",
     "title": "离群之刺",
     "platform": "wr"
+  },
+  "lol": {
+    "id": "akali",
+    "name": "阿卡丽",
+    "alias": "Akali",
+    "key": 84,
+    "title": "离群之刺"
   }
 }
