@@ -275,5 +275,12 @@
       ]
     }
   ],
+  "version": {
+    "push": "26.18",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
   "platform": "lol"
 }
