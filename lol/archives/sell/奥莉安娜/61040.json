@@ -33,7 +33,7 @@
     "priceType": "名人堂通行证",
     "priceTypeChinese": "名人堂(2026)：联盟不朽",
     "priceStartDay": "2026年9月10日",
-    "priceEndDay": "预计2026年10月31日下架",
+    "priceEndDay": "2026年10月21日23:59",
     "description": "10级解锁皮肤 30级解锁边框 98级解锁图标",
     "hasFullGiftPack": true
   },
@@ -44,10 +44,10 @@
       "sortName": "至强",
       "colorName": "名人堂2026签名版",
       "tencent": {
-        "price": 328650,
+        "price": 328600,
         "priceType": "礼包",
         "priceStartDay": "2026年9月10日",
-        "priceEndDay": "预计2026年10月31日下架",
+        "priceEndDay": "2026年10月21日23:59",
         "description": "2026名人堂签名版收藏礼包",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -84,7 +84,7 @@
         "price": 10900,
         "priceType": "名人堂通行证",
         "priceStartDay": "2026年9月10日",
-        "priceEndDay": "预计2026年10月31日下架",
+        "priceEndDay": "2026年10月21日23:59",
         "description": "通行证100级解锁",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -120,15 +120,26 @@
       "type": "签名版",
       "icon": "7222",
       "image": "",
+      "illustrationUrl": "",
+      "avatarUrl": "",
       "loadingPath": "",
       "trigger": "",
       "description": "Capsr专属签名版",
       "note": "Caps专属签名：生涯 边框 选用界面 推塔签名 局内CTRL+5投影",
       "acquisition": "签名版 联盟不朽 崔丝塔娜 收藏礼包",
       "borderName": "名人堂(2026)：Caps的签名 边框",
+      "roitName": "",
+      "tencentPrice": 0,
+      "riotPrice": 0,
+      "tencentPriceStartDay": "",
+      "tencentPriceEndDay": "",
+      "riotPriceStartDay": "",
+      "riotPriceEndDay": "",
+      "tencentDescription": "",
       "colors": []
     }
   ],
+  "tiers": [],
   "version": {
     "push": "26.18",
     "update": "",
