@@ -381,8 +381,8 @@
         "price": 328650,
         "priceType": "礼包",
         "priceStartDay": "2026年9月10日",
-        "priceEndDay": "预计2026年10月31日下架",
-        "description": "签名版收藏礼包",
+        "priceEndDay": "2026年10月21日23:59",
+        "description": "签名版 联盟不朽 崔丝塔娜臻藏礼包",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -391,7 +391,7 @@
         "priceType": "礼包",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "签名版收藏礼包"
+        "description": "签名版 联盟不朽 崔丝塔娜臻藏礼包"
       },
       "riotName": "Empyrean Akali (Paragon)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin104/chromapreview.chroma_akali_empyrean.png",
@@ -410,8 +410,9 @@
       ]
     }
   ],
-  "formsCount": null,
+  "formsCount": 0,
   "forms": [],
+  "tiers": [],
   "version": {
     "push": "14.9",
     "update": "",
