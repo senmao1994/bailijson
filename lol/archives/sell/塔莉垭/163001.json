@@ -44,11 +44,11 @@
       "sortName": "至强",
       "colorName": "名人堂礼包",
       "tencent": {
-        "price": 328650,
+        "price": 328600,
         "priceType": "礼包",
         "priceStartDay": "2026年9月10日",
-        "priceEndDay": "预计2026年10月31日下架",
-        "description": "签名版收藏礼包",
+        "priceEndDay": "2026年10月21日23:59",
+        "description": "签名版 联盟不朽 崔丝塔娜臻藏礼包",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -57,7 +57,7 @@
         "priceType": "礼包",
         "priceStartDay": "",
         "priceEndDay": "",
-        "description": "签名版收藏礼包"
+        "description": "签名版 联盟不朽 崔丝塔娜臻藏礼包"
       },
       "riotName": "Freljord Taliyah (Paragon)",
       "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin33/chromapreview.chroma_taliyah_freljord.png",
@@ -76,8 +76,9 @@
       ]
     }
   ],
-  "formsCount": null,
+  "formsCount": 0,
   "forms": [],
+  "tiers": [],
   "version": {
     "push": "6.10",
     "update": "",
