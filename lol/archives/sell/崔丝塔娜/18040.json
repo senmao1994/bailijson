@@ -1,0 +1,51 @@
+{
+  "id": 18040,
+  "name": "海克斯科技 崔丝塔娜",
+  "roitName": "Hextech Tristana",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "海克斯科技",
+  "universe": "海克斯科技",
+  "pushDate": "2021年09月09日",
+  "series": null,
+  "backstory": "海克斯动力弹药从海克斯革新的早期开始就已经存在，但没有人像崔丝塔娜那样使它们的使用变得完美。海克斯水晶加农炮（第III型）在手的她因在治安方面的出色表现而获勋，并作为一名坚定而崇高的倡导者站在海克斯科技的前沿。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin40/images/tristana_splash_uncentered_40.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin40/images/tristana_splash_tile_40.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin40/images/tristana_splash_centered_40.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin40/tristanaloadscreen_40.jpg",
+  "roit": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 125,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceTypeChinese": "",
+    "priceStartDay": "2021年9月10日10:00",
+    "priceEndDay": "2021年9月22日12:00",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "11.18",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
