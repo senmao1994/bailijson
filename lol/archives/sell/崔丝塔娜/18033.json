@@ -1,0 +1,276 @@
+{
+  "id": 18033,
+  "name": "我，羽饰骑士 崔丝塔娜",
+  "roitName": "Pengu Cosplay Tristana",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "这货不是",
+  "universe": "这货不是",
+  "pushDate": "2020年04月01日",
+  "series": null,
+  "backstory": "哇！",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin33/images/tristana_splash_uncentered_33.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin33/images/tristana_splash_tile_33.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin33/images/tristana_splash_centered_33.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18033.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin33/tristanaloadscreen_33.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin33/tristanaloadscreen_33_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "4533",
+  "emote": null,
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2020年4月2日",
+    "priceEndDay": "",
+    "description": "边框为纪念游戏班德尔城物语",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 18034,
+      "name": "我，烈焰羽饰骑士 崔丝塔娜",
+      "sortName": "我，烈焰羽饰骑士 崔丝塔娜",
+      "colorName": "红色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2020年4月2日",
+        "priceEndDay": "长期销售",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Pengu Cosplay Tristana (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18034.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 18035,
+      "name": "我，特辣羽饰骑士 崔丝塔娜",
+      "sortName": "我，特辣羽饰骑士 崔丝塔娜",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Pengu Cosplay Tristana (Citrine)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18035.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 18036,
+      "name": "我，幼雏羽饰骑士 崔丝塔娜",
+      "sortName": "我，幼雏羽饰骑士 崔丝塔娜",
+      "colorName": "竹绿",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Pengu Cosplay Tristana (Peridot)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18036.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ]
+    },
+    {
+      "id": 18037,
+      "name": "我，樱花羽饰骑士 崔丝塔娜",
+      "sortName": "我，樱花羽饰骑士 崔丝塔娜",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 1,
+        "priceType": "礼包",
+        "priceStartDay": "2020年4月2日",
+        "priceEndDay": "2020年4月16日10:00",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Pengu Cosplay Tristana (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18037.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 18038,
+      "name": "我，鸦领主羽饰骑士 崔丝塔娜",
+      "sortName": "我，鸦领主羽饰骑士 崔丝塔娜",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Pengu Cosplay Tristana (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18038.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 18039,
+      "name": "我，极冰羽饰骑士 崔丝塔娜",
+      "sortName": "我，极冰羽饰骑士 崔丝塔娜",
+      "colorName": "珍珠白",
+      "tencent": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Pengu Cosplay Tristana (Pearl)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18039.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    }
+  ],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "10.7",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
