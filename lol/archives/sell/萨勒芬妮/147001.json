@@ -60,9 +60,11 @@
         "backstory": "萨勒芬妮的生活正在超乎她预期地改变着，并且她在尝试着保持她独一无二的嗓音、跟上卡莎剧烈到可怕的编舞、以及设法获得充足的睡眠。",
         "accessories": [],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin02/images/seraphine_splash_centered_2.jpg",
+        "splashHDPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/seraphine/KDA ALL OUT 明日新星.jpg",
         "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin02/images/seraphine_splash_tile_2.jpg",
         "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin02/images/seraphine_splash_uncentered_2.jpg",
         "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin02/seraphineloadscreen_2.jpg",
+        "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/seraphine/KDA ALL OUT  明日新星 边框.jpg",
         "roit": {
           "price": 0,
           "priceType": "直售",
@@ -108,9 +110,11 @@
         "backstory": "在她迅速崛起成为明星后，萨勒芬妮凭借在K/DA新专辑中的表现，已处在世界——还有排行榜——的顶部。她的音乐和她所传达的信息引起了粉丝们的共鸣，并且她很兴奋地向他们展示她在通过音乐发现自我的旅程中发生的事情。",
         "accessories": [],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin03/images/seraphine_splash_centered_3.jpg",
+        "splashHDPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/seraphine/KDA ALL OUT 超级巨星.jpg",
         "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin03/images/seraphine_splash_tile_3.jpg",
         "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin03/images/seraphine_splash_uncentered_3.jpg",
         "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin03/seraphineloadscreen_3.jpg",
+        "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/seraphine/KDA ALL OUT 超级巨星 边框.jpg",
         "roit": {
           "price": 0,
           "priceType": "直售",
