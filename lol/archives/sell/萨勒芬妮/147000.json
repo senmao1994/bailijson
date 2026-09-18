@@ -1,0 +1,51 @@
+{
+  "id": 147000,
+  "name": "星籁歌姬",
+  "roitName": "Seraphine",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "皮尔特沃夫",
+  "universe": "英雄联盟宇宙",
+  "pushDate": "2020年10月29日",
+  "series": null,
+  "backstory": "萨勒芬妮生在皮城，但父母都是祖安人。她能听到其他人的灵魂——整个世界都在对她唱歌，而她也回以自己的歌声。虽然她小的时候曾被这些声音压得不堪重负，但如今她从这些声音中汲取灵感，将混乱变为协奏。她为这对姊妹城市演唱，提醒这里的人们，他们并不孤单，他们凝聚起来会更强大，在她眼中，他们的潜力是无限的。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/base/images/seraphine_splash_uncentered_0.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/base/images/seraphine_splash_tile_0.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/base/images/seraphine_splash_centered_0.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/base/seraphineloadscreen.jpg",
+  "roit": {
+    "price": 260,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6103",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Rewards/TFTBattlepass/EM_HIT_THAT_HIGH_Inventory.png",
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2023年9月1日10:00",
+    "priceEndDay": "2023年10月7日9:59",
+    "description": "萨勒芬妮 肖像图标",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "10.22",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
