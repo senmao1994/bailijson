@@ -375,5 +375,12 @@
   "formsCount": 0,
   "forms": [],
   "tiers": [],
+  "version": {
+    "push": "10.24",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
   "platform": "lol"
 }
