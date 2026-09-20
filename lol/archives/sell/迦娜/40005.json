@@ -1,0 +1,51 @@
+{
+  "id": 40005,
+  "name": "女主播 迦娜",
+  "roitName": "Forecast Janna",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "职场精英",
+  "universe": "磨砺",
+  "pushDate": "2013年09月04日",
+  "series": null,
+  "backstory": "迦娜已经在电视新闻业的市场衰落中挺过了至少十几年，但即使是在她那相对轻松的位置上，观众们的岁数也在不断增长，并且天气也在变得反常。也许是时候让她的气象学学位得以运用，然后……与天相斗了！",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin05/images/janna_splash_uncentered_5.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin05/images/janna_splash_tile_5.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin05/images/janna_splash_centered_5.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin05/jannaloadscreen_5.jpg",
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 10900,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 10900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2013年9月04日",
+    "priceEndDay": "14.5版本已下架直售",
+    "description": "12.18版本调价从159降为109",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "3.11",
+    "update": "12.19",
+    "updateChinese": "特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
