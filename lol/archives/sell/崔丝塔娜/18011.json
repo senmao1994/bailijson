@@ -20,7 +20,7 @@
   "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin11/tristanaloadscreen_11_le.jpg",
   "roit": {
     "price": 1350,
-    "priceType": "直售",
+    "priceType": "限定",
     "priceStartDay": "",
     "priceEndDay": "",
     "description": ""
@@ -30,8 +30,8 @@
   "emote": null,
   "tencent": {
     "price": 6900,
-    "priceType": "直售",
-    "priceTypeChinese": "",
+    "priceType": "限定",
+    "priceTypeChinese": "万圣节",
     "priceStartDay": "2022年10月21日10:00",
     "priceEndDay": "2022年11月15日23:59",
     "description": "皮肤2016年上线，完全体12.20版本增加",
