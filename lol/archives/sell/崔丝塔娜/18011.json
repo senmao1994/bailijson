@@ -1,0 +1,52 @@
+{
+  "id": 18011,
+  "name": "魅惑女巫 崔丝塔娜",
+  "roitName": "Bewitching Tristana",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "魅惑女巫",
+  "universe": "峡谷传说",
+  "pushDate": "2016年10月19日",
+  "series": null,
+  "backstory": "好吧，我猜这是举着大锅的其中一种办法。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin11/images/tristana_splash_uncentered_11.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin11/images/tristana_splash_tile_11.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin11/images/tristana_splash_centered_11.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin11/tristanaloadscreen_11.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin11/tristanaloadscreen_11_le.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 6900,
+  "icon": "5573",
+  "emote": null,
+  "tencent": {
+    "price": 6900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2022年10月21日10:00",
+    "priceEndDay": "2022年11月15日23:59",
+    "description": "皮肤2016年上线，完全体12.20版本增加",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "6.21",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
