@@ -33,10 +33,10 @@
     "price": 10900,
     "priceType": "直售",
     "priceTypeChinese": "",
-    "priceStartDay": "2026年9月24日",
-    "priceEndDay": "",
-    "description": "完全体礼包限时销售",
-    "hasFullGiftPack": false
+    "priceStartDay": "2026年9月23日",
+    "priceEndDay": "2026年10月21日23:59",
+    "description": "",
+    "hasFullGiftPack": true
   },
   "chromas": [
     {
