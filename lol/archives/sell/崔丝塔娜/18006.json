@@ -1,0 +1,164 @@
+{
+  "id": 18006,
+  "name": "火箭达人 崔丝塔娜",
+  "roitName": "Rocket Girl Tristana",
+  "sortName": null,
+  "rarity": "特效",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "白银年代",
+  "universe": "白银时代",
+  "pushDate": "2012年10月19日",
+  "series": null,
+  "backstory": "",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin06/images/tristana_splash_uncentered_6.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin06/images/tristana_splash_tile_6.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin06/images/tristana_splash_centered_6.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18006.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin06/tristanaloadscreen_6.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 6900,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 6900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2012年9月13日",
+    "priceEndDay": "14.5版本已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 18007,
+      "name": "火箭达人 崔丝塔娜 硬核朋克",
+      "sortName": "硬核朋克",
+      "colorName": "海军蓝",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2015年7月28日",
+        "priceEndDay": "下架后抽奖活动炫彩奖池",
+        "description": "礼包2000点券3款炫彩",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Rocket Girl Tristana Punk Navy",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18007.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#1C3B63",
+        "#5C66BC"
+      ]
+    },
+    {
+      "id": 18008,
+      "name": "火箭达人 崔丝塔娜 斯卡朋克",
+      "sortName": "斯卡朋克",
+      "colorName": "紫色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2015年7月28日",
+        "priceEndDay": "下架后抽奖活动炫彩奖池",
+        "description": "礼包2000点券3款炫彩",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Rocket Girl Tristana Punk Purple",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18008.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#B82386",
+        "#4E9DA7"
+      ]
+    },
+    {
+      "id": 18009,
+      "name": "火箭达人 崔丝塔娜 流行朋克",
+      "sortName": "流行朋克",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2015年7月28日",
+        "priceEndDay": "下架后抽奖活动炫彩奖池",
+        "description": "礼包2000点券3款炫彩",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Rocket Girl Tristana Punk Orange",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18009.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#A53231",
+        "#B5A57C"
+      ]
+    }
+  ],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "1.0.0.149",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
