@@ -32,7 +32,7 @@
     "price": 8900,
     "priceType": "直售",
     "priceTypeChinese": "",
-    "priceStartDay": "2026年9月24日",
+    "priceStartDay": "2026年9月23日",
     "priceEndDay": "",
     "description": "",
     "hasFullGiftPack": false
@@ -81,10 +81,10 @@
       "sortName": "嫉妒",
       "colorName": "绿色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年9月23日",
+        "priceEndDay": "2026年10月7日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -192,10 +192,10 @@
       "sortName": "虚荣",
       "colorName": "蓝色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年9月23日",
+        "priceEndDay": "2026年10月7日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
@@ -303,10 +303,10 @@
       "sortName": "欲望",
       "colorName": "深紫",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年9月23日",
+        "priceEndDay": "2026年10月7日09:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
