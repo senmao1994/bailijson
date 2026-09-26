@@ -1,0 +1,52 @@
+{
+  "id": 18002,
+  "name": "圣诞精灵 崔丝塔娜 ",
+  "roitName": "Earnest Elf Tristana",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "冰雪节大对决",
+  "universe": "冰雪节",
+  "pushDate": "2009年12月31日",
+  "series": null,
+  "backstory": "温暖的笑容和真诚的关爱是崔丝塔娜的标志，她对节日的热爱给每个人都带来了欢乐。她会用满满的礼物进行地毯式轰炸，守护冰雪节的喜庆。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin02/images/tristana_splash_uncentered_2.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin02/images/tristana_splash_tile_2.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin02/images/tristana_splash_centered_2.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin02/tristanaloadscreen_2.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin02/tristanaloadscreen_2_le.jpg",
+  "roit": {
+    "price": 520,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "冰雪节",
+    "priceStartDay": "2009年12月31日",
+    "priceEndDay": "冰雪节期间返场销售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "",
+    "update": "5.6",
+    "updateChinese": "视觉特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
