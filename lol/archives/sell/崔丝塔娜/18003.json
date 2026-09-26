@@ -1,0 +1,51 @@
+{
+  "id": 18003,
+  "name": "烈焰雄心 崔丝塔娜",
+  "roitName": "Firefighter Tristana",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "职场精英",
+  "universe": "磨砺",
+  "pushDate": "2010年06月03日",
+  "series": null,
+  "backstory": "由于近期在今年的“最约德尔人的灭火队员”日历中出镜，崔丝塔娜将非常乐意跳进烈焰，无论是否有人支援她。她经常不管支援就上。灭火队员支援。她灭火。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin03/images/tristana_splash_uncentered_3.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin03/images/tristana_splash_tile_3.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin03/images/tristana_splash_centered_3.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin03/tristanaloadscreen_3.jpg",
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2010年6月03日",
+    "priceEndDay": "商城已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "",
+    "update": "5.6",
+    "updateChinese": "视觉特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
