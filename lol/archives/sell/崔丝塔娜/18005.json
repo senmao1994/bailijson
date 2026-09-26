@@ -1,0 +1,51 @@
+{
+  "id": 18005,
+  "name": "约德尔海贼团 崔丝塔娜",
+  "roitName": "Buccaneer Tristana",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "比尔吉沃特：焰浪之潮",
+  "universe": "符文之地时代",
+  "pushDate": "2011年06月27日",
+  "series": null,
+  "backstory": "枪手们，啊嘿！崔丝塔娜跳到公海上，为了新的冒险而驶出了班德尔的边界。她的帽子是从一位被她引爆的海盗那里借（偷）来的，而眼罩纯属是为了好看。但她赶尽杀绝的态度和可靠的加农炮击沉的舰船数量要多于比尔吉沃特的绝大多数船长。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin05/images/tristana_splash_uncentered_5.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin05/images/tristana_splash_tile_5.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin05/images/tristana_splash_centered_5.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin05/tristanaloadscreen_5.jpg",
+  "roit": {
+    "price": 520,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 4500,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 4500,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2011年6月27日",
+    "priceEndDay": "商城已下架直售",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "",
+    "update": "5.2",
+    "updateChinese": "模特特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
