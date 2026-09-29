@@ -1,0 +1,54 @@
+{
+  "id": 1013304,
+  "name": "赤壁风华 怨偶 费德提克",
+  "roitName": "Warring Kingdoms Fiddlesticks",
+  "sortName": "赤壁风华 怨偶",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "145",
+  "priceUnit": "玄脉晶石",
+  "skinline": "赤壁风华",
+  "universe": "三国",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "世传赤壁鏖战，苍峰百万军卒殒命于此，怨气不散，杀念冲天，凝于焦土之下，久而成形，依附于战事所用草人之上。世人不知其所来，只知它以兵戈怖惧为食，越是血流成河之地，它便越是清醒、越是庞大。",
+  "accessories": [
+    "边框",
+    "姿态：怨念",
+    "姿态：草船破坏者"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Fiddlesticks_3.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_fiddlesticks_skin03.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013304.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年9月29日",
+    "endDate": "2026年11月1日",
+    "description": "赤壁风华活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
