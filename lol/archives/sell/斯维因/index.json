@@ -1,7 +1,10 @@
-﻿{
-    "id":  "swain",
-    "name":  "斯维因",
-    "alias":  "Swain",
-    "key":  50,
-    "title":  "诺克萨斯统领"
+{
+  "wr": {
+    "id": 10126,
+    "name": "斯维因",
+    "alias": "siweiyin",
+    "key": "10126",
+    "title": "诺克萨斯统领",
+    "platform": "wr"
+  }
 }
