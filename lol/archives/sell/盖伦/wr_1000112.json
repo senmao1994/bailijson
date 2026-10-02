@@ -1,0 +1,54 @@
+{
+  "id": 1000112,
+  "name": "威震逍遥津 盖伦",
+  "roitName": "Warring Kingdoms Garen Exquisite Edition",
+  "sortName": "威震逍遥津",
+  "rarity": "神话",
+  "raritySubType": "臻宝",
+  "price": "500",
+  "priceUnit": "玄脉晶石",
+  "skinline": "赤壁风华",
+  "universe": "三国",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "离开故国之后，张辽换上了苍峰帝国的大将战铠。新甲覆身，幽蓝冷厉，凶煞之气隐隐渗出。如今他立于帝国战阵的最前方，殷红长刃出鞘，眼神依旧如当年般坚定——只是这一次，他挥剑不再为守护故土，而是为了苍峰霸业踏平一切阻碍。",
+  "accessories": [
+    "边框",
+    "姿态：凶刃",
+    "姿态：黑龙旋刃"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Garen_11.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_garen_skin11.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1000112.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年9月29日",
+    "endDate": "2026年11月1日",
+    "description": "赤壁风华活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
