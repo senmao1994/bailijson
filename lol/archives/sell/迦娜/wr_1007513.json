@@ -1,0 +1,54 @@
+{
+  "id": 1007513,
+  "name": "赤壁风华 天香 迦娜",
+  "roitName": "Warring Kingdoms Janna",
+  "sortName": "赤壁风华 天香",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "145",
+  "priceUnit": "玄脉晶石",
+  "skinline": "赤壁风华",
+  "universe": "三国",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "迦娜非凡人，乃太古风灵所化，久居此地，默默守护，无人知晓。斯维因起困龙枢，禁其真身于枢核，强夺其力。迦娜身困，魂魄不宁。直至赤炎都督崔斯特以身破局——由此，一场关乎她自由、亦关乎天下玄脉存亡的豪赌，悄然落子。此刻，她仍困于枢核深处，静候那一场足以颠覆乾坤的反攻。",
+  "accessories": [
+    "边框",
+    "姿态：碟引",
+    "姿态：火舞风华"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Janna_12.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_janna_skin12.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007513.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年9月29日",
+    "endDate": "2026年11月1日",
+    "description": "赤壁风华活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
