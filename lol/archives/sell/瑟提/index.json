@@ -1,7 +1,9 @@
-﻿{
-    "id":  "sett",
-    "name":  "瑟提",
-    "alias":  "Sett",
-    "key":  875,
-    "title":  "腕豪"
+{
+  "lol": {
+    "id": "sett",
+    "name": "瑟提",
+    "alias": "Sett",
+    "key": 875,
+    "title": "腕豪"
+  }
 }

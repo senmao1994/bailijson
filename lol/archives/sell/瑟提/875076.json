@@ -1,0 +1,91 @@
+{
+  "id": 875076,
+  "name": "至臻 心之钢 我行我路 瑟提",
+  "roitName": "Prestige HEARTSTEEL Live My Life Sett",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "心之钢",
+  "universe": "唱片",
+  "pushDate": "2026年07月14日",
+  "series": null,
+  "backstory": "《Vibe Pop》杂志：能分享一下你平日里是如何锻炼的吗？<br><br>瑟提：我和奎桑提每天天刚亮就去举铁健身。我会轮着来练各个肌肉群：核心、手臂、腿部、臀部、背部。有氧运动就没必要专门做了，台下练舞和台上演出跟做有氧大差不差了。有朝一日，我们还要把厄斐他拉进我们的健身队伍。像他那种体格，我卧推三个他也绝对不成问题。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin76/images/sett_splash_uncentered_76.skins_sett_skin76.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin76/images/sett_splash_tile_76.skins_sett_skin76.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin76/images/sett_splash_centered_76.skins_sett_skin76.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin76/chromapreview.skins_sett_skin76.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin76/settloadscreen_76.skins_sett_skin76.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin76/settloadscreen_76_le.skins_sett_skin76.jpg",
+  "roit": {
+    "price": 1650,
+    "priceType": "通行证",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "7312",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/Worlds2026/5181_Popped_Collar_Inventory.ACCESSORIES_16_20.png",
+  "tencent": {
+    "price": 8900,
+    "priceType": "通行证",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2026年10月9日",
+    "priceEndDay": "2027年1月6日23:59",
+    "description": "2026第3赛季：第2幕",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 875077,
+      "name": "至臻 心之钢 我行我路 瑟提 至强",
+      "sortName": "至强",
+      "colorName": "战利品",
+      "tencent": {
+        "price": 17575,
+        "priceType": "礼包",
+        "priceStartDay": "2026年10月9日",
+        "priceEndDay": "2027年1月6日23:59",
+        "description": "2026第3赛季：第2幕通行证礼包",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2440,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "战利品专属"
+      },
+      "riotName": "Prestige HEARTSTEEL Live My Life Sett (Vivid)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin77/chromapreview.chroma_sett_heartsteel.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#C0792F",
+        "#6C97BC"
+      ]
+    }
+  ],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "26.20",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
