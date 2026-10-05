@@ -1,0 +1,350 @@
+{
+  "id": 81078,
+  "name": "心之钢 我行我路 伊泽瑞尔",
+  "roitName": "HEARTSTEEL Live My Life Ezreal",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "心之钢",
+  "universe": "拳头唱片",
+  "pushDate": null,
+  "series": null,
+  "backstory": "《Vibe Pop》杂志：你童年时期的梦是什么呢？<br><br>伊泽瑞尔：嗯……有一次我梦到了我的双手变成了牛排，然后我吃掉了他们。甚至连半点犹豫都不带的。哦，等一下，你的意思是……梦想是吧，“要当什么”那种的？我曾经想成为一名考古学家。能够亲眼看到吉萨金字塔、马丘比丘遗迹，还有吴哥窟……不过现在，跟着我的乐队，我也去到了许多我意想不到的地方。看来我命中注定要成为一名探险家！",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin78/images/ezreal_splash_uncentered_78.skins_ezreal_skin78.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin78/images/ezreal_splash_tile_78.skins_ezreal_skin78.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin78/images/ezreal_splash_centered_78.skins_ezreal_skin78.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin78/chromapreview.skins_ezreal_skin78.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin78/ezrealloadscreen_78.skins_ezreal_skin78.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin78/ezrealloadscreen_78_le.skins_ezreal_skin78.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "7308",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/Worlds2026/5183_This_Ones_For_You_Inventory.ACCESSORIES_16_20.png",
+  "tencent": {
+    "price": 8900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年10月9日",
+    "priceEndDay": "预计2026年11月5日下架",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 81079,
+      "name": "心之钢 我行我路 伊泽瑞尔 锐意曲风",
+      "sortName": "锐意曲风",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "HEARTSTEEL Live My Life Ezreal (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin79/chromapreview.chroma_ezreal_heartsteel.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 81080,
+      "name": "心之钢 我行我路 伊泽瑞尔 超凡信心",
+      "sortName": "超凡信心",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "HEARTSTEEL Live My Life Ezreal (Sapphire)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin80/chromapreview.chroma_ezreal_heartsteel.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 81081,
+      "name": "心之钢 我行我路 伊泽瑞尔 华丽韵律",
+      "sortName": "华丽韵律",
+      "colorName": "金黄",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "HEARTSTEEL Live My Life Ezreal (Catseye)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin81/chromapreview.chroma_ezreal_heartsteel.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 81082,
+      "name": "心之钢 我行我路 伊泽瑞尔 典雅品味",
+      "sortName": "典雅品味",
+      "colorName": "深紫",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "HEARTSTEEL Live My Life Ezreal (Tanzanite)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin82/chromapreview.chroma_ezreal_heartsteel.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#54209B",
+        "#54209B"
+      ]
+    },
+    {
+      "id": 81083,
+      "name": "心之钢 我行我路 伊泽瑞尔 天纵才华",
+      "sortName": "天纵才华",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "HEARTSTEEL Live My Life Ezreal (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin83/chromapreview.chroma_ezreal_heartsteel.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 81084,
+      "name": "心之钢 我行我路 伊泽瑞尔 无畏斗志",
+      "sortName": "无畏斗志",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "HEARTSTEEL Live My Life Ezreal (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin84/chromapreview.chroma_ezreal_heartsteel.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 81085,
+      "name": "心之钢 我行我路 伊泽瑞尔 本真风范",
+      "sortName": "本真风范",
+      "colorName": "珍珠白",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "HEARTSTEEL Live My Life Ezreal (Pearl)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin85/chromapreview.chroma_ezreal_heartsteel.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 81086,
+      "name": "心之钢 我行我路 伊泽瑞尔 洒脱风姿",
+      "sortName": "洒脱风姿",
+      "colorName": "竹绿",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 2000,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "HEARTSTEEL Live My Life Ezreal (Peridot)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin86/chromapreview.chroma_ezreal_heartsteel.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#B6E084",
+        "#B6E084"
+      ]
+    }
+  ],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "26.20",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
