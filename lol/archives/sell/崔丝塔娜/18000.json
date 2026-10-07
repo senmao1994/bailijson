@@ -1,0 +1,51 @@
+{
+  "id": 18000,
+  "name": "麦林炮手",
+  "roitName": "The Yordle Gunner",
+  "sortName": null,
+  "rarity": "英雄",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "班德尔城",
+  "universe": "英雄联盟宇宙",
+  "pushDate": "‌2009年4月10日‌",
+  "series": null,
+  "backstory": "许多约德尔人都将自己的精力花在了探索发现、发明创造或者搞恶作剧上，但崔丝塔娜却一心向往伟大勇者的冒险传奇。她听过太多关于符文之地的故事，关于不同的势力、庞大的战争。崔丝塔娜相信自己也有资格成为传奇。她毅然踏进了这个世界，扛着她信赖的加农炮“轰隆”，带着坚定的勇气和乐观精神飞身跃入战场。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/base/images/tristana_splash_uncentered_0.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/base/images/tristana_splash_tile_0.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/base/images/tristana_splash_centered_0.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/base/tristanaloadscreen.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "6213",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2023年9月1日10:00",
+    "priceEndDay": "2023年10月7日9:59",
+    "description": "崔丝塔娜 肖像图标",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "",
+    "update": "5.6",
+    "updateChinese": "视觉特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}

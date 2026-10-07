@@ -1,0 +1,51 @@
+{
+  "id": 18001,
+  "name": "粉色萝莉 崔丝塔娜",
+  "roitName": "Riot Girl Tristana",
+  "sortName": null,
+  "rarity": null,
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "防暴",
+  "universe": "奖章",
+  "pushDate": "2009年12月15日",
+  "series": null,
+  "backstory": "尽管RPD尽了最大努力来遏制崔丝塔娜对义务制裁的热情，但他们并没有成功。话又说回来，凭借决心、勇气和炸药的结合，她完全有能力躲避那个男人。每当崔丝塔娜“下班”时，她就会出现在朋克表演中，或者散发她最新一期的杂志“防爆拳头！”",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin01/images/tristana_splash_uncentered_1.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin01/images/tristana_splash_tile_1.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin01/images/tristana_splash_centered_1.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin01/tristanaloadscreen_1.jpg",
+  "roit": {
+    "price": 0,
+    "priceType": "特殊获取",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "特殊获取",
+    "priceTypeChinese": "",
+    "priceStartDay": "2018年1月26日",
+    "priceEndDay": "2018年2月2日",
+    "description": "首次粉色萝莉的神秘礼物，后续抽奖奖池等",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "",
+    "update": "5.6",
+    "updateChinese": "视觉特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}

@@ -1,0 +1,17 @@
+{
+  "lol": {
+    "id": "janna",
+    "name": "迦娜",
+    "alias": "Janna",
+    "key": 40,
+    "title": "风暴之怒"
+  },
+  "wr": {
+    "id": 10075,
+    "name": "迦娜",
+    "alias": "jiana",
+    "key": "10075",
+    "title": "风暴之怒",
+    "platform": "wr"
+  }
+}

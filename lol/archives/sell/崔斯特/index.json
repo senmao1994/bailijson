@@ -1,7 +1,10 @@
-﻿{
-    "id":  "twistedfate",
-    "name":  "崔斯特",
-    "alias":  "Twistedfate",
-    "key":  4,
-    "title":  "卡牌大师"
+{
+  "wr": {
+    "id": 10025,
+    "name": "崔斯特",
+    "alias": "cuisite",
+    "key": "10025",
+    "title": "卡牌大师",
+    "platform": "wr"
+  }
 }

@@ -1,0 +1,238 @@
+{
+  "id": 18012,
+  "name": "欧米伽小队 魔鬼伞兵",
+  "roitName": "Omega Squad Tristana",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "欧米伽小队",
+  "universe": "战争真糟糕",
+  "pushDate": "2017年7月26日",
+  "series": null,
+  "backstory": "作为欧米伽小队的指挥官，崔丝塔娜信奉绝不撤退，直至她用枪炮开辟出一整条回家的路为止。她把这种行为称为“以进为退”。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin12/images/tristana_splash_uncentered_12.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin12/images/tristana_splash_tile_12.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin12/images/tristana_splash_centered_12.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18012.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin12/tristanaloadscreen_12.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 7900,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 7900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2017年8月1日",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 18013,
+      "name": "欧米伽小队 魔鬼伞兵 雪境魔鬼",
+      "sortName": "雪境魔鬼",
+      "colorName": "珍珠白",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "通过抽奖类炫彩奖池随机获取",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Omega Squad Tristana (Pearl)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18013.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 18014,
+      "name": "欧米伽小队 魔鬼伞兵 山岩魔鬼",
+      "sortName": "山岩魔鬼",
+      "colorName": "橙色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "通过抽奖类炫彩奖池随机获取",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Omega Squad Tristana (Citrine)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18014.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#DF9117",
+        "#DF9117"
+      ]
+    },
+    {
+      "id": 18015,
+      "name": "欧米伽小队 魔鬼伞兵 丛林魔鬼",
+      "sortName": "丛林魔鬼",
+      "colorName": "绿色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "通过抽奖类炫彩奖池随机获取",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Omega Squad Tristana (Emerald)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18015.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2DA130",
+        "#2DA130"
+      ]
+    },
+    {
+      "id": 18016,
+      "name": "欧米伽小队 魔鬼伞兵 死沼魔鬼",
+      "sortName": "死沼魔鬼",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "通过抽奖类炫彩奖池随机获取",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Omega Squad Tristana (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18016.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    },
+    {
+      "id": 18017,
+      "name": "欧米伽小队 魔鬼伞兵 碧海魔鬼",
+      "sortName": "碧海魔鬼",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 0,
+        "priceType": "特殊获取",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "通过抽奖类炫彩奖池随机获取",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Omega Squad Tristana (Sapphire)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/18/18017.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    }
+  ],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "7.15",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}

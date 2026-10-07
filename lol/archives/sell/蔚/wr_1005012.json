@@ -1,0 +1,54 @@
+{
+  "id": 1005012,
+  "name": "虎卫登神 蔚",
+  "roitName": "Warring Kingdoms Vi Exquisite Edition",
+  "sortName": "虎卫登神",
+  "rarity": "神话",
+  "raritySubType": "臻宝",
+  "price": "500",
+  "priceUnit": "玄脉晶石",
+  "skinline": "赤壁风华",
+  "universe": "三国",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "猛将虎痴之拳，是帝国强大意志的执行者，她残暴无情、不畏挑战，无论对手有多么强大，她都会欣然应战。更何况这一次，虎卫已然登临至强之境——卸甲之后，白金拳套熠熠生辉。敢问天下，何人堪为敌手？",
+  "accessories": [
+    "边框",
+    "姿态：叫阵",
+    "姿态：虎威撼地"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Vi_11.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_vi_skin11.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1005012.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年9月29日",
+    "endDate": "2026年11月1日",
+    "description": "赤壁风华活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

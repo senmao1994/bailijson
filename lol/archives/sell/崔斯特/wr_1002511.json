@@ -1,0 +1,56 @@
+{
+  "id": 1002511,
+  "name": "赤壁风华 英姿 崔斯特",
+  "roitName": "Warring Kingdoms Twisted Fate",
+  "sortName": "赤壁风华 英姿",
+  "rarity": "史诗",
+  "raritySubType": "限定",
+  "price": "145",
+  "priceUnit": "玄脉晶石",
+  "skinline": "赤壁风华",
+  "universe": "三国",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "世人不知这位新晋大都督的来处，唯知其精于占卜纵横之术，游走于赤炎世家之间，屡解危局，英姿勃发。而今苍峰兵临城下，众皆惶惶，唯他抚掌而笑：“乱世方是棋局，太平年月，何来赌注？”遂请缨挂帅，非为效忠，只为一场胜负难料的豪赌。虎符在手，翻覆之间，乾坤将定。",
+  "accessories": [
+    "边框",
+    "姿态：谋划",
+    "姿态：指点江山"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Twistedfate_10.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_twistedfate_skin10.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/twistedfate/赤壁风华 英姿 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002511.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/twistedfate/赤壁风华 英姿 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年9月29日",
+    "endDate": "2026年11月1日",
+    "description": "赤壁风华活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

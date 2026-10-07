@@ -1,0 +1,51 @@
+{
+  "id": 18004,
+  "name": "游击队员 崔丝塔娜",
+  "roitName": "Guerilla Tristana",
+  "sortName": null,
+  "rarity": "普通",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "突击队",
+  "universe": "战争真糟糕",
+  "pushDate": "2010年08月10日",
+  "series": null,
+  "backstory": "游击战之美，就是对一名放松了警惕、不熟悉地形和不知道在和谁——或什么——交战的敌人发起攻击。携带一挺有獒犬那么大的加农炮的二英尺高约德尔人之美，就是从来没有敌人搞清楚过是被什么给打了。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin04/images/tristana_splash_uncentered_4.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin04/images/tristana_splash_tile_4.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin04/images/tristana_splash_centered_4.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin04/tristanaloadscreen_4.jpg",
+  "roit": {
+    "price": 975,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 1000,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 1000,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2010年8月10日",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "",
+    "update": "5.6",
+    "updateChinese": "模式特效更新",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
