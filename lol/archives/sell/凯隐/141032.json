@@ -9,7 +9,7 @@
   "priceUnit": null,
   "skinline": "心之钢",
   "universe": "拳头唱片",
-  "pushDate": null,
+  "pushDate": "2026年10月07日",
   "series": null,
   "backstory": "《Vibe Pop》杂志：假如你变成了一只动物，你觉得会是哪一种呢？<br><br>凯隐：这问题于我而言再简单不过了，我肯定会是狼。独来独往，撕碎猎物，朝着月亮嚎叫。<br>永恩：事实上，狼是群居动物。<br>凯隐：我可不是。<br>永恩：但你不正和五个人组着乐队吗。<br>凯隐：是这样没错，但——<br>奎桑提：你闲着没事就爱翻垃圾桶。我想你是浣熊才对吧。<br>凯隐：一只独来独往的狼。最终答案。采访完毕。",
   "accessories": [],
@@ -31,10 +31,10 @@
   "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/Worlds2026/5184_Piercing_Gaze_Inventory.ACCESSORIES_16_20.png",
   "tencent": {
     "price": 8900,
-    "priceType": "直售",
+    "priceType": "限时直售",
     "priceTypeChinese": "",
-    "priceStartDay": "2026年10月9日",
-    "priceEndDay": "预计2026年11月5日下架",
+    "priceStartDay": "2026年10月09日",
+    "priceEndDay": "2027年01月06日",
     "description": "",
     "hasFullGiftPack": true
   },
@@ -156,11 +156,11 @@
       "sortName": "典雅品味",
       "colorName": "深紫",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
-        "description": "",
+        "price": 4900,
+        "priceType": "惊喜礼盒",
+        "priceStartDay": "2026年10月09日",
+        "priceEndDay": "2027年01月06日",
+        "description": "礼包：心之钢 我行我路惊喜礼盒",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
@@ -192,7 +192,7 @@
   "forms": [],
   "tiers": [],
   "version": {
-    "push": "26.20",
+    "push": "16.20",
     "update": "",
     "updateChinese": "",
     "updateName": "",
