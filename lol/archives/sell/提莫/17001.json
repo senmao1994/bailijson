@@ -25,15 +25,15 @@
     "priceEndDay": "",
     "description": ""
   },
-  "tencentPrice": 8900,
+  "tencentPrice": 0,
   "icon": "",
   "emote": null,
   "tencent": {
-    "price": 8900,
+    "price": 0,
     "priceType": "限时直售",
     "priceTypeChinese": "冰雪节",
-    "priceStartDay": "直营服限时返场(美术更新纪念)",
-    "priceEndDay": "2024年10月24日",
+    "priceStartDay": "2024年10月10日",
+    "priceEndDay": "2024年10月24日(直营服限时返场)",
     "description": "",
     "hasFullGiftPack": false
   },
