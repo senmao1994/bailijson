@@ -20,7 +20,7 @@
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/jaxloadscreen_42.skins_jax_skin42.jpg",
   "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/jaxloadscreen_42_le.skins_jax_skin42.jpg",
   "roit": {
-    "price": 1550,
+    "price": 8900,
     "priceType": "通行证",
     "priceStartDay": "",
     "priceEndDay": "",
@@ -28,7 +28,7 @@
   },
   "tencentPrice": 8900,
   "icon": "7181",
-  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/Classic/5136_Cant_Chronokeep_Me_Down_Inventory.ACCESSORIES_16_15.png",
+  "emote": null,
   "tencent": {
     "price": 8900,
     "priceType": "通行证",
@@ -47,8 +47,8 @@
       "tencent": {
         "price": 35,
         "priceType": "神话商店",
-        "priceStartDay": "暂未公布上架时间",
-        "priceEndDay": "",
+        "priceStartDay": "2026年7月30日",
+        "priceEndDay": "预计为2026年9月23日",
         "description": "战利品专属",
         "hasFullGiftPack": false,
         "wildRiftSell": null
