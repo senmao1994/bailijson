@@ -47,13 +47,11 @@
       "image": "",
       "loadingPath": "",
       "trigger": "游戏中泉水处切换",
-      "description": "对不起，我听不见，你们太渺小了",
+      "description": "独立特效·语音·模型",
       "note": "",
       "acquisition": "",
       "borderName": "",
-      "colors": [
-        "#800080"
-      ]
+      "colors": []
     },
     {
       "name": "总攻时刻",
@@ -62,13 +60,11 @@
       "image": "",
       "loadingPath": "",
       "trigger": "游戏中泉水处切换",
-      "description": "没人能躲过这次清洗。",
+      "description": "独立特效·语音·模型",
       "note": "",
       "acquisition": "",
       "borderName": "",
-      "colors": [
-        "#FF0000"
-      ]
+      "colors": []
     },
     {
       "name": "皇家武装",
@@ -77,13 +73,11 @@
       "image": "",
       "loadingPath": "",
       "trigger": "游戏中泉水处切换",
-      "description": "观察并学习，但你们只要看着就好了。",
+      "description": "独立特效·语音·模型",
       "note": "",
       "acquisition": "",
       "borderName": "",
-      "colors": [
-        "#FFD700"
-      ]
+      "colors": []
     },
     {
       "name": "血色女王",
@@ -92,13 +86,11 @@
       "image": "",
       "loadingPath": "",
       "trigger": "游戏中泉水处切换",
-      "description": "正在迎战敌方外骨骼机甲。",
+      "description": "独立特效·语音·模型",
       "note": "",
       "acquisition": "",
       "borderName": "",
-      "colors": [
-        "#0000FF"
-      ]
+      "colors": []
     }
   ],
   "version": {
