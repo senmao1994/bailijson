@@ -85,7 +85,7 @@
     "key": "10",
     "name": "凯尔",
     "title": "正义天使",
-    "color": "#9B59B6",
+    "color": "#3498DB",
     "lol": 1,
     "wr": 0
   },
@@ -1553,6 +1553,699 @@
     "name": "纳亚菲利",
     "title": "百裂冥犬",
     "color": "#E74C3C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_annie",
+    "key": "60001",
+    "name": "安妮",
+    "title": "黑暗之女",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_olaf",
+    "key": "60002",
+    "name": "奥拉夫",
+    "title": "狂战士",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_galio",
+    "key": "60003",
+    "name": "加里奥",
+    "title": "哨兵之殇",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_twistedfate",
+    "key": "60004",
+    "name": "崔斯特",
+    "title": "卡牌大师",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_xinzhao",
+    "key": "60005",
+    "name": "赵信",
+    "title": "德邦总管",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_fiddlesticks",
+    "key": "60009",
+    "name": "费德提克",
+    "title": "末日使者",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_kayle",
+    "key": "60010",
+    "name": "凯尔",
+    "title": "审判天使",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_masteryi",
+    "key": "60011",
+    "name": "易",
+    "title": "无极剑圣",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_alistar",
+    "key": "60012",
+    "name": "阿利斯塔",
+    "title": "牛头酋长",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_ryze",
+    "key": "60013",
+    "name": "瑞兹",
+    "title": "流浪法师",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_sion",
+    "key": "60014",
+    "name": "赛恩",
+    "title": "亡灵勇士",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_sivir",
+    "key": "60015",
+    "name": "希维尔",
+    "title": "战争女神",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_soraka",
+    "key": "60016",
+    "name": "索拉卡",
+    "title": "众星之子",
+    "color": "#2ECC71",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_teemo",
+    "key": "60017",
+    "name": "提莫",
+    "title": "迅捷斥候",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_tristana",
+    "key": "60018",
+    "name": "崔丝塔娜",
+    "title": "麦林炮手",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_warwick",
+    "key": "60019",
+    "name": "沃里克",
+    "title": "嗜血猎手",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_nunu",
+    "key": "60020",
+    "name": "努努",
+    "title": "雪人骑士",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_missfortune",
+    "key": "60021",
+    "name": "厄运小姐",
+    "title": "赏金猎人",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_ashe",
+    "key": "60022",
+    "name": "艾希",
+    "title": "寒冰射手",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_tryndamere",
+    "key": "60023",
+    "name": "泰达米尔",
+    "title": "蛮族之王",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_jax",
+    "key": "60024",
+    "name": "贾克斯",
+    "title": "武器大师",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_morgana",
+    "key": "60025",
+    "name": "莫甘娜",
+    "title": "堕落天使",
+    "color": "#2ECC71",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_zilean",
+    "key": "60026",
+    "name": "基兰",
+    "title": "时光守护者",
+    "color": "#2ECC71",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_singed",
+    "key": "60027",
+    "name": "辛吉德",
+    "title": "炼金术士",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_evelynn",
+    "key": "60028",
+    "name": "伊芙琳",
+    "title": "寡妇制造者",
+    "color": "#E74C3C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_twitch",
+    "key": "60029",
+    "name": "图奇",
+    "title": "瘟疫之源",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_karthus",
+    "key": "60030",
+    "name": "卡尔萨斯",
+    "title": "死亡颂唱者",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_chogath",
+    "key": "60031",
+    "name": "科加斯",
+    "title": "虚空恐惧",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_amumu",
+    "key": "60032",
+    "name": "阿木木",
+    "title": "殇之木乃伊",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_rammus",
+    "key": "60033",
+    "name": "拉莫斯",
+    "title": "披甲龙龟",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_anivia",
+    "key": "60034",
+    "name": "艾尼维亚",
+    "title": "冰晶凤凰",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_shaco",
+    "key": "60035",
+    "name": "萨科",
+    "title": "恶魔小丑",
+    "color": "#E74C3C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_drmundo",
+    "key": "60036",
+    "name": "蒙多医生",
+    "title": "祖安狂人",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_sona",
+    "key": "60037",
+    "name": "娑娜",
+    "title": "琴瑟仙女",
+    "color": "#2ECC71",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_kassadin",
+    "key": "60038",
+    "name": "卡萨丁",
+    "title": "虚空行者",
+    "color": "#E74C3C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_irelia",
+    "key": "60039",
+    "name": "艾瑞莉娅",
+    "title": "刀锋意志",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_janna",
+    "key": "60040",
+    "name": "迦娜",
+    "title": "风暴之怒",
+    "color": "#2ECC71",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_gangplank",
+    "key": "60041",
+    "name": "普朗克",
+    "title": "海洋之灾",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_corki",
+    "key": "60042",
+    "name": "库奇",
+    "title": "英勇投弹手",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_karma",
+    "key": "60043",
+    "name": "卡尔玛",
+    "title": "天启者",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_taric",
+    "key": "60044",
+    "name": "塔里克",
+    "title": "宝石骑士",
+    "color": "#2ECC71",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_veigar",
+    "key": "60045",
+    "name": "维迦",
+    "title": "邪恶小法师",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_caitlyn",
+    "key": "60051",
+    "name": "凯特琳",
+    "title": "皮城女警",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_blitzcrank",
+    "key": "60053",
+    "name": "布里茨",
+    "title": "蒸汽机器人",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_malphite",
+    "key": "60054",
+    "name": "墨菲特",
+    "title": "熔岩巨兽",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_katarina",
+    "key": "60055",
+    "name": "卡特琳娜",
+    "title": "不祥之刃",
+    "color": "#E74C3C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_jarvaniv",
+    "key": "60059",
+    "name": "嘉文四世",
+    "title": "德玛西亚皇子",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_wukong",
+    "key": "60062",
+    "name": "孙悟空",
+    "title": "齐天大圣",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_brand",
+    "key": "60063",
+    "name": "布兰德",
+    "title": "复仇焰魂",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_leesin",
+    "key": "60064",
+    "name": "李青",
+    "title": "盲僧",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_vayne",
+    "key": "60067",
+    "name": "薇恩",
+    "title": "暗夜猎手",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_skarner",
+    "key": "60072",
+    "name": "斯卡纳",
+    "title": "水晶先锋",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_heimerdinger",
+    "key": "60074",
+    "name": "黑默丁格",
+    "title": "大发明家",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_nasus",
+    "key": "60075",
+    "name": "内瑟斯",
+    "title": "沙漠死神",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_nidalee",
+    "key": "60076",
+    "name": "奈德丽",
+    "title": "狂野女猎手",
+    "color": "#E74C3C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_poppy",
+    "key": "60078",
+    "name": "波比",
+    "title": "钢铁大使",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_gragas",
+    "key": "60079",
+    "name": "古拉加斯",
+    "title": "酒桶",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_pantheon",
+    "key": "60080",
+    "name": "潘森",
+    "title": "战争之王",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_ezreal",
+    "key": "60081",
+    "name": "伊泽瑞尔",
+    "title": "探险家",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_akali",
+    "key": "60084",
+    "name": "阿卡丽",
+    "title": "暗影之拳",
+    "color": "#E74C3C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_kennen",
+    "key": "60085",
+    "name": "凯南",
+    "title": "狂暴之心",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_garen",
+    "key": "60086",
+    "name": "盖伦",
+    "title": "德玛西亚之力",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_leona",
+    "key": "60089",
+    "name": "蕾欧娜",
+    "title": "曙光女神",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_malzahar",
+    "key": "60090",
+    "name": "玛尔扎哈",
+    "title": "虚空先知",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_kogmaw",
+    "key": "60096",
+    "name": "克格莫",
+    "title": "深渊巨口",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_shen",
+    "key": "60098",
+    "name": "慎",
+    "title": "暮光之眼",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_lux",
+    "key": "60099",
+    "name": "拉克丝",
+    "title": "光辉女郎",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_shyvana",
+    "key": "60102",
+    "name": "希瓦娜",
+    "title": "龙血武姬",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_ahri",
+    "key": "60103",
+    "name": "阿狸",
+    "title": "九尾妖狐",
+    "color": "#9B59B6",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_graves",
+    "key": "60104",
+    "name": "格雷福斯",
+    "title": "法外狂徒",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_fizz",
+    "key": "60105",
+    "name": "菲兹",
+    "title": "潮汐海灵",
+    "color": "#E74C3C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_nautilus",
+    "key": "60111",
+    "name": "诺提勒斯",
+    "title": "深海泰坦",
+    "color": "#1ABC9C",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_fiora",
+    "key": "60114",
+    "name": "菲奥娜",
+    "title": "无双剑姬",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_lulu",
+    "key": "60117",
+    "name": "璐璐",
+    "title": "仙灵女巫",
+    "color": "#2ECC71",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_quinn",
+    "key": "60133",
+    "name": "德玛西亚之翼",
+    "title": "德玛西亚之翼",
+    "color": "#3498DB",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_aatrox",
+    "key": "60266",
+    "name": "亚托克斯",
+    "title": "暗裔剑魔",
+    "color": "#E67E22",
+    "lol": 1,
+    "wr": 0
+  },
+  {
+    "id": "jade_nami",
+    "key": "60267",
+    "name": "唤潮鲛姬",
+    "title": "唤潮鲛姬",
+    "color": "#2ECC71",
     "lol": 1,
     "wr": 0
   }
