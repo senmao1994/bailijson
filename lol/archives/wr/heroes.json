@@ -1,0 +1,1142 @@
+{
+  "updatedAt": "2026-10-16T18:40:52.154160",
+  "count": 142,
+  "heroes": [
+    {
+      "heroId": 10051,
+      "name": "霞",
+      "title": "逆羽",
+      "total": 10,
+      "lastRelease": "2026-10-16",
+      "daysAgo": 0
+    },
+    {
+      "heroId": 10069,
+      "name": "永恩",
+      "title": "封魔剑魂",
+      "total": 9,
+      "lastRelease": "2026-10-16",
+      "daysAgo": 0
+    },
+    {
+      "heroId": 10058,
+      "name": "沃利贝尔",
+      "title": "不灭狂雷",
+      "total": 5,
+      "lastRelease": "2026-10-15",
+      "daysAgo": 1
+    },
+    {
+      "heroId": 10133,
+      "name": "费德提克",
+      "title": "远古恐惧",
+      "total": 3,
+      "lastRelease": "2026-09-29",
+      "daysAgo": 17
+    },
+    {
+      "heroId": 10025,
+      "name": "崔斯特",
+      "title": "卡牌大师",
+      "total": 10,
+      "lastRelease": "2026-09-29",
+      "daysAgo": 17
+    },
+    {
+      "heroId": 10126,
+      "name": "斯维因",
+      "title": "诺克萨斯统领",
+      "total": 5,
+      "lastRelease": "2026-09-29",
+      "daysAgo": 17
+    },
+    {
+      "heroId": 10050,
+      "name": "蔚",
+      "title": "皮城执法官",
+      "total": 10,
+      "lastRelease": "2026-09-29",
+      "daysAgo": 17
+    },
+    {
+      "heroId": 10071,
+      "name": "德莱厄斯",
+      "title": "诺克萨斯之手",
+      "total": 10,
+      "lastRelease": "2026-09-29",
+      "daysAgo": 17
+    },
+    {
+      "heroId": 10104,
+      "name": "莎弥拉",
+      "title": "沙漠玫瑰",
+      "total": 7,
+      "lastRelease": "2026-09-29",
+      "daysAgo": 17
+    },
+    {
+      "heroId": 10075,
+      "name": "迦娜",
+      "title": "风暴之怒",
+      "total": 8,
+      "lastRelease": "2026-09-29",
+      "daysAgo": 17
+    },
+    {
+      "heroId": 10108,
+      "name": "米利欧",
+      "title": "明烛",
+      "total": 2,
+      "lastRelease": "2026-09-23",
+      "daysAgo": 23
+    },
+    {
+      "heroId": 10147,
+      "name": "彗",
+      "title": "异画师",
+      "total": 1,
+      "lastRelease": "2026-09-22",
+      "daysAgo": 24
+    },
+    {
+      "heroId": 10138,
+      "name": "斯莫德",
+      "title": "炽炎雏龙",
+      "total": 2,
+      "lastRelease": "2026-09-22",
+      "daysAgo": 24
+    },
+    {
+      "heroId": 10119,
+      "name": "布兰德",
+      "title": "复仇焰魂",
+      "total": 9,
+      "lastRelease": "2026-09-22",
+      "daysAgo": 24
+    },
+    {
+      "heroId": 10110,
+      "name": "克格莫",
+      "title": "深渊巨口",
+      "total": 3,
+      "lastRelease": "2026-09-22",
+      "daysAgo": 24
+    },
+    {
+      "heroId": 10062,
+      "name": "蒙多医生",
+      "title": "祖安狂人",
+      "total": 6,
+      "lastRelease": "2026-09-22",
+      "daysAgo": 24
+    },
+    {
+      "heroId": 10068,
+      "name": "瑟提",
+      "title": "腕豪",
+      "total": 10,
+      "lastRelease": "2026-09-22",
+      "daysAgo": 24
+    },
+    {
+      "heroId": 10088,
+      "name": "科加斯",
+      "title": "虚空恐惧",
+      "total": 1,
+      "lastRelease": "2026-09-19",
+      "daysAgo": 27
+    },
+    {
+      "heroId": 10059,
+      "name": "李青",
+      "title": "盲僧",
+      "total": 14,
+      "lastRelease": "2026-09-12",
+      "daysAgo": 34
+    },
+    {
+      "heroId": 10093,
+      "name": "韦鲁斯",
+      "title": "惩戒之箭",
+      "total": 11,
+      "lastRelease": "2026-09-10",
+      "daysAgo": 36
+    },
+    {
+      "heroId": 10005,
+      "name": "凯隐",
+      "title": "影流之镰",
+      "total": 4,
+      "lastRelease": "2026-09-04",
+      "daysAgo": 42
+    },
+    {
+      "heroId": 10124,
+      "name": "派克",
+      "title": "血港鬼影",
+      "total": 5,
+      "lastRelease": "2026-09-04",
+      "daysAgo": 42
+    },
+    {
+      "heroId": 10042,
+      "name": "卢锡安",
+      "title": "圣枪游侠",
+      "total": 8,
+      "lastRelease": "2026-09-04",
+      "daysAgo": 42
+    },
+    {
+      "heroId": 10004,
+      "name": "阿木木",
+      "title": "殇之木乃伊",
+      "total": 6,
+      "lastRelease": "2026-08-28",
+      "daysAgo": 49
+    },
+    {
+      "heroId": 10132,
+      "name": "诺提勒斯",
+      "title": "深海泰坦",
+      "total": 5,
+      "lastRelease": "2026-08-28",
+      "daysAgo": 49
+    },
+    {
+      "heroId": 10013,
+      "name": "黛安娜",
+      "title": "皎月女神",
+      "total": 9,
+      "lastRelease": "2026-08-14",
+      "daysAgo": 63
+    },
+    {
+      "heroId": 10031,
+      "name": "阿卡丽",
+      "title": "离群之刺",
+      "total": 10,
+      "lastRelease": "2026-08-14",
+      "daysAgo": 63
+    },
+    {
+      "heroId": 10037,
+      "name": "亚索",
+      "title": "疾风剑豪",
+      "total": 14,
+      "lastRelease": "2026-08-14",
+      "daysAgo": 63
+    },
+    {
+      "heroId": 10044,
+      "name": "蕾欧娜",
+      "title": "曙光女神",
+      "total": 8,
+      "lastRelease": "2026-08-14",
+      "daysAgo": 63
+    },
+    {
+      "heroId": 10047,
+      "name": "娑娜",
+      "title": "琴瑟仙女",
+      "total": 10,
+      "lastRelease": "2026-08-14",
+      "daysAgo": 63
+    },
+    {
+      "heroId": 10066,
+      "name": "厄运小姐",
+      "title": "赏金猎人",
+      "total": 12,
+      "lastRelease": "2026-08-14",
+      "daysAgo": 63
+    },
+    {
+      "heroId": 10091,
+      "name": "娜美",
+      "title": "唤潮鲛姬",
+      "total": 9,
+      "lastRelease": "2026-08-14",
+      "daysAgo": 63
+    },
+    {
+      "heroId": 10036,
+      "name": "安妮",
+      "title": "黑暗之女",
+      "total": 9,
+      "lastRelease": "2026-08-07",
+      "daysAgo": 70
+    },
+    {
+      "heroId": 10095,
+      "name": "卡特琳娜",
+      "title": "不祥之刃",
+      "total": 9,
+      "lastRelease": "2026-07-24",
+      "daysAgo": 84
+    },
+    {
+      "heroId": 10054,
+      "name": "格温",
+      "title": "灵罗娃娃",
+      "total": 11,
+      "lastRelease": "2026-07-24",
+      "daysAgo": 84
+    },
+    {
+      "heroId": 10007,
+      "name": "卡尔玛",
+      "title": "天启者",
+      "total": 7,
+      "lastRelease": "2026-07-24",
+      "daysAgo": 84
+    },
+    {
+      "heroId": 10024,
+      "name": "辛德拉",
+      "title": "暗黑元首",
+      "total": 5,
+      "lastRelease": "2026-07-24",
+      "daysAgo": 84
+    },
+    {
+      "heroId": 10028,
+      "name": "莫甘娜",
+      "title": "堕落天使",
+      "total": 10,
+      "lastRelease": "2026-07-24",
+      "daysAgo": 84
+    },
+    {
+      "heroId": 10121,
+      "name": "雷克顿",
+      "title": "荒漠屠夫",
+      "total": 8,
+      "lastRelease": "2026-07-10",
+      "daysAgo": 98
+    },
+    {
+      "heroId": 10048,
+      "name": "璐璐",
+      "title": "仙灵女巫",
+      "total": 10,
+      "lastRelease": "2026-07-10",
+      "daysAgo": 98
+    },
+    {
+      "heroId": 10151,
+      "name": "魔腾",
+      "title": "永恒梦魇",
+      "total": 2,
+      "lastRelease": "2026-07-09",
+      "daysAgo": 99
+    },
+    {
+      "heroId": 10076,
+      "name": "波比",
+      "title": "圣锤之毅",
+      "total": 2,
+      "lastRelease": "2026-07-09",
+      "daysAgo": 99
+    },
+    {
+      "heroId": 10137,
+      "name": "瑞兹",
+      "title": "符文法师",
+      "total": 2,
+      "lastRelease": "2026-07-09",
+      "daysAgo": 99
+    },
+    {
+      "heroId": 10117,
+      "name": "斯卡纳",
+      "title": "上古领主",
+      "total": 1,
+      "lastRelease": "2026-07-09",
+      "daysAgo": 99
+    },
+    {
+      "heroId": 10148,
+      "name": "芸阿娜",
+      "title": "不破之誓",
+      "total": 1,
+      "lastRelease": "2026-07-09",
+      "daysAgo": 99
+    },
+    {
+      "heroId": 10090,
+      "name": "弗拉基米尔",
+      "title": "猩红收割者",
+      "total": 4,
+      "lastRelease": "2026-07-09",
+      "daysAgo": 99
+    },
+    {
+      "heroId": 10079,
+      "name": "艾希",
+      "title": "寒冰射手",
+      "total": 13,
+      "lastRelease": "2026-07-09",
+      "daysAgo": 99
+    },
+    {
+      "heroId": 10099,
+      "name": "加里奥",
+      "title": "正义巨像",
+      "total": 10,
+      "lastRelease": "2026-07-09",
+      "daysAgo": 99
+    },
+    {
+      "heroId": 10098,
+      "name": "伊泽瑞尔",
+      "title": "探险家",
+      "total": 15,
+      "lastRelease": "2026-07-09",
+      "daysAgo": 99
+    },
+    {
+      "heroId": 10001,
+      "name": "盖伦",
+      "title": "德玛西亚之力",
+      "total": 10,
+      "lastRelease": "2026-07-03",
+      "daysAgo": 105
+    },
+    {
+      "heroId": 10097,
+      "name": "索拉卡",
+      "title": "众星之子",
+      "total": 7,
+      "lastRelease": "2026-06-25",
+      "daysAgo": 113
+    },
+    {
+      "heroId": 10015,
+      "name": "泰达米尔",
+      "title": "蛮族之王",
+      "total": 10,
+      "lastRelease": "2026-06-25",
+      "daysAgo": 113
+    },
+    {
+      "heroId": 10102,
+      "name": "厄加特",
+      "title": "无畏战车",
+      "total": 5,
+      "lastRelease": "2026-06-25",
+      "daysAgo": 113
+    },
+    {
+      "heroId": 10033,
+      "name": "布里茨",
+      "title": "蒸汽机器人",
+      "total": 6,
+      "lastRelease": "2026-06-18",
+      "daysAgo": 120
+    },
+    {
+      "heroId": 10125,
+      "name": "赛恩",
+      "title": "亡灵战神",
+      "total": 3,
+      "lastRelease": "2026-06-12",
+      "daysAgo": 126
+    },
+    {
+      "heroId": 10002,
+      "name": "亚托克斯",
+      "title": "暗裔剑魔",
+      "total": 8,
+      "lastRelease": "2026-06-05",
+      "daysAgo": 133
+    },
+    {
+      "heroId": 10008,
+      "name": "努努和威朗普",
+      "title": "雪原双子",
+      "total": 5,
+      "lastRelease": "2026-06-01",
+      "daysAgo": 137
+    },
+    {
+      "heroId": 10070,
+      "name": "易",
+      "title": "无极剑圣",
+      "total": 17,
+      "lastRelease": "2026-05-22",
+      "daysAgo": 147
+    },
+    {
+      "heroId": 10166,
+      "name": "诺拉",
+      "title": "奇妙远旅",
+      "total": 1,
+      "lastRelease": "2026-05-20",
+      "daysAgo": 149
+    },
+    {
+      "heroId": 10146,
+      "name": "塔莉垭",
+      "title": "岩雀",
+      "total": 1,
+      "lastRelease": "2026-05-15",
+      "daysAgo": 154
+    },
+    {
+      "heroId": 10026,
+      "name": "卡莎",
+      "title": "虚空之女",
+      "total": 11,
+      "lastRelease": "2026-04-30",
+      "daysAgo": 169
+    },
+    {
+      "heroId": 10019,
+      "name": "赫卡里姆",
+      "title": "战争之影",
+      "total": 5,
+      "lastRelease": "2026-04-30",
+      "daysAgo": 169
+    },
+    {
+      "heroId": 10039,
+      "name": "劫",
+      "title": "影流之主",
+      "total": 9,
+      "lastRelease": "2026-04-30",
+      "daysAgo": 169
+    },
+    {
+      "heroId": 10094,
+      "name": "艾瑞莉娅",
+      "title": "刀锋舞者",
+      "total": 9,
+      "lastRelease": "2026-04-30",
+      "daysAgo": 169
+    },
+    {
+      "heroId": 10085,
+      "name": "阿萝拉",
+      "title": "双界灵兔",
+      "total": 3,
+      "lastRelease": "2026-04-30",
+      "daysAgo": 169
+    },
+    {
+      "heroId": 10089,
+      "name": "古拉加斯",
+      "title": "酒桶",
+      "total": 6,
+      "lastRelease": "2026-04-30",
+      "daysAgo": 169
+    },
+    {
+      "heroId": 10040,
+      "name": "贾克斯",
+      "title": "武器大师",
+      "total": 8,
+      "lastRelease": "2026-04-10",
+      "daysAgo": 189
+    },
+    {
+      "heroId": 10136,
+      "name": "奥恩",
+      "title": "山隐之焰",
+      "total": 3,
+      "lastRelease": "2026-04-10",
+      "daysAgo": 189
+    },
+    {
+      "heroId": 10057,
+      "name": "佛耶戈",
+      "title": "破败之王",
+      "total": 6,
+      "lastRelease": "2026-04-09",
+      "daysAgo": 190
+    },
+    {
+      "heroId": 10123,
+      "name": "赛娜",
+      "title": "涤魂圣枪",
+      "total": 5,
+      "lastRelease": "2026-04-09",
+      "daysAgo": 190
+    },
+    {
+      "heroId": 10082,
+      "name": "安蓓萨",
+      "title": "铁血狼母",
+      "total": 2,
+      "lastRelease": "2026-04-09",
+      "daysAgo": 190
+    },
+    {
+      "heroId": 10144,
+      "name": "维克托",
+      "title": "奥术先驱",
+      "total": 3,
+      "lastRelease": "2026-04-09",
+      "daysAgo": 190
+    },
+    {
+      "heroId": 10087,
+      "name": "吉格斯",
+      "title": "爆破鬼才",
+      "total": 11,
+      "lastRelease": "2026-04-09",
+      "daysAgo": 190
+    },
+    {
+      "heroId": 10022,
+      "name": "烬",
+      "title": "戏命师",
+      "total": 10,
+      "lastRelease": "2026-04-03",
+      "daysAgo": 196
+    },
+    {
+      "heroId": 10064,
+      "name": "拉莫斯",
+      "title": "披甲龙龟",
+      "total": 3,
+      "lastRelease": "2026-03-27",
+      "daysAgo": 203
+    },
+    {
+      "heroId": 10030,
+      "name": "潘森",
+      "title": "不屈之枪",
+      "total": 8,
+      "lastRelease": "2026-03-27",
+      "daysAgo": 203
+    },
+    {
+      "heroId": 10081,
+      "name": "阿利斯塔",
+      "title": "牛头酋长",
+      "total": 5,
+      "lastRelease": "2026-03-27",
+      "daysAgo": 203
+    },
+    {
+      "heroId": 10139,
+      "name": "梅尔",
+      "title": "流光镜影",
+      "total": 2,
+      "lastRelease": "2026-03-13",
+      "daysAgo": 217
+    },
+    {
+      "heroId": 10101,
+      "name": "杰斯",
+      "title": "未来守护者",
+      "total": 9,
+      "lastRelease": "2026-03-13",
+      "daysAgo": 217
+    },
+    {
+      "heroId": 10130,
+      "name": "锤石",
+      "title": "魂锁典狱长",
+      "total": 10,
+      "lastRelease": "2026-03-08",
+      "daysAgo": 222
+    },
+    {
+      "heroId": 10128,
+      "name": "泰隆",
+      "title": "刀锋之影",
+      "total": 6,
+      "lastRelease": "2026-02-27",
+      "daysAgo": 231
+    },
+    {
+      "heroId": 10112,
+      "name": "凯特琳",
+      "title": "皮城女警",
+      "total": 11,
+      "lastRelease": "2026-02-13",
+      "daysAgo": 245
+    },
+    {
+      "heroId": 10092,
+      "name": "锐雯",
+      "title": "放逐之刃",
+      "total": 11,
+      "lastRelease": "2026-02-13",
+      "daysAgo": 245
+    },
+    {
+      "heroId": 10003,
+      "name": "拉克丝",
+      "title": "光辉女郎",
+      "total": 16,
+      "lastRelease": "2026-02-13",
+      "daysAgo": 245
+    },
+    {
+      "heroId": 10109,
+      "name": "丽桑卓",
+      "title": "冰霜女巫",
+      "total": 5,
+      "lastRelease": "2026-02-04",
+      "daysAgo": 254
+    },
+    {
+      "heroId": 10034,
+      "name": "萨勒芬妮",
+      "title": "星籁歌姬",
+      "total": 9,
+      "lastRelease": "2026-02-04",
+      "daysAgo": 254
+    },
+    {
+      "heroId": 10135,
+      "name": "莉莉娅",
+      "title": "含羞蓓蕾",
+      "total": 6,
+      "lastRelease": "2026-02-04",
+      "daysAgo": 254
+    },
+    {
+      "heroId": 10046,
+      "name": "提莫",
+      "title": "迅捷斥候",
+      "total": 10,
+      "lastRelease": "2026-01-23",
+      "daysAgo": 266
+    },
+    {
+      "heroId": 10131,
+      "name": "沃里克",
+      "title": "祖安怒兽",
+      "total": 3,
+      "lastRelease": "2026-01-22",
+      "daysAgo": 267
+    },
+    {
+      "heroId": 10096,
+      "name": "辛吉德",
+      "title": "炼金术士",
+      "total": 5,
+      "lastRelease": "2026-01-05",
+      "daysAgo": 284
+    },
+    {
+      "heroId": 10053,
+      "name": "图奇",
+      "title": "瘟疫之源",
+      "total": 5,
+      "lastRelease": "2026-01-05",
+      "daysAgo": 284
+    },
+    {
+      "heroId": 10060,
+      "name": "库奇",
+      "title": "英勇投弹手",
+      "total": 6,
+      "lastRelease": "2025-12-25",
+      "daysAgo": 295
+    },
+    {
+      "heroId": 10078,
+      "name": "纳尔",
+      "title": "迷失之牙",
+      "total": 2,
+      "lastRelease": "2025-12-11",
+      "daysAgo": 309
+    },
+    {
+      "heroId": 10086,
+      "name": "菲兹",
+      "title": "潮汐海灵",
+      "total": 7,
+      "lastRelease": "2025-12-11",
+      "daysAgo": 309
+    },
+    {
+      "heroId": 10067,
+      "name": "泽丽",
+      "title": "祖安花火",
+      "total": 6,
+      "lastRelease": "2025-12-05",
+      "daysAgo": 315
+    },
+    {
+      "heroId": 10072,
+      "name": "格雷福斯",
+      "title": "枪火狂徒",
+      "total": 11,
+      "lastRelease": "2025-12-05",
+      "daysAgo": 315
+    },
+    {
+      "heroId": 10018,
+      "name": "金克丝",
+      "title": "暴走萝莉",
+      "total": 17,
+      "lastRelease": "2025-11-28",
+      "daysAgo": 322
+    },
+    {
+      "heroId": 10011,
+      "name": "艾克",
+      "title": "时间刺客",
+      "total": 6,
+      "lastRelease": "2025-11-21",
+      "daysAgo": 329
+    },
+    {
+      "heroId": 10116,
+      "name": "芮尔",
+      "title": "镕铁少女",
+      "total": 1,
+      "lastRelease": "2025-11-14",
+      "daysAgo": 336
+    },
+    {
+      "heroId": 10041,
+      "name": "凯尔",
+      "title": "正义天使",
+      "total": 5,
+      "lastRelease": "2025-11-09",
+      "daysAgo": 341
+    },
+    {
+      "heroId": 10056,
+      "name": "嘉文四世",
+      "title": "德玛西亚皇子",
+      "total": 11,
+      "lastRelease": "2025-10-25",
+      "daysAgo": 356
+    },
+    {
+      "heroId": 10027,
+      "name": "尼菈",
+      "title": "不羁之悦",
+      "total": 4,
+      "lastRelease": "2025-10-24",
+      "daysAgo": 357
+    },
+    {
+      "heroId": 10073,
+      "name": "千珏",
+      "title": "永猎双子",
+      "total": 3,
+      "lastRelease": "2025-10-23",
+      "daysAgo": 358
+    },
+    {
+      "heroId": 10141,
+      "name": "薇古丝",
+      "title": "愁云使者",
+      "total": 4,
+      "lastRelease": "2025-10-23",
+      "daysAgo": 358
+    },
+    {
+      "heroId": 10084,
+      "name": "奈德丽",
+      "title": "狂野女猎手",
+      "total": 1,
+      "lastRelease": "2025-10-23",
+      "daysAgo": 358
+    },
+    {
+      "heroId": 10021,
+      "name": "布隆",
+      "title": "弗雷尔卓德之心",
+      "total": 8,
+      "lastRelease": "2025-10-23",
+      "daysAgo": 358
+    },
+    {
+      "heroId": 10035,
+      "name": "莫德凯撒",
+      "title": "铁铠冥魂",
+      "total": 4,
+      "lastRelease": "2025-10-10",
+      "daysAgo": 371
+    },
+    {
+      "heroId": 10010,
+      "name": "薇恩",
+      "title": "暗夜猎手",
+      "total": 12,
+      "lastRelease": "2025-09-29",
+      "daysAgo": 382
+    },
+    {
+      "heroId": 10129,
+      "name": "维克兹",
+      "title": "虚空之眼",
+      "total": 2,
+      "lastRelease": "2025-09-12",
+      "daysAgo": 399
+    },
+    {
+      "heroId": 10017,
+      "name": "卡兹克",
+      "title": "虚空掠夺者",
+      "total": 5,
+      "lastRelease": "2025-09-05",
+      "daysAgo": 406
+    },
+    {
+      "heroId": 10006,
+      "name": "雷恩加尔",
+      "title": "傲之追猎者",
+      "total": 4,
+      "lastRelease": "2025-09-05",
+      "daysAgo": 406
+    },
+    {
+      "heroId": 10105,
+      "name": "巴德",
+      "title": "星界游神",
+      "total": 1,
+      "lastRelease": "2025-08-22",
+      "daysAgo": 420
+    },
+    {
+      "heroId": 10127,
+      "name": "黑默丁格",
+      "title": "大发明家",
+      "total": 2,
+      "lastRelease": "2025-08-22",
+      "daysAgo": 420
+    },
+    {
+      "heroId": 10063,
+      "name": "婕拉",
+      "title": "荆棘之兴",
+      "total": 3,
+      "lastRelease": "2025-08-22",
+      "daysAgo": 420
+    },
+    {
+      "heroId": 10077,
+      "name": "德莱文",
+      "title": "荣耀行刑官",
+      "total": 9,
+      "lastRelease": "2025-08-22",
+      "daysAgo": 420
+    },
+    {
+      "heroId": 10052,
+      "name": "洛",
+      "title": "幻翎",
+      "total": 7,
+      "lastRelease": "2025-08-09",
+      "daysAgo": 433
+    },
+    {
+      "heroId": 10038,
+      "name": "阿狸",
+      "title": "九尾妖狐",
+      "total": 11,
+      "lastRelease": "2025-08-09",
+      "daysAgo": 433
+    },
+    {
+      "heroId": 10122,
+      "name": "维迦",
+      "title": "邪恶小法师",
+      "total": 7,
+      "lastRelease": "2025-07-17",
+      "daysAgo": 456
+    },
+    {
+      "heroId": 10023,
+      "name": "奥瑞利安·索尔",
+      "title": "铸星龙王",
+      "total": 5,
+      "lastRelease": "2025-06-27",
+      "daysAgo": 476
+    },
+    {
+      "heroId": 10065,
+      "name": "内瑟斯",
+      "title": "沙漠死神",
+      "total": 9,
+      "lastRelease": "2025-06-13",
+      "daysAgo": 490
+    },
+    {
+      "heroId": 10118,
+      "name": "慎",
+      "title": "暮光之眼",
+      "total": 4,
+      "lastRelease": "2025-05-30",
+      "daysAgo": 504
+    },
+    {
+      "heroId": 10016,
+      "name": "赵信",
+      "title": "德邦总管",
+      "total": 9,
+      "lastRelease": "2025-05-30",
+      "daysAgo": 504
+    },
+    {
+      "heroId": 10074,
+      "name": "茂凯",
+      "title": "扭曲树精",
+      "total": 2,
+      "lastRelease": "2025-05-16",
+      "daysAgo": 518
+    },
+    {
+      "heroId": 10012,
+      "name": "奥莉安娜",
+      "title": "发条魔灵",
+      "total": 8,
+      "lastRelease": "2025-04-30",
+      "daysAgo": 534
+    },
+    {
+      "heroId": 10009,
+      "name": "孙悟空",
+      "title": "齐天大圣",
+      "total": 7,
+      "lastRelease": "2025-04-17",
+      "daysAgo": 547
+    },
+    {
+      "heroId": 10020,
+      "name": "悠米",
+      "title": "魔法猫咪",
+      "total": 6,
+      "lastRelease": "2025-04-03",
+      "daysAgo": 561
+    },
+    {
+      "heroId": 10107,
+      "name": "希维尔",
+      "title": "战争女神",
+      "total": 3,
+      "lastRelease": "2025-03-28",
+      "daysAgo": 567
+    },
+    {
+      "heroId": 10103,
+      "name": "卡萨丁",
+      "title": "虚空行者",
+      "total": 4,
+      "lastRelease": "2025-03-13",
+      "daysAgo": 582
+    },
+    {
+      "heroId": 10029,
+      "name": "伊芙琳",
+      "title": "痛苦之拥",
+      "total": 5,
+      "lastRelease": "2025-01-27",
+      "daysAgo": 627
+    },
+    {
+      "heroId": 10134,
+      "name": "卡莉丝塔",
+      "title": "复仇之矛",
+      "total": 2,
+      "lastRelease": "2025-01-15",
+      "daysAgo": 639
+    },
+    {
+      "heroId": 10045,
+      "name": "崔丝塔娜",
+      "title": "麦林炮手",
+      "total": 9,
+      "lastRelease": "2025-01-09",
+      "daysAgo": 645
+    },
+    {
+      "heroId": 10061,
+      "name": "凯南",
+      "title": "狂暴之心",
+      "total": 6,
+      "lastRelease": "2025-01-09",
+      "daysAgo": 645
+    },
+    {
+      "heroId": 10140,
+      "name": "兰博",
+      "title": "机械公敌",
+      "total": 2,
+      "lastRelease": "2025-01-09",
+      "daysAgo": 645
+    },
+    {
+      "heroId": 10032,
+      "name": "菲奥娜",
+      "title": "无双剑姬",
+      "total": 11,
+      "lastRelease": "2024-11-08",
+      "daysAgo": 707
+    },
+    {
+      "heroId": 10055,
+      "name": "卡蜜尔",
+      "title": "青钢影",
+      "total": 5,
+      "lastRelease": "2024-09-12",
+      "daysAgo": 764
+    },
+    {
+      "heroId": 10083,
+      "name": "墨菲特",
+      "title": "熔岩巨兽",
+      "total": 8,
+      "lastRelease": "2024-07-18",
+      "daysAgo": 820
+    },
+    {
+      "heroId": 10106,
+      "name": "奥拉夫",
+      "title": "狂战士",
+      "total": 6,
+      "lastRelease": "2024-07-05",
+      "daysAgo": 833
+    },
+    {
+      "heroId": 10049,
+      "name": "希瓦娜",
+      "title": "龙血武姬",
+      "total": 6,
+      "lastRelease": "2024-06-21",
+      "daysAgo": 847
+    },
+    {
+      "heroId": 10100,
+      "name": "阿克尚",
+      "title": "影哨",
+      "total": 2,
+      "lastRelease": "2024-03-08",
+      "daysAgo": 952
+    },
+    {
+      "heroId": 10014,
+      "name": "佐伊",
+      "title": "暮光星灵",
+      "total": 4,
+      "lastRelease": null,
+      "daysAgo": null
+    },
+    {
+      "heroId": 10080,
+      "name": "基兰",
+      "title": "时光守护者",
+      "total": 2,
+      "lastRelease": null,
+      "daysAgo": null
+    },
+    {
+      "heroId": 10152,
+      "name": "奎桑提",
+      "title": "纳祖芒荣耀",
+      "total": 1,
+      "lastRelease": null,
+      "daysAgo": null
+    }
+  ]
+}
