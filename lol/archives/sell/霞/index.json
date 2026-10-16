@@ -1,14 +1,10 @@
 {
-  "id": "xayah",
-  "name": "霞",
-  "alias": "Xayah",
-  "key": 498,
-  "title": "逆羽",
-  "lol": {
-    "id": "xayah",
+  "wr": {
+    "id": 10051,
     "name": "霞",
-    "alias": "Xayah",
-    "key": 498,
-    "title": "逆羽"
+    "alias": "xia",
+    "key": "10051",
+    "title": "逆羽",
+    "platform": "wr"
   }
 }

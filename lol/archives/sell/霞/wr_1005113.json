@@ -1,0 +1,55 @@
+{
+  "id": 1005113,
+  "name": "至臻 神凰行者 霞",
+  "roitName": "Prestige Brave Phoenix",
+  "sortName": "至臻 神凰行者",
+  "rarity": "神话",
+  "raritySubType": "至臻",
+  "price": "1000",
+  "priceUnit": "兑换币",
+  "skinline": "神凰行者",
+  "universe": "四圣兽",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "霞带着神凰的祝福，坚定不移地穿越曾经平静的大地。她迅速处理着那些会毁掉往日圣物的人们，她的魔法在一支谐和的舞蹈中映照出其美丽之处。霞相信，如果人们能将其力量用在光宗耀祖上的话，那么善良之力必将占据上风。",
+  "accessories": [
+    "边框",
+    "姿态：控羽",
+    "姿态：神凰翔舞"
+  ],
+  "splashPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/xayah/Xayah_PrestigeBravePhoenixSkin_WR.jpg",
+  "centeredPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/xayah/至臻 神凰行者 生涯.jpg",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/xayah/至臻 神凰行者 头像.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/xayah/至臻 神凰行者 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月15日",
+    "endDate": "2027年1月7日前",
+    "description": "臻耀秘境（前30天800币兑换）",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
