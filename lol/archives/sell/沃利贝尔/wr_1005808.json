@@ -1,0 +1,56 @@
+{
+  "id": 1005808,
+  "name": "巅峰对决 沃利贝尔",
+  "roitName": "Legends Showdown",
+  "sortName": "巅峰对决",
+  "rarity": "神话",
+  "raritySubType": "巅峰对决",
+  "price": "1260",
+  "priceUnit": "点券",
+  "skinline": "全球总决赛冠军",
+  "universe": "电竞",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "那无数个未眠的夜晚，那无数次泪水与呐喊，我们血液里流淌着的是什么？巅峰对决的盛会永无止歇，热爱汇聚的雷霆何其热烈，去战吧，去迎接风暴，去见证不朽的传奇和新生的桂冠！然后告诉世人——今夜，我们血液里流淌着的，是与他们同在的战意！\r\n",
+  "accessories": [
+    "边框",
+    "姿态：嗨起来",
+    "姿态：极限闪避",
+    "姿态：熊熊抖擞",
+    "姿态：霸气一躺"
+  ],
+  "splashPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/volibear/Volibear_LegendsShowdownSkin_WR.jpg",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/volibear/巅峰对决 头像.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/volibear/巅峰对决 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月15日",
+    "endDate": "2027年1月7日前",
+    "description": "逐梦战令",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
