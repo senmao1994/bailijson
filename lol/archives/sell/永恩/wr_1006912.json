@@ -1,0 +1,54 @@
+{
+  "id": 1006912,
+  "name": "臻藏 西部魔影 永恩",
+  "roitName": "Prestige Select High Noon Yone Special pricing",
+  "sortName": "臻藏 西部魔影",
+  "rarity": "神话",
+  "raritySubType": "臻藏",
+  "price": "1500",
+  "priceUnit": "兑换币",
+  "skinline": "西部魔影",
+  "universe": "西部风云",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "\"那后来呢？\"火药女巫追问。而新着衣装的永恩已经洗去了硫磺的气味，款款步入门厅。他按住帽檐：\"孩子，你很快就会知道了。\"灼热西部的空气中，女巫恍惚间似乎看见高洁的天使重临这片神弃的荒野。",
+  "accessories": [
+    "边框",
+    "姿态：堕天",
+    "姿态：魔影狂飙"
+  ],
+  "splashPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yone/臻藏 西部魔影.jpg",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yone/臻藏 西部魔影 头像.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yone/臻藏 西部魔影 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月15日",
+    "endDate": "2027年1月7日前",
+    "description": "臻耀秘境（前30天1200币兑换）",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
