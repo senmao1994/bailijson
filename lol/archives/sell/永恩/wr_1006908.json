@@ -1,0 +1,57 @@
+{
+  "id": 1006908,
+  "name": "寻道世尊",
+  "roitName": "Fiend Queller",
+  "sortName": "寻道世尊",
+  "rarity": "终极",
+  "raritySubType": "",
+  "price": "25000",
+  "priceUnit": "点券",
+  "skinline": "玄都奇谈",
+  "universe": "",
+  "pushDate": "5.2",
+  "series": null,
+  "backstory": "当铺“勾曲积金”的掌柜永恩曾是掌管彼界的两位天魔王之一，在惨烈的兄弟阋墙之后以半人半灵的姿态流落于都市。为了不让疯狂的弟弟彻底颠覆两界的平衡，永恩向人类传度灵力，以求驱魔卫道。现在，一座城市，两个世界的平衡都系于他的双刃之上，为了维持这一切，永恩必须追索自己散失的力量——他的邪魔本性。",
+  "accessories": [
+    "边框",
+    "姿态：护体",
+    "姿态：斩邪除恶"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Yone_7.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_yone_skin07.png",
+  "iconPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yone/寻道世尊 图标.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yone/寻道世尊 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006908.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/yone/寻道世尊 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2024年9月12日",
+    "endDate": "2024年10月7日",
+    "description": "玄都奇谈2024",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
