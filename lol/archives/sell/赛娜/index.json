@@ -1,7 +1,9 @@
-﻿{
-    "id":  "senna",
-    "name":  "赛娜",
-    "alias":  "Senna",
-    "key":  235,
-    "title":  "涤魂圣枪"
+{
+  "lol": {
+    "id": "senna",
+    "name": "赛娜",
+    "alias": "Senna",
+    "key": 235,
+    "title": "涤魂圣枪"
+  }
 }
