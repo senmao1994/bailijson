@@ -1,0 +1,91 @@
+{
+  "id": 245059,
+  "name": "至臻 真实伤害 以我之名 艾克",
+  "roitName": "Prestige True Damage Know My Name Ekko",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "真实伤害",
+  "universe": "拳头唱片",
+  "pushDate": "2026年10月22日",
+  "series": null,
+  "backstory": "说唱神童，音乐科技奇才，次世代音乐代言人——在名扬四海之前，艾克就已经是音乐界的实力悍将。如今，他回归初心，带来了一首传世之作，一首诉尽他拼搏之路的歌。这算得上孤注一掷，但正合他意。 ",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/images/ekko_splash_uncentered_59.skins_ekko_skin59.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/images/ekko_splash_tile_59.skins_ekko_skin59.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/images/ekko_splash_centered_59.skins_ekko_skin59.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/chromapreview.chroma_ekko_damage.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/ekkoloadscreen_59.skins_ekko_skin59.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/ekkoloadscreen_59_le.skins_ekko_skin59.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "7330",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/TrueDamage/5204_Time_For_Triumph_Inventory.ACCESSORIES_16_21.png",
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2026年10月22日",
+    "priceEndDay": "预计2027年1月6日23:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 245060,
+      "name": "至臻 真实伤害 以我之名 艾克 至强",
+      "sortName": "至强",
+      "colorName": "战利品",
+      "tencent": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "2026年10月22日",
+        "priceEndDay": "预计2027年1月6日23:59",
+        "description": "战利品专属",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 35,
+        "priceType": "神话商店",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "战利品专属"
+      },
+      "riotName": "Prestige True Damage Know My Name Ekko (Vivid)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin60/chromapreview.chroma_ekko_damage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#C6CACD",
+        "#4A53F3"
+      ]
+    }
+  ],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "26.21",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
