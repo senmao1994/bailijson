@@ -1,0 +1,276 @@
+{
+  "id": 84103,
+  "name": "真实伤害 以我之名 阿卡丽",
+  "roitName": "True Damage Know My Name Akali",
+  "sortName": null,
+  "rarity": "传说",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "真实伤害",
+  "universe": "拳头唱片",
+  "pushDate": "2026年10月22日",
+  "series": null,
+  "backstory": "阿卡丽组建的真实伤害乐队甫一亮相，就吸引了全世界的目光。阿卡丽从来不知道什么是墨守成规，她永远都在突破极限，不断寻找更刺激的冒险。这一次，她要以独树一帜的音乐风格震撼乐坛。决不妥协，无惧尝试，对阿卡丽而言，期望就是用来打破的。 ",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/images/akali_splash_uncentered_103.skins_akali_skin103.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/images/akali_splash_tile_103.skins_akali_skin103.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/images/akali_splash_centered_103.skins_akali_skin103.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/chromapreview.chroma_akali_truedamage.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/akaliloadscreen_103.skins_akali_skin103.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/akaliloadscreen_103_le.skins_akali_skin103.jpg",
+  "roit": {
+    "price": 1820,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 10900,
+  "icon": "7323",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/TrueDamage/52002_Bubblegum_Pop_Glow_Fix_DO_NOT_TRANSLATE_Inventory.ACCESSORIES_16_21.png",
+  "tencent": {
+    "price": 10900,
+    "priceType": "直售",
+    "priceTypeChinese": "",
+    "priceStartDay": "2026年10月22日",
+    "priceEndDay": "预计2027年1月6日23:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 84105,
+      "name": "真实伤害 以我之名 阿卡丽 锐意之风",
+      "sortName": "锐意之风",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "礼包",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Akali (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin105/chromapreview.chroma_akali_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 84106,
+      "name": "真实伤害 以我之名 阿卡丽 天纵之才",
+      "sortName": "天纵之才",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Akali (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin106/chromapreview.chroma_akali_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 84107,
+      "name": "真实伤害 以我之名 阿卡丽 超凡之心",
+      "sortName": "超凡之心",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Akali (Sapphire)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin107/chromapreview.chroma_akali_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#2756CE",
+        "#2756CE"
+      ]
+    },
+    {
+      "id": 84108,
+      "name": "真实伤害 以我之名 阿卡丽 华丽之韵",
+      "sortName": "华丽之韵",
+      "colorName": "金黄",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Akali (Catseye)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin108/chromapreview.chroma_akali_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#FFEE59",
+        "#FFEE59"
+      ]
+    },
+    {
+      "id": 84109,
+      "name": "真实伤害 以我之名 阿卡丽 本真之范",
+      "sortName": "本真之范",
+      "colorName": "珍珠白",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Akali (Pearl)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin109/chromapreview.chroma_akali_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#ECF9F8",
+        "#ECF9F8"
+      ]
+    },
+    {
+      "id": 84110,
+      "name": "真实伤害 以我之名 阿卡丽 无畏之志",
+      "sortName": "无畏之志",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 0,
+        "priceType": "臻彩",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Akali (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin110/chromapreview.chroma_akali_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    }
+  ],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "26.21",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
