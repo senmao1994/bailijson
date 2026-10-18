@@ -1,15 +1,9 @@
 {
-  "id": "yasuo",
-  "name": "亚索",
-  "alias": "Yasuo",
-  "key": 157,
-  "title": "疾风剑豪",
-  "wr": {
-    "id": 10037,
+  "lol": {
+    "id": "yasuo",
     "name": "亚索",
-    "alias": "yasuo",
-    "key": "10037",
-    "title": "疾风剑豪",
-    "platform": "wr"
+    "alias": "Yasuo",
+    "key": 157,
+    "title": "疾风剑豪"
   }
 }

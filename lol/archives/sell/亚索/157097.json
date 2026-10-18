@@ -1,0 +1,239 @@
+{
+  "id": 157097,
+  "name": "2026 全球总决赛 真实伤害 亚索",
+  "roitName": "True Damage Know My Name Yasuo",
+  "sortName": null,
+  "rarity": "史诗",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "真实伤害",
+  "universe": "拳头唱片",
+  "pushDate": "2026年10月22日",
+  "series": null,
+  "backstory": "亚索已经数年没发新歌了，让粉丝们纷纷猜测他是否会就此退隐。但这位神秘低调、深居简出的制作人只是在等一个合适的时机，而阿卡丽邀请他重返真实伤害的提议太过诱人，让他无法拒绝。这次的新歌不拘泥于任何音乐类型，也不迎合外界期待。亚索只是跟随风的指引……重返舞台。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/images/yasuo_splash_uncentered_97.skins_yasuo_skin97.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/images/yasuo_splash_tile_97.skins_yasuo_skin97.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/images/yasuo_splash_centered_97.skins_yasuo_skin97.jpg",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/chromapreview.chroma_yasuo_truedamage.png",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/yasuoloadscreen_97.skins_yasuo_skin97.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/yasuoloadscreen_97_le.skins_yasuo_skin97.jpg",
+  "roit": {
+    "price": 1350,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 8900,
+  "icon": "7327",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/TrueDamage/5201_Face_The_Music_Inventory.ACCESSORIES_16_21.png",
+  "tencent": {
+    "price": 8900,
+    "priceType": "限时直售",
+    "priceTypeChinese": "全球总决赛",
+    "priceStartDay": "2026年10月22日",
+    "priceEndDay": "预计2027年1月6日23:59",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [
+    {
+      "id": 157098,
+      "name": "2026 全球总决赛 真实伤害 亚索 冲霄",
+      "sortName": "冲霄",
+      "colorName": "白色",
+      "tencent": {
+        "price": 799,
+        "priceType": "典藏礼盒",
+        "priceStartDay": "2026年10月20日",
+        "priceEndDay": "2027年1月20日24:00",
+        "description": "2026全球总决赛典藏礼盒购买获得",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Yasuo (Unlocked)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin98/chromapreview.chroma_yasuo_truedamage.png",
+      "mythicIcon": "7230",
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#CECEEE",
+        "#1B1D57"
+      ]
+    },
+    {
+      "id": 157099,
+      "name": "2026 全球总决赛 真实伤害 亚索 风起今朝",
+      "sortName": "风起今朝",
+      "colorName": "蓝色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Yasuo (Momentous)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin99/chromapreview.chroma_yasuo_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#C5B290",
+        "#2E71EF"
+      ]
+    },
+    {
+      "id": 157100,
+      "name": "2026 全球总决赛 真实伤害 亚索 初光",
+      "sortName": "初光",
+      "colorName": "红色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Yasuo (Ruby)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin100/chromapreview.chroma_yasuo_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#D33528",
+        "#D33528"
+      ]
+    },
+    {
+      "id": 157101,
+      "name": "2026 全球总决赛 真实伤害 亚索 破境",
+      "sortName": "破境",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Yasuo (Rose Quartz)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin101/chromapreview.chroma_yasuo_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#E58BA5",
+        "#E58BA5"
+      ]
+    },
+    {
+      "id": 157102,
+      "name": "2026 全球总决赛 真实伤害 亚索 陷阵",
+      "sortName": "陷阵",
+      "colorName": "黑曜石",
+      "tencent": {
+        "price": 0,
+        "priceType": "暂无",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": null
+      },
+      "roit": {
+        "price": 290,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "True Damage Know My Name Yasuo (Obsidian)",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin102/chromapreview.chroma_yasuo_truedamage.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
+      "wildRiftSell": null,
+      "colors": [
+        "#27211C",
+        "#27211C"
+      ]
+    }
+  ],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "26.21",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
