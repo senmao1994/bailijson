@@ -1,0 +1,52 @@
+{
+  "id": 235009,
+  "name": "至臻 真实伤害 赛娜",
+  "roitName": "Prestige True Damage Senna",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "真实伤害",
+  "universe": "拳头唱片",
+  "pushDate": "2020年02月04日",
+  "series": null,
+  "backstory": "再次荣登榜首之后，赛娜发现自己进入了一个满是名望和名声的熟悉空间。在化妆品代言和时装秀之间，她向粉丝和黑粉们传达了一个明确的讯息：不要把它称为回归。赛娜已在此很多年了。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin09/images/senna_splash_uncentered_9.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin09/images/senna_splash_tile_9.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin09/images/senna_splash_centered_9.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin09/sennaloadscreen_9.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin09/sennaloadscreen_9_le.jpg",
+  "roit": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 150,
+  "icon": "4495",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/TFT/StandardRewards/4421_On_Mute_Inventory.png",
+  "tencent": {
+    "price": 150,
+    "priceType": "神话商店",
+    "priceTypeChinese": "至臻",
+    "priceStartDay": "2020年2月11日",
+    "priceEndDay": "2021年1月29日",
+    "description": "首发100至臻点兑换",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "10.3",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
