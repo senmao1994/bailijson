@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:40:52.036241",
+  "updatedAt": "2026-10-21T09:22:48.253761",
   "skins": [
     {
       "id": 1000,
@@ -10865,6 +10865,44 @@
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin64/images/evelynn_splash_tile_64.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin64/images/evelynn_splash_uncentered_64.jpg",
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin64/evelynnloadscreen_64.jpg"
+    },
+    {
+      "id": 28065,
+      "name": "K/DA FIRESTARTER Evelynn",
+      "championId": 27,
+      "rarity": 1,
+      "cost": 3,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "features": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin65/images/evelynn_splash_tile_65.skins_evelynn_skin65.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin65/images/evelynn_splash_uncentered_65.skins_evelynn_skin65.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin65/evelynnloadscreen_65.skins_evelynn_skin65.jpg"
+    },
+    {
+      "id": 28066,
+      "name": "K/DA Hitmaker Evelynn",
+      "championId": 27,
+      "rarity": 2,
+      "cost": 0,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "features": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_tile_66.skins_evelynn_skin66.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_uncentered_66.skins_evelynn_skin66.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/evelynnloadscreen_66.skins_evelynn_skin66.jpg"
     },
     {
       "id": 29000,
@@ -27386,6 +27424,25 @@
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin92/akaliloadscreen_92.jpg"
     },
     {
+      "id": 84102,
+      "name": "K/DA FIRESTARTER Ignition Akali",
+      "championId": 74,
+      "rarity": 2,
+      "cost": 0,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "features": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin102/images/akali_splash_tile_102.skins_akali_skin102.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin102/images/akali_splash_uncentered_102.skins_akali_skin102.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin102/akaliloadscreen_102.skins_akali_skin102.jpg"
+    },
+    {
       "id": 84103,
       "name": "True Damage Know My Name Akali",
       "championId": 74,
@@ -32099,6 +32156,24 @@
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin89/images/ahri_splash_tile_89.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin89/images/ahri_splash_uncentered_89.jpg",
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin89/ahriloadscreen_89.jpg"
+    },
+    {
+      "id": 103097,
+      "name": "K/DA FIRESTARTER Ahri",
+      "championId": 86,
+      "rarity": 3,
+      "cost": 6,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "features": [
+        2,
+        3,
+        4
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin97/images/ahri_splash_tile_97.skins_ahri_skin97.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin97/images/ahri_splash_uncentered_97.skins_ahri_skin97.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin97/ahriloadscreen_97.skins_ahri_skin97.jpg"
     },
     {
       "id": 104000,
@@ -40136,6 +40211,19 @@
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin70/images/kaisa_splash_tile_70.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin70/images/kaisa_splash_uncentered_70.jpg",
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin70/kaisaloadscreen_70.jpg"
+    },
+    {
+      "id": 145083,
+      "name": "K/DA FIRESTARTER Kai'Sa",
+      "championId": 111,
+      "rarity": 3,
+      "cost": 0,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/images/kaisa_splash_tile_83.skins_kaisa_skin83.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/images/kaisa_splash_uncentered_83.skins_kaisa_skin83.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/kaisaloadscreen_83.skins_kaisa_skin83.jpg"
     },
     {
       "id": 147000,
