@@ -34,7 +34,7 @@
     "priceType": "限时直售",
     "priceTypeChinese": "全球总决赛",
     "priceStartDay": "2026年10月22日",
-    "priceEndDay": "预计2027年1月6日23:59",
+    "priceEndDay": "2026年11月18日23:59",
     "description": "",
     "hasFullGiftPack": true
   },
@@ -54,8 +54,8 @@
         "wildRiftSell": null
       },
       "roit": {
-        "price": 290,
-        "priceType": "直售",
+        "price": 0,
+        "priceType": "典藏礼盒",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
@@ -82,17 +82,17 @@
       "sortName": "风起今朝",
       "colorName": "蓝色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年10月22日",
+        "priceEndDay": "2026年11月18日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
         "price": 290,
-        "priceType": "直售",
+        "priceType": "限时直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
@@ -119,17 +119,17 @@
       "sortName": "初光",
       "colorName": "红色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2026年10月22日",
+        "priceEndDay": "2026年11月18日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
         "price": 290,
-        "priceType": "直售",
+        "priceType": "礼包",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
@@ -156,17 +156,17 @@
       "sortName": "破境",
       "colorName": "粉色",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "礼包",
+        "priceStartDay": "2026年10月22日",
+        "priceEndDay": "2026年11月18日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
         "price": 290,
-        "priceType": "直售",
+        "priceType": "限时直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
@@ -193,17 +193,17 @@
       "sortName": "陷阵",
       "colorName": "黑曜石",
       "tencent": {
-        "price": 0,
-        "priceType": "暂无",
-        "priceStartDay": "",
-        "priceEndDay": "",
+        "price": 2000,
+        "priceType": "限时直售",
+        "priceStartDay": "2026年10月22日",
+        "priceEndDay": "2026年11月18日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
       },
       "roit": {
         "price": 290,
-        "priceType": "直售",
+        "priceType": "限时直售",
         "priceStartDay": "",
         "priceEndDay": "",
         "description": ""
