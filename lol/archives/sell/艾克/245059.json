@@ -34,7 +34,7 @@
     "priceType": "神话商店",
     "priceTypeChinese": "至臻",
     "priceStartDay": "2026年10月22日",
-    "priceEndDay": "预计2027年1月6日23:59",
+    "priceEndDay": "2026年11月18日23:59",
     "description": "",
     "hasFullGiftPack": true
   },
@@ -48,7 +48,7 @@
         "price": 35,
         "priceType": "神话商店",
         "priceStartDay": "2026年10月22日",
-        "priceEndDay": "预计2027年1月6日23:59",
+        "priceEndDay": "2026年11月18日23:59",
         "description": "战利品专属",
         "hasFullGiftPack": false,
         "wildRiftSell": null
