@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-21T09:44:32.858059",
+  "updatedAt": "2026-10-22T12:16:55.787122",
   "count": 1074,
   "wikiMatched": 1062,
   "withRelease": 1046,
   "withCost": 786,
-  "wikiOnly": 14,
+  "wikiOnly": 11,
   "skins": [
     {
       "heroId": 10001,
@@ -17392,12 +17392,12 @@
     {
       "heroId": 10084,
       "skinId": 1008406,
-      "name": "",
+      "name": "女帝",
       "isBase": false,
-      "quality": "",
-      "price": 0,
-      "poster": null,
-      "card": null,
+      "quality": "SKIN_QUALITY_EPIC",
+      "price": 890,
+      "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nidalee_5.jpg",
+      "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008406.png",
       "wikiName": "Battle Queen",
       "release": "2026-10-23",
       "wildCoreCost": 990,
@@ -17409,7 +17409,7 @@
       "newAnimations": true,
       "newRecall": true,
       "transforming": false,
-      "origin": "wiki",
+      "origin": "both",
       "wikiMatched": true
     },
     {
@@ -21714,12 +21714,12 @@
     {
       "heroId": 10107,
       "skinId": 1010706,
-      "name": "",
+      "name": "女帝",
       "isBase": false,
-      "quality": "",
-      "price": 0,
-      "poster": null,
-      "card": null,
+      "quality": "SKIN_QUALITY_LEGEND",
+      "price": 1090,
+      "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sivir_5.jpg",
+      "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010706.png",
       "wikiName": "Battle Queen",
       "release": "2026-10-23",
       "wildCoreCost": 1325,
@@ -21731,7 +21731,7 @@
       "newAnimations": true,
       "newRecall": true,
       "transforming": false,
-      "origin": "wiki",
+      "origin": "both",
       "wikiMatched": true
     },
     {
@@ -24731,12 +24731,12 @@
     {
       "heroId": 10134,
       "skinId": 1013406,
-      "name": "",
+      "name": "女帝",
       "isBase": false,
-      "quality": "",
-      "price": 0,
-      "poster": null,
-      "card": null,
+      "quality": "SKIN_QUALITY_EPIC",
+      "price": 890,
+      "poster": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kalista_5.jpg",
+      "card": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013406.png",
       "wikiName": "Battle Queen",
       "release": "2026-10-23",
       "wildCoreCost": 990,
@@ -24748,7 +24748,7 @@
       "newAnimations": true,
       "newRecall": true,
       "transforming": false,
-      "origin": "wiki",
+      "origin": "both",
       "wikiMatched": true
     },
     {

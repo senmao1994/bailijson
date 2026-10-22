@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T09:44:32.472568",
+  "updatedAt": "2026-10-22T12:16:53.873097",
   "skins": [
     {
       "id": 1000,
@@ -1045,7 +1045,7 @@
       "lootEligible": 1,
       "release": "2026-01-22",
       "artists": [
-        3
+        36
       ],
       "features": [
         0,
@@ -1087,9 +1087,9 @@
       "universeIds": [
         91
       ],
-      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin47/images/galio_splash_tile_47.skins_galio_skin47.jpg",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin47/images/galio_splash_uncentered_47.skins_galio_skin47.jpg",
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin47/galioloadscreen_47.skins_galio_skin47.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin47/images/galio_splash_tile_47.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin47/images/galio_splash_uncentered_47.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/galio/skins/skin47/galioloadscreen_47.jpg"
     },
     {
       "id": 4000,
@@ -1207,7 +1207,7 @@
       "lootEligible": 1,
       "release": "2011-05-17",
       "artists": [
-        36
+        37
       ],
       "lineIds": [
         39
@@ -1363,7 +1363,7 @@
       "release": "2020-10-15",
       "artists": [
         12,
-        37
+        38
       ],
       "lineIds": [
         73
@@ -1385,7 +1385,7 @@
       "lootEligible": 1,
       "release": "2021-04-29",
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         145
@@ -1408,7 +1408,7 @@
       "release": "2021-08-26",
       "artists": [
         12,
-        39
+        40
       ],
       "lineIds": [
         149
@@ -1431,7 +1431,7 @@
       "release": "2022-11-17",
       "artists": [
         12,
-        40
+        41
       ],
       "lineIds": [
         144
@@ -1453,7 +1453,7 @@
       "lootEligible": 0,
       "release": "2025-04-30",
       "artists": [
-        41
+        42
       ],
       "lineIds": [
         7
@@ -1493,7 +1493,7 @@
       "release": "2010-07-13",
       "artists": [
         15,
-        42
+        43
       ],
       "lineIds": [
         104
@@ -1516,7 +1516,7 @@
       "release": "2010-07-13",
       "artists": [
         15,
-        43
+        44
       ],
       "lineIds": [
         167
@@ -1561,7 +1561,7 @@
       "release": "2011-09-26",
       "artists": [
         15,
-        44
+        45
       ],
       "lineIds": [
         99
@@ -1628,7 +1628,7 @@
       "lootEligible": 1,
       "release": "2017-03-09",
       "artists": [
-        45
+        46
       ],
       "lineIds": [
         13
@@ -1650,7 +1650,7 @@
       "lootEligible": 1,
       "release": "2018-08-21",
       "artists": [
-        46
+        47
       ],
       "lineIds": [
         43
@@ -1673,7 +1673,7 @@
       "release": "2021-01-07",
       "artists": [
         12,
-        47
+        48
       ],
       "lineIds": [
         45
@@ -1696,7 +1696,7 @@
       "release": "2022-01-26",
       "artists": [
         12,
-        48
+        49
       ],
       "lineIds": [
         54
@@ -1718,7 +1718,7 @@
       "lootEligible": 1,
       "artists": [
         15,
-        44
+        45
       ],
       "lineIds": [
         178
@@ -1748,9 +1748,9 @@
       "universeIds": [
         91
       ],
-      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin53/images/xinzhao_splash_tile_53.skins_xinzhao_skin53.jpg",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin53/images/xinzhao_splash_uncentered_53.skins_xinzhao_skin53.jpg",
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin53/xinzhaoloadscreen_53.skins_xinzhao_skin53.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin53/images/xinzhao_splash_tile_53.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin53/images/xinzhao_splash_uncentered_53.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin53/xinzhaoloadscreen_53.jpg"
     },
     {
       "id": 6000,
@@ -1830,7 +1830,7 @@
       "lootEligible": 1,
       "release": "2012-03-05",
       "artists": [
-        49
+        50
       ],
       "features": [
         1,
@@ -1885,7 +1885,7 @@
       "lootEligible": 1,
       "release": "2020-04-01",
       "artists": [
-        50
+        51
       ],
       "features": [
         2,
@@ -1912,7 +1912,7 @@
       "lootEligible": 1,
       "release": "2022-09-22",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -1940,7 +1940,7 @@
       "release": "2025-04-02",
       "artists": [
         12,
-        51
+        52
       ],
       "features": [
         2,
@@ -1966,6 +1966,10 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-09-23",
+      "artists": [
+        12,
+        53
+      ],
       "features": [
         2,
         3,
@@ -2009,7 +2013,7 @@
       "release": "2010-11-02",
       "artists": [
         15,
-        52
+        54
       ],
       "lineIds": [
         167
@@ -2053,7 +2057,7 @@
       "lootEligible": 1,
       "release": "2011-12-14",
       "artists": [
-        41
+        42
       ],
       "lineIds": [
         48
@@ -2075,7 +2079,7 @@
       "lootEligible": 1,
       "release": "2014-10-28",
       "artists": [
-        53
+        55
       ],
       "lineIds": [
         88
@@ -2097,7 +2101,7 @@
       "lootEligible": 1,
       "release": "2016-03-10",
       "artists": [
-        45
+        46
       ],
       "lineIds": [
         58
@@ -2119,7 +2123,7 @@
       "lootEligible": 1,
       "release": "2018-11-15",
       "artists": [
-        50
+        51
       ],
       "lineIds": [
         17
@@ -2186,7 +2190,7 @@
       "release": "2020-09-24",
       "artists": [
         12,
-        54
+        53
       ],
       "lineIds": [
         8
@@ -2231,7 +2235,7 @@
       "lootEligible": 1,
       "release": "2021-12-09",
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         23
@@ -2299,7 +2303,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        42
+        43
       ],
       "lineIds": [
         230
@@ -2456,7 +2460,7 @@
       "lootEligible": 1,
       "release": "2014-07-09",
       "artists": [
-        53
+        55
       ],
       "features": [
         2,
@@ -2506,7 +2510,7 @@
       "release": "2018-05-31",
       "artists": [
         32,
-        45
+        46
       ],
       "features": [
         2,
@@ -2589,7 +2593,7 @@
       "release": "2021-12-02",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -2617,7 +2621,7 @@
       "release": "2023-03-09",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -2670,7 +2674,7 @@
       "release": "2026-04-15",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -2698,7 +2702,7 @@
       "release": "2009-02-21",
       "isBase": 1,
       "artists": [
-        45
+        46
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/base/images/fiddlesticks_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/base/images/fiddlesticks_splash_uncentered_0.jpg",
@@ -2714,7 +2718,7 @@
       "lootEligible": 1,
       "release": "2010-03-16",
       "artists": [
-        45
+        46
       ],
       "features": [
         4
@@ -2740,7 +2744,7 @@
       "release": "2010-02-12",
       "artists": [
         12,
-        56
+        57
       ],
       "lineIds": [
         28
@@ -2763,7 +2767,7 @@
       "release": "2010-08-10",
       "artists": [
         12,
-        54
+        53
       ],
       "lineIds": [
         39
@@ -2785,7 +2789,7 @@
       "lootEligible": 1,
       "release": "2010-10-19",
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         88
@@ -2807,7 +2811,7 @@
       "lootEligible": 1,
       "release": "2010-04-26",
       "artists": [
-        57
+        58
       ],
       "lineIds": [
         49
@@ -2830,7 +2834,7 @@
       "release": "2011-10-27",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         0,
@@ -2885,7 +2889,7 @@
       "lootEligible": 1,
       "release": "2015-04-29",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -2912,7 +2916,7 @@
       "lootEligible": 1,
       "release": "2018-11-08",
       "artists": [
-        58
+        59
       ],
       "features": [
         0,
@@ -2941,7 +2945,7 @@
       "release": "2022-07-14",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -2969,7 +2973,7 @@
       "release": "2024-04-18",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -2996,7 +3000,7 @@
       "lootEligible": 1,
       "release": "2025-10-08",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -3022,8 +3026,8 @@
       "isBase": 1,
       "artists": [
         27,
-        38,
-        60
+        39,
+        61
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/base/images/kayle_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/base/images/kayle_splash_uncentered_0.jpg",
@@ -3039,7 +3043,7 @@
       "lootEligible": 0,
       "release": "2009-11-13",
       "artists": [
-        61
+        62
       ],
       "features": [
         4
@@ -3064,7 +3068,7 @@
       "lootEligible": 1,
       "release": "2010-06-01",
       "artists": [
-        62
+        63
       ],
       "lineIds": [
         97
@@ -3086,7 +3090,7 @@
       "lootEligible": 1,
       "release": "2010-07-13",
       "artists": [
-        63
+        64
       ],
       "lineIds": [
         180
@@ -3159,7 +3163,7 @@
       "lootEligible": 1,
       "release": "2013-01-18",
       "artists": [
-        46
+        47
       ],
       "features": [
         0,
@@ -3187,7 +3191,7 @@
       "lootEligible": 1,
       "release": "2014-08-12",
       "artists": [
-        64
+        65
       ],
       "features": [
         2,
@@ -3237,7 +3241,7 @@
       "release": "2017-08-08",
       "artists": [
         22,
-        65
+        66
       ],
       "features": [
         2,
@@ -3404,7 +3408,7 @@
       "release": "2024-05-01",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -3433,7 +3437,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -3461,7 +3465,7 @@
       "release": "2025-06-25",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -3488,7 +3492,7 @@
       "lootEligible": 1,
       "release": "2026-08-12",
       "artists": [
-        3
+        62
       ],
       "features": [
         4
@@ -3531,7 +3535,7 @@
       "lootEligible": 1,
       "release": "2009-12-17",
       "artists": [
-        45
+        46
       ],
       "lineIds": [
         167
@@ -3663,7 +3667,7 @@
       "lootEligible": 1,
       "release": "2017-04-26",
       "artists": [
-        67
+        68
       ],
       "lineIds": [
         43
@@ -3685,7 +3689,7 @@
       "lootEligible": 1,
       "release": "2017-09-27",
       "artists": [
-        45
+        46
       ],
       "lineIds": [
         81
@@ -3753,7 +3757,7 @@
       "release": "2020-09-03",
       "artists": [
         12,
-        47
+        48
       ],
       "lineIds": [
         133
@@ -3798,7 +3802,7 @@
       "release": "2022-10-06",
       "artists": [
         12,
-        68
+        69
       ],
       "lineIds": [
         171
@@ -3821,7 +3825,7 @@
       "release": "2022-10-06",
       "isPrestige": 1,
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         171
@@ -3866,7 +3870,7 @@
       "lootEligible": 1,
       "release": "2024-02-07",
       "artists": [
-        41
+        42
       ],
       "lineIds": [
         201
@@ -3889,7 +3893,7 @@
       "release": "2025-01-09",
       "artists": [
         15,
-        69
+        70
       ],
       "lineIds": [
         7
@@ -4059,7 +4063,7 @@
       "lootEligible": 1,
       "release": "2012-07-13",
       "artists": [
-        70
+        71
       ],
       "lineIds": [
         86
@@ -4206,7 +4210,7 @@
       "lootEligible": 1,
       "release": "2019-04-30",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -4260,7 +4264,7 @@
       "lootEligible": 1,
       "release": "2021-02-04",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -4288,7 +4292,7 @@
       "release": "2025-08-27",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -4316,7 +4320,7 @@
       "release": "2009-02-21",
       "isBase": 1,
       "artists": [
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/base/images/ryze_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/base/images/ryze_splash_uncentered_0.jpg",
@@ -4423,7 +4427,7 @@
       "lootEligible": 1,
       "release": "2010-10-05",
       "artists": [
-        73
+        74
       ],
       "lineIds": [
         22
@@ -4600,7 +4604,7 @@
       "release": "2020-01-22",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -4628,7 +4632,7 @@
       "release": "2022-04-14",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -4684,7 +4688,7 @@
       "release": "2009-02-21",
       "isBase": 1,
       "artists": [
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/base/images/sion_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/base/images/sion_splash_uncentered_0.jpg",
@@ -4700,7 +4704,7 @@
       "lootEligible": 1,
       "release": "2010-06-01",
       "artists": [
-        49
+        50
       ],
       "lineIds": [
         40
@@ -4723,7 +4727,7 @@
       "release": "2010-09-26",
       "artists": [
         7,
-        60
+        61
       ],
       "lineIds": [
         38
@@ -4818,7 +4822,7 @@
       "release": "2020-04-09",
       "artists": [
         15,
-        74
+        75
       ],
       "features": [
         2,
@@ -4874,7 +4878,7 @@
       "release": "2022-05-26",
       "artists": [
         12,
-        43
+        44
       ],
       "features": [
         2,
@@ -4930,7 +4934,7 @@
       "release": "2025-03-05",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         4
@@ -5158,7 +5162,7 @@
       "lootEligible": 0,
       "release": "2015-11-12",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -5210,7 +5214,7 @@
       "lootEligible": 1,
       "release": "2018-03-29",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -5292,7 +5296,7 @@
       "release": "2021-12-02",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -5320,7 +5324,7 @@
       "release": "2022-04-28",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         0,
@@ -5349,7 +5353,7 @@
       "release": "2023-01-12",
       "artists": [
         12,
-        68
+        69
       ],
       "features": [
         2,
@@ -5377,7 +5381,7 @@
       "release": "2023-01-12",
       "isPrestige": 1,
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -5405,7 +5409,7 @@
       "release": "2024-01-24",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -5433,7 +5437,7 @@
       "release": "2024-10-17",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -5551,7 +5555,7 @@
       "lootEligible": 1,
       "release": "2013-03-05",
       "artists": [
-        75
+        76
       ],
       "features": [
         3,
@@ -5577,7 +5581,7 @@
       "lootEligible": 1,
       "release": "2014-11-05",
       "artists": [
-        53
+        55
       ],
       "features": [
         2,
@@ -5626,7 +5630,7 @@
       "lootEligible": 1,
       "release": "2016-04-06",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -5653,7 +5657,7 @@
       "lootEligible": 1,
       "release": "2017-09-06",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -5707,7 +5711,7 @@
       "lootEligible": 1,
       "release": "2018-12-06",
       "artists": [
-        50
+        51
       ],
       "features": [
         2,
@@ -5734,7 +5738,7 @@
       "lootEligible": 1,
       "release": "2019-12-12",
       "artists": [
-        57
+        58
       ],
       "features": [
         0,
@@ -5762,7 +5766,7 @@
       "lootEligible": 1,
       "release": "2019-12-12",
       "artists": [
-        57
+        58
       ],
       "features": [
         0,
@@ -5792,7 +5796,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        77
+        78
       ],
       "features": [
         2,
@@ -5820,7 +5824,7 @@
       "release": "2021-12-02",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -5847,7 +5851,7 @@
       "lootEligible": 1,
       "release": "2022-10-06",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -5903,7 +5907,7 @@
       "release": "2024-05-15",
       "artists": [
         12,
-        48
+        49
       ],
       "features": [
         2,
@@ -5930,7 +5934,7 @@
       "lootEligible": 1,
       "release": "2025-10-08",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -5953,6 +5957,10 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-08-26",
+      "artists": [
+        12,
+        53
+      ],
       "features": [
         2,
         3,
@@ -5996,7 +6004,7 @@
       "release": "2009-12-17",
       "artists": [
         12,
-        55
+        56
       ],
       "lineIds": [
         48
@@ -6019,7 +6027,7 @@
       "release": "2009-12-17",
       "artists": [
         15,
-        43
+        44
       ],
       "lineIds": [
         167
@@ -6091,7 +6099,7 @@
       "lootEligible": 1,
       "release": "2011-04-18",
       "artists": [
-        61
+        62
       ],
       "features": [
         4
@@ -6194,7 +6202,7 @@
       "lootEligible": 1,
       "release": "2016-10-19",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -6221,7 +6229,7 @@
       "lootEligible": 1,
       "release": "2018-05-01",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -6248,7 +6256,7 @@
       "lootEligible": 1,
       "release": "2020-07-22",
       "artists": [
-        61
+        62
       ],
       "features": [
         2,
@@ -6276,7 +6284,7 @@
       "release": "2020-07-22",
       "isPrestige": 1,
       "artists": [
-        78
+        79
       ],
       "features": [
         2,
@@ -6358,7 +6366,7 @@
       "lootEligible": 1,
       "release": "2025-07-30",
       "artists": [
-        61
+        62
       ],
       "features": [
         2,
@@ -6402,7 +6410,7 @@
       "lootEligible": 0,
       "release": "2009-12-15",
       "artists": [
-        67
+        68
       ],
       "lineIds": [
         37
@@ -6446,7 +6454,7 @@
       "lootEligible": 1,
       "release": "2010-06-03",
       "artists": [
-        79
+        80
       ],
       "features": [
         4
@@ -6494,7 +6502,7 @@
       "lootEligible": 1,
       "release": "2011-06-27",
       "artists": [
-        80
+        81
       ],
       "lineIds": [
         49
@@ -6569,7 +6577,7 @@
       "lootEligible": 1,
       "release": "2016-10-19",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -6596,7 +6604,7 @@
       "lootEligible": 1,
       "release": "2017-07-26",
       "artists": [
-        61
+        62
       ],
       "features": [
         2,
@@ -6623,7 +6631,7 @@
       "lootEligible": 1,
       "release": "2019-05-30",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -6678,7 +6686,7 @@
       "release": "2021-09-09",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -6805,10 +6813,13 @@
       "name": "Risen Legend Tristana",
       "championId": 17,
       "rarity": 5,
-      "cost": 0,
+      "cost": 1,
       "availability": 3,
       "lootEligible": 0,
       "release": "2026-09-10",
+      "artists": [
+        9
+      ],
       "features": [
         0,
         2,
@@ -6903,7 +6914,7 @@
       "lootEligible": 1,
       "release": "2010-04-27",
       "artists": [
-        81
+        82
       ],
       "lineIds": [
         71
@@ -6925,7 +6936,7 @@
       "lootEligible": 1,
       "release": "2010-08-15",
       "artists": [
-        60
+        61
       ],
       "features": [
         4
@@ -6975,7 +6986,7 @@
       "lootEligible": 1,
       "release": "2011-03-29",
       "artists": [
-        73
+        74
       ],
       "features": [
         4
@@ -7000,7 +7011,7 @@
       "lootEligible": 1,
       "release": "2011-12-05",
       "artists": [
-        49
+        50
       ],
       "features": [
         1,
@@ -7073,7 +7084,7 @@
       "lootEligible": 1,
       "release": "2018-02-08",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -7128,7 +7139,7 @@
       "release": "2021-08-12",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -7184,7 +7195,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -7211,7 +7222,7 @@
       "lootEligible": 1,
       "release": "2024-12-11",
       "artists": [
-        82
+        36
       ],
       "features": [
         2,
@@ -7305,7 +7316,7 @@
       "lootEligible": 1,
       "release": "2009-12-17",
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         48
@@ -7372,7 +7383,7 @@
       "lootEligible": 1,
       "release": "2011-08-24",
       "artists": [
-        58
+        59
       ],
       "lineIds": [
         38
@@ -7394,7 +7405,7 @@
       "lootEligible": 1,
       "release": "2013-05-23",
       "artists": [
-        75
+        76
       ],
       "lineIds": [
         2
@@ -7438,7 +7449,7 @@
       "lootEligible": 1,
       "release": "2019-02-21",
       "artists": [
-        58
+        59
       ],
       "lineIds": [
         96
@@ -7529,7 +7540,7 @@
       "release": "2024-09-25",
       "artists": [
         12,
-        54
+        53
       ],
       "lineIds": [
         170
@@ -7568,7 +7579,7 @@
       "lootEligible": 1,
       "release": "2010-09-08",
       "artists": [
-        60
+        61
       ],
       "lineIds": [
         39
@@ -7590,7 +7601,7 @@
       "lootEligible": 1,
       "release": "2010-09-08",
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         167
@@ -7612,7 +7623,7 @@
       "lootEligible": 1,
       "release": "2010-11-16",
       "artists": [
-        50
+        51
       ],
       "lineIds": [
         121
@@ -7678,7 +7689,7 @@
       "lootEligible": 1,
       "release": "2011-11-01",
       "artists": [
-        63
+        64
       ],
       "lineIds": [
         51
@@ -7767,7 +7778,7 @@
       "release": "2017-09-06",
       "artists": [
         22,
-        46
+        47
       ],
       "lineIds": [
         20
@@ -7833,7 +7844,7 @@
       "lootEligible": 1,
       "release": "2019-10-24",
       "artists": [
-        58
+        59
       ],
       "lineIds": [
         172
@@ -7857,7 +7868,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        77
+        78
       ],
       "lineIds": [
         172
@@ -7879,7 +7890,7 @@
       "lootEligible": 1,
       "release": "2021-07-22",
       "artists": [
-        57
+        58
       ],
       "lineIds": [
         138
@@ -7923,7 +7934,7 @@
       "lootEligible": 1,
       "release": "2024-07-17",
       "artists": [
-        41,
+        42,
         89
       ],
       "lineIds": [
@@ -7948,7 +7959,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        77
+        78
       ],
       "lineIds": [
         172
@@ -7970,7 +7981,7 @@
       "lootEligible": 1,
       "release": "2023-03-09",
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         190
@@ -8016,7 +8027,7 @@
       "release": "2024-02-22",
       "artists": [
         12,
-        55
+        56
       ],
       "lineIds": [
         154
@@ -8055,12 +8066,12 @@
       "name": "MVP T1 Miss Fortune",
       "championId": 20,
       "rarity": 2,
-      "cost": 3,
+      "cost": 1,
       "availability": 0,
       "lootEligible": 1,
       "artists": [
         12,
-        54
+        53
       ],
       "lineIds": [
         232
@@ -8068,9 +8079,9 @@
       "universeIds": [
         91
       ],
-      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin69/images/missfortune_splash_tile_69.skins_missfortune_skin69.jpg",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin69/images/missfortune_splash_uncentered_69.skins_missfortune_skin69.jpg",
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin69/missfortuneloadscreen_69.skins_missfortune_skin69.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin69/images/missfortune_splash_tile_69.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin69/images/missfortune_splash_uncentered_69.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/missfortune/skins/skin69/missfortuneloadscreen_69.jpg"
     },
     {
       "id": 22000,
@@ -8149,7 +8160,7 @@
       "lootEligible": 1,
       "release": "2010-07-18",
       "artists": [
-        70
+        71
       ],
       "features": [
         4
@@ -8270,7 +8281,7 @@
       "lootEligible": 1,
       "release": "2016-08-01",
       "artists": [
-        45
+        46
       ],
       "features": [
         0,
@@ -8298,7 +8309,7 @@
       "lootEligible": 1,
       "release": "2017-09-12",
       "artists": [
-        61
+        62
       ],
       "features": [
         2,
@@ -8325,7 +8336,7 @@
       "lootEligible": 1,
       "release": "2018-08-21",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -8381,7 +8392,7 @@
       "lootEligible": 1,
       "release": "2020-10-01",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -8514,7 +8525,7 @@
       "release": "2023-12-06",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -8542,7 +8553,7 @@
       "release": "2024-05-30",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -8569,7 +8580,7 @@
       "lootEligible": 1,
       "release": "2025-04-30",
       "artists": [
-        38
+        39
       ],
       "features": [
         0,
@@ -8598,7 +8609,7 @@
       "release": "2026-02-04",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -8734,7 +8745,7 @@
       "lootEligible": 1,
       "release": "2012-09-26",
       "artists": [
-        75
+        76
       ],
       "lineIds": [
         99
@@ -8827,7 +8838,7 @@
       "lootEligible": 1,
       "release": "2017-06-05",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -8882,7 +8893,7 @@
       "release": "2021-09-23",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -8909,7 +8920,7 @@
       "lootEligible": 0,
       "release": "2024-03-20",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -8965,7 +8976,7 @@
       "release": "2009-02-21",
       "isBase": 1,
       "artists": [
-        41,
+        42,
         92
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/base/images/jax_splash_tile_0.jpg",
@@ -8983,7 +8994,7 @@
       "release": "2010-02-12",
       "artists": [
         15,
-        52
+        54
       ],
       "lineIds": [
         28
@@ -9006,7 +9017,7 @@
       "release": "2010-02-24",
       "artists": [
         15,
-        43
+        44
       ],
       "lineIds": [
         27
@@ -9054,7 +9065,7 @@
       "release": "2010-03-26",
       "artists": [
         15,
-        42
+        43
       ],
       "lineIds": [
         84
@@ -9077,7 +9088,7 @@
       "release": "2011-05-10",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         1,
@@ -9127,7 +9138,7 @@
       "release": "2012-09-14",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         4
@@ -9152,7 +9163,7 @@
       "lootEligible": 1,
       "release": "2014-05-04",
       "artists": [
-        75
+        76
       ],
       "lineIds": [
         3
@@ -9336,7 +9347,7 @@
       "release": "2023-10-11",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         4
@@ -9362,7 +9373,7 @@
       "release": "2024-03-06",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -9419,8 +9430,8 @@
       "isBase": 1,
       "artists": [
         27,
-        38,
-        60
+        39,
+        61
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/base/images/morgana_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/base/images/morgana_splash_uncentered_0.jpg",
@@ -9461,7 +9472,7 @@
       "lootEligible": 1,
       "release": "2010-09-02",
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         26
@@ -9483,7 +9494,7 @@
       "lootEligible": 1,
       "release": "2010-12-01",
       "artists": [
-        45
+        46
       ],
       "lineIds": [
         65
@@ -9505,7 +9516,7 @@
       "lootEligible": 1,
       "release": "2012-05-23",
       "artists": [
-        62
+        63
       ],
       "features": [
         2,
@@ -9613,7 +9624,7 @@
       "lootEligible": 1,
       "release": "2016-10-19",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -9668,7 +9679,7 @@
       "lootEligible": 1,
       "release": "2020-04-16",
       "artists": [
-        46
+        47
       ],
       "features": [
         0,
@@ -9864,7 +9875,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -9893,7 +9904,7 @@
       "isBase": 1,
       "artists": [
         20,
-        76
+        77
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/base/images/zilean_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/base/images/zilean_splash_uncentered_0.jpg",
@@ -10083,7 +10094,7 @@
       "release": "2025-09-24",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -10320,7 +10331,7 @@
       "lootEligible": 1,
       "release": "2017-10-11",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -10432,7 +10443,7 @@
       "release": "2009-04-30",
       "isBase": 1,
       "artists": [
-        60
+        61
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/base/images/evelynn_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/base/images/evelynn_splash_uncentered_0.jpg",
@@ -10544,7 +10555,7 @@
       "lootEligible": 1,
       "release": "2018-05-08",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -10656,7 +10667,7 @@
       "lootEligible": 1,
       "release": "2020-10-29",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -10683,7 +10694,7 @@
       "lootEligible": 1,
       "release": "2021-08-12",
       "artists": [
-        46
+        47
       ],
       "features": [
         0,
@@ -10794,7 +10805,7 @@
       "lootEligible": 1,
       "release": "2024-03-20",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -10823,7 +10834,7 @@
       "release": "2024-03-20",
       "isPrestige": 1,
       "artists": [
-        68
+        69
       ],
       "features": [
         2,
@@ -10851,7 +10862,7 @@
       "release": "2025-06-25",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         4
@@ -10915,7 +10926,7 @@
       "release": "2009-04-30",
       "isBase": 1,
       "artists": [
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twitch/skins/base/images/twitch_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twitch/skins/base/images/twitch_splash_uncentered_0.jpg",
@@ -10931,7 +10942,7 @@
       "lootEligible": 1,
       "release": "2009-11-20",
       "artists": [
-        73
+        74
       ],
       "lineIds": [
         49
@@ -10953,7 +10964,7 @@
       "lootEligible": 1,
       "release": "2010-02-12",
       "artists": [
-        81
+        82
       ],
       "lineIds": [
         28
@@ -10997,7 +11008,7 @@
       "lootEligible": 1,
       "release": "2010-10-13",
       "artists": [
-        49
+        50
       ],
       "lineIds": [
         51
@@ -11019,7 +11030,7 @@
       "lootEligible": 1,
       "release": "2011-02-22",
       "artists": [
-        65
+        66
       ],
       "lineIds": [
         27
@@ -11146,7 +11157,7 @@
       "release": "2020-03-19",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -11256,7 +11267,7 @@
       "release": "2025-04-30",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         4
@@ -11282,7 +11293,7 @@
       "release": "2009-06-11",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/base/images/karthus_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/base/images/karthus_splash_uncentered_0.jpg",
@@ -11467,7 +11478,7 @@
       "release": "2021-09-09",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         1,
@@ -11524,7 +11535,7 @@
       "release": "2025-09-24",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -11770,7 +11781,7 @@
       "lootEligible": 1,
       "release": "2024-04-03",
       "artists": [
-        59
+        60
       ],
       "lineIds": [
         61
@@ -11963,7 +11974,7 @@
       "lootEligible": 1,
       "release": "2012-05-28",
       "artists": [
-        70
+        71
       ],
       "features": [
         2,
@@ -12045,7 +12056,7 @@
       "release": "2019-09-26",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -12073,7 +12084,7 @@
       "release": "2020-10-22",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -12101,7 +12112,7 @@
       "release": "2022-01-26",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -12129,7 +12140,7 @@
       "release": "2023-02-10",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -12156,7 +12167,7 @@
       "lootEligible": 1,
       "release": "2025-02-05",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -12475,7 +12486,7 @@
       "name": "Baron Rammus",
       "championId": 32,
       "rarity": 0,
-      "cost": 1,
+      "cost": 15,
       "availability": 1,
       "lootEligible": 1,
       "release": "2026-07-29",
@@ -12604,7 +12615,7 @@
       "lootEligible": 1,
       "release": "2013-04-29",
       "artists": [
-        53
+        55
       ],
       "features": [
         0,
@@ -12685,7 +12696,7 @@
       "lootEligible": 1,
       "release": "2019-02-21",
       "artists": [
-        58
+        59
       ],
       "lineIds": [
         96
@@ -12736,7 +12747,7 @@
       "release": "2021-09-02",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -12792,7 +12803,7 @@
       "release": "2023-07-17",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -12818,6 +12829,10 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-09-23",
+      "artists": [
+        12,
+        16
+      ],
       "features": [
         2,
         3,
@@ -13087,7 +13102,7 @@
       "release": "2021-08-26",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -13114,7 +13129,7 @@
       "lootEligible": 1,
       "release": "2022-12-08",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -13198,7 +13213,7 @@
       "release": "2024-09-25",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -13255,7 +13270,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -13283,7 +13298,7 @@
       "release": "2009-09-01",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/base/images/drmundo_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/base/images/drmundo_splash_uncentered_0.jpg",
@@ -13300,7 +13315,7 @@
       "release": "2009-12-17",
       "artists": [
         12,
-        54
+        53
       ],
       "lineIds": [
         111
@@ -13415,7 +13430,7 @@
       "release": "2012-07-27",
       "artists": [
         12,
-        66
+        67
       ],
       "lineIds": [
         38
@@ -13437,7 +13452,7 @@
       "lootEligible": 1,
       "release": "2013-05-23",
       "artists": [
-        75
+        76
       ],
       "lineIds": [
         2
@@ -13481,7 +13496,7 @@
       "lootEligible": 1,
       "release": "2016-06-01",
       "artists": [
-        45
+        46
       ],
       "lineIds": [
         34
@@ -13503,7 +13518,7 @@
       "lootEligible": 1,
       "release": "2018-12-06",
       "artists": [
-        71
+        72
       ],
       "lineIds": [
         47
@@ -13526,7 +13541,7 @@
       "release": "2023-09-13",
       "artists": [
         12,
-        55
+        56
       ],
       "lineIds": [
         197
@@ -13689,7 +13704,7 @@
       "name": "DJ Sona",
       "championId": 36,
       "rarity": 6,
-      "cost": 15,
+      "cost": 16,
       "availability": 0,
       "lootEligible": 1,
       "release": "2015-02-25",
@@ -13750,7 +13765,7 @@
       "lootEligible": 1,
       "release": "2018-09-12",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -13777,7 +13792,7 @@
       "lootEligible": 1,
       "release": "2020-09-03",
       "artists": [
-        76
+        77
       ],
       "features": [
         0,
@@ -13806,7 +13821,7 @@
       "release": "2021-09-09",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -13862,7 +13877,7 @@
       "release": "2023-08-16",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -13891,7 +13906,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -13918,7 +13933,7 @@
       "lootEligible": 0,
       "release": "2024-10-10",
       "artists": [
-        41,
+        42,
         103
       ],
       "features": [
@@ -13946,7 +13961,7 @@
       "lootEligible": 1,
       "release": "2025-07-30",
       "artists": [
-        68
+        69
       ],
       "features": [
         2,
@@ -14003,7 +14018,7 @@
       "isBase": 1,
       "artists": [
         12,
-        37
+        38
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/base/images/kassadin_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/base/images/kassadin_splash_uncentered_0.jpg",
@@ -14190,7 +14205,7 @@
       "release": "2022-02-17",
       "artists": [
         12,
-        48
+        49
       ],
       "features": [
         2,
@@ -14218,7 +14233,7 @@
       "release": "2024-01-09",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -14240,13 +14255,13 @@
       "name": "Irelia",
       "championId": 38,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2010-11-16",
       "isBase": 1,
       "artists": [
-        60
+        61
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/base/images/irelia_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/base/images/irelia_splash_uncentered_0.jpg",
@@ -14262,7 +14277,7 @@
       "lootEligible": 1,
       "release": "2010-11-16",
       "artists": [
-        50
+        51
       ],
       "features": [
         1,
@@ -14314,7 +14329,7 @@
       "lootEligible": 1,
       "release": "2011-10-11",
       "artists": [
-        62
+        63
       ],
       "features": [
         1,
@@ -14453,7 +14468,7 @@
       "lootEligible": 1,
       "release": "2019-08-01",
       "artists": [
-        58
+        59
       ],
       "features": [
         2,
@@ -14620,7 +14635,7 @@
       "lootEligible": 1,
       "release": "2024-02-22",
       "artists": [
-        68
+        69
       ],
       "features": [
         2,
@@ -14871,7 +14886,7 @@
       "lootEligible": 1,
       "release": "2016-10-05",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -14925,7 +14940,7 @@
       "lootEligible": 1,
       "release": "2018-10-24",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -14953,7 +14968,7 @@
       "release": "2020-01-22",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -15119,7 +15134,7 @@
       "release": "2025-06-25",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         4
@@ -15143,6 +15158,9 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-09-23",
+      "artists": [
+        69
+      ],
       "features": [
         0,
         2,
@@ -15170,7 +15188,7 @@
       "release": "2009-08-18",
       "isBase": 1,
       "artists": [
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/base/images/gangplank_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/base/images/gangplank_splash_uncentered_0.jpg",
@@ -15313,7 +15331,7 @@
       "lootEligible": 1,
       "release": "2013-11-13",
       "artists": [
-        53
+        55
       ],
       "features": [
         2,
@@ -15340,7 +15358,7 @@
       "lootEligible": 1,
       "release": "2015-08-09",
       "artists": [
-        46
+        47
       ],
       "features": [
         0,
@@ -15366,7 +15384,7 @@
       "lootEligible": 1,
       "release": "2017-01-12",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -15448,7 +15466,7 @@
       "release": "2022-05-05",
       "artists": [
         12,
-        39
+        40
       ],
       "features": [
         2,
@@ -15476,7 +15494,7 @@
       "release": "2024-03-06",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -15630,7 +15648,7 @@
       "lootEligible": 1,
       "release": "2013-02-08",
       "artists": [
-        70
+        71
       ],
       "features": [
         2,
@@ -15761,7 +15779,7 @@
       "lootEligible": 1,
       "release": "2025-08-13",
       "artists": [
-        82
+        36
       ],
       "features": [
         0,
@@ -15828,8 +15846,8 @@
       "lootEligible": 1,
       "release": "2011-02-01",
       "artists": [
-        60,
-        61
+        61,
+        62
       ],
       "lineIds": [
         167
@@ -15851,7 +15869,7 @@
       "lootEligible": 1,
       "release": "2013-03-29",
       "artists": [
-        60
+        61
       ],
       "features": [
         0,
@@ -15926,7 +15944,7 @@
       "lootEligible": 1,
       "release": "2016-12-14",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -15953,7 +15971,7 @@
       "lootEligible": 1,
       "release": "2017-04-23",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -15980,7 +15998,7 @@
       "lootEligible": 1,
       "release": "2019-06-13",
       "artists": [
-        62
+        63
       ],
       "features": [
         2,
@@ -16176,7 +16194,7 @@
       "release": "2025-06-25",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         0,
@@ -16205,7 +16223,7 @@
       "release": "2009-08-18",
       "isBase": 1,
       "artists": [
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/base/images/taric_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/base/images/taric_splash_uncentered_0.jpg",
@@ -16243,7 +16261,7 @@
       "lootEligible": 1,
       "release": "2010-04-08",
       "artists": [
-        73
+        74
       ],
       "lineIds": [
         117
@@ -16318,7 +16336,7 @@
       "release": "2020-03-19",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -16374,7 +16392,7 @@
       "release": "2025-04-16",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -16635,7 +16653,7 @@
       "lootEligible": 1,
       "release": "2019-08-29",
       "artists": [
-        58
+        59
       ],
       "features": [
         2,
@@ -16716,7 +16734,7 @@
       "lootEligible": 1,
       "release": "2022-08-11",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -16772,7 +16790,7 @@
       "release": "2024-09-25",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         0,
@@ -16801,7 +16819,8 @@
       "release": "2026-07-29",
       "isPrestige": 1,
       "artists": [
-        3
+        15,
+        44
       ],
       "features": [
         2,
@@ -16823,13 +16842,13 @@
       "name": "Trundle",
       "championId": 45,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2010-12-01",
       "isBase": 1,
       "artists": [
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/base/images/trundle_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/base/images/trundle_splash_uncentered_0.jpg",
@@ -16845,7 +16864,7 @@
       "lootEligible": 1,
       "release": "2010-12-01",
       "artists": [
-        53
+        55
       ],
       "features": [
         4
@@ -16972,7 +16991,7 @@
       "release": "2020-01-30",
       "artists": [
         12,
-        47
+        48
       ],
       "features": [
         2,
@@ -17000,7 +17019,7 @@
       "release": "2022-09-22",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -17027,7 +17046,7 @@
       "lootEligible": 1,
       "release": "2024-10-09",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -17047,7 +17066,7 @@
       "name": "Swain",
       "championId": 46,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2010-10-05",
@@ -17094,7 +17113,7 @@
       "lootEligible": 1,
       "release": "2010-10-05",
       "artists": [
-        62
+        63
       ],
       "features": [
         4
@@ -17176,7 +17195,7 @@
       "lootEligible": 1,
       "release": "2019-12-12",
       "artists": [
-        58
+        59
       ],
       "features": [
         2,
@@ -17232,7 +17251,7 @@
       "release": "2022-12-08",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -17309,7 +17328,7 @@
       "lootEligible": 1,
       "release": "2026-04-01",
       "artists": [
-        68
+        69
       ],
       "features": [
         2,
@@ -17331,7 +17350,7 @@
       "name": "Caitlyn",
       "championId": 47,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-01-04",
@@ -17400,7 +17419,7 @@
       "release": "2011-05-10",
       "artists": [
         12,
-        43
+        44
       ],
       "features": [
         4
@@ -17449,7 +17468,7 @@
       "release": "2011-10-05",
       "artists": [
         12,
-        39
+        40
       ],
       "features": [
         4
@@ -17583,7 +17602,7 @@
       "lootEligible": 1,
       "release": "2019-06-28",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -17669,7 +17688,7 @@
       "release": "2021-11-22",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -17725,7 +17744,7 @@
       "lootEligible": 1,
       "release": "2022-06-23",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -17753,7 +17772,7 @@
       "release": "2023-02-10",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -17804,7 +17823,7 @@
       "lootEligible": 1,
       "release": "2024-11-20",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -17862,7 +17881,7 @@
       "release": "2026-02-04",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -17890,7 +17909,7 @@
       "release": "2009-09-01",
       "isBase": 1,
       "artists": [
-        76
+        77
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/base/images/blitzcrank_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/base/images/blitzcrank_splash_uncentered_0.jpg",
@@ -18020,7 +18039,7 @@
       "lootEligible": 1,
       "release": "2013-03-01",
       "artists": [
-        70
+        71
       ],
       "features": [
         4
@@ -18045,7 +18064,7 @@
       "lootEligible": 1,
       "release": "2013-10-21",
       "artists": [
-        53
+        55
       ],
       "features": [
         2,
@@ -18157,7 +18176,7 @@
       "lootEligible": 1,
       "release": "2019-10-24",
       "artists": [
-        50
+        51
       ],
       "features": [
         2,
@@ -18185,7 +18204,7 @@
       "release": "2021-04-01",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         0,
@@ -18242,7 +18261,7 @@
       "release": "2022-09-09",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -18270,7 +18289,7 @@
       "release": "2023-11-22",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -18298,7 +18317,7 @@
       "release": "2026-04-01",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -18376,7 +18395,7 @@
       "release": "2009-09-01",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/base/images/malphite_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/base/images/malphite_splash_uncentered_0.jpg",
@@ -18518,7 +18537,7 @@
       "lootEligible": 1,
       "release": "2014-07-23",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -18600,7 +18619,7 @@
       "release": "2020-03-26",
       "artists": [
         12,
-        47
+        48
       ],
       "features": [
         2,
@@ -18738,7 +18757,7 @@
       "lootEligible": 1,
       "release": "2025-04-02",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -18893,7 +18912,7 @@
       "lootEligible": 1,
       "release": "2012-01-02",
       "artists": [
-        80
+        81
       ],
       "lineIds": [
         66
@@ -18915,7 +18934,7 @@
       "lootEligible": 1,
       "release": "2012-12-14",
       "artists": [
-        70
+        71
       ],
       "features": [
         2,
@@ -18942,7 +18961,7 @@
       "lootEligible": 1,
       "release": "2015-02-10",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -18969,7 +18988,7 @@
       "lootEligible": 1,
       "release": "2016-08-01",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -18996,7 +19015,7 @@
       "lootEligible": 1,
       "release": "2017-10-25",
       "artists": [
-        38
+        39
       ],
       "features": [
         1,
@@ -19024,7 +19043,7 @@
       "lootEligible": 1,
       "release": "2019-05-15",
       "artists": [
-        63
+        64
       ],
       "features": [
         2,
@@ -19109,7 +19128,7 @@
       "release": "2022-05-12",
       "artists": [
         12,
-        43
+        44
       ],
       "features": [
         2,
@@ -19136,7 +19155,7 @@
       "lootEligible": 1,
       "release": "2023-03-23",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -19218,7 +19237,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -19264,13 +19283,13 @@
       "name": "Nocturne",
       "championId": 51,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-03-15",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/base/images/nocturne_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/base/images/nocturne_splash_uncentered_0.jpg",
@@ -19434,7 +19453,7 @@
       "lootEligible": 1,
       "release": "2019-08-29",
       "artists": [
-        50
+        51
       ],
       "features": [
         2,
@@ -19463,7 +19482,7 @@
       "release": "2020-06-11",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -19491,7 +19510,7 @@
       "release": "2023-03-09",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -19519,7 +19538,7 @@
       "release": "2024-05-01",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -19541,7 +19560,7 @@
       "name": "Maokai",
       "championId": 52,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-02-16",
@@ -19823,7 +19842,7 @@
       "release": "2026-03-04",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -19845,7 +19864,7 @@
       "name": "Renekton",
       "championId": 53,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-01-18",
@@ -19853,7 +19872,7 @@
       "artists": [
         0,
         20,
-        76
+        77
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/base/images/renekton_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/base/images/renekton_splash_uncentered_0.jpg",
@@ -19966,7 +19985,7 @@
       "lootEligible": 1,
       "release": "2014-02-10",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -20120,7 +20139,7 @@
       "release": "2020-03-05",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -20205,7 +20224,7 @@
       "release": "2023-10-11",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -20233,7 +20252,7 @@
       "release": "2025-06-11",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -20255,7 +20274,7 @@
       "name": "Jarvan IV",
       "championId": 54,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-03-01",
@@ -20454,7 +20473,7 @@
       "lootEligible": 1,
       "release": "2019-04-04",
       "artists": [
-        58
+        59
       ],
       "lineIds": [
         40
@@ -20499,7 +20518,7 @@
       "release": "2021-02-04",
       "artists": [
         12,
-        66
+        67
       ],
       "lineIds": [
         142
@@ -20607,7 +20626,7 @@
       "name": "Elise",
       "championId": 55,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-10-26",
@@ -20682,7 +20701,7 @@
       "lootEligible": 1,
       "release": "2015-01-08",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -20864,13 +20883,13 @@
       "name": "Orianna",
       "championId": 56,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-06-01",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/base/images/orianna_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/base/images/orianna_splash_uncentered_0.jpg",
@@ -20955,7 +20974,7 @@
       "lootEligible": 1,
       "release": "2013-05-23",
       "artists": [
-        75
+        76
       ],
       "lineIds": [
         2
@@ -21004,7 +21023,7 @@
       "lootEligible": 1,
       "release": "2016-02-11",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -21031,7 +21050,7 @@
       "lootEligible": 1,
       "release": "2017-05-03",
       "artists": [
-        61
+        62
       ],
       "features": [
         2,
@@ -21058,7 +21077,7 @@
       "lootEligible": 0,
       "release": "2018-11-21",
       "artists": [
-        60
+        61
       ],
       "features": [
         2,
@@ -21169,8 +21188,8 @@
       "lootEligible": 1,
       "release": "2024-08-14",
       "artists": [
-        68,
-        82
+        36,
+        69
       ],
       "features": [
         2,
@@ -21192,10 +21211,13 @@
       "name": "Risen Legend Orianna",
       "championId": 56,
       "rarity": 2,
-      "cost": 0,
+      "cost": 1,
       "availability": 3,
       "lootEligible": 0,
       "release": "2026-09-10",
+      "artists": [
+        3
+      ],
       "features": [
         2,
         3,
@@ -21216,7 +21238,7 @@
       "name": "Wukong",
       "championId": 57,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-07-26",
@@ -21304,7 +21326,7 @@
       "lootEligible": 1,
       "release": "2014-10-28",
       "artists": [
-        53
+        55
       ],
       "lineIds": [
         87
@@ -21372,7 +21394,7 @@
       "release": "2021-03-18",
       "artists": [
         12,
-        66
+        67
       ],
       "lineIds": [
         113
@@ -21395,7 +21417,7 @@
       "release": "2023-06-28",
       "artists": [
         12,
-        66
+        67
       ],
       "lineIds": [
         58
@@ -21416,7 +21438,7 @@
       "availability": 0,
       "lootEligible": 1,
       "artists": [
-        41
+        42
       ],
       "lineIds": [
         127
@@ -21433,7 +21455,7 @@
       "name": "Brand",
       "championId": 58,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-04-12",
@@ -21478,7 +21500,7 @@
       "lootEligible": 1,
       "release": "2011-04-12",
       "artists": [
-        45
+        46
       ],
       "lineIds": [
         27
@@ -21553,7 +21575,7 @@
       "lootEligible": 1,
       "release": "2015-10-21",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -21717,7 +21739,7 @@
       "lootEligible": 1,
       "release": "2023-09-13",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -21773,7 +21795,7 @@
       "release": "2026-06-10",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -21795,7 +21817,7 @@
       "name": "Lee Sin",
       "championId": 59,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-04-01",
@@ -21818,7 +21840,7 @@
       "release": "2011-04-01",
       "artists": [
         15,
-        42
+        43
       ],
       "lineIds": [
         82
@@ -21841,7 +21863,7 @@
       "release": "2011-04-01",
       "artists": [
         12,
-        48
+        49
       ],
       "lineIds": [
         180
@@ -21863,7 +21885,7 @@
       "lootEligible": 1,
       "release": "2012-01-10",
       "artists": [
-        41
+        42
       ],
       "lineIds": [
         55
@@ -21886,7 +21908,7 @@
       "release": "2012-07-24",
       "artists": [
         15,
-        44
+        45
       ],
       "lineIds": [
         99
@@ -21930,7 +21952,7 @@
       "lootEligible": 1,
       "release": "2014-05-04",
       "artists": [
-        75
+        76
       ],
       "lineIds": [
         3
@@ -21953,7 +21975,7 @@
       "release": "2015-05-31",
       "artists": [
         15,
-        43
+        44
       ],
       "lineIds": [
         51
@@ -21975,7 +21997,7 @@
       "lootEligible": 1,
       "release": "2017-04-05",
       "artists": [
-        46
+        47
       ],
       "lineIds": [
         81
@@ -22134,7 +22156,7 @@
       "release": "2022-09-09",
       "artists": [
         12,
-        40
+        41
       ],
       "lineIds": [
         165
@@ -22157,7 +22179,7 @@
       "release": "2024-02-07",
       "artists": [
         15,
-        44
+        45
       ],
       "lineIds": [
         201
@@ -22179,7 +22201,7 @@
       "lootEligible": 1,
       "release": "2024-02-07",
       "artists": [
-        41,
+        42,
         89
       ],
       "lineIds": [
@@ -22202,8 +22224,8 @@
       "lootEligible": 1,
       "release": "2024-08-14",
       "artists": [
-        68,
-        82
+        36,
+        69
       ],
       "lineIds": [
         207
@@ -22226,7 +22248,7 @@
       "release": "2025-06-11",
       "artists": [
         15,
-        43
+        44
       ],
       "lineIds": [
         192
@@ -22243,7 +22265,7 @@
       "name": "Vayne",
       "championId": 60,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-05-10",
@@ -22359,7 +22381,7 @@
       "lootEligible": 1,
       "release": "2014-05-04",
       "artists": [
-        75
+        76
       ],
       "features": [
         4
@@ -22411,7 +22433,7 @@
       "lootEligible": 1,
       "release": "2016-07-28",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -22575,7 +22597,7 @@
       "lootEligible": 1,
       "release": "2021-07-08",
       "artists": [
-        38
+        39
       ],
       "features": [
         0,
@@ -22603,7 +22625,7 @@
       "lootEligible": 1,
       "release": "2022-03-31",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -22659,7 +22681,7 @@
       "release": "2023-04-20",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -22686,7 +22708,7 @@
       "lootEligible": 1,
       "release": "2024-01-09",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -22714,7 +22736,7 @@
       "release": "2025-06-11",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -22742,7 +22764,7 @@
       "release": "2026-04-29",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         0,
@@ -22765,14 +22787,14 @@
       "name": "Rumble",
       "championId": 61,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-04-26",
       "isBase": 1,
       "artists": [
         20,
-        76
+        77
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rumble/skins/base/images/rumble_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rumble/skins/base/images/rumble_splash_uncentered_0.jpg",
@@ -22860,7 +22882,7 @@
       "lootEligible": 1,
       "release": "2018-04-11",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -22916,7 +22938,7 @@
       "release": "2023-10-25",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -22938,7 +22960,7 @@
       "name": "Cassiopeia",
       "championId": 62,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2010-12-14",
@@ -23026,7 +23048,7 @@
       "lootEligible": 1,
       "release": "2013-02-08",
       "artists": [
-        72
+        73
       ],
       "features": [
         2,
@@ -23053,7 +23075,7 @@
       "lootEligible": 1,
       "release": "2017-09-20",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -23164,7 +23186,7 @@
       "release": "2025-01-23",
       "isPrestige": 1,
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -23186,7 +23208,7 @@
       "name": "Skarner",
       "championId": 63,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-08-09",
@@ -23209,7 +23231,7 @@
       "release": "2011-08-09",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         4
@@ -23234,7 +23256,7 @@
       "lootEligible": 1,
       "release": "2011-08-09",
       "artists": [
-        59
+        60
       ],
       "features": [
         4
@@ -23254,7 +23276,7 @@
       "release": "2014-11-25",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         0,
@@ -23338,7 +23360,7 @@
       "release": "2025-10-22",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -23366,7 +23388,7 @@
       "release": "2009-10-09",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/base/images/heimerdinger_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/base/images/heimerdinger_splash_uncentered_0.jpg",
@@ -23509,7 +23531,7 @@
       "lootEligible": 1,
       "release": "2018-10-11",
       "artists": [
-        61
+        62
       ],
       "features": [
         0,
@@ -23592,7 +23614,7 @@
       "lootEligible": 1,
       "release": "2024-12-11",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -23724,7 +23746,7 @@
       "lootEligible": 1,
       "release": "2013-11-20",
       "artists": [
-        75
+        76
       ],
       "features": [
         0,
@@ -23774,7 +23796,7 @@
       "lootEligible": 1,
       "release": "2016-11-10",
       "artists": [
-        76
+        77
       ],
       "features": [
         4
@@ -23799,7 +23821,7 @@
       "lootEligible": 1,
       "release": "2018-02-08",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -23882,7 +23904,7 @@
       "release": "2022-08-25",
       "artists": [
         12,
-        43
+        44
       ],
       "features": [
         2,
@@ -23910,7 +23932,7 @@
       "release": "2023-04-20",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -23938,7 +23960,7 @@
       "release": "2025-04-16",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -23979,7 +24001,7 @@
       "lootEligible": 1,
       "release": "2009-12-17",
       "artists": [
-        61
+        62
       ],
       "lineIds": [
         48
@@ -24001,7 +24023,7 @@
       "lootEligible": 1,
       "release": "2010-02-24",
       "artists": [
-        60,
+        61,
         124
       ],
       "lineIds": [
@@ -24120,7 +24142,7 @@
       "lootEligible": 1,
       "release": "2015-02-10",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -24174,7 +24196,7 @@
       "lootEligible": 1,
       "release": "2017-10-16",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -24229,7 +24251,7 @@
       "release": "2020-11-24",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -24256,7 +24278,7 @@
       "lootEligible": 1,
       "release": "2021-04-29",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -24283,7 +24305,7 @@
       "lootEligible": 1,
       "release": "2022-06-09",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -24311,7 +24333,7 @@
       "release": "2023-04-06",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -24367,7 +24389,7 @@
       "release": "2025-06-25",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -24452,7 +24474,7 @@
       "name": "Spirit Guard Udyr",
       "championId": 67,
       "rarity": 6,
-      "cost": 15,
+      "cost": 16,
       "availability": 0,
       "lootEligible": 1,
       "release": "2013-07-16",
@@ -24539,7 +24561,7 @@
       "release": "2023-05-03",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -24567,7 +24589,7 @@
       "release": "2010-01-13",
       "isBase": 1,
       "artists": [
-        72,
+        73,
         86
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/base/images/poppy_splash_tile_0.jpg",
@@ -24634,7 +24656,7 @@
       "lootEligible": 1,
       "release": "2010-08-24",
       "artists": [
-        73
+        74
       ],
       "features": [
         4
@@ -24684,7 +24706,7 @@
       "lootEligible": 1,
       "release": "2011-03-15",
       "artists": [
-        79
+        80
       ],
       "features": [
         4
@@ -24734,7 +24756,7 @@
       "lootEligible": 1,
       "release": "2016-10-05",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -24816,7 +24838,7 @@
       "release": "2020-05-28",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -24871,7 +24893,7 @@
       "release": "2023-10-25",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -24899,7 +24921,7 @@
       "release": "2026-02-04",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -25164,7 +25186,7 @@
       "lootEligible": 1,
       "release": "2018-01-25",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -25192,7 +25214,7 @@
       "release": "2021-01-07",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -25275,7 +25297,7 @@
       "lootEligible": 1,
       "release": "2024-10-09",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -25301,7 +25323,7 @@
       "release": "2010-02-02",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/base/images/pantheon_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/base/images/pantheon_splash_uncentered_0.jpg",
@@ -25317,7 +25339,7 @@
       "lootEligible": 1,
       "release": "2010-02-02",
       "artists": [
-        62
+        63
       ],
       "lineIds": [
         99
@@ -25339,7 +25361,7 @@
       "lootEligible": 1,
       "release": "2010-08-08",
       "artists": [
-        50
+        51
       ],
       "lineIds": [
         70
@@ -25361,7 +25383,7 @@
       "lootEligible": 1,
       "release": "2010-11-02",
       "artists": [
-        57
+        58
       ],
       "lineIds": [
         72
@@ -25433,7 +25455,7 @@
       "lootEligible": 1,
       "release": "2014-05-14",
       "artists": [
-        46
+        47
       ],
       "features": [
         1,
@@ -25601,7 +25623,7 @@
       "release": "2022-06-23",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -25629,7 +25651,7 @@
       "release": "2024-11-06",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -25648,7 +25670,7 @@
       "name": "Ezreal",
       "championId": 71,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2010-03-16",
@@ -25670,7 +25692,7 @@
       "lootEligible": 1,
       "release": "2010-03-16",
       "artists": [
-        45
+        46
       ],
       "lineIds": [
         97
@@ -25754,12 +25776,12 @@
       "name": "Pulsefire Ezreal",
       "championId": 71,
       "rarity": 6,
-      "cost": 15,
+      "cost": 16,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-06-29",
       "artists": [
-        38
+        39
       ],
       "features": [
         0,
@@ -25787,7 +25809,7 @@
       "lootEligible": 1,
       "release": "2013-05-23",
       "artists": [
-        75
+        76
       ],
       "lineIds": [
         2
@@ -25809,7 +25831,7 @@
       "lootEligible": 1,
       "release": "2014-08-05",
       "artists": [
-        53
+        55
       ],
       "lineIds": [
         23
@@ -25854,7 +25876,7 @@
       "lootEligible": 1,
       "release": "2016-08-24",
       "artists": [
-        71
+        72
       ],
       "features": [
         1,
@@ -26023,7 +26045,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        77
+        78
       ],
       "features": [
         2,
@@ -26051,7 +26073,7 @@
       "release": "2022-01-26",
       "artists": [
         12,
-        39
+        40
       ],
       "features": [
         0,
@@ -26109,7 +26131,7 @@
       "artists": [
         2,
         29,
-        38
+        39
       ],
       "features": [
         2,
@@ -26217,6 +26239,11 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-10-07",
+      "artists": [
+        2,
+        29,
+        39
+      ],
       "features": [
         2,
         3,
@@ -26243,7 +26270,7 @@
       "release": "2010-02-24",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/base/images/mordekaiser_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/base/images/mordekaiser_splash_uncentered_0.jpg",
@@ -26259,7 +26286,7 @@
       "lootEligible": 1,
       "release": "2010-02-24",
       "artists": [
-        58
+        59
       ],
       "features": [
         4
@@ -26335,7 +26362,7 @@
       "lootEligible": 1,
       "release": "2011-05-10",
       "artists": [
-        45
+        46
       ],
       "features": [
         4
@@ -26443,7 +26470,7 @@
       "release": "2021-09-09",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -26577,7 +26604,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -26599,7 +26626,7 @@
       "name": "Yorick",
       "championId": 73,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-06-22",
@@ -26671,7 +26698,7 @@
       "lootEligible": 1,
       "release": "2017-10-02",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -26698,7 +26725,7 @@
       "lootEligible": 1,
       "release": "2019-03-27",
       "artists": [
-        50
+        51
       ],
       "features": [
         2,
@@ -26726,7 +26753,7 @@
       "release": "2020-11-12",
       "artists": [
         15,
-        74
+        75
       ],
       "features": [
         2,
@@ -26837,7 +26864,7 @@
       "lootEligible": 1,
       "release": "2025-05-14",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -26865,7 +26892,7 @@
       "release": "2010-05-11",
       "isBase": 1,
       "artists": [
-        60
+        61
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/base/images/akali_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/base/images/akali_splash_uncentered_0.jpg",
@@ -26947,7 +26974,7 @@
       "lootEligible": 1,
       "release": "2011-01-04",
       "artists": [
-        38
+        39
       ],
       "features": [
         4
@@ -26972,7 +26999,7 @@
       "lootEligible": 1,
       "release": "2011-06-07",
       "artists": [
-        62
+        63
       ],
       "features": [
         2,
@@ -26999,7 +27026,7 @@
       "lootEligible": 1,
       "release": "2011-11-29",
       "artists": [
-        38
+        39
       ],
       "features": [
         4
@@ -27133,7 +27160,7 @@
       "lootEligible": 1,
       "release": "2019-08-01",
       "artists": [
-        63
+        64
       ],
       "features": [
         2,
@@ -27322,7 +27349,7 @@
       "release": "2023-10-11",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -27379,7 +27406,7 @@
       "release": "2024-05-01",
       "artists": [
         13,
-        41
+        42
       ],
       "features": [
         2,
@@ -27406,7 +27433,7 @@
       "lootEligible": 1,
       "release": "2025-06-25",
       "artists": [
-        68
+        69
       ],
       "features": [
         2,
@@ -27447,10 +27474,13 @@
       "name": "True Damage Know My Name Akali",
       "championId": 74,
       "rarity": 1,
-      "cost": 3,
-      "availability": 4,
+      "cost": 6,
+      "availability": 0,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-10-21",
+      "artists": [
+        22
+      ],
       "features": [
         0,
         2,
@@ -27463,16 +27493,16 @@
       "universeIds": [
         79
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/images/akali_splash_tile_103.skins_akali_skin103.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/images/akali_splash_uncentered_103.skins_akali_skin103.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/akaliloadscreen_103.skins_akali_skin103.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/images/akali_splash_tile_103.skins_akali_skin103.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/images/akali_splash_uncentered_103.skins_akali_skin103.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin103/akaliloadscreen_103.skins_akali_skin103.jpg"
     },
     {
       "id": 85000,
       "name": "Kennen",
       "championId": 75,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2010-04-08",
@@ -27610,7 +27640,7 @@
       "lootEligible": 1,
       "release": "2016-02-25",
       "artists": [
-        53
+        55
       ],
       "features": [
         2,
@@ -27689,7 +27719,7 @@
       "lootEligible": 1,
       "release": "2021-04-29",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -27717,7 +27747,7 @@
       "release": "2023-02-24",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -27745,7 +27775,7 @@
       "release": "2010-04-27",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/base/images/garen_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/base/images/garen_splash_uncentered_0.jpg",
@@ -27976,7 +28006,7 @@
       "lootEligible": 1,
       "release": "2019-07-18",
       "artists": [
-        62
+        63
       ],
       "features": [
         2,
@@ -28033,7 +28063,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        77
+        78
       ],
       "features": [
         2,
@@ -28061,7 +28091,7 @@
       "release": "2021-03-18",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -28117,7 +28147,7 @@
       "release": "2024-08-28",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         0,
@@ -28145,7 +28175,7 @@
       "lootEligible": 1,
       "release": "2025-08-27",
       "artists": [
-        41,
+        42,
         92
       ],
       "features": [
@@ -28168,7 +28198,7 @@
       "name": "Leona",
       "championId": 77,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-07-13",
@@ -28336,7 +28366,7 @@
       "lootEligible": 1,
       "release": "2018-11-27",
       "artists": [
-        76
+        77
       ],
       "features": [
         0,
@@ -28364,7 +28394,7 @@
       "lootEligible": 1,
       "release": "2018-11-27",
       "artists": [
-        76
+        77
       ],
       "features": [
         0,
@@ -28421,7 +28451,7 @@
       "release": "2021-03-18",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -28448,7 +28478,7 @@
       "lootEligible": 1,
       "release": "2021-04-29",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -28477,7 +28507,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -28532,7 +28562,7 @@
       "release": "2022-05-12",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         0,
@@ -28561,7 +28591,7 @@
       "release": "2023-06-14",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -28588,7 +28618,7 @@
       "lootEligible": 1,
       "release": "2024-07-31",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -28617,7 +28647,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -28667,7 +28697,7 @@
       "name": "Malzahar",
       "championId": 78,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2010-06-01",
@@ -28807,7 +28837,7 @@
       "lootEligible": 1,
       "release": "2017-08-08",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -28834,7 +28864,7 @@
       "lootEligible": 1,
       "release": "2018-10-18",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -28917,7 +28947,7 @@
       "lootEligible": 1,
       "release": "2021-12-09",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -28945,7 +28975,7 @@
       "release": "2022-12-07",
       "artists": [
         12,
-        66
+        67
       ],
       "lineIds": [
         176
@@ -28967,7 +28997,7 @@
       "lootEligible": 1,
       "release": "2024-05-01",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -29015,7 +29045,7 @@
       "name": "Talon",
       "championId": 79,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-08-24",
@@ -29081,7 +29111,7 @@
       "lootEligible": 1,
       "release": "2012-01-10",
       "artists": [
-        80
+        81
       ],
       "lineIds": [
         53
@@ -29126,7 +29156,7 @@
       "lootEligible": 1,
       "release": "2017-02-09",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -29181,7 +29211,7 @@
       "release": "2020-03-19",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -29236,7 +29266,7 @@
       "release": "2022-05-12",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -29264,7 +29294,7 @@
       "release": "2022-05-12",
       "isPrestige": 1,
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -29292,7 +29322,7 @@
       "release": "2024-01-24",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -29320,7 +29350,7 @@
       "release": "2025-03-05",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         4
@@ -29340,7 +29370,7 @@
       "name": "Riven",
       "championId": 80,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-09-14",
@@ -29458,7 +29488,7 @@
       "lootEligible": 1,
       "release": "2014-01-28",
       "artists": [
-        75
+        76
       ],
       "features": [
         2,
@@ -29619,7 +29649,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        74
+        75
       ],
       "lineIds": [
         81
@@ -29725,7 +29755,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        74
+        75
       ],
       "features": [
         2,
@@ -29753,7 +29783,7 @@
       "release": "2023-03-09",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         0,
@@ -29804,13 +29834,13 @@
       "name": "Kog'Maw",
       "championId": 81,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2010-06-24",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/base/images/kogmaw_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/base/images/kogmaw_splash_uncentered_0.jpg",
@@ -30024,7 +30054,7 @@
       "lootEligible": 1,
       "release": "2017-12-07",
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         40
@@ -30047,7 +30077,7 @@
       "release": "2020-07-09",
       "artists": [
         12,
-        37
+        38
       ],
       "lineIds": [
         95
@@ -30069,7 +30099,7 @@
       "lootEligible": 1,
       "release": "2021-03-04",
       "artists": [
-        76
+        77
       ],
       "lineIds": [
         143
@@ -30092,7 +30122,7 @@
       "release": "2022-08-11",
       "artists": [
         12,
-        66
+        67
       ],
       "lineIds": [
         162
@@ -30155,10 +30185,13 @@
       "name": "Prestige Classic Baron Kog'Maw",
       "championId": 81,
       "rarity": 2,
-      "cost": 0,
+      "cost": 1,
       "availability": 0,
       "lootEligible": 1,
       "isPrestige": 1,
+      "artists": [
+        3
+      ],
       "lineIds": [
         234
       ],
@@ -30180,8 +30213,8 @@
       "release": "2010-03-24",
       "isBase": 1,
       "artists": [
-        45,
-        46
+        46,
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/base/images/shen_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/base/images/shen_splash_uncentered_0.jpg",
@@ -30197,7 +30230,7 @@
       "lootEligible": 1,
       "release": "2010-03-24",
       "artists": [
-        73
+        74
       ],
       "lineIds": [
         112
@@ -30311,7 +30344,7 @@
       "lootEligible": 1,
       "release": "2013-05-23",
       "artists": [
-        75
+        76
       ],
       "features": [
         4
@@ -30336,7 +30369,7 @@
       "lootEligible": 1,
       "release": "2018-05-17",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -30475,7 +30508,7 @@
       "release": "2025-01-23",
       "artists": [
         12,
-        55
+        56
       ],
       "lineIds": [
         176
@@ -30563,7 +30596,7 @@
       "lootEligible": 1,
       "release": "2010-10-19",
       "artists": [
-        61
+        62
       ],
       "lineIds": [
         95
@@ -30656,7 +30689,7 @@
       "lootEligible": 1,
       "release": "2015-05-17",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -30678,12 +30711,12 @@
       "name": "Elementalist Lux",
       "championId": 83,
       "rarity": 6,
-      "cost": 15,
+      "cost": 16,
       "availability": 0,
       "lootEligible": 1,
       "release": "2016-11-28",
       "artists": [
-        67
+        68
       ],
       "features": [
         0,
@@ -30711,7 +30744,7 @@
       "lootEligible": 1,
       "release": "2018-02-08",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -31044,7 +31077,7 @@
       "lootEligible": 1,
       "release": "2024-05-15",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -31072,7 +31105,7 @@
       "release": "2025-04-30",
       "isPrestige": 1,
       "artists": [
-        68
+        69
       ],
       "features": [
         2,
@@ -31100,7 +31133,7 @@
       "release": "2025-11-05",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -31116,7 +31149,7 @@
       "name": "Xerath",
       "championId": 84,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-10-05",
@@ -31242,7 +31275,7 @@
       "release": "2020-03-26",
       "artists": [
         12,
-        56
+        57
       ],
       "features": [
         2,
@@ -31270,7 +31303,7 @@
       "release": "2021-05-13",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -31298,7 +31331,7 @@
       "release": "2023-02-24",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -31326,7 +31359,7 @@
       "release": "2024-06-12",
       "artists": [
         12,
-        48
+        49
       ],
       "features": [
         2,
@@ -31381,7 +31414,7 @@
       "release": "2011-11-01",
       "isBase": 1,
       "artists": [
-        59
+        60
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/base/images/shyvana_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/base/images/shyvana_splash_uncentered_0.jpg",
@@ -31398,7 +31431,7 @@
       "release": "2011-11-01",
       "artists": [
         15,
-        42
+        43
       ],
       "lineIds": [
         38
@@ -31421,7 +31454,7 @@
       "release": "2011-11-01",
       "artists": [
         15,
-        69
+        70
       ],
       "lineIds": [
         32
@@ -31444,7 +31477,7 @@
       "release": "2012-05-28",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         4
@@ -31523,7 +31556,7 @@
       "lootEligible": 1,
       "release": "2016-05-25",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -31550,7 +31583,7 @@
       "lootEligible": 1,
       "release": "2021-01-21",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -31578,7 +31611,7 @@
       "release": "2023-08-16",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -31600,7 +31633,7 @@
       "name": "Ahri",
       "championId": 86,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-12-14",
@@ -31777,7 +31810,7 @@
       "lootEligible": 1,
       "release": "2016-08-24",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -31804,7 +31837,7 @@
       "lootEligible": 1,
       "release": "2017-09-06",
       "artists": [
-        67
+        68
       ],
       "features": [
         0,
@@ -31916,7 +31949,7 @@
       "lootEligible": 1,
       "release": "2020-08-06",
       "artists": [
-        57
+        58
       ],
       "features": [
         0,
@@ -32083,7 +32116,7 @@
       "artists": [
         2,
         25,
-        38
+        39
       ],
       "features": [
         0,
@@ -32111,7 +32144,7 @@
       "lootEligible": 1,
       "release": "2025-07-30",
       "artists": [
-        57
+        58
       ],
       "features": [
         0,
@@ -32180,7 +32213,7 @@
       "name": "Graves",
       "championId": 87,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-10-19",
@@ -32339,7 +32372,7 @@
       "lootEligible": 1,
       "release": "2016-12-14",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -32366,7 +32399,7 @@
       "lootEligible": 0,
       "release": "2017-11-08",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -32420,7 +32453,7 @@
       "lootEligible": 1,
       "release": "2019-05-15",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -32525,7 +32558,7 @@
       "name": "Fizz",
       "championId": 88,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-11-15",
@@ -32706,7 +32739,7 @@
       "lootEligible": 1,
       "release": "2017-07-26",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -32789,7 +32822,7 @@
       "release": "2020-10-22",
       "artists": [
         12,
-        47
+        48
       ],
       "features": [
         2,
@@ -32845,7 +32878,7 @@
       "release": "2023-02-24",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -32891,13 +32924,13 @@
       "name": "Volibear",
       "championId": 89,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-11-29",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/base/images/volibear_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/base/images/volibear_splash_uncentered_0.jpg",
@@ -33009,7 +33042,7 @@
       "lootEligible": 1,
       "release": "2016-06-01",
       "artists": [
-        45
+        46
       ],
       "lineIds": [
         34
@@ -33031,7 +33064,7 @@
       "lootEligible": 1,
       "release": "2020-05-28",
       "artists": [
-        50
+        51
       ],
       "features": [
         2,
@@ -33088,7 +33121,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        39
+        40
       ],
       "features": [
         2,
@@ -33166,7 +33199,7 @@
       "name": "Rengar",
       "championId": 90,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-08-21",
@@ -33189,8 +33222,8 @@
       "release": "2012-08-21",
       "artists": [
         19,
-        72,
-        75,
+        73,
+        76,
         135
       ],
       "features": [
@@ -33216,7 +33249,7 @@
       "lootEligible": 1,
       "release": "2014-05-19",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -33294,7 +33327,7 @@
       "lootEligible": 1,
       "release": "2019-03-27",
       "artists": [
-        50
+        51
       ],
       "features": [
         2,
@@ -33322,7 +33355,7 @@
       "release": "2020-01-22",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -33377,7 +33410,7 @@
       "release": "2023-09-13",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -33417,22 +33450,22 @@
       "universeIds": [
         80
       ],
-      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/images/rengar_splash_tile_49.skins_rengar_skin49.jpg",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/images/rengar_splash_uncentered_49.skins_rengar_skin49.jpg",
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/rengarloadscreen_49.skins_rengar_skin49.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/images/rengar_splash_tile_49.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/images/rengar_splash_uncentered_49.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin49/rengarloadscreen_49.jpg"
     },
     {
       "id": 110000,
       "name": "Varus",
       "championId": 91,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-05-08",
       "isBase": 1,
       "artists": [
-        60
+        61
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/base/images/varus_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/base/images/varus_splash_uncentered_0.jpg",
@@ -33473,7 +33506,7 @@
       "lootEligible": 1,
       "release": "2012-12-05",
       "artists": [
-        70
+        71
       ],
       "features": [
         4
@@ -33498,7 +33531,7 @@
       "lootEligible": 1,
       "release": "2014-03-20",
       "artists": [
-        36
+        37
       ],
       "features": [
         3,
@@ -33573,7 +33606,7 @@
       "lootEligible": 1,
       "release": "2016-06-15",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -33710,7 +33743,7 @@
       "release": "2022-05-12",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -33766,7 +33799,7 @@
       "release": "2024-05-01",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         0,
@@ -33795,7 +33828,7 @@
       "release": "2025-04-30",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -33845,7 +33878,7 @@
       "name": "Nautilus",
       "championId": 92,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-02-14",
@@ -33917,7 +33950,7 @@
       "lootEligible": 1,
       "release": "2012-09-04",
       "artists": [
-        70
+        71
       ],
       "features": [
         3,
@@ -33988,7 +34021,7 @@
       "release": "2020-07-09",
       "artists": [
         12,
-        47
+        48
       ],
       "features": [
         2,
@@ -34016,7 +34049,7 @@
       "release": "2021-01-28",
       "artists": [
         15,
-        74
+        75
       ],
       "features": [
         2,
@@ -34044,7 +34077,7 @@
       "release": "2022-09-22",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -34127,7 +34160,7 @@
       "lootEligible": 1,
       "release": "2026-01-08",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -34149,7 +34182,7 @@
       "name": "Viktor",
       "championId": 93,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2011-12-29",
@@ -34172,7 +34205,7 @@
       "release": "2011-12-29",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         4
@@ -34198,7 +34231,7 @@
       "release": "2011-12-29",
       "artists": [
         15,
-        52
+        54
       ],
       "lineIds": [
         106
@@ -34277,7 +34310,7 @@
       "release": "2020-09-17",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -34305,7 +34338,7 @@
       "release": "2022-05-26",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -34361,7 +34394,7 @@
       "release": "2025-11-05",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -34383,7 +34416,7 @@
       "name": "Sejuani",
       "championId": 94,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-01-17",
@@ -34406,7 +34439,7 @@
       "lootEligible": 1,
       "release": "2012-01-17",
       "artists": [
-        49
+        50
       ],
       "lineIds": [
         32
@@ -34475,7 +34508,7 @@
       "lootEligible": 1,
       "release": "2013-07-31",
       "artists": [
-        53
+        55
       ],
       "features": [
         2,
@@ -34502,7 +34535,7 @@
       "lootEligible": 1,
       "release": "2014-12-15",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -34579,7 +34612,7 @@
       "lootEligible": 1,
       "release": "2019-01-28",
       "artists": [
-        58
+        59
       ],
       "features": [
         2,
@@ -34691,7 +34724,7 @@
       "release": "2022-11-15",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -34719,7 +34752,7 @@
       "release": "2026-04-01",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -34741,7 +34774,7 @@
       "name": "Fiora",
       "championId": 95,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-02-29",
@@ -34832,7 +34865,7 @@
       "lootEligible": 1,
       "release": "2015-09-07",
       "artists": [
-        46
+        47
       ],
       "features": [
         1,
@@ -34887,7 +34920,7 @@
       "lootEligible": 1,
       "release": "2017-09-27",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -34968,7 +35001,7 @@
       "lootEligible": 1,
       "release": "2020-05-14",
       "artists": [
-        58
+        59
       ],
       "features": [
         2,
@@ -34995,7 +35028,7 @@
       "lootEligible": 1,
       "release": "2021-02-04",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -35023,7 +35056,7 @@
       "release": "2021-02-04",
       "isPrestige": 1,
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -35078,7 +35111,7 @@
       "release": "2023-03-23",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -35106,7 +35139,7 @@
       "release": "2024-01-09",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -35134,7 +35167,7 @@
       "release": "2024-08-28",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -35162,7 +35195,7 @@
       "release": "2025-08-13",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -35184,7 +35217,7 @@
       "name": "Ziggs",
       "championId": 96,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-02-01",
@@ -35304,7 +35337,7 @@
       "lootEligible": 1,
       "release": "2015-05-06",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -35331,7 +35364,7 @@
       "lootEligible": 1,
       "release": "2017-08-08",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -35358,7 +35391,7 @@
       "lootEligible": 1,
       "release": "2018-09-12",
       "artists": [
-        61
+        62
       ],
       "features": [
         2,
@@ -35469,7 +35502,7 @@
       "release": "2023-09-27",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -35496,7 +35529,7 @@
       "lootEligible": 1,
       "release": "2026-02-04",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -35518,7 +35551,7 @@
       "name": "Lulu",
       "championId": 97,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-03-20",
@@ -35615,7 +35648,7 @@
       "lootEligible": 1,
       "release": "2013-12-19",
       "artists": [
-        53
+        55
       ],
       "features": [
         2,
@@ -35669,7 +35702,7 @@
       "lootEligible": 1,
       "release": "2016-10-05",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -35696,7 +35729,7 @@
       "lootEligible": 1,
       "release": "2018-08-21",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -35806,7 +35839,7 @@
       "release": "2022-08-11",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -35833,7 +35866,7 @@
       "lootEligible": 1,
       "release": "2023-10-25",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -35861,7 +35894,7 @@
       "release": "2025-08-27",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -35887,6 +35920,10 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-08-12",
+      "artists": [
+        12,
+        67
+      ],
       "features": [
         2,
         3,
@@ -35907,7 +35944,7 @@
       "name": "Draven",
       "championId": 98,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-06-05",
@@ -35955,7 +35992,7 @@
       "lootEligible": 1,
       "release": "2013-03-25",
       "artists": [
-        36
+        37
       ],
       "features": [
         2,
@@ -36223,7 +36260,7 @@
       "release": "2023-09-27",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -36250,7 +36287,7 @@
       "lootEligible": 1,
       "release": "2025-03-05",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -36273,12 +36310,12 @@
       "name": "Victorious Draven",
       "championId": 98,
       "rarity": 0,
-      "cost": 17,
+      "cost": 18,
       "availability": 3,
       "lootEligible": 0,
       "release": "2026-01-08",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -36300,13 +36337,13 @@
       "name": "Hecarim",
       "championId": 99,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-04-17",
       "isBase": 1,
       "artists": [
-        57
+        58
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/base/images/hecarim_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/base/images/hecarim_splash_uncentered_0.jpg",
@@ -36370,7 +36407,7 @@
       "lootEligible": 1,
       "release": "2012-10-26",
       "artists": [
-        75
+        76
       ],
       "features": [
         4
@@ -36451,7 +36488,7 @@
       "lootEligible": 1,
       "release": "2016-11-10",
       "artists": [
-        76
+        77
       ],
       "lineIds": [
         29
@@ -36473,7 +36510,7 @@
       "lootEligible": 1,
       "release": "2017-08-16",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -36586,7 +36623,7 @@
       "release": "2023-12-06",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -36636,13 +36673,13 @@
       "name": "Kha'Zix",
       "championId": 100,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-09-26",
       "isBase": 1,
       "artists": [
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/khazix/skins/base/images/khazix_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/khazix/skins/base/images/khazix_splash_uncentered_0.jpg",
@@ -36680,7 +36717,7 @@
       "lootEligible": 1,
       "release": "2014-09-09",
       "artists": [
-        53
+        55
       ],
       "lineIds": [
         66
@@ -36702,7 +36739,7 @@
       "lootEligible": 1,
       "release": "2016-03-17",
       "artists": [
-        67
+        68
       ],
       "lineIds": [
         62
@@ -36724,7 +36761,7 @@
       "lootEligible": 1,
       "release": "2017-05-03",
       "artists": [
-        71
+        72
       ],
       "lineIds": [
         44
@@ -36746,7 +36783,7 @@
       "lootEligible": 1,
       "release": "2018-09-27",
       "artists": [
-        58
+        59
       ],
       "lineIds": [
         8
@@ -36814,7 +36851,7 @@
       "lootEligible": 1,
       "release": "2024-03-20",
       "artists": [
-        41
+        42
       ],
       "lineIds": [
         202
@@ -36831,7 +36868,7 @@
       "name": "Darius",
       "championId": 101,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-05-22",
@@ -36876,7 +36913,7 @@
       "lootEligible": 1,
       "release": "2012-11-13",
       "artists": [
-        70
+        71
       ],
       "features": [
         4
@@ -36901,7 +36938,7 @@
       "lootEligible": 1,
       "release": "2013-06-16",
       "artists": [
-        72
+        73
       ],
       "features": [
         2,
@@ -36928,7 +36965,7 @@
       "lootEligible": 1,
       "release": "2014-10-12",
       "artists": [
-        72
+        73
       ],
       "features": [
         0,
@@ -37005,7 +37042,7 @@
       "lootEligible": 1,
       "release": "2018-06-27",
       "artists": [
-        46
+        47
       ],
       "features": [
         0,
@@ -37118,7 +37155,7 @@
       "release": "2022-10-06",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -37174,7 +37211,7 @@
       "release": "2024-08-28",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         0,
@@ -37230,7 +37267,7 @@
       "lootEligible": 1,
       "release": "2025-11-05",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -37254,7 +37291,7 @@
       "name": "Jayce",
       "championId": 102,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-07-06",
@@ -37377,7 +37414,7 @@
       "lootEligible": 1,
       "release": "2019-05-15",
       "artists": [
-        50
+        51
       ],
       "features": [
         2,
@@ -37433,7 +37470,7 @@
       "release": "2021-11-08",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -37461,7 +37498,7 @@
       "release": "2022-09-09",
       "artists": [
         12,
-        68
+        69
       ],
       "features": [
         2,
@@ -37488,8 +37525,8 @@
       "lootEligible": 1,
       "release": "2024-08-14",
       "artists": [
-        68,
-        82
+        36,
+        69
       ],
       "features": [
         2,
@@ -37516,7 +37553,7 @@
       "lootEligible": 1,
       "release": "2024-11-20",
       "artists": [
-        68
+        69
       ],
       "features": [
         0,
@@ -37545,7 +37582,7 @@
       "release": "2024-08-14",
       "isPrestige": 1,
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -37573,7 +37610,7 @@
       "release": "2026-02-19",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -37595,13 +37632,13 @@
       "name": "Lissandra",
       "championId": 103,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2013-04-29",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/base/images/lissandra_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/base/images/lissandra_splash_uncentered_0.jpg",
@@ -37671,7 +37708,7 @@
       "lootEligible": 1,
       "release": "2016-04-06",
       "artists": [
-        76
+        77
       ],
       "features": [
         1,
@@ -37699,7 +37736,7 @@
       "lootEligible": 1,
       "release": "2018-11-27",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -37727,7 +37764,7 @@
       "release": "2020-11-24",
       "artists": [
         12,
-        47
+        48
       ],
       "features": [
         2,
@@ -37755,7 +37792,7 @@
       "release": "2022-01-26",
       "artists": [
         12,
-        43
+        44
       ],
       "features": [
         2,
@@ -37784,7 +37821,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -37840,7 +37877,7 @@
       "release": "2025-10-08",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -37859,7 +37896,7 @@
       "name": "Diana",
       "championId": 104,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-08-07",
@@ -37988,7 +38025,7 @@
       "lootEligible": 1,
       "release": "2018-05-31",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -38044,7 +38081,7 @@
       "release": "2020-12-10",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -38073,7 +38110,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        77
+        78
       ],
       "features": [
         2,
@@ -38100,7 +38137,7 @@
       "lootEligible": 1,
       "release": "2021-07-08",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -38210,7 +38247,7 @@
       "release": "2024-10-23",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -38239,7 +38276,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -38267,7 +38304,7 @@
       "release": "2026-05-28",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         0,
@@ -38296,7 +38333,7 @@
       "release": "2026-05-28",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         0,
@@ -38319,7 +38356,7 @@
       "name": "Quinn",
       "championId": 105,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2013-03-01",
@@ -38418,7 +38455,7 @@
       "lootEligible": 1,
       "release": "2017-02-02",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -38446,7 +38483,7 @@
       "release": "2021-01-07",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -38474,7 +38511,7 @@
       "release": "2022-07-28",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -38523,13 +38560,13 @@
       "name": "Syndra",
       "championId": 106,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-09-12",
       "isBase": 1,
       "artists": [
-        41
+        42
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/base/images/syndra_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/base/images/syndra_splash_uncentered_0.jpg",
@@ -38620,7 +38657,7 @@
       "lootEligible": 1,
       "release": "2015-12-10",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -38756,7 +38793,7 @@
       "release": "2021-10-07",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -38840,7 +38877,7 @@
       "release": "2023-10-25",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -38867,8 +38904,8 @@
       "lootEligible": 1,
       "release": "2025-02-05",
       "artists": [
-        41,
-        55
+        42,
+        56
       ],
       "features": [
         2,
@@ -38887,13 +38924,13 @@
       "name": "Aurelion Sol",
       "championId": 107,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2016-03-24",
       "isBase": 1,
       "artists": [
-        67
+        68
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/base/images/aurelionsol_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/base/images/aurelionsol_splash_uncentered_0.jpg",
@@ -38931,7 +38968,7 @@
       "lootEligible": 1,
       "release": "2018-08-16",
       "artists": [
-        71
+        72
       ],
       "lineIds": [
         35
@@ -38954,7 +38991,7 @@
       "release": "2020-10-01",
       "artists": [
         15,
-        74
+        75
       ],
       "lineIds": [
         135
@@ -38977,7 +39014,7 @@
       "release": "2023-05-03",
       "artists": [
         15,
-        52
+        54
       ],
       "lineIds": [
         192
@@ -39000,7 +39037,7 @@
       "release": "2024-02-22",
       "artists": [
         12,
-        54
+        53
       ],
       "lineIds": [
         154
@@ -39060,7 +39097,7 @@
       "lootEligible": 1,
       "release": "2017-07-11",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -39087,7 +39124,7 @@
       "lootEligible": 1,
       "release": "2018-09-12",
       "artists": [
-        76
+        77
       ],
       "features": [
         0,
@@ -39115,7 +39152,7 @@
       "lootEligible": 1,
       "release": "2021-09-23",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -39143,7 +39180,7 @@
       "release": "2021-09-23",
       "isPrestige": 1,
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -39200,7 +39237,7 @@
       "artists": [
         2,
         29,
-        38
+        39
       ],
       "features": [
         0,
@@ -39228,7 +39265,7 @@
       "lootEligible": 1,
       "release": "2025-03-19",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -39250,10 +39287,15 @@
       "name": "HEARTSTEEL Live My Life Kayn",
       "championId": 108,
       "rarity": 3,
-      "cost": 6,
+      "cost": 3,
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-10-07",
+      "artists": [
+        2,
+        29,
+        39
+      ],
       "features": [
         2,
         3,
@@ -39280,7 +39322,7 @@
       "release": "2017-11-21",
       "isBase": 1,
       "artists": [
-        60
+        61
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/base/images/zoe_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/base/images/zoe_splash_uncentered_0.jpg",
@@ -39296,8 +39338,8 @@
       "lootEligible": 1,
       "release": "2017-11-21",
       "artists": [
-        60,
-        62
+        61,
+        63
       ],
       "features": [
         1,
@@ -39352,7 +39394,7 @@
       "lootEligible": 1,
       "release": "2019-09-12",
       "artists": [
-        38
+        39
       ],
       "features": [
         1,
@@ -39381,7 +39423,7 @@
       "release": "2020-07-09",
       "artists": [
         15,
-        74
+        75
       ],
       "features": [
         2,
@@ -39410,7 +39452,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        77
+        78
       ],
       "features": [
         2,
@@ -39491,7 +39533,7 @@
       "lootEligible": 1,
       "release": "2024-10-23",
       "artists": [
-        41,
+        42,
         103
       ],
       "features": [
@@ -39521,7 +39563,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -39543,7 +39585,7 @@
       "name": "Zyra",
       "championId": 110,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-07-24",
@@ -39617,7 +39659,7 @@
       "lootEligible": 1,
       "release": "2014-05-04",
       "artists": [
-        75
+        76
       ],
       "lineIds": [
         3
@@ -39666,7 +39708,7 @@
       "lootEligible": 1,
       "release": "2020-04-16",
       "artists": [
-        60
+        61
       ],
       "features": [
         2,
@@ -39695,7 +39737,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        77
+        78
       ],
       "features": [
         2,
@@ -39806,7 +39848,7 @@
       "lootEligible": 1,
       "release": "2023-09-13",
       "artists": [
-        41,
+        42,
         92
       ],
       "features": [
@@ -39863,7 +39905,7 @@
       "release": "2025-04-30",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -39907,7 +39949,7 @@
       "lootEligible": 1,
       "release": "2018-03-07",
       "artists": [
-        50
+        51
       ],
       "lineIds": [
         65
@@ -40110,7 +40152,7 @@
       "lootEligible": 1,
       "release": "2022-07-14",
       "artists": [
-        57
+        58
       ],
       "lineIds": [
         161
@@ -40132,7 +40174,7 @@
       "lootEligible": 1,
       "release": "2023-05-03",
       "artists": [
-        38
+        39
       ],
       "lineIds": [
         192
@@ -40155,7 +40197,7 @@
       "release": "2024-02-07",
       "artists": [
         12,
-        66
+        67
       ],
       "lineIds": [
         201
@@ -40177,7 +40219,7 @@
       "lootEligible": 1,
       "release": "2024-10-23",
       "artists": [
-        41,
+        42,
         89
       ],
       "lineIds": [
@@ -40236,7 +40278,7 @@
       "release": "2020-10-29",
       "isBase": 1,
       "artists": [
-        38
+        39
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/base/images/seraphine_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/base/images/seraphine_splash_uncentered_0.jpg",
@@ -40247,12 +40289,12 @@
       "name": "K/DA ALL OUT Seraphine Indie",
       "championId": 112,
       "rarity": 6,
-      "cost": 15,
+      "cost": 16,
       "availability": 0,
       "lootEligible": 1,
       "release": "2020-10-29",
       "artists": [
-        46
+        47
       ],
       "features": [
         0,
@@ -40307,7 +40349,7 @@
       "lootEligible": 1,
       "release": "2022-06-09",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -40419,7 +40461,7 @@
       "lootEligible": 1,
       "release": "2024-07-17",
       "artists": [
-        68
+        69
       ],
       "features": [
         0,
@@ -40447,7 +40489,7 @@
       "lootEligible": 1,
       "release": "2025-03-05",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -40472,7 +40514,7 @@
       "release": "2026-02-04",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -40513,9 +40555,9 @@
       "universeIds": [
         91
       ],
-      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin68/images/seraphine_splash_tile_68.skins_seraphine_skin68.jpg",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin68/images/seraphine_splash_uncentered_68.skins_seraphine_skin68.jpg",
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin68/seraphineloadscreen_68.skins_seraphine_skin68.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin68/images/seraphine_splash_tile_68.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin68/images/seraphine_splash_uncentered_68.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin68/seraphineloadscreen_68.jpg"
     },
     {
       "id": 147069,
@@ -40526,6 +40568,10 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-08-26",
+      "artists": [
+        12,
+        67
+      ],
       "features": [
         0,
         2,
@@ -40547,13 +40593,13 @@
       "name": "Gnar",
       "championId": 113,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2014-08-13",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/base/images/gnar_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/base/images/gnar_splash_uncentered_0.jpg",
@@ -40596,7 +40642,7 @@
       "lootEligible": 1,
       "release": "2015-07-14",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -40623,7 +40669,7 @@
       "lootEligible": 1,
       "release": "2015-12-10",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -40650,7 +40696,7 @@
       "lootEligible": 1,
       "release": "2016-06-01",
       "artists": [
-        45
+        46
       ],
       "features": [
         4
@@ -40731,7 +40777,7 @@
       "release": "2020-05-28",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -40835,7 +40881,7 @@
       "name": "Zac",
       "championId": 114,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2013-03-29",
@@ -40966,7 +41012,7 @@
       "release": "2022-11-03",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -41042,7 +41088,7 @@
       "name": "Yasuo",
       "championId": 115,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2013-12-13",
@@ -41092,7 +41138,7 @@
       "lootEligible": 1,
       "release": "2014-08-31",
       "artists": [
-        36
+        37
       ],
       "features": [
         2,
@@ -41119,7 +41165,7 @@
       "lootEligible": 1,
       "release": "2016-02-25",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -41146,7 +41192,7 @@
       "lootEligible": 1,
       "release": "2017-06-14",
       "artists": [
-        46
+        47
       ],
       "features": [
         0,
@@ -41201,7 +41247,7 @@
       "lootEligible": 1,
       "release": "2019-06-28",
       "artists": [
-        50
+        51
       ],
       "features": [
         2,
@@ -41228,7 +41274,7 @@
       "lootEligible": 1,
       "release": "2019-11-10",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -41256,7 +41302,7 @@
       "release": "2020-09-25",
       "isPrestige": 1,
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -41283,7 +41329,7 @@
       "lootEligible": 1,
       "release": "2020-07-22",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -41424,7 +41470,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -41452,7 +41498,7 @@
       "release": "2024-01-24",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -41480,7 +41526,7 @@
       "release": "2024-07-31",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -41537,7 +41583,7 @@
       "release": "2026-02-19",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -41560,9 +41606,12 @@
       "championId": 115,
       "rarity": 3,
       "cost": 6,
-      "availability": 4,
+      "availability": 0,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-10-21",
+      "artists": [
+        46
+      ],
       "features": [
         2,
         3,
@@ -41574,23 +41623,23 @@
       "universeIds": [
         79
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/images/yasuo_splash_tile_97.skins_yasuo_skin97.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/images/yasuo_splash_uncentered_97.skins_yasuo_skin97.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/yasuoloadscreen_97.skins_yasuo_skin97.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/images/yasuo_splash_tile_97.skins_yasuo_skin97.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/images/yasuo_splash_uncentered_97.skins_yasuo_skin97.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin97/yasuoloadscreen_97.skins_yasuo_skin97.jpg"
     },
     {
       "id": 161000,
       "name": "Vel'Koz",
       "championId": 116,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2014-02-27",
       "isBase": 1,
       "artists": [
         7,
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/base/images/velkoz_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/base/images/velkoz_splash_uncentered_0.jpg",
@@ -41742,7 +41791,7 @@
       "lootEligible": 1,
       "artists": [
         12,
-        55
+        56
       ],
       "lineIds": [
         203
@@ -41781,7 +41830,7 @@
       "lootEligible": 1,
       "release": "2016-05-17",
       "artists": [
-        67
+        68
       ],
       "features": [
         1,
@@ -41893,7 +41942,7 @@
       "release": "2023-09-13",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -41921,7 +41970,7 @@
       "release": "2026-01-08",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -41993,7 +42042,7 @@
       "lootEligible": 1,
       "release": "2018-11-27",
       "artists": [
-        61
+        62
       ],
       "features": [
         2,
@@ -42047,7 +42096,7 @@
       "lootEligible": 1,
       "release": "2021-05-13",
       "artists": [
-        60
+        61
       ],
       "features": [
         2,
@@ -42132,7 +42181,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -42160,7 +42209,7 @@
       "release": "2026-02-19",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -42188,7 +42237,7 @@
       "release": "2021-07-22",
       "isBase": 1,
       "artists": [
-        76
+        77
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/base/images/akshan_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/base/images/akshan_splash_uncentered_0.jpg",
@@ -42326,7 +42375,7 @@
       "release": "2022-06-09",
       "artists": [
         12,
-        39
+        40
       ],
       "lineIds": [
         11
@@ -42372,7 +42421,7 @@
       "release": "2024-07-17",
       "artists": [
         15,
-        44
+        45
       ],
       "lineIds": [
         206
@@ -42389,9 +42438,13 @@
       "name": "Faerie Court Bel'Veth",
       "championId": 120,
       "rarity": 3,
-      "cost": 0,
+      "cost": 6,
       "availability": 0,
       "lootEligible": 1,
+      "artists": [
+        12,
+        24
+      ],
       "lineIds": [
         191
       ],
@@ -42407,13 +42460,13 @@
       "name": "Braum",
       "championId": 121,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2014-05-11",
       "isBase": 1,
       "artists": [
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/base/images/braum_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/base/images/braum_splash_uncentered_0.jpg",
@@ -42429,7 +42482,7 @@
       "lootEligible": 1,
       "release": "2014-05-11",
       "artists": [
-        36
+        37
       ],
       "features": [
         2,
@@ -42505,7 +42558,7 @@
       "lootEligible": 1,
       "release": "2016-12-14",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -42532,7 +42585,7 @@
       "lootEligible": 1,
       "release": "2018-08-23",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -42588,7 +42641,7 @@
       "release": "2021-06-09",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -42616,7 +42669,7 @@
       "release": "2025-04-02",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -42644,7 +42697,7 @@
       "release": "2026-04-30",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -42666,7 +42719,7 @@
       "name": "Jhin",
       "championId": 122,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2016-02-01",
@@ -42716,7 +42769,7 @@
       "lootEligible": 1,
       "release": "2017-02-09",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -42770,7 +42823,7 @@
       "lootEligible": 1,
       "release": "2017-11-22",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -42826,7 +42879,7 @@
       "release": "2021-01-28",
       "artists": [
         12,
-        47
+        48
       ],
       "features": [
         2,
@@ -42853,7 +42906,7 @@
       "lootEligible": 1,
       "release": "2021-04-29",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -42881,7 +42934,7 @@
       "release": "2022-11-03",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -42909,7 +42962,7 @@
       "release": "2023-08-03",
       "artists": [
         12,
-        40
+        41
       ],
       "features": [
         2,
@@ -42964,8 +43017,8 @@
       "lootEligible": 1,
       "release": "2025-01-23",
       "artists": [
-        41,
-        55
+        42,
+        56
       ],
       "features": [
         0,
@@ -42994,7 +43047,7 @@
       "release": "2025-08-27",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -43043,7 +43096,7 @@
       "name": "Kindred",
       "championId": 123,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2015-10-13",
@@ -43065,7 +43118,7 @@
       "lootEligible": 1,
       "release": "2015-10-13",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -43147,7 +43200,7 @@
       "release": "2022-01-26",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -43306,7 +43359,7 @@
       "release": "2022-01-20",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/base/images/zeri_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/base/images/zeri_splash_uncentered_0.jpg",
@@ -43322,7 +43375,7 @@
       "lootEligible": 1,
       "release": "2022-01-20",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -43405,7 +43458,7 @@
       "release": "2024-09-25",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -43434,7 +43487,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -43461,7 +43514,7 @@
       "lootEligible": 1,
       "release": "2025-12-03",
       "artists": [
-        68
+        69
       ],
       "features": [
         0,
@@ -43484,7 +43537,7 @@
       "name": "Jinx",
       "championId": 125,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2013-10-09",
@@ -43588,7 +43641,7 @@
       "lootEligible": 1,
       "release": "2016-10-05",
       "artists": [
-        67
+        68
       ],
       "features": [
         0,
@@ -43616,7 +43669,7 @@
       "lootEligible": 1,
       "release": "2017-12-12",
       "artists": [
-        61
+        62
       ],
       "features": [
         2,
@@ -43643,7 +43696,7 @@
       "lootEligible": 1,
       "release": "2018-09-12",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -43698,7 +43751,7 @@
       "lootEligible": 1,
       "release": "2020-02-04",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -43782,7 +43835,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -43810,7 +43863,7 @@
       "release": "2023-10-25",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -43837,7 +43890,7 @@
       "lootEligible": 0,
       "release": "2024-12-11",
       "artists": [
-        38
+        39
       ],
       "features": [
         0,
@@ -43865,8 +43918,8 @@
       "lootEligible": 1,
       "release": "2024-08-14",
       "artists": [
-        68,
-        82
+        36,
+        69
       ],
       "features": [
         2,
@@ -43892,6 +43945,10 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-08-26",
+      "artists": [
+        12,
+        53
+      ],
       "features": [
         2,
         3,
@@ -43912,7 +43969,7 @@
       "name": "Tahm Kench",
       "championId": 126,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2015-07-08",
@@ -43934,7 +43991,7 @@
       "lootEligible": 1,
       "release": "2015-07-08",
       "artists": [
-        46
+        47
       ],
       "lineIds": [
         26
@@ -44045,7 +44102,7 @@
       "lootEligible": 1,
       "release": "2023-06-14",
       "artists": [
-        59
+        60
       ],
       "lineIds": [
         139
@@ -44066,7 +44123,7 @@
       "availability": 0,
       "lootEligible": 1,
       "artists": [
-        59
+        60
       ],
       "lineIds": [
         210
@@ -44103,7 +44160,7 @@
       "release": "2023-09-13",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -44131,7 +44188,7 @@
       "release": "2024-07-31",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -44230,7 +44287,7 @@
       "release": "2021-09-09",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -44285,7 +44342,7 @@
       "release": "2022-09-09",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -44341,7 +44398,7 @@
       "release": "2024-09-25",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -44413,7 +44470,7 @@
       "lootEligible": 1,
       "release": "2019-11-10",
       "artists": [
-        38
+        39
       ],
       "features": [
         1,
@@ -44442,7 +44499,7 @@
       "release": "2020-02-04",
       "isPrestige": 1,
       "artists": [
-        76
+        77
       ],
       "features": [
         1,
@@ -44470,7 +44527,7 @@
       "lootEligible": 1,
       "release": "2020-06-18",
       "artists": [
-        45
+        46
       ],
       "features": [
         0,
@@ -44526,7 +44583,7 @@
       "release": "2022-04-28",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -44637,7 +44694,7 @@
       "lootEligible": 1,
       "release": "2023-12-06",
       "artists": [
-        41
+        42
       ],
       "features": [
         0,
@@ -44666,7 +44723,7 @@
       "release": "2025-02-20",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -44694,7 +44751,7 @@
       "release": "2026-03-19",
       "artists": [
         29,
-        38
+        39
       ],
       "features": [
         2,
@@ -44717,9 +44774,12 @@
       "championId": 129,
       "rarity": 3,
       "cost": 6,
-      "availability": 4,
+      "availability": 0,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-10-21",
+      "artists": [
+        39
+      ],
       "features": [
         2,
         3,
@@ -44731,9 +44791,9 @@
       "universeIds": [
         79
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin81/images/senna_splash_tile_81.skins_senna_skin81.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin81/images/senna_splash_uncentered_81.skins_senna_skin81.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin81/sennaloadscreen_81.skins_senna_skin81.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin81/images/senna_splash_tile_81.skins_senna_skin81.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin81/images/senna_splash_uncentered_81.skins_senna_skin81.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin81/sennaloadscreen_81.skins_senna_skin81.jpg"
     },
     {
       "id": 236000,
@@ -44746,7 +44806,7 @@
       "release": "2013-08-21",
       "isBase": 1,
       "artists": [
-        46,
+        47,
         118
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/base/images/lucian_splash_tile_0.jpg",
@@ -44763,7 +44823,7 @@
       "lootEligible": 1,
       "release": "2013-08-21",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -44812,7 +44872,7 @@
       "lootEligible": 1,
       "release": "2015-09-07",
       "artists": [
-        72
+        73
       ],
       "features": [
         2,
@@ -44866,7 +44926,7 @@
       "lootEligible": 1,
       "release": "2018-08-30",
       "artists": [
-        45
+        46
       ],
       "features": [
         0,
@@ -44894,7 +44954,7 @@
       "lootEligible": 1,
       "release": "2019-07-18",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -44979,7 +45039,7 @@
       "release": "2020-11-11",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -45006,7 +45066,7 @@
       "lootEligible": 1,
       "release": "2021-05-13",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -45034,7 +45094,7 @@
       "release": "2022-08-25",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -45089,7 +45149,7 @@
       "lootEligible": 1,
       "release": "2025-02-20",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -45141,7 +45201,7 @@
       "name": "Zed",
       "championId": 131,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-11-13",
@@ -45190,7 +45250,7 @@
       "lootEligible": 1,
       "release": "2014-05-04",
       "artists": [
-        75
+        76
       ],
       "lineIds": [
         3
@@ -45239,7 +45299,7 @@
       "lootEligible": 1,
       "release": "2016-09-25",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -45266,7 +45326,7 @@
       "lootEligible": 1,
       "release": "2017-10-25",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -45293,7 +45353,7 @@
       "lootEligible": 1,
       "release": "2019-04-18",
       "artists": [
-        76
+        77
       ],
       "features": [
         0,
@@ -45322,7 +45382,7 @@
       "release": "2020-09-17",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -45378,7 +45438,7 @@
       "release": "2021-12-09",
       "artists": [
         12,
-        39
+        40
       ],
       "features": [
         0,
@@ -45407,7 +45467,7 @@
       "release": "2022-11-03",
       "artists": [
         12,
-        43
+        44
       ],
       "features": [
         2,
@@ -45434,7 +45494,7 @@
       "lootEligible": 1,
       "release": "2023-08-16",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -45461,7 +45521,7 @@
       "lootEligible": 1,
       "release": "2024-04-17",
       "artists": [
-        82
+        36
       ],
       "features": [
         2,
@@ -45665,7 +45725,7 @@
       "name": "Ekko",
       "championId": 133,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2015-05-27",
@@ -45687,7 +45747,7 @@
       "lootEligible": 1,
       "release": "2015-05-27",
       "artists": [
-        72
+        73
       ],
       "features": [
         2,
@@ -45790,7 +45850,7 @@
       "lootEligible": 1,
       "release": "2018-10-24",
       "artists": [
-        71
+        72
       ],
       "features": [
         2,
@@ -45817,7 +45877,7 @@
       "lootEligible": 1,
       "release": "2019-11-10",
       "artists": [
-        57
+        58
       ],
       "features": [
         0,
@@ -45846,7 +45906,7 @@
       "release": "2020-05-14",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -45901,7 +45961,7 @@
       "release": "2022-07-14",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -45957,7 +46017,7 @@
       "release": "2023-11-08",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -45985,7 +46045,7 @@
       "release": "2024-12-11",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -46007,11 +46067,14 @@
       "name": "Prestige True Damage Know My Name Ekko",
       "championId": 133,
       "rarity": 2,
-      "cost": 0,
-      "availability": 4,
+      "cost": 1,
+      "availability": 1,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-10-21",
       "isPrestige": 1,
+      "artists": [
+        3
+      ],
       "features": [
         2,
         3,
@@ -46023,9 +46086,9 @@
       "universeIds": [
         79
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/images/ekko_splash_tile_59.skins_ekko_skin59.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/images/ekko_splash_uncentered_59.skins_ekko_skin59.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/ekkoloadscreen_59.skins_ekko_skin59.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/images/ekko_splash_tile_59.skins_ekko_skin59.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/images/ekko_splash_uncentered_59.skins_ekko_skin59.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin59/ekkoloadscreen_59.skins_ekko_skin59.jpg"
     },
     {
       "id": 246000,
@@ -46038,7 +46101,7 @@
       "release": "2019-06-28",
       "isBase": 1,
       "artists": [
-        63
+        64
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/base/images/qiyana_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/base/images/qiyana_splash_uncentered_0.jpg",
@@ -46054,7 +46117,7 @@
       "lootEligible": 1,
       "release": "2019-06-28",
       "artists": [
-        38
+        39
       ],
       "features": [
         1,
@@ -46082,7 +46145,7 @@
       "lootEligible": 1,
       "release": "2019-11-10",
       "artists": [
-        63
+        64
       ],
       "features": [
         2,
@@ -46110,7 +46173,7 @@
       "release": "2019-11-10",
       "isPrestige": 1,
       "artists": [
-        60
+        61
       ],
       "features": [
         2,
@@ -46193,7 +46256,7 @@
       "release": "2022-04-01",
       "isPrestige": 1,
       "artists": [
-        60
+        61
       ],
       "features": [
         2,
@@ -46221,7 +46284,7 @@
       "release": "2023-01-26",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -46249,7 +46312,7 @@
       "release": "2023-09-27",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -46301,9 +46364,12 @@
       "championId": 134,
       "rarity": 3,
       "cost": 6,
-      "availability": 4,
+      "availability": 0,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-10-21",
+      "artists": [
+        64
+      ],
       "features": [
         2,
         3,
@@ -46315,22 +46381,22 @@
       "universeIds": [
         79
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin51/images/qiyana_splash_tile_51.skins_qiyana_skin51.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin51/images/qiyana_splash_uncentered_51.skins_qiyana_skin51.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin51/qiyanaloadscreen_51.skins_qiyana_skin51.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin51/images/qiyana_splash_tile_51.skins_qiyana_skin51.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin51/images/qiyana_splash_uncentered_51.skins_qiyana_skin51.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin51/qiyanaloadscreen_51.skins_qiyana_skin51.jpg"
     },
     {
       "id": 254000,
       "name": "Vi",
       "championId": 135,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-12-19",
       "isBase": 1,
       "artists": [
-        72,
+        73,
         140
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vi/skins/base/images/vi_splash_tile_0.jpg",
@@ -46373,7 +46439,7 @@
       "lootEligible": 1,
       "release": "2013-10-29",
       "artists": [
-        75
+        76
       ],
       "features": [
         2,
@@ -46399,7 +46465,7 @@
       "lootEligible": 1,
       "release": "2014-08-05",
       "artists": [
-        53
+        55
       ],
       "lineIds": [
         23
@@ -46448,7 +46514,7 @@
       "lootEligible": 1,
       "release": "2017-01-19",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -46475,7 +46541,7 @@
       "lootEligible": 1,
       "release": "2017-11-22",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -46557,7 +46623,7 @@
       "lootEligible": 1,
       "release": "2021-11-15",
       "artists": [
-        60
+        61
       ],
       "features": [
         2,
@@ -46585,7 +46651,7 @@
       "release": "2023-02-10",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -46691,7 +46757,7 @@
       "name": "Aatrox",
       "championId": 136,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2013-06-12",
@@ -46789,7 +46855,7 @@
       "lootEligible": 1,
       "release": "2019-01-10",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -46817,7 +46883,7 @@
       "release": "2019-01-10",
       "isPrestige": 1,
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -46900,7 +46966,7 @@
       "release": "2022-04-01",
       "isPrestige": 1,
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -47006,7 +47072,7 @@
       "release": "2024-07-31",
       "artists": [
         13,
-        41
+        42
       ],
       "features": [
         0,
@@ -47029,7 +47095,7 @@
       "name": "Nami",
       "championId": 137,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2012-12-07",
@@ -47208,7 +47274,7 @@
       "lootEligible": 1,
       "release": "2019-09-26",
       "artists": [
-        60
+        61
       ],
       "features": [
         2,
@@ -47426,13 +47492,13 @@
       "name": "Azir",
       "championId": 138,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2014-09-15",
       "isBase": 1,
       "artists": [
-        75
+        76
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/base/images/azir_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/base/images/azir_splash_uncentered_0.jpg",
@@ -47557,7 +47623,7 @@
       "release": "2020-12-10",
       "artists": [
         15,
-        74
+        75
       ],
       "features": [
         2,
@@ -47585,7 +47651,7 @@
       "release": "2022-09-22",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -47613,7 +47679,7 @@
       "release": "2024-09-11",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -47641,7 +47707,7 @@
       "release": "2019-05-14",
       "isBase": 1,
       "artists": [
-        60
+        61
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/base/images/yuumi_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/base/images/yuumi_splash_uncentered_0.jpg",
@@ -47657,7 +47723,7 @@
       "lootEligible": 1,
       "release": "2019-05-14",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -47684,7 +47750,7 @@
       "lootEligible": 1,
       "release": "2020-02-04",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -47711,7 +47777,7 @@
       "lootEligible": 1,
       "release": "2021-03-04",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -47794,7 +47860,7 @@
       "release": "2023-04-06",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -47850,7 +47916,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -47905,7 +47971,7 @@
       "release": "2026-02-04",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -47933,7 +47999,7 @@
       "release": "2020-09-21",
       "isBase": 1,
       "artists": [
-        60
+        61
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/base/images/samira_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/base/images/samira_splash_uncentered_0.jpg",
@@ -47949,7 +48015,7 @@
       "lootEligible": 1,
       "release": "2020-09-21",
       "artists": [
-        38
+        39
       ],
       "features": [
         1,
@@ -48028,12 +48094,12 @@
       "name": "Soul Fighter Samira",
       "championId": 140,
       "rarity": 6,
-      "cost": 15,
+      "cost": 16,
       "availability": 0,
       "lootEligible": 1,
       "release": "2023-07-20",
       "artists": [
-        38
+        39
       ],
       "features": [
         0,
@@ -48062,7 +48128,7 @@
       "release": "2025-01-09",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         4
@@ -48085,7 +48151,7 @@
       "release": "2026-01-22",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -48107,13 +48173,13 @@
       "name": "Thresh",
       "championId": 141,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2013-01-23",
       "isBase": 1,
       "artists": [
-        75
+        76
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/base/images/thresh_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/base/images/thresh_splash_uncentered_0.jpg",
@@ -48156,7 +48222,7 @@
       "lootEligible": 1,
       "release": "2013-10-03",
       "artists": [
-        75
+        76
       ],
       "features": [
         2,
@@ -48183,7 +48249,7 @@
       "lootEligible": 1,
       "release": "2015-01-08",
       "artists": [
-        76
+        77
       ],
       "features": [
         2,
@@ -48293,7 +48359,7 @@
       "release": "2019-11-21",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -48375,7 +48441,7 @@
       "lootEligible": 1,
       "release": "2020-07-22",
       "artists": [
-        57
+        58
       ],
       "features": [
         0,
@@ -48404,7 +48470,7 @@
       "release": "2021-07-29",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -48487,7 +48553,7 @@
       "lootEligible": 1,
       "release": "2023-01-26",
       "artists": [
-        46
+        47
       ],
       "features": [
         2,
@@ -48515,7 +48581,7 @@
       "release": "2023-12-06",
       "artists": [
         15,
-        43
+        44
       ],
       "features": [
         2,
@@ -48565,7 +48631,7 @@
       "name": "Illaoi",
       "championId": 142,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2015-11-24",
@@ -48669,7 +48735,7 @@
       "release": "2022-06-23",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -48697,7 +48763,7 @@
       "release": "2024-07-31",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -48746,14 +48812,14 @@
       "name": "Rek'Sai",
       "championId": 143,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2014-12-11",
       "isBase": 1,
       "artists": [
         7,
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/base/images/reksai_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/base/images/reksai_splash_uncentered_0.jpg",
@@ -48859,7 +48925,7 @@
       "release": "2024-07-17",
       "artists": [
         12,
-        54
+        53
       ],
       "lineIds": [
         206
@@ -49036,7 +49102,7 @@
       "release": "2026-05-13",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -49055,7 +49121,7 @@
       "name": "Kalista",
       "championId": 145,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2014-11-20",
@@ -49159,7 +49225,7 @@
       "release": "2021-01-07",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -49187,7 +49253,7 @@
       "release": "2023-03-23",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -49214,7 +49280,7 @@
       "lootEligible": 1,
       "release": "2025-07-16",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -49236,7 +49302,7 @@
       "name": "Bard",
       "championId": 146,
       "rarity": 0,
-      "cost": 16,
+      "cost": 17,
       "availability": 0,
       "lootEligible": 1,
       "release": "2015-03-12",
@@ -49285,7 +49351,7 @@
       "lootEligible": 1,
       "release": "2015-12-10",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -49338,7 +49404,7 @@
       "release": "2020-05-28",
       "artists": [
         12,
-        47
+        48
       ],
       "features": [
         2,
@@ -49366,7 +49432,7 @@
       "release": "2021-12-02",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -49394,7 +49460,7 @@
       "release": "2023-06-14",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -49421,8 +49487,8 @@
       "lootEligible": 1,
       "release": "2024-08-14",
       "artists": [
-        68,
-        82
+        36,
+        69
       ],
       "features": [
         2,
@@ -49450,7 +49516,7 @@
       "release": "2025-04-30",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         2,
@@ -49478,7 +49544,7 @@
       "release": "2017-04-18",
       "isBase": 1,
       "artists": [
-        72,
+        73,
         86,
         97
       ],
@@ -49496,7 +49562,7 @@
       "lootEligible": 1,
       "release": "2017-04-18",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -49523,7 +49589,7 @@
       "lootEligible": 1,
       "release": "2018-02-12",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -49605,8 +49671,8 @@
       "lootEligible": 1,
       "release": "2019-09-12",
       "artists": [
-        63,
-        76
+        64,
+        77
       ],
       "features": [
         0,
@@ -49718,7 +49784,7 @@
       "release": "2023-10-11",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         0,
@@ -49747,7 +49813,7 @@
       "release": "2024-01-09",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -49776,7 +49842,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         2,
@@ -49832,7 +49898,7 @@
       "release": "2017-04-18",
       "isBase": 1,
       "artists": [
-        72,
+        73,
         86,
         97
       ],
@@ -49850,7 +49916,7 @@
       "lootEligible": 1,
       "release": "2017-04-18",
       "artists": [
-        45
+        46
       ],
       "features": [
         2,
@@ -49877,7 +49943,7 @@
       "lootEligible": 1,
       "release": "2018-02-12",
       "artists": [
-        67
+        68
       ],
       "features": [
         2,
@@ -49932,8 +49998,8 @@
       "lootEligible": 1,
       "release": "2019-09-12",
       "artists": [
-        63,
-        76
+        64,
+        77
       ],
       "features": [
         0,
@@ -49989,7 +50055,7 @@
       "release": "2021-09-02",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -50101,7 +50167,7 @@
       "release": "2023-10-11",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         0,
@@ -50186,7 +50252,7 @@
       "release": "2017-08-22",
       "isBase": 1,
       "artists": [
-        72
+        73
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/base/images/ornn_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/base/images/ornn_splash_uncentered_0.jpg",
@@ -50257,7 +50323,7 @@
       "lootEligible": 1,
       "release": "2022-11-17",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -50284,7 +50350,7 @@
       "lootEligible": 1,
       "release": "2024-04-03",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -50356,7 +50422,7 @@
       "lootEligible": 1,
       "release": "2019-01-25",
       "artists": [
-        62
+        63
       ],
       "features": [
         2,
@@ -50384,7 +50450,7 @@
       "release": "2020-01-10",
       "artists": [
         12,
-        56
+        57
       ],
       "features": [
         2,
@@ -50412,7 +50478,7 @@
       "release": "2021-05-27",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -50441,7 +50507,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -50468,7 +50534,7 @@
       "lootEligible": 1,
       "release": "2022-03-31",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -50523,7 +50589,7 @@
       "lootEligible": 1,
       "release": "2023-12-06",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -50550,7 +50616,7 @@
       "lootEligible": 1,
       "release": "2024-10-23",
       "artists": [
-        41
+        42
       ],
       "features": [
         0,
@@ -50580,7 +50646,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -50608,7 +50674,7 @@
       "release": "2018-12-05",
       "isBase": 1,
       "artists": [
-        38
+        39
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/base/images/neeko_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/base/images/neeko_splash_uncentered_0.jpg",
@@ -50624,7 +50690,7 @@
       "lootEligible": 1,
       "release": "2018-12-05",
       "artists": [
-        63
+        64
       ],
       "features": [
         2,
@@ -50790,7 +50856,7 @@
       "release": "2023-09-13",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -50817,7 +50883,7 @@
       "lootEligible": 1,
       "release": "2024-10-09",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -50842,7 +50908,7 @@
       "lootEligible": 1,
       "release": "2025-10-22",
       "artists": [
-        68
+        69
       ],
       "features": [
         2,
@@ -50886,7 +50952,7 @@
       "lootEligible": 1,
       "release": "2019-12-11",
       "artists": [
-        38
+        39
       ],
       "features": [
         1,
@@ -50915,7 +50981,7 @@
       "release": "2021-02-04",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -50969,7 +51035,7 @@
       "lootEligible": 1,
       "release": "2022-10-06",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -50998,7 +51064,7 @@
       "artists": [
         2,
         29,
-        38
+        39
       ],
       "features": [
         2,
@@ -51053,6 +51119,11 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-10-07",
+      "artists": [
+        2,
+        29,
+        39
+      ],
       "features": [
         2,
         3,
@@ -51079,7 +51150,7 @@
       "release": "2020-12-10",
       "isBase": 1,
       "artists": [
-        57
+        58
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/base/images/rell_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/base/images/rell_splash_uncentered_0.jpg",
@@ -51362,7 +51433,7 @@
       "lootEligible": 1,
       "release": "2022-03-30",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -51419,7 +51490,7 @@
       "release": "2023-07-20",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -51448,7 +51519,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         2,
@@ -51476,7 +51547,7 @@
       "release": "2024-09-25",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -51576,7 +51647,7 @@
       "lootEligible": 1,
       "release": "2021-09-23",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -51682,7 +51753,7 @@
       "release": "2020-08-06",
       "isBase": 1,
       "artists": [
-        76
+        77
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/base/images/yone_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/base/images/yone_splash_uncentered_0.jpg",
@@ -51781,7 +51852,7 @@
       "lootEligible": 1,
       "release": "2022-06-09",
       "artists": [
-        57
+        58
       ],
       "features": [
         2,
@@ -51837,7 +51908,7 @@
       "artists": [
         2,
         29,
-        38
+        39
       ],
       "features": [
         2,
@@ -51865,7 +51936,7 @@
       "release": "2023-11-08",
       "isPrestige": 1,
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -51893,7 +51964,7 @@
       "release": "2024-03-20",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         0,
@@ -51922,7 +51993,7 @@
       "release": "2024-03-20",
       "artists": [
         15,
-        69
+        70
       ],
       "features": [
         0,
@@ -51951,7 +52022,7 @@
       "release": "2025-02-20",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -52005,6 +52076,11 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-10-07",
+      "artists": [
+        2,
+        29,
+        39
+      ],
       "features": [
         2,
         3,
@@ -52031,7 +52107,7 @@
       "release": "2024-11-06",
       "isBase": 1,
       "artists": [
-        38
+        39
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/base/images/ambessa_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/base/images/ambessa_splash_uncentered_0.jpg",
@@ -52086,9 +52162,9 @@
       "universeIds": [
         91
       ],
-      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin08/images/ambessa_splash_tile_8.skins_ambessa_skin08.jpg",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin08/images/ambessa_splash_uncentered_8.skins_ambessa_skin08.jpg",
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin08/ambessaloadscreen_8.skins_ambessa_skin08.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin08/images/ambessa_splash_tile_8.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin08/images/ambessa_splash_uncentered_8.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin08/ambessaloadscreen_8.jpg"
     },
     {
       "id": 800000,
@@ -52146,7 +52222,7 @@
       "isPrestige": 1,
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -52172,6 +52248,9 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-09-23",
+      "artists": [
+        3
+      ],
       "features": [
         2,
         3,
@@ -52214,7 +52293,7 @@
       "lootEligible": 1,
       "release": "2025-07-16",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -52255,9 +52334,9 @@
       "universeIds": [
         91
       ],
-      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin10/images/yunara_splash_tile_10.skins_yunara_skin10.jpg",
-      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin10/images/yunara_splash_uncentered_10.skins_yunara_skin10.jpg",
-      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin10/yunaraloadscreen_10.skins_yunara_skin10.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin10/images/yunara_splash_tile_10.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin10/images/yunara_splash_uncentered_10.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin10/yunaraloadscreen_10.jpg"
     },
     {
       "id": 805000,
@@ -52270,7 +52349,7 @@
       "release": "2026-06-24",
       "isBase": 1,
       "artists": [
-        3
+        9
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_uncentered_0.jpg",
@@ -52286,7 +52365,7 @@
       "lootEligible": 1,
       "release": "2026-06-24",
       "artists": [
-        68
+        69
       ],
       "features": [
         2,
@@ -52314,7 +52393,7 @@
       "release": "2020-01-14",
       "isBase": 1,
       "artists": [
-        46
+        47
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/base/images/sett_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/base/images/sett_splash_uncentered_0.jpg",
@@ -52388,7 +52467,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        77
+        78
       ],
       "features": [
         2,
@@ -52416,7 +52495,7 @@
       "release": "2021-06-09",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -52444,7 +52523,7 @@
       "release": "2022-01-26",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -52501,7 +52580,7 @@
       "release": "2023-07-20",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -52530,7 +52609,7 @@
       "artists": [
         2,
         29,
-        38
+        39
       ],
       "features": [
         2,
@@ -52558,7 +52637,7 @@
       "release": "2025-01-09",
       "artists": [
         15,
-        52
+        54
       ],
       "features": [
         0,
@@ -52606,11 +52685,14 @@
       "name": "Prestige HEARTSTEEL Live My Life Sett",
       "championId": 161,
       "rarity": 2,
-      "cost": 0,
+      "cost": 9,
       "availability": 1,
       "lootEligible": 1,
       "release": "2026-10-07",
       "isPrestige": 1,
+      "artists": [
+        3
+      ],
       "features": [
         2,
         3,
@@ -52637,7 +52719,7 @@
       "release": "2020-07-22",
       "isBase": 1,
       "artists": [
-        38
+        39
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/base/images/lillia_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/base/images/lillia_splash_uncentered_0.jpg",
@@ -52738,7 +52820,7 @@
       "release": "2024-05-15",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -52765,7 +52847,7 @@
       "lootEligible": 1,
       "release": "2025-08-13",
       "artists": [
-        59
+        60
       ],
       "features": [
         0,
@@ -52794,7 +52876,7 @@
       "release": "2026-02-19",
       "artists": [
         15,
-        42
+        43
       ],
       "features": [
         0,
@@ -52823,7 +52905,7 @@
       "release": "2021-04-15",
       "isBase": 1,
       "artists": [
-        57
+        58
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/base/images/gwen_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/base/images/gwen_splash_uncentered_0.jpg",
@@ -52867,7 +52949,7 @@
       "release": "2021-12-02",
       "artists": [
         12,
-        37
+        38
       ],
       "features": [
         2,
@@ -52894,7 +52976,7 @@
       "lootEligible": 1,
       "release": "2023-08-03",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -52921,7 +53003,7 @@
       "lootEligible": 1,
       "release": "2024-08-28",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -52948,7 +53030,7 @@
       "lootEligible": 1,
       "release": "2025-11-19",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -52971,6 +53053,10 @@
       "availability": 0,
       "lootEligible": 1,
       "release": "2026-08-12",
+      "artists": [
+        12,
+        67
+      ],
       "features": [
         2,
         3,
@@ -52997,7 +53083,7 @@
       "release": "2022-02-17",
       "isBase": 1,
       "artists": [
-        57
+        58
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/base/images/renata_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/base/images/renata_splash_uncentered_0.jpg",
@@ -53037,7 +53123,7 @@
       "release": "2022-09-22",
       "artists": [
         12,
-        66
+        67
       ],
       "lineIds": [
         170
@@ -53060,7 +53146,7 @@
       "release": "2023-09-27",
       "artists": [
         15,
-        69
+        70
       ],
       "lineIds": [
         198
@@ -53084,7 +53170,7 @@
       "isPrestige": 1,
       "artists": [
         15,
-        69
+        70
       ],
       "lineIds": [
         198
@@ -53107,7 +53193,7 @@
       "release": "2025-01-09",
       "artists": [
         15,
-        42
+        43
       ],
       "lineIds": [
         211
@@ -53127,7 +53213,7 @@
       "release": "2024-07-17",
       "isBase": 1,
       "artists": [
-        38
+        39
       ],
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/base/images/aurora_splash_tile_0.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/base/images/aurora_splash_uncentered_0.jpg",
@@ -53143,7 +53229,7 @@
       "lootEligible": 1,
       "release": "2024-07-17",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -53171,7 +53257,7 @@
       "release": "2025-09-24",
       "artists": [
         12,
-        54
+        53
       ],
       "features": [
         2,
@@ -53242,7 +53328,7 @@
       "lootEligible": 1,
       "release": "2022-07-13",
       "artists": [
-        38
+        39
       ],
       "features": [
         2,
@@ -53270,7 +53356,7 @@
       "release": "2023-10-11",
       "artists": [
         12,
-        66
+        67
       ],
       "features": [
         2,
@@ -53297,7 +53383,7 @@
       "lootEligible": 1,
       "release": "2025-06-11",
       "artists": [
-        41,
+        42,
         89
       ],
       "features": [
@@ -53343,7 +53429,7 @@
       "release": "2022-11-03",
       "artists": [
         12,
-        54
+        53
       ],
       "lineIds": [
         186
@@ -53390,7 +53476,7 @@
       "artists": [
         2,
         29,
-        38
+        39
       ],
       "lineIds": [
         199
@@ -53407,9 +53493,14 @@
       "name": "HEARTSTEEL Live My Life K'Sante",
       "championId": 167,
       "rarity": 3,
-      "cost": 0,
+      "cost": 6,
       "availability": 0,
       "lootEligible": 1,
+      "artists": [
+        2,
+        29,
+        39
+      ],
       "lineIds": [
         199
       ],
@@ -53447,7 +53538,7 @@
       "lootEligible": 1,
       "release": "2024-01-31",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -53518,7 +53609,7 @@
       "lootEligible": 1,
       "release": "2023-03-23",
       "artists": [
-        59
+        60
       ],
       "features": [
         2,
@@ -53684,7 +53775,7 @@
       "lootEligible": 1,
       "release": "2025-06-25",
       "artists": [
-        41
+        42
       ],
       "features": [
         2,
@@ -53712,7 +53803,7 @@
       "release": "2026-06-10",
       "artists": [
         15,
-        44
+        45
       ],
       "features": [
         2,
@@ -53784,7 +53875,7 @@
       "release": "2024-03-06",
       "artists": [
         12,
-        55
+        56
       ],
       "features": [
         2,
@@ -56381,6 +56472,7 @@
     "Forrest Imel",
     "Rio Sabda",
     "Caravan Studio",
+    "Mo Yan",
     "Charles 'Yideth' Liu",
     "David Villegas",
     "Jennifer Wuestling",
@@ -56397,9 +56489,9 @@
     "Izzy Medrano",
     "Choe HeonHwa",
     "Kelvin Law",
+    "Francis Tneh",
     "Lejia Chan",
     "Sperasoft Studio",
-    "Francis Tneh",
     "Augusto Quirino",
     "Katya Cyan",
     "Jeremy 'Jermu' Anninos",
@@ -56427,7 +56519,6 @@
     "Shuohan Zhou",
     "Robin Ruan",
     "Max Grecke",
-    "Mo Yan",
     "Markus Neidel",
     "Huanxuan Chen",
     "Yan Kyohara",
