@@ -1,7 +1,7 @@
 {
   "id": 1013406,
-  "name": "女帝",
-  "roitName": "Battle Queen",
+  "name": "女帝 卡莉丝塔",
+  "roitName": "Battle Queen Kalista",
   "sortName": "女帝",
   "rarity": "史诗",
   "raritySubType": "",
@@ -18,7 +18,6 @@
   ],
   "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kalista_5.jpg",
   "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_kalista_skin05.png",
-  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kalista/女帝 头像.png",
   "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013406.png",
   "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kalista/女帝 边框.png",
   "roit": {
