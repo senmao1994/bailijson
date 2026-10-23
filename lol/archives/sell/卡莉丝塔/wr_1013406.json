@@ -1,0 +1,55 @@
+{
+  "id": 1013406,
+  "name": "女帝",
+  "roitName": "Battle Queen",
+  "sortName": "女帝",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "女帝威仪",
+  "universe": "",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "乌尔提奥一度双王并立，最后卡莉丝塔赢下了冠冕的战局。而代价，则是她彻底失去了对血亲与眷属的爱与信任，甚至是她自己的……全部悲悯。王城的百姓会怀念那名为卡莉丝塔的王女，以及她所昭示的那文明与希望蔚然成风的年代；而今，没人敢揣度女王的长矛又会指向哪位敌人，或是自己人。好消息是，女王出征“神圣加冕礼”的消息不胫而走，王城赢来了片刻的安宁。",
+  "accessories": [
+    "边框",
+    "姿态：远射"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kalista_5.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_kalista_skin05.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kalista/女帝 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1013406.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kalista/女帝 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月23日",
+    "endDate": "",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
