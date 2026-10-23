@@ -1,0 +1,56 @@
+{
+  "id": 1010706,
+  "name": "女帝 希维尔",
+  "roitName": "Battle Queen",
+  "sortName": "女帝",
+  "rarity": "传说",
+  "raritySubType": "",
+  "price": "1090",
+  "priceUnit": "点券",
+  "skinline": "女帝威仪",
+  "universe": "",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "希维尔曾是哈雷纳邦国一名普通的佣兵，因赫赫战功与强硬手腕而登临至尊，加冕为帝。在万众军民聆听希维尔登基的誓令时，他们同时也望见了一副崇高的金甲，立于女帝身后。自那日起，再无人怀疑这神圣的事实：希维尔身下的王座由血火铸就，手中的权柄经神明授意。至于那古老血脉的源起，只在市井巷谈中才能略窥一二。",
+  "accessories": [
+    "边框",
+    "姿态：驾临",
+    "姿态：绝对防御"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sivir_5.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_sivir_skin05.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sivir/女帝 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1010706.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sivir/女帝 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月23日",
+    "endDate": "长期销售",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

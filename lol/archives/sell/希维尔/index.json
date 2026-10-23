@@ -1,7 +1,10 @@
-﻿{
-    "id":  "sivir",
-    "name":  "希维尔",
-    "alias":  "Sivir",
-    "key":  15,
-    "title":  "战争女神"
+{
+  "wr": {
+    "id": 10107,
+    "name": "希维尔",
+    "alias": "xiweier",
+    "key": "10107",
+    "title": "战争女神",
+    "platform": "wr"
+  }
 }
