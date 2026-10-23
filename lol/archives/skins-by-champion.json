@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T12:16:53.965114",
+  "updatedAt": "2026-10-23T18:34:57.208357",
   "count": 173,
   "champions": [
     {
@@ -8,7 +8,7 @@
       "name": "奇亚娜",
       "total": 10,
       "lastSkin": "2026-10-21",
-      "daysAgo": 1
+      "daysAgo": 2
     },
     {
       "championId": 245,
@@ -16,7 +16,7 @@
       "name": "艾克",
       "total": 13,
       "lastSkin": "2026-10-21",
-      "daysAgo": 1
+      "daysAgo": 2
     },
     {
       "championId": 235,
@@ -24,7 +24,7 @@
       "name": "赛娜",
       "total": 12,
       "lastSkin": "2026-10-21",
-      "daysAgo": 1
+      "daysAgo": 2
     },
     {
       "championId": 84,
@@ -32,7 +32,7 @@
       "name": "阿卡丽",
       "total": 23,
       "lastSkin": "2026-10-21",
-      "daysAgo": 1
+      "daysAgo": 2
     },
     {
       "championId": 157,
@@ -40,7 +40,7 @@
       "name": "亚索",
       "total": 19,
       "lastSkin": "2026-10-21",
-      "daysAgo": 1
+      "daysAgo": 2
     },
     {
       "championId": 875,
@@ -48,7 +48,7 @@
       "name": "瑟提",
       "total": 11,
       "lastSkin": "2026-10-07",
-      "daysAgo": 15
+      "daysAgo": 16
     },
     {
       "championId": 777,
@@ -56,7 +56,7 @@
       "name": "永恩",
       "total": 12,
       "lastSkin": "2026-10-07",
-      "daysAgo": 15
+      "daysAgo": 16
     },
     {
       "championId": 523,
@@ -64,7 +64,7 @@
       "name": "厄斐琉斯",
       "total": 7,
       "lastSkin": "2026-10-07",
-      "daysAgo": 15
+      "daysAgo": 16
     },
     {
       "championId": 141,
@@ -72,7 +72,7 @@
       "name": "凯隐",
       "total": 8,
       "lastSkin": "2026-10-07",
-      "daysAgo": 15
+      "daysAgo": 16
     },
     {
       "championId": 81,
@@ -80,7 +80,7 @@
       "name": "伊泽瑞尔",
       "total": 22,
       "lastSkin": "2026-10-07",
-      "daysAgo": 15
+      "daysAgo": 16
     },
     {
       "championId": 6,
@@ -88,7 +88,7 @@
       "name": "厄加特",
       "total": 8,
       "lastSkin": "2026-09-23",
-      "daysAgo": 29
+      "daysAgo": 30
     },
     {
       "championId": 800,
@@ -96,7 +96,7 @@
       "name": "梅尔",
       "total": 3,
       "lastSkin": "2026-09-23",
-      "daysAgo": 29
+      "daysAgo": 30
     },
     {
       "championId": 34,
@@ -104,7 +104,7 @@
       "name": "艾尼维亚",
       "total": 13,
       "lastSkin": "2026-09-23",
-      "daysAgo": 29
+      "daysAgo": 30
     },
     {
       "championId": 40,
@@ -112,7 +112,7 @@
       "name": "迦娜",
       "total": 17,
       "lastSkin": "2026-09-23",
-      "daysAgo": 29
+      "daysAgo": 30
     },
     {
       "championId": 18,
@@ -120,7 +120,7 @@
       "name": "崔丝塔娜",
       "total": 17,
       "lastSkin": "2026-09-10",
-      "daysAgo": 42
+      "daysAgo": 43
     },
     {
       "championId": 61,
@@ -128,7 +128,7 @@
       "name": "奥莉安娜",
       "total": 13,
       "lastSkin": "2026-09-10",
-      "daysAgo": 42
+      "daysAgo": 43
     },
     {
       "championId": 16,
@@ -136,7 +136,7 @@
       "name": "索拉卡",
       "total": 18,
       "lastSkin": "2026-08-26",
-      "daysAgo": 57
+      "daysAgo": 58
     },
     {
       "championId": 222,
@@ -144,7 +144,7 @@
       "name": "金克丝",
       "total": 15,
       "lastSkin": "2026-08-26",
-      "daysAgo": 57
+      "daysAgo": 58
     },
     {
       "championId": 147,
@@ -152,7 +152,7 @@
       "name": "萨勒芬妮",
       "total": 11,
       "lastSkin": "2026-08-26",
-      "daysAgo": 57
+      "daysAgo": 58
     },
     {
       "championId": 117,
@@ -160,7 +160,7 @@
       "name": "璐璐",
       "total": 14,
       "lastSkin": "2026-08-12",
-      "daysAgo": 71
+      "daysAgo": 72
     },
     {
       "championId": 10,
@@ -168,7 +168,7 @@
       "name": "凯尔",
       "total": 18,
       "lastSkin": "2026-08-12",
-      "daysAgo": 71
+      "daysAgo": 72
     },
     {
       "championId": 887,
@@ -176,7 +176,7 @@
       "name": "格温",
       "total": 6,
       "lastSkin": "2026-08-12",
-      "daysAgo": 71
+      "daysAgo": 72
     },
     {
       "championId": 1,
@@ -184,7 +184,7 @@
       "name": "安妮",
       "total": 19,
       "lastSkin": "2026-07-29",
-      "daysAgo": 85
+      "daysAgo": 86
     },
     {
       "championId": 12,
@@ -192,7 +192,7 @@
       "name": "阿利斯塔",
       "total": 16,
       "lastSkin": "2026-07-29",
-      "daysAgo": 85
+      "daysAgo": 86
     },
     {
       "championId": 45,
@@ -200,7 +200,7 @@
       "name": "维迦",
       "total": 16,
       "lastSkin": "2026-07-29",
-      "daysAgo": 85
+      "daysAgo": 86
     },
     {
       "championId": 53,
@@ -208,7 +208,7 @@
       "name": "布里茨",
       "total": 18,
       "lastSkin": "2026-07-29",
-      "daysAgo": 85
+      "daysAgo": 86
     },
     {
       "championId": 24,
@@ -216,7 +216,7 @@
       "name": "贾克斯",
       "total": 17,
       "lastSkin": "2026-07-29",
-      "daysAgo": 85
+      "daysAgo": 86
     },
     {
       "championId": 33,
@@ -224,7 +224,7 @@
       "name": "拉莫斯",
       "total": 12,
       "lastSkin": "2026-07-29",
-      "daysAgo": 85
+      "daysAgo": 86
     },
     {
       "championId": 799,
@@ -232,7 +232,7 @@
       "name": "安蓓萨",
       "total": 2,
       "lastSkin": "2026-07-15",
-      "daysAgo": 99
+      "daysAgo": 100
     },
     {
       "championId": 3,
@@ -240,7 +240,7 @@
       "name": "加里奥",
       "total": 11,
       "lastSkin": "2026-07-15",
-      "daysAgo": 99
+      "daysAgo": 100
     },
     {
       "championId": 804,
@@ -248,7 +248,7 @@
       "name": "芸阿娜",
       "total": 2,
       "lastSkin": "2026-07-15",
-      "daysAgo": 99
+      "daysAgo": 100
     },
     {
       "championId": 107,
@@ -256,7 +256,7 @@
       "name": "雷恩加尔",
       "total": 9,
       "lastSkin": "2026-07-15",
-      "daysAgo": 99
+      "daysAgo": 100
     },
     {
       "championId": 805,
@@ -264,7 +264,7 @@
       "name": "洛克",
       "total": 1,
       "lastSkin": "2026-06-24",
-      "daysAgo": 120
+      "daysAgo": 121
     },
     {
       "championId": 202,
@@ -272,7 +272,7 @@
       "name": "烬",
       "total": 13,
       "lastSkin": "2026-06-24",
-      "daysAgo": 120
+      "daysAgo": 121
     },
     {
       "championId": 166,
@@ -280,7 +280,7 @@
       "name": "阿克尚",
       "total": 4,
       "lastSkin": "2026-06-24",
-      "daysAgo": 120
+      "daysAgo": 121
     },
     {
       "championId": 98,
@@ -288,7 +288,7 @@
       "name": "慎",
       "total": 13,
       "lastSkin": "2026-06-24",
-      "daysAgo": 120
+      "daysAgo": 121
     },
     {
       "championId": 893,
@@ -296,7 +296,7 @@
       "name": "阿萝拉",
       "total": 3,
       "lastSkin": "2026-06-24",
-      "daysAgo": 120
+      "daysAgo": 121
     },
     {
       "championId": 63,
@@ -304,7 +304,7 @@
       "name": "布兰德",
       "total": 13,
       "lastSkin": "2026-06-10",
-      "daysAgo": 134
+      "daysAgo": 135
     },
     {
       "championId": 910,
@@ -312,7 +312,7 @@
       "name": "彗",
       "total": 3,
       "lastSkin": "2026-06-10",
-      "daysAgo": 134
+      "daysAgo": 135
     },
     {
       "championId": 420,
@@ -320,7 +320,7 @@
       "name": "俄洛伊",
       "total": 6,
       "lastSkin": "2026-05-28",
-      "daysAgo": 147
+      "daysAgo": 148
     },
     {
       "championId": 131,
@@ -328,7 +328,7 @@
       "name": "黛安娜",
       "total": 16,
       "lastSkin": "2026-05-28",
-      "daysAgo": 147
+      "daysAgo": 148
     },
     {
       "championId": 14,
@@ -336,7 +336,7 @@
       "name": "赛恩",
       "total": 11,
       "lastSkin": "2026-05-28",
-      "daysAgo": 147
+      "daysAgo": 148
     },
     {
       "championId": 89,
@@ -344,7 +344,7 @@
       "name": "蕾欧娜",
       "total": 18,
       "lastSkin": "2026-05-28",
-      "daysAgo": 147
+      "daysAgo": 148
     },
     {
       "championId": 39,
@@ -352,7 +352,7 @@
       "name": "艾瑞莉娅",
       "total": 16,
       "lastSkin": "2026-05-28",
-      "daysAgo": 147
+      "daysAgo": 148
     },
     {
       "championId": 427,
@@ -360,7 +360,7 @@
       "name": "艾翁",
       "total": 6,
       "lastSkin": "2026-05-13",
-      "daysAgo": 162
+      "daysAgo": 163
     },
     {
       "championId": 133,
@@ -368,7 +368,7 @@
       "name": "奎因",
       "total": 7,
       "lastSkin": "2026-05-13",
-      "daysAgo": 162
+      "daysAgo": 163
     },
     {
       "championId": 201,
@@ -376,7 +376,7 @@
       "name": "布隆",
       "total": 9,
       "lastSkin": "2026-04-30",
-      "daysAgo": 175
+      "daysAgo": 176
     },
     {
       "championId": 67,
@@ -384,7 +384,7 @@
       "name": "薇恩",
       "total": 19,
       "lastSkin": "2026-04-29",
-      "daysAgo": 176
+      "daysAgo": 177
     },
     {
       "championId": 203,
@@ -392,7 +392,7 @@
       "name": "千珏",
       "total": 9,
       "lastSkin": "2026-04-29",
-      "daysAgo": 176
+      "daysAgo": 177
     },
     {
       "championId": 35,
@@ -400,7 +400,7 @@
       "name": "萨科",
       "total": 16,
       "lastSkin": "2026-04-29",
-      "daysAgo": 176
+      "daysAgo": 177
     },
     {
       "championId": 15,
@@ -408,7 +408,7 @@
       "name": "希维尔",
       "total": 19,
       "lastSkin": "2026-04-15",
-      "daysAgo": 190
+      "daysAgo": 191
     },
     {
       "championId": 8,
@@ -416,7 +416,7 @@
       "name": "弗拉基米尔",
       "total": 14,
       "lastSkin": "2026-04-15",
-      "daysAgo": 190
+      "daysAgo": 191
     },
     {
       "championId": 154,
@@ -424,7 +424,7 @@
       "name": "扎克",
       "total": 7,
       "lastSkin": "2026-04-15",
-      "daysAgo": 190
+      "daysAgo": 191
     },
     {
       "championId": 711,
@@ -432,7 +432,7 @@
       "name": "薇古丝",
       "total": 4,
       "lastSkin": "2026-04-01",
-      "daysAgo": 204
+      "daysAgo": 205
     },
     {
       "championId": 50,
@@ -440,7 +440,7 @@
       "name": "斯维因",
       "total": 10,
       "lastSkin": "2026-04-01",
-      "daysAgo": 204
+      "daysAgo": 205
     },
     {
       "championId": 113,
@@ -448,7 +448,7 @@
       "name": "瑟庄妮",
       "total": 13,
       "lastSkin": "2026-04-01",
-      "daysAgo": 204
+      "daysAgo": 205
     },
     {
       "championId": 82,
@@ -456,7 +456,7 @@
       "name": "莫德凯撒",
       "total": 13,
       "lastSkin": "2026-04-01",
-      "daysAgo": 204
+      "daysAgo": 205
     },
     {
       "championId": 950,
@@ -464,7 +464,7 @@
       "name": "纳亚菲利",
       "total": 4,
       "lastSkin": "2026-03-19",
-      "daysAgo": 217
+      "daysAgo": 218
     },
     {
       "championId": 19,
@@ -472,7 +472,7 @@
       "name": "沃里克",
       "total": 16,
       "lastSkin": "2026-03-19",
-      "daysAgo": 217
+      "daysAgo": 218
     },
     {
       "championId": 57,
@@ -480,7 +480,7 @@
       "name": "茂凯",
       "total": 11,
       "lastSkin": "2026-03-04",
-      "daysAgo": 232
+      "daysAgo": 233
     },
     {
       "championId": 37,
@@ -488,7 +488,7 @@
       "name": "娑娜",
       "total": 16,
       "lastSkin": "2026-03-04",
-      "daysAgo": 232
+      "daysAgo": 233
     },
     {
       "championId": 101,
@@ -496,7 +496,7 @@
       "name": "泽拉斯",
       "total": 9,
       "lastSkin": "2026-03-04",
-      "daysAgo": 232
+      "daysAgo": 233
     },
     {
       "championId": 55,
@@ -504,7 +504,7 @@
       "name": "卡特琳娜",
       "total": 19,
       "lastSkin": "2026-02-19",
-      "daysAgo": 245
+      "daysAgo": 246
     },
     {
       "championId": 126,
@@ -512,7 +512,7 @@
       "name": "杰斯",
       "total": 12,
       "lastSkin": "2026-02-19",
-      "daysAgo": 245
+      "daysAgo": 246
     },
     {
       "championId": 876,
@@ -520,7 +520,7 @@
       "name": "莉莉娅",
       "total": 6,
       "lastSkin": "2026-02-19",
-      "daysAgo": 245
+      "daysAgo": 246
     },
     {
       "championId": 164,
@@ -528,7 +528,7 @@
       "name": "卡蜜尔",
       "total": 8,
       "lastSkin": "2026-02-19",
-      "daysAgo": 245
+      "daysAgo": 246
     },
     {
       "championId": 115,
@@ -536,7 +536,7 @@
       "name": "吉格斯",
       "total": 12,
       "lastSkin": "2026-02-04",
-      "daysAgo": 260
+      "daysAgo": 261
     },
     {
       "championId": 78,
@@ -544,7 +544,7 @@
       "name": "波比",
       "total": 13,
       "lastSkin": "2026-02-04",
-      "daysAgo": 260
+      "daysAgo": 261
     },
     {
       "championId": 350,
@@ -552,7 +552,7 @@
       "name": "悠米",
       "total": 10,
       "lastSkin": "2026-02-04",
-      "daysAgo": 260
+      "daysAgo": 261
     },
     {
       "championId": 51,
@@ -560,7 +560,7 @@
       "name": "凯特琳",
       "total": 20,
       "lastSkin": "2026-02-04",
-      "daysAgo": 260
+      "daysAgo": 261
     },
     {
       "championId": 22,
@@ -568,7 +568,7 @@
       "name": "艾希",
       "total": 20,
       "lastSkin": "2026-02-04",
-      "daysAgo": 260
+      "daysAgo": 261
     },
     {
       "championId": 516,
@@ -576,7 +576,7 @@
       "name": "奥恩",
       "total": 5,
       "lastSkin": "2026-01-22",
-      "daysAgo": 273
+      "daysAgo": 274
     },
     {
       "championId": 233,
@@ -584,7 +584,7 @@
       "name": "贝蕾亚",
       "total": 3,
       "lastSkin": "2026-01-22",
-      "daysAgo": 273
+      "daysAgo": 274
     },
     {
       "championId": 360,
@@ -592,7 +592,7 @@
       "name": "莎弥拉",
       "total": 6,
       "lastSkin": "2026-01-22",
-      "daysAgo": 273
+      "daysAgo": 274
     },
     {
       "championId": 234,
@@ -600,7 +600,7 @@
       "name": "佛耶戈",
       "total": 7,
       "lastSkin": "2026-01-22",
-      "daysAgo": 273
+      "daysAgo": 274
     },
     {
       "championId": 111,
@@ -608,7 +608,7 @@
       "name": "诺提勒斯",
       "total": 11,
       "lastSkin": "2026-01-08",
-      "daysAgo": 287
+      "daysAgo": 288
     },
     {
       "championId": 25,
@@ -616,7 +616,7 @@
       "name": "莫甘娜",
       "total": 17,
       "lastSkin": "2026-01-08",
-      "daysAgo": 287
+      "daysAgo": 288
     },
     {
       "championId": 119,
@@ -624,7 +624,7 @@
       "name": "德莱文",
       "total": 14,
       "lastSkin": "2026-01-08",
-      "daysAgo": 287
+      "daysAgo": 288
     },
     {
       "championId": 163,
@@ -632,7 +632,7 @@
       "name": "塔莉垭",
       "total": 6,
       "lastSkin": "2026-01-08",
-      "daysAgo": 287
+      "daysAgo": 288
     },
     {
       "championId": 902,
@@ -640,7 +640,7 @@
       "name": "米利欧",
       "total": 3,
       "lastSkin": "2025-12-03",
-      "daysAgo": 323
+      "daysAgo": 324
     },
     {
       "championId": 236,
@@ -648,7 +648,7 @@
       "name": "卢锡安",
       "total": 14,
       "lastSkin": "2025-12-03",
-      "daysAgo": 323
+      "daysAgo": 324
     },
     {
       "championId": 221,
@@ -656,7 +656,7 @@
       "name": "泽丽",
       "total": 6,
       "lastSkin": "2025-12-03",
-      "daysAgo": 323
+      "daysAgo": 324
     },
     {
       "championId": 901,
@@ -664,7 +664,7 @@
       "name": "斯莫德",
       "total": 2,
       "lastSkin": "2025-12-03",
-      "daysAgo": 323
+      "daysAgo": 324
     },
     {
       "championId": 267,
@@ -672,7 +672,7 @@
       "name": "娜美",
       "total": 14,
       "lastSkin": "2025-12-03",
-      "daysAgo": 323
+      "daysAgo": 324
     },
     {
       "championId": 904,
@@ -680,7 +680,7 @@
       "name": "亚恒",
       "total": 1,
       "lastSkin": "2025-11-19",
-      "daysAgo": 337
+      "daysAgo": 338
     },
     {
       "championId": 112,
@@ -688,7 +688,7 @@
       "name": "维克托",
       "total": 8,
       "lastSkin": "2025-11-05",
-      "daysAgo": 351
+      "daysAgo": 352
     },
     {
       "championId": 122,
@@ -696,7 +696,7 @@
       "name": "德莱厄斯",
       "total": 15,
       "lastSkin": "2025-11-05",
-      "daysAgo": 351
+      "daysAgo": 352
     },
     {
       "championId": 99,
@@ -704,7 +704,7 @@
       "name": "拉克丝",
       "total": 22,
       "lastSkin": "2025-11-05",
-      "daysAgo": 351
+      "daysAgo": 352
     },
     {
       "championId": 72,
@@ -712,7 +712,7 @@
       "name": "斯卡纳",
       "total": 6,
       "lastSkin": "2025-10-22",
-      "daysAgo": 365
+      "daysAgo": 366
     },
     {
       "championId": 142,
@@ -720,7 +720,7 @@
       "name": "佐伊",
       "total": 9,
       "lastSkin": "2025-10-22",
-      "daysAgo": 365
+      "daysAgo": 366
     },
     {
       "championId": 518,
@@ -728,7 +728,7 @@
       "name": "妮蔻",
       "total": 9,
       "lastSkin": "2025-10-22",
-      "daysAgo": 365
+      "daysAgo": 366
     },
     {
       "championId": 9,
@@ -736,7 +736,7 @@
       "name": "费德提克",
       "total": 12,
       "lastSkin": "2025-10-08",
-      "daysAgo": 379
+      "daysAgo": 380
     },
     {
       "championId": 127,
@@ -744,7 +744,7 @@
       "name": "丽桑卓",
       "total": 9,
       "lastSkin": "2025-10-08",
-      "daysAgo": 379
+      "daysAgo": 380
     },
     {
       "championId": 30,
@@ -752,7 +752,7 @@
       "name": "卡尔萨斯",
       "total": 10,
       "lastSkin": "2025-09-24",
-      "daysAgo": 393
+      "daysAgo": 394
     },
     {
       "championId": 26,
@@ -760,7 +760,7 @@
       "name": "基兰",
       "total": 8,
       "lastSkin": "2025-09-24",
-      "daysAgo": 393
+      "daysAgo": 394
     },
     {
       "championId": 517,
@@ -768,7 +768,7 @@
       "name": "塞拉斯",
       "total": 9,
       "lastSkin": "2025-09-10",
-      "daysAgo": 407
+      "daysAgo": 408
     },
     {
       "championId": 150,
@@ -776,7 +776,7 @@
       "name": "纳尔",
       "total": 10,
       "lastSkin": "2025-09-10",
-      "daysAgo": 407
+      "daysAgo": 408
     },
     {
       "championId": 555,
@@ -784,7 +784,7 @@
       "name": "派克",
       "total": 12,
       "lastSkin": "2025-09-10",
-      "daysAgo": 407
+      "daysAgo": 408
     },
     {
       "championId": 110,
@@ -792,7 +792,7 @@
       "name": "韦鲁斯",
       "total": 15,
       "lastSkin": "2025-09-10",
-      "daysAgo": 407
+      "daysAgo": 408
     },
     {
       "championId": 254,
@@ -800,7 +800,7 @@
       "name": "蔚",
       "total": 13,
       "lastSkin": "2025-09-10",
-      "daysAgo": 407
+      "daysAgo": 408
     },
     {
       "championId": 23,
@@ -808,7 +808,7 @@
       "name": "泰达米尔",
       "total": 13,
       "lastSkin": "2025-08-27",
-      "daysAgo": 421
+      "daysAgo": 422
     },
     {
       "championId": 86,
@@ -816,7 +816,7 @@
       "name": "盖伦",
       "total": 16,
       "lastSkin": "2025-08-27",
-      "daysAgo": 421
+      "daysAgo": 422
     },
     {
       "championId": 42,
@@ -824,7 +824,7 @@
       "name": "库奇",
       "total": 11,
       "lastSkin": "2025-08-13",
-      "daysAgo": 435
+      "daysAgo": 436
     },
     {
       "championId": 114,
@@ -832,7 +832,7 @@
       "name": "菲奥娜",
       "total": 16,
       "lastSkin": "2025-08-13",
-      "daysAgo": 435
+      "daysAgo": 436
     },
     {
       "championId": 106,
@@ -840,7 +840,7 @@
       "name": "沃利贝尔",
       "total": 10,
       "lastSkin": "2025-07-30",
-      "daysAgo": 449
+      "daysAgo": 450
     },
     {
       "championId": 17,
@@ -848,7 +848,7 @@
       "name": "提莫",
       "total": 15,
       "lastSkin": "2025-07-30",
-      "daysAgo": 449
+      "daysAgo": 450
     },
     {
       "championId": 103,
@@ -856,7 +856,7 @@
       "name": "阿狸",
       "total": 21,
       "lastSkin": "2025-07-30",
-      "daysAgo": 449
+      "daysAgo": 450
     },
     {
       "championId": 120,
@@ -864,7 +864,7 @@
       "name": "赫卡里姆",
       "total": 12,
       "lastSkin": "2025-07-16",
-      "daysAgo": 463
+      "daysAgo": 464
     },
     {
       "championId": 429,
@@ -872,7 +872,7 @@
       "name": "卡莉丝塔",
       "total": 6,
       "lastSkin": "2025-07-16",
-      "daysAgo": 463
+      "daysAgo": 464
     },
     {
       "championId": 28,
@@ -880,7 +880,7 @@
       "name": "伊芙琳",
       "total": 18,
       "lastSkin": "2025-06-25",
-      "daysAgo": 484
+      "daysAgo": 485
     },
     {
       "championId": 43,
@@ -888,7 +888,7 @@
       "name": "卡尔玛",
       "total": 15,
       "lastSkin": "2025-06-25",
-      "daysAgo": 484
+      "daysAgo": 485
     },
     {
       "championId": 76,
@@ -896,7 +896,7 @@
       "name": "奈德丽",
       "total": 16,
       "lastSkin": "2025-06-25",
-      "daysAgo": 484
+      "daysAgo": 485
     },
     {
       "championId": 238,
@@ -904,7 +904,7 @@
       "name": "劫",
       "total": 14,
       "lastSkin": "2025-06-25",
-      "daysAgo": 484
+      "daysAgo": 485
     },
     {
       "championId": 145,
@@ -912,7 +912,7 @@
       "name": "卡莎",
       "total": 15,
       "lastSkin": "2025-06-11",
-      "daysAgo": 498
+      "daysAgo": 499
     },
     {
       "championId": 895,
@@ -920,7 +920,7 @@
       "name": "尼菈",
       "total": 3,
       "lastSkin": "2025-06-11",
-      "daysAgo": 498
+      "daysAgo": 499
     },
     {
       "championId": 64,
@@ -928,7 +928,7 @@
       "name": "李青",
       "total": 19,
       "lastSkin": "2025-06-11",
-      "daysAgo": 498
+      "daysAgo": 499
     },
     {
       "championId": 58,
@@ -936,7 +936,7 @@
       "name": "雷克顿",
       "total": 15,
       "lastSkin": "2025-06-11",
-      "daysAgo": 498
+      "daysAgo": 499
     },
     {
       "championId": 13,
@@ -944,7 +944,7 @@
       "name": "瑞兹",
       "total": 14,
       "lastSkin": "2025-05-14",
-      "daysAgo": 526
+      "daysAgo": 527
     },
     {
       "championId": 83,
@@ -952,7 +952,7 @@
       "name": "约里克",
       "total": 9,
       "lastSkin": "2025-05-14",
-      "daysAgo": 526
+      "daysAgo": 527
     },
     {
       "championId": 29,
@@ -960,7 +960,7 @@
       "name": "图奇",
       "total": 14,
       "lastSkin": "2025-04-30",
-      "daysAgo": 540
+      "daysAgo": 541
     },
     {
       "championId": 4,
@@ -968,7 +968,7 @@
       "name": "崔斯特",
       "total": 16,
       "lastSkin": "2025-04-30",
-      "daysAgo": 540
+      "daysAgo": 541
     },
     {
       "championId": 143,
@@ -976,7 +976,7 @@
       "name": "婕拉",
       "total": 12,
       "lastSkin": "2025-04-30",
-      "daysAgo": 540
+      "daysAgo": 541
     },
     {
       "championId": 432,
@@ -984,7 +984,7 @@
       "name": "巴德",
       "total": 8,
       "lastSkin": "2025-04-30",
-      "daysAgo": 540
+      "daysAgo": 541
     },
     {
       "championId": 75,
@@ -992,7 +992,7 @@
       "name": "内瑟斯",
       "total": 13,
       "lastSkin": "2025-04-16",
-      "daysAgo": 554
+      "daysAgo": 555
     },
     {
       "championId": 90,
@@ -1000,7 +1000,7 @@
       "name": "玛尔扎哈",
       "total": 13,
       "lastSkin": "2025-04-16",
-      "daysAgo": 554
+      "daysAgo": 555
     },
     {
       "championId": 44,
@@ -1008,7 +1008,7 @@
       "name": "塔里克",
       "total": 7,
       "lastSkin": "2025-04-16",
-      "daysAgo": 554
+      "daysAgo": 555
     },
     {
       "championId": 54,
@@ -1016,7 +1016,7 @@
       "name": "墨菲特",
       "total": 14,
       "lastSkin": "2025-04-02",
-      "daysAgo": 568
+      "daysAgo": 569
     },
     {
       "championId": 498,
@@ -1024,7 +1024,7 @@
       "name": "霞",
       "total": 12,
       "lastSkin": "2025-03-19",
-      "daysAgo": 582
+      "daysAgo": 583
     },
     {
       "championId": 497,
@@ -1032,7 +1032,7 @@
       "name": "洛",
       "total": 12,
       "lastSkin": "2025-03-19",
-      "daysAgo": 582
+      "daysAgo": 583
     },
     {
       "championId": 91,
@@ -1040,7 +1040,7 @@
       "name": "泰隆",
       "total": 12,
       "lastSkin": "2025-03-05",
-      "daysAgo": 596
+      "daysAgo": 597
     },
     {
       "championId": 526,
@@ -1048,7 +1048,7 @@
       "name": "芮尔",
       "total": 4,
       "lastSkin": "2025-03-05",
-      "daysAgo": 596
+      "daysAgo": 597
     },
     {
       "championId": 32,
@@ -1056,7 +1056,7 @@
       "name": "阿木木",
       "total": 14,
       "lastSkin": "2025-02-05",
-      "daysAgo": 624
+      "daysAgo": 625
     },
     {
       "championId": 134,
@@ -1064,7 +1064,7 @@
       "name": "辛德拉",
       "total": 13,
       "lastSkin": "2025-02-05",
-      "daysAgo": 624
+      "daysAgo": 625
     },
     {
       "championId": 69,
@@ -1072,7 +1072,7 @@
       "name": "卡西奥佩娅",
       "total": 9,
       "lastSkin": "2025-01-23",
-      "daysAgo": 637
+      "daysAgo": 638
     },
     {
       "championId": 59,
@@ -1080,7 +1080,7 @@
       "name": "嘉文四世",
       "total": 15,
       "lastSkin": "2025-01-23",
-      "daysAgo": 637
+      "daysAgo": 638
     },
     {
       "championId": 888,
@@ -1088,7 +1088,7 @@
       "name": "烈娜塔 · 戈拉斯克",
       "total": 5,
       "lastSkin": "2025-01-09",
-      "daysAgo": 651
+      "daysAgo": 652
     },
     {
       "championId": 11,
@@ -1096,7 +1096,7 @@
       "name": "易",
       "total": 18,
       "lastSkin": "2025-01-09",
-      "daysAgo": 651
+      "daysAgo": 652
     },
     {
       "championId": 60,
@@ -1104,7 +1104,7 @@
       "name": "伊莉丝",
       "total": 9,
       "lastSkin": "2025-01-09",
-      "daysAgo": 651
+      "daysAgo": 652
     },
     {
       "championId": 74,
@@ -1112,7 +1112,7 @@
       "name": "黑默丁格",
       "total": 9,
       "lastSkin": "2024-12-11",
-      "daysAgo": 680
+      "daysAgo": 681
     },
     {
       "championId": 27,
@@ -1120,7 +1120,7 @@
       "name": "辛吉德",
       "total": 12,
       "lastSkin": "2024-11-26",
-      "daysAgo": 695
+      "daysAgo": 696
     },
     {
       "championId": 80,
@@ -1128,7 +1128,7 @@
       "name": "潘森",
       "total": 13,
       "lastSkin": "2024-11-06",
-      "daysAgo": 715
+      "daysAgo": 716
     },
     {
       "championId": 79,
@@ -1136,7 +1136,7 @@
       "name": "古拉加斯",
       "total": 14,
       "lastSkin": "2024-10-09",
-      "daysAgo": 743
+      "daysAgo": 744
     },
     {
       "championId": 48,
@@ -1144,7 +1144,7 @@
       "name": "特朗德尔",
       "total": 8,
       "lastSkin": "2024-10-09",
-      "daysAgo": 743
+      "daysAgo": 744
     },
     {
       "championId": 20,
@@ -1152,7 +1152,7 @@
       "name": "努努和威朗普",
       "total": 12,
       "lastSkin": "2024-09-25",
-      "daysAgo": 757
+      "daysAgo": 758
     },
     {
       "championId": 412,
@@ -1160,7 +1160,7 @@
       "name": "锤石",
       "total": 16,
       "lastSkin": "2024-09-11",
-      "daysAgo": 771
+      "daysAgo": 772
     },
     {
       "championId": 268,
@@ -1168,7 +1168,7 @@
       "name": "阿兹尔",
       "total": 7,
       "lastSkin": "2024-09-11",
-      "daysAgo": 771
+      "daysAgo": 772
     },
     {
       "championId": 21,
@@ -1176,7 +1176,7 @@
       "name": "厄运小姐",
       "total": 23,
       "lastSkin": "2024-08-28",
-      "daysAgo": 785
+      "daysAgo": 786
     },
     {
       "championId": 266,
@@ -1184,7 +1184,7 @@
       "name": "亚托克斯",
       "total": 12,
       "lastSkin": "2024-07-31",
-      "daysAgo": 813
+      "daysAgo": 814
     },
     {
       "championId": 421,
@@ -1192,7 +1192,7 @@
       "name": "雷克塞",
       "total": 5,
       "lastSkin": "2024-07-17",
-      "daysAgo": 827
+      "daysAgo": 828
     },
     {
       "championId": 200,
@@ -1200,7 +1200,7 @@
       "name": "卑尔维斯",
       "total": 4,
       "lastSkin": "2024-07-17",
-      "daysAgo": 827
+      "daysAgo": 828
     },
     {
       "championId": 105,
@@ -1208,7 +1208,7 @@
       "name": "菲兹",
       "total": 13,
       "lastSkin": "2024-06-26",
-      "daysAgo": 848
+      "daysAgo": 849
     },
     {
       "championId": 7,
@@ -1216,7 +1216,7 @@
       "name": "乐芙兰",
       "total": 14,
       "lastSkin": "2024-06-12",
-      "daysAgo": 862
+      "daysAgo": 863
     },
     {
       "championId": 2,
@@ -1224,7 +1224,7 @@
       "name": "奥拉夫",
       "total": 11,
       "lastSkin": "2024-05-30",
-      "daysAgo": 875
+      "daysAgo": 876
     },
     {
       "championId": 96,
@@ -1232,7 +1232,7 @@
       "name": "克格莫",
       "total": 16,
       "lastSkin": "2024-05-17",
-      "daysAgo": 888
+      "daysAgo": 889
     },
     {
       "championId": 56,
@@ -1240,7 +1240,7 @@
       "name": "魔腾",
       "total": 10,
       "lastSkin": "2024-05-01",
-      "daysAgo": 904
+      "daysAgo": 905
     },
     {
       "championId": 31,
@@ -1248,7 +1248,7 @@
       "name": "科加斯",
       "total": 11,
       "lastSkin": "2024-04-03",
-      "daysAgo": 932
+      "daysAgo": 933
     },
     {
       "championId": 121,
@@ -1256,7 +1256,7 @@
       "name": "卡兹克",
       "total": 8,
       "lastSkin": "2024-03-20",
-      "daysAgo": 946
+      "daysAgo": 947
     },
     {
       "championId": 41,
@@ -1264,7 +1264,7 @@
       "name": "普朗克",
       "total": 12,
       "lastSkin": "2024-03-06",
-      "daysAgo": 960
+      "daysAgo": 961
     },
     {
       "championId": 136,
@@ -1272,7 +1272,7 @@
       "name": "奥瑞利安·索尔",
       "total": 6,
       "lastSkin": "2024-02-22",
-      "daysAgo": 973
+      "daysAgo": 974
     },
     {
       "championId": 104,
@@ -1280,7 +1280,7 @@
       "name": "格雷福斯",
       "total": 13,
       "lastSkin": "2024-02-22",
-      "daysAgo": 973
+      "daysAgo": 974
     },
     {
       "championId": 92,
@@ -1288,7 +1288,7 @@
       "name": "锐雯",
       "total": 17,
       "lastSkin": "2024-01-24",
-      "daysAgo": 1002
+      "daysAgo": 1003
     },
     {
       "championId": 38,
@@ -1296,7 +1296,7 @@
       "name": "卡萨丁",
       "total": 9,
       "lastSkin": "2024-01-09",
-      "daysAgo": 1017
+      "daysAgo": 1018
     },
     {
       "championId": 161,
@@ -1304,7 +1304,7 @@
       "name": "维克兹",
       "total": 7,
       "lastSkin": "2023-11-22",
-      "daysAgo": 1065
+      "daysAgo": 1066
     },
     {
       "championId": 897,
@@ -1312,7 +1312,7 @@
       "name": "奎桑提",
       "total": 4,
       "lastSkin": "2023-11-08",
-      "daysAgo": 1079
+      "daysAgo": 1080
     },
     {
       "championId": 68,
@@ -1320,7 +1320,7 @@
       "name": "兰博",
       "total": 6,
       "lastSkin": "2023-10-25",
-      "daysAgo": 1093
+      "daysAgo": 1094
     },
     {
       "championId": 36,
@@ -1328,7 +1328,7 @@
       "name": "蒙多医生",
       "total": 11,
       "lastSkin": "2023-09-13",
-      "daysAgo": 1135
+      "daysAgo": 1136
     },
     {
       "championId": 102,
@@ -1336,7 +1336,7 @@
       "name": "希瓦娜",
       "total": 8,
       "lastSkin": "2023-08-16",
-      "daysAgo": 1163
+      "daysAgo": 1164
     },
     {
       "championId": 62,
@@ -1344,7 +1344,7 @@
       "name": "孙悟空",
       "total": 9,
       "lastSkin": "2023-06-28",
-      "daysAgo": 1212
+      "daysAgo": 1213
     },
     {
       "championId": 223,
@@ -1352,7 +1352,7 @@
       "name": "塔姆",
       "total": 7,
       "lastSkin": "2023-06-14",
-      "daysAgo": 1226
+      "daysAgo": 1227
     },
     {
       "championId": 77,
@@ -1360,7 +1360,7 @@
       "name": "乌迪尔",
       "total": 6,
       "lastSkin": "2023-05-03",
-      "daysAgo": 1268
+      "daysAgo": 1269
     },
     {
       "championId": 240,
@@ -1368,7 +1368,7 @@
       "name": "克烈",
       "total": 4,
       "lastSkin": "2023-04-06",
-      "daysAgo": 1295
+      "daysAgo": 1296
     },
     {
       "championId": 85,
@@ -1376,7 +1376,7 @@
       "name": "凯南",
       "total": 10,
       "lastSkin": "2023-02-24",
-      "daysAgo": 1336
+      "daysAgo": 1337
     },
     {
       "championId": 5,
@@ -1384,7 +1384,7 @@
       "name": "赵信",
       "total": 12,
       "lastSkin": "2022-01-26",
-      "daysAgo": 1730
+      "daysAgo": 1731
     }
   ]
 }
