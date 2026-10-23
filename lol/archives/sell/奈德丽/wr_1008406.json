@@ -1,0 +1,55 @@
+{
+  "id": 1008406,
+  "name": "女帝",
+  "roitName": "Battle Queen Nidalee",
+  "sortName": "女帝",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "女帝威仪",
+  "universe": "",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "维纳提奥曾是秃鹫的国度，生于泥沼的奈德丽甚至没有仰望天空的权利。直到她以矛锋击碎那沉重的枷锁，这片土地的子民才真正迎来命定之主——荒野上的无畏者，自由之牙，奈德丽一世。但国度之外依旧群敌环伺，稍有不慎就会坠入往日的深渊。为了保护自己的子民，奈德丽再次踏上战场，用长矛与利爪震慑住那些觊觎维纳提奥的蛇蝎。",
+  "accessories": [
+    "边框",
+    "姿态：出征"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Nidalee_5.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_nidalee_skin05.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/nidalee/女帝 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008406.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/nidalee/女帝 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月23日",
+    "endDate": "长期销售",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
