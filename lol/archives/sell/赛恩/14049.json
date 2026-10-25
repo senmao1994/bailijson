@@ -9,7 +9,7 @@
   "priceUnit": null,
   "skinline": "最高清算",
   "universe": "符文之地时代",
-  "pushDate": "2025年03月05日",
+  "pushDate": "2025年3月5日",
   "series": null,
   "backstory": "在冰冷的盔甲下，是赛恩鲜活的血肉之躯——与历任诺克萨斯之手并无二致。但只要他决定进入竞技场，他的咆哮就会撼动看台，他的钝斧会敲碎骨头，留下生硬的碎裂声作为他血腥的署名。他只要跺跺脚，就能让最老练的角斗士畏缩胆寒……这样的每一分每一秒，都让观众甘之若饴。",
   "accessories": [],
@@ -25,11 +25,11 @@
     "priceEndDay": "",
     "description": ""
   },
-  "tencentPrice": 0,
+  "tencentPrice": 8900,
   "icon": "6836",
-  "emote": null,
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/FightingPits/4834_Nobody_Knows_Inventory.png",
   "tencent": {
-    "price": 0,
+    "price": 8900,
     "priceType": "通行证",
     "priceTypeChinese": "",
     "priceStartDay": "2026年3月6日",
@@ -38,8 +38,9 @@
     "hasFullGiftPack": true
   },
   "chromas": [],
-  "formsCount": null,
+  "formsCount": 0,
   "forms": [],
+  "tiers": [],
   "version": {
     "push": "25.5",
     "update": "",
