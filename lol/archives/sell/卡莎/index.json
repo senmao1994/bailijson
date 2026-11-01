@@ -1,7 +1,9 @@
-﻿{
-    "id":  "kaisa",
-    "name":  "卡莎",
-    "alias":  "Kaisa",
-    "key":  145,
-    "title":  "虚空之女"
+{
+  "lol": {
+    "id": "kaisa",
+    "name": "卡莎",
+    "alias": "Kaisa",
+    "key": 145,
+    "title": "虚空之女"
+  }
 }
