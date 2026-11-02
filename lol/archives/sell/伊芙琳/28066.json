@@ -19,7 +19,7 @@
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/evelynnloadscreen_66.skins_evelynn_skin66.jpg",
   "roit": {
     "price": 40,
-    "priceType": "直售",
+    "priceType": "圣堂抽奖",
     "priceStartDay": "",
     "priceEndDay": "",
     "description": ""
@@ -29,7 +29,7 @@
   "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/KDA/5217_Sharp_And_Shady_Inventory.ACCESSORIES_16_22.png",
   "tencent": {
     "price": 40,
-    "priceType": "直售",
+    "priceType": "圣堂抽奖",
     "priceTypeChinese": "神话幻想",
     "priceStartDay": "2026年11月5日",
     "priceEndDay": "预计为2027年1月7日前",
