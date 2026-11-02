@@ -1,0 +1,51 @@
+{
+  "id": 28066,
+  "name": "K/DA 金曲制作人 伊芙琳",
+  "roitName": "K/DA Hitmaker Evelynn",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "K/DA",
+  "universe": "拳头唱片",
+  "pushDate": "2026年11月5日",
+  "series": null,
+  "backstory": "在K/DA的最新专辑上留下印记后，伊芙琳将目光投向了利润丰厚的商业世界。有这位谈判专家掌舵，再加上她身边忠诚的猎犬威慑对手，胜利势在必得。无论是策划无情的音乐交易，还是操控唱片公司巨头，伊芙琳总能如愿以偿。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_uncentered_66.skins_evelynn_skin66.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_tile_66.skins_evelynn_skin66.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_centered_66.skins_evelynn_skin66.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/evelynnloadscreen_66.skins_evelynn_skin66.jpg",
+  "roit": {
+    "price": 40,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 40,
+  "icon": "7347",
+  "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/KDA/5217_Sharp_And_Shady_Inventory.ACCESSORIES_16_22.png",
+  "tencent": {
+    "price": 40,
+    "priceType": "直售",
+    "priceTypeChinese": "神话幻想",
+    "priceStartDay": "2026年11月5日",
+    "priceEndDay": "预计为2027年1月7日前",
+    "description": "官方暂未公布边框资源",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "26.22",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
