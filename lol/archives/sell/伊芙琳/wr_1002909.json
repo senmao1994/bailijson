@@ -1,0 +1,56 @@
+{
+  "id": 1002909,
+  "name": "K/DA Heatbringer 伊芙琳",
+  "roitName": "K/DA Heatbringer Evelynn",
+  "sortName": "K/DA Heatbringer",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "K/DA",
+  "universe": "拳头唱片",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "通过主宰这次浴火重生的企划，走出阴影的伊芙琳已然掌控K/DA的创意方向。她以这次惊世回归向乐坛展现K/DA如烈焰一般的爆发力，以及她们可以有多么迷人，而又多么危险。",
+  "accessories": [
+    "边框",
+    "姿态：迎光",
+    "姿态：星光闪耀"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_8.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_evelynn_skin08.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/evelynn/KDA Heatbringer 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002909.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/evelynn/KDA Heatbringer 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年11月4日",
+    "endDate": "2026年11月17日",
+    "description": "完全体礼包限时销售（皮肤长期销售）",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
