@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:34:56.975832",
+  "updatedAt": "2026-11-04T18:45:14.501397",
   "count": 2137,
   "skins": [
     {
@@ -10917,9 +10917,9 @@
       "championId": 28,
       "isBase": false,
       "isUpcoming": 1,
-      "rarity": 0,
+      "rarity": 3,
       "cost": 3,
-      "release": null,
+      "release": "2026-11-04",
       "skinNum": 65,
       "availability": "Upcoming",
       "rpPrice": 1820,
@@ -10930,8 +10930,15 @@
       "newQuotes": false,
       "transforming": false,
       "set": "K/DA",
-      "chromas": [],
-      "chromaCount": 0
+      "chromas": [
+        "Catseye",
+        "Obsidian",
+        "Pearl",
+        "Ruby",
+        "Sapphire",
+        "Tanzanite"
+      ],
+      "chromaCount": 6
     },
     {
       "id": 28066,
@@ -10939,9 +10946,9 @@
       "championId": 28,
       "isBase": false,
       "isUpcoming": 1,
-      "rarity": 0,
-      "cost": 0,
-      "release": null,
+      "rarity": 1,
+      "cost": 1,
+      "release": "2026-11-04",
       "skinNum": 66,
       "availability": "Upcoming",
       "rpPrice": null,
@@ -17180,7 +17187,7 @@
       "newVoice": false,
       "newQuotes": false,
       "transforming": false,
-      "set": "Arctic Ops",
+      "set": "Arcticops",
       "chromas": [],
       "chromaCount": 0
     },
@@ -17537,7 +17544,7 @@
       "newVoice": false,
       "newQuotes": false,
       "transforming": false,
-      "set": "Arctic Ops",
+      "set": "Arcticops",
       "chromas": [],
       "chromaCount": 0
     },
@@ -25123,7 +25130,7 @@
       "newVoice": false,
       "newQuotes": false,
       "transforming": false,
-      "set": "Arctic Ops",
+      "set": "Arcticops",
       "chromas": [],
       "chromaCount": 0
     },
@@ -25243,6 +25250,7 @@
       "chromas": [
         "Catseye",
         "Emerald",
+        "FIRESTARTER",
         "Obsidian",
         "Pearl",
         "Rose Quartz",
@@ -25250,7 +25258,7 @@
         "Sapphire",
         "Turquoise"
       ],
-      "chromaCount": 8
+      "chromaCount": 9
     },
     {
       "id": 80000,
@@ -27397,9 +27405,9 @@
       "championId": 84,
       "isBase": false,
       "isUpcoming": 1,
-      "rarity": 0,
-      "cost": 0,
-      "release": null,
+      "rarity": 1,
+      "cost": 1,
+      "release": "2026-11-04",
       "skinNum": 102,
       "availability": "Upcoming",
       "rpPrice": null,
@@ -27579,7 +27587,7 @@
       "newVoice": false,
       "newQuotes": false,
       "transforming": false,
-      "set": "Arctic Ops",
+      "set": "Arcticops",
       "chromas": [],
       "chromaCount": 0
     },
@@ -32110,9 +32118,9 @@
       "championId": 103,
       "isBase": false,
       "isUpcoming": 1,
-      "rarity": 0,
+      "rarity": 2,
       "cost": 6,
-      "release": null,
+      "release": "2026-11-04",
       "skinNum": 97,
       "availability": "Upcoming",
       "rpPrice": 1350,
@@ -32123,8 +32131,17 @@
       "newQuotes": false,
       "transforming": false,
       "set": "K/DA",
-      "chromas": [],
-      "chromaCount": 0
+      "chromas": [
+        "Amethyst",
+        "Catseye",
+        "Emerald",
+        "Obsidian",
+        "Pearl",
+        "Ruby",
+        "Sapphire",
+        "Turquoise"
+      ],
+      "chromaCount": 8
     },
     {
       "id": 104000,
@@ -32887,7 +32904,7 @@
       "newVoice": false,
       "newQuotes": false,
       "transforming": false,
-      "set": "Arctic Ops",
+      "set": "Arcticops",
       "chromas": [],
       "chromaCount": 0
     },
@@ -33456,7 +33473,7 @@
       "newVoice": false,
       "newQuotes": false,
       "transforming": false,
-      "set": "Arctic Ops",
+      "set": "Arcticops",
       "chromas": [],
       "chromaCount": 0
     },
@@ -40166,12 +40183,12 @@
       "name": "K/DA 生来惹火 卡莎",
       "championId": 145,
       "isBase": false,
-      "isUpcoming": 1,
-      "rarity": 0,
-      "cost": 0,
+      "isUpcoming": 0,
+      "rarity": 2,
+      "cost": 6,
       "release": null,
       "skinNum": 83,
-      "availability": "Upcoming",
+      "availability": "Available",
       "rpPrice": null,
       "newEffects": false,
       "newAnimations": false,
