@@ -1,0 +1,56 @@
+{
+  "id": 1003116,
+  "name": "K/DA Heatbringer 阿卡丽",
+  "roitName": "K/DA HEATBRINGER Akali",
+  "sortName": "K/DA Heatbringer",
+  "rarity": "传说",
+  "raritySubType": "",
+  "price": "1090",
+  "priceUnit": "点券",
+  "skinline": "K/DA",
+  "universe": "拳头唱片",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "点燃了全新纪元的火种，阿卡丽将黑子的质疑与往日的舒适区一并烧尽。手执淬火镰刃，脚踩风火滑板，她的说唱词句锐利，连珠爆发。现在，于烈焰冲天的舞台上屹立的，是打破旧印象的刺客，是脚踩余烬、以自我光芒重铸辉煌的逸才。",
+  "accessories": [
+    "边框",
+    "姿态：炽刃",
+    "姿态：滑板高手"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Akali_15.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_akali_skin15.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/akali/KDA Heatbringer 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003116.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/akali/KDA Heatbringer 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年11月4日",
+    "endDate": "2026年11月17日",
+    "description": "完全体礼包限时销售（皮肤长期销售）",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
