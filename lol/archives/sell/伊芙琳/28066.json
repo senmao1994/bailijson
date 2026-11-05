@@ -17,6 +17,7 @@
   "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_tile_66.skins_evelynn_skin66.jpg",
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_centered_66.skins_evelynn_skin66.jpg",
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/evelynnloadscreen_66.skins_evelynn_skin66.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/evelynnloadscreen_66_le.skins_evelynn_skin66.jpg",
   "roit": {
     "price": 40,
     "priceType": "圣堂抽奖",
@@ -32,7 +33,7 @@
     "priceType": "圣堂抽奖",
     "priceTypeChinese": "神话幻想",
     "priceStartDay": "2026年11月5日",
-    "priceEndDay": "预计为2027年1月7日前",
+    "priceEndDay": "2027年1月7日前",
     "description": "官方暂未公布边框资源",
     "hasFullGiftPack": true
   },
