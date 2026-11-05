@@ -16,7 +16,7 @@
   "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin39/images/gragas_splash_uncentered_39.jpg",
   "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin39/images/gragas_splash_tile_39.jpg",
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin39/images/gragas_splash_centered_39.jpg",
-  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79039.png",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin39/chromapreview.chromaassetmigration.png",
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin39/gragasloadscreen_39.jpg",
   "roit": {
     "price": 1350,
@@ -60,7 +60,7 @@
         "description": ""
       },
       "riotName": "Music Fan Gragas (Ruby)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79040.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin40/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
@@ -97,7 +97,7 @@
         "description": ""
       },
       "riotName": "Music Fan Gragas (Catseye)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79041.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin41/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
@@ -134,7 +134,7 @@
         "description": ""
       },
       "riotName": "Music Fan Gragas (Sapphire)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79042.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin42/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
@@ -171,7 +171,7 @@
         "description": ""
       },
       "riotName": "Music Fan Gragas (Emerald)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79043.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin43/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
@@ -208,7 +208,7 @@
         "description": ""
       },
       "riotName": "Music Fan Gragas (Turquoise)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79044.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin44/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
@@ -245,7 +245,7 @@
         "description": ""
       },
       "riotName": "Music Fan Gragas (Rose Quartz)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79045.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin45/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
@@ -282,7 +282,7 @@
         "description": ""
       },
       "riotName": "Music Fan Gragas (Obsidian)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79046.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin46/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
@@ -319,7 +319,7 @@
         "description": ""
       },
       "riotName": "Music Fan Gragas (Pearl)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79047.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin47/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
       "type": "normal",
       "borderPath": null,
