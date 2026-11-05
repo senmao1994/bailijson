@@ -343,7 +343,7 @@
         "price": 35,
         "priceType": "神话商店",
         "priceStartDay": "2026年11月5日",
-        "priceEndDay": "2026年12月3日",
+        "priceEndDay": "2026年12月9日23:59",
         "description": "",
         "hasFullGiftPack": false,
         "wildRiftSell": null
