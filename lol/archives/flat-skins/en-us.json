@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:01:58.793444",
+  "updatedAt": "2026-11-07T09:57:00.299717",
   "skins": [
     {
       "id": 1000,
@@ -10883,7 +10883,7 @@
       "championId": 27,
       "rarity": 1,
       "cost": 3,
-      "availability": 4,
+      "availability": 0,
       "lootEligible": 1,
       "release": "2026-11-04",
       "artists": [
@@ -10911,7 +10911,7 @@
       "championId": 27,
       "rarity": 2,
       "cost": 1,
-      "availability": 4,
+      "availability": 1,
       "lootEligible": 1,
       "release": "2026-11-04",
       "artists": [
@@ -27502,7 +27502,7 @@
       "championId": 74,
       "rarity": 2,
       "cost": 1,
-      "availability": 4,
+      "availability": 1,
       "lootEligible": 1,
       "release": "2026-11-04",
       "artists": [
@@ -32251,7 +32251,7 @@
       "championId": 86,
       "rarity": 3,
       "cost": 6,
-      "availability": 4,
+      "availability": 0,
       "lootEligible": 1,
       "release": "2026-11-04",
       "artists": [
