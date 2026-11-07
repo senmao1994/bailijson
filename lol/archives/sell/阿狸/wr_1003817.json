@@ -1,0 +1,59 @@
+{
+  "id": 1003817,
+  "name": "K/DA Lollipop 阿狸",
+  "roitName": "K/DA Lollipop Ahri",
+  "sortName": "K/DA Lollipop",
+  "rarity": "终极",
+  "raritySubType": "",
+  "price": "2500",
+  "priceUnit": "应援票根",
+  "skinline": "K/DA",
+  "universe": "拳头唱片",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "可爱的粉色，却无法唤起美好的回忆，那代表着阿狸曾经投身过的泡泡糖流行乐……但，偶尔的回返似乎是一种被允许的怀旧。而且这一次，她已经足够成熟，足够自信，可以轻松地耍弄那些沉迷于少女偶像的目光。",
+  "accessories": [
+    "边框",
+    "姿态：致意",
+    "姿态：甜美身姿",
+    "姿态：缤纷时代",
+    "姿态：千面变幻",
+    "姿态：闪耀星姿"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_16.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ahri_skin16.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/KDA Lollipop 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003817.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/KDA Lollipop 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年11月4日",
+    "endDate": "2027年5月8日前",
+    "description": "千面皆我活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
