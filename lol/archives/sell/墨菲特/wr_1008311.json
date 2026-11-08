@@ -1,0 +1,56 @@
+{
+  "id": 1008311,
+  "name": "奇檐怪影 墨菲特",
+  "roitName": "Wondertown Malphite",
+  "sortName": "奇檐怪影",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "怪诞童话",
+  "universe": "",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "童话镇午夜的钟声如期而至，镇郊沉睡的鬼屋也随之悄然苏醒。叮当作响的屋瓦和泛着幽光的窗棂为夜行者指引方向，它迎候着每一个渴望沉溺于恐惧的来客。",
+  "accessories": [
+    "边框",
+    "姿态：悚然",
+    "姿态：惊魂鬼屋"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Malphite_10.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_malphite_skin10.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/malphite/奇檐怪影 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1008311.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/malphite/奇檐怪影 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月31日",
+    "endDate": "",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
