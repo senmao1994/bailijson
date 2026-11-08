@@ -18,6 +18,7 @@
   ],
   "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sion_7.jpg",
   "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_sion_skin07.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sion/午夜亡灵 赛小恩 头像.png",
   "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012508.png",
   "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sion/午夜亡灵 赛小恩 边框.png",
   "roit": {
@@ -45,7 +46,7 @@
   "tiers": [],
   "sell": {
     "startDate": "2026年10月31日",
-    "endDate": "长期销售",
+    "endDate": "",
     "description": "",
     "activityTitle": "",
     "price": "",
