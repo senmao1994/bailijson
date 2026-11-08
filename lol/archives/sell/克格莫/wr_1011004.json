@@ -19,7 +19,6 @@
   ],
   "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kogmaw_3.jpg",
   "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_kogmaw_skin03.png",
-  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kogmaw/卷笔刀 头像.png",
   "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1011004.png",
   "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kogmaw/卷笔刀 边框.png",
   "roit": {
@@ -58,7 +57,7 @@
           "startDate": "2026年9月22日",
           "endDate": "2026年12月3日",
           "description": "精英宝典",
-          "activityTitle": "宝典75级解锁",
+          "activityTitle": "",
           "price": "680",
           "priceUnit": "点券"
         }
@@ -84,7 +83,7 @@
         "startDate": "2026年9月22日",
         "endDate": "2026年12月3日",
         "description": "精英宝典",
-        "activityTitle": "宝典75级解锁",
+        "activityTitle": "",
         "price": "680",
         "priceUnit": "点券"
       },
