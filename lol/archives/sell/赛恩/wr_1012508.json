@@ -1,0 +1,55 @@
+{
+  "id": 1012508,
+  "name": "午夜亡灵 赛小恩",
+  "roitName": "Little Night Fright",
+  "sortName": "午夜亡灵 赛小恩",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "午夜亡灵",
+  "universe": "",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "某个路过的调皮巫师突发奇想，用魔法唤醒了一台盲盒机里的所有玩偶。其中一个残暴的战争亡灵以可爱的姿态破盒而出，在小镇上四处寻找对手，闹得鸡飞狗跳。那只诡异的乌鸦总蹲在他额头低语，让他更加烦躁。没人能把他抓回去，除非让他找到战斗的满足感。",
+  "accessories": [
+    "边框",
+    "姿态：蛮横"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sion_7.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_sion_skin07.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sion/午夜亡灵 赛小恩 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1012508.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sion/午夜亡灵 赛小恩 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月31日",
+    "endDate": "长期销售",
+    "description": "",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
