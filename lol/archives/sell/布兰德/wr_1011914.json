@@ -1,0 +1,56 @@
+{
+  "id": 1011914,
+  "name": "焦土新皇 布兰德",
+  "roitName": "Battle Boss Exquisite Edition Brand",
+  "sortName": "焦土新皇",
+  "rarity": "神话",
+  "raritySubType": "臻宝",
+  "price": "500",
+  "priceUnit": "橙色原石",
+  "skinline": "战场BOSS",
+  "universe": "电玩",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "作为畅销榜首位动作游戏的火焰头目，布兰德已经无心返回他之前所属的世界。如今，他更希望看到整个街机世界都化为灰烬，再重建成以反派统治者为尊的新天地。",
+  "accessories": [
+    "边框",
+    "姿态：悬浮",
+    "姿态：趾高气扬"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Brand_13.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_brand_skin13.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/brand/焦土新皇 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1011914.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/brand/焦土新皇 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月30日",
+    "endDate": "2026年11月30日",
+    "description": "首周8折",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
