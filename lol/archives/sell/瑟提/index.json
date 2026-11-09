@@ -5,5 +5,13 @@
     "alias": "Sett",
     "key": 875,
     "title": "腕豪"
+  },
+  "wr": {
+    "id": 10068,
+    "name": "瑟提",
+    "alias": "seti",
+    "key": "10068",
+    "title": "腕豪",
+    "platform": "wr"
   }
 }
