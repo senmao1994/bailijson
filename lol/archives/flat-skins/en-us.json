@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T19:08:22.451029",
+  "updatedAt": "2026-11-15T00:32:23.260781",
   "skins": [
     {
       "id": 1000,
@@ -27506,7 +27506,7 @@
       "lootEligible": 1,
       "release": "2026-11-04",
       "artists": [
-        25
+        3
       ],
       "features": [
         0,
@@ -46172,7 +46172,8 @@
       "release": "2026-10-21",
       "isPrestige": 1,
       "artists": [
-        3
+        12,
+        125
       ],
       "features": [
         2,
