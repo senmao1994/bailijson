@@ -5,5 +5,13 @@
     "alias": "Kogmaw",
     "key": 96,
     "title": "深渊巨口"
+  },
+  "wr": {
+    "id": 10110,
+    "name": "克格莫",
+    "alias": "kegemo",
+    "key": "10110",
+    "title": "深渊巨口",
+    "platform": "wr"
   }
 }

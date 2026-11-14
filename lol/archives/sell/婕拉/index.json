@@ -1,7 +1,10 @@
-﻿{
-    "id":  "zyra",
-    "name":  "婕拉",
-    "alias":  "Zyra",
-    "key":  143,
-    "title":  "荆棘之兴"
+{
+  "wr": {
+    "id": 10063,
+    "name": "婕拉",
+    "alias": "jiela",
+    "key": "10063",
+    "title": "荆棘之兴",
+    "platform": "wr"
+  }
 }

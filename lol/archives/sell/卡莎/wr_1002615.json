@@ -1,0 +1,56 @@
+{
+  "id": 1002615,
+  "name": "K/DA Heatbringer 卡莎",
+  "roitName": "KDA HEATBRINGER Kai'Sa",
+  "sortName": "K/DA Heatbringer",
+  "rarity": "史诗",
+  "raritySubType": "",
+  "price": "890",
+  "priceUnit": "点券",
+  "skinline": "K/DA",
+  "universe": "拳头唱片",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "经过烈火的淬炼，卡莎以幻变步伐踏入舞蹈演艺的化境。她那在漫长的休团期中也时刻维持的专注与自律，转化为惊艳的舞台表现力，迎来了盛放的契机。",
+  "accessories": [
+    "边框",
+    "姿态：传意",
+    "姿态：随音轻摆"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kaisa_14.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_kaisa_skin14.jpg",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kaisa/KDA Heatbringer 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002615.jpg",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kaisa/KDA Heatbringer 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年11月4日",
+    "endDate": "2026年11月17日",
+    "description": "完全体礼包限时销售（皮肤长期销售）",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

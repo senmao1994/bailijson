@@ -1,7 +1,17 @@
-﻿{
-    "id":  "kaisa",
-    "name":  "卡莎",
-    "alias":  "Kaisa",
-    "key":  145,
-    "title":  "虚空之女"
+{
+  "lol": {
+    "id": "kaisa",
+    "name": "卡莎",
+    "alias": "Kaisa",
+    "key": 145,
+    "title": "虚空之女"
+  },
+  "wr": {
+    "id": 10026,
+    "name": "卡莎",
+    "alias": "kasha",
+    "key": "10026",
+    "title": "虚空之女",
+    "platform": "wr"
+  }
 }

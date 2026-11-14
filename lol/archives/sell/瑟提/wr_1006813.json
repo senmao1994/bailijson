@@ -1,0 +1,57 @@
+{
+  "id": 1006813,
+  "name": "臻藏 灵魂莲华 瑟提",
+  "roitName": "Prestige Select Spirit Blossom Sett",
+  "sortName": "臻藏 灵魂莲华",
+  "rarity": "神话",
+  "raritySubType": "臻藏",
+  "price": "1500",
+  "priceUnit": "橙色原石",
+  "skinline": "灵魂莲华",
+  "universe": "电玩",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "漂泊之魂，离乡日久，光华愈烈。瑟提的远行已经将他的灵魂淬炼到了新的境地……当然衣锦夜行不符合他炽热的性子，他要找到配得上这份华美的对手，并将拳拳到肉的胜利奉给自己重视的亲人。",
+  "accessories": [
+    "边框",
+    "姿态：收拳",
+    "姿态：双狼轰拳",
+    "姿态：莲华化生"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Sett_12.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_sett_skin12.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sett/臻藏 灵魂莲华 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1006813.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sett/臻藏 灵魂莲华 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月30日",
+    "endDate": "2026年11月30日",
+    "description": "首周8折",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

@@ -1,7 +1,17 @@
 {
-  "id": "ahri",
-  "name": "阿狸",
-  "alias": "Ahri",
-  "key": 103,
-  "title": "九尾妖狐"
+  "lol": {
+    "id": "ahri",
+    "name": "阿狸",
+    "alias": "Ahri",
+    "key": 103,
+    "title": "九尾妖狐"
+  },
+  "wr": {
+    "id": 10038,
+    "name": "阿狸",
+    "alias": "eli",
+    "key": "10038",
+    "title": "九尾妖狐",
+    "platform": "wr"
+  }
 }

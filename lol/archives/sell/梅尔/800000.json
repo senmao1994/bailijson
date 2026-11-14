@@ -37,14 +37,15 @@
     "hasFullGiftPack": false
   },
   "chromas": [],
-  "formsCount": null,
+  "formsCount": 0,
   "forms": [],
+  "tiers": [],
   "version": {
     "push": "25.02",
-    "update": "",
-    "updateChinese": "",
+    "update": "26.22",
+    "updateChinese": "中型更新(2026)",
     "updateName": "",
-    "video": "26.14"
+    "video": ""
   },
   "platform": "lol"
 }

@@ -16,7 +16,7 @@
   "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/images/mel_splash_uncentered_10.jpg",
   "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/images/mel_splash_tile_10.jpg",
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/images/mel_splash_centered_10.jpg",
-  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800010.png",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/chromapreview.chromaassetmigration.png",
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/melloadscreen_10.jpg",
   "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin10/melloadscreen_10_le.jpg",
   "roit": {
@@ -34,7 +34,7 @@
     "priceType": "神话商店",
     "priceTypeChinese": "至臻",
     "priceStartDay": "2025年12月4日版本更新后",
-    "priceEndDay": "2026年1月21日版本更新前",
+    "priceEndDay": "2026年1月21日前",
     "description": "首发神话商店精选栏兑换",
     "hasFullGiftPack": true
   },
@@ -48,8 +48,8 @@
         "price": 35,
         "priceType": "神话商店",
         "priceStartDay": "2025年12月4日版本更新后",
-        "priceEndDay": "2026年1月21日版本更新前",
-        "description": "神话商店精选栏兑换 无图标",
+        "priceEndDay": "2026年1月21日前",
+        "description": "神话商店精选栏兑换",
         "hasFullGiftPack": false,
         "wildRiftSell": {
           "startDate": "",
@@ -68,8 +68,15 @@
         "description": ""
       },
       "riotName": "Prestige Winterblessed Mel (Vivid)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800011.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin11/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": {
         "startDate": "",
         "endDate": "",
@@ -84,12 +91,13 @@
       ]
     }
   ],
-  "formsCount": null,
+  "formsCount": 0,
   "forms": [],
+  "tiers": [],
   "version": {
     "push": "25.24",
-    "update": "",
-    "updateChinese": "",
+    "update": "26.22",
+    "updateChinese": "中型更新(2026)",
     "updateName": "",
     "video": ""
   },

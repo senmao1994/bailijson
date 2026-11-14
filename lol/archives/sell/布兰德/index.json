@@ -1,7 +1,10 @@
-﻿{
-    "id":  "brand",
-    "name":  "布兰德",
-    "alias":  "Brand",
-    "key":  63,
-    "title":  "复仇焰魂"
+{
+  "wr": {
+    "id": 10119,
+    "name": "布兰德",
+    "alias": "bulande",
+    "key": "10119",
+    "title": "复仇焰魂",
+    "platform": "wr"
+  }
 }

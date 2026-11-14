@@ -1,0 +1,108 @@
+{
+  "id": 1011004,
+  "name": "卷笔刀 克格莫",
+  "roitName": "Pencil Sharpener Kog'Maw",
+  "sortName": "卷笔刀",
+  "rarity": "史诗",
+  "raritySubType": "宝典限定",
+  "price": "360",
+  "priceUnit": "点券",
+  "skinline": "教室",
+  "universe": "",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "克格莫是一个走火入魔的卷笔刀。铅笔、彩笔、蜡笔只要塞进他嘴里转上几圈，就只能吐出一根尖锐的笔芯，削下的笔屑全收进他肚子里。如今，他正兴奋地盯着隔壁笔盒的圆珠笔和钢笔。虽然它们不太出屑，但他相信，没有什么是削不了的。",
+  "accessories": [
+    "边框",
+    "姿态：顶笔",
+    "姿态：呜呼起飞"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Kogmaw_3.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_kogmaw_skin03.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kogmaw/卷笔刀 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1011004.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kogmaw/卷笔刀 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [
+    {
+      "id": 101100401,
+      "name": "卷笔刀 克格莫 粉红侏罗纪",
+      "sortName": "粉红侏罗纪",
+      "colorName": "粉色",
+      "tencent": {
+        "price": 0,
+        "priceType": "",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": "",
+        "hasFullGiftPack": false,
+        "wildRiftSell": {
+          "startDate": "2026年9月22日",
+          "endDate": "2026年12月3日",
+          "description": "精英宝典",
+          "activityTitle": "宝典75级解锁",
+          "price": "680",
+          "priceUnit": "点券"
+        }
+      },
+      "roit": {
+        "price": 0,
+        "priceType": "直售",
+        "priceStartDay": "",
+        "priceEndDay": "",
+        "description": ""
+      },
+      "riotName": "Pencil Sharpener Kog'Maw Ascended",
+      "chromasPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kogmaw/粉红侏罗纪.png",
+      "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kogmaw/粉红侏罗纪 人物.jpg",
+      "closeUpPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/kogmaw/粉红侏罗纪 特写.jpg",
+      "emote": null,
+      "wildRiftSell": {
+        "startDate": "2026年9月22日",
+        "endDate": "2026年12月3日",
+        "description": "精英宝典",
+        "activityTitle": "宝典75级解锁",
+        "price": "680",
+        "priceUnit": "点券"
+      },
+      "colors": [
+        "#FFC0CB",
+        "#FFC0CB"
+      ]
+    }
+  ],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年9月22日",
+    "endDate": "2026年12月3日",
+    "description": "高级宝典 360点券 精英宝典 680点券",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

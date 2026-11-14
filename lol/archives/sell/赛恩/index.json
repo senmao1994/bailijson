@@ -1,14 +1,17 @@
 {
-  "id": "sion",
-  "name": "赛恩",
-  "alias": "Sion",
-  "key": 14,
-  "title": "亡灵战神",
   "lol": {
     "id": "sion",
     "name": "赛恩",
     "alias": "Sion",
     "key": 14,
     "title": "亡灵战神"
+  },
+  "wr": {
+    "id": 10125,
+    "name": "赛恩",
+    "alias": "saien",
+    "key": "10125",
+    "title": "亡灵战神",
+    "platform": "wr"
   }
 }

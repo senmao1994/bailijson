@@ -1,7 +1,10 @@
 {
-  "id": 10084,
-  "name": "奈德丽",
-  "alias": "naideli",
-  "key": "10084",
-  "title": "狂野女猎手"
+  "wr": {
+    "id": 10084,
+    "name": "奈德丽",
+    "alias": "naideli",
+    "key": "10084",
+    "title": "狂野女猎手",
+    "platform": "wr"
+  }
 }

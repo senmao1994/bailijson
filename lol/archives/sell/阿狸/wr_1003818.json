@@ -1,0 +1,59 @@
+{
+  "id": 1003818,
+  "name": "K/DA Lumen 阿狸",
+  "roitName": "K/DA Lumen Ahri",
+  "sortName": "K/DA Lumen",
+  "rarity": "终极",
+  "raritySubType": "",
+  "price": "2500",
+  "priceUnit": "应援票根",
+  "skinline": "K/DA",
+  "universe": "拳头唱片",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "阿狸的风格尝试带领她进入了一片铬亮色的未来，在那里，都市文明已经显得渺小，流行的曲风已经变成了虚无的底噪……在那一切的尽头，这位执着的音乐人只想知道，K/DA将会以什么形式抵达那个彼岸。",
+  "accessories": [
+    "边框",
+    "姿态：夺目",
+    "姿态：风采身姿",
+    "姿态：璀璨时代",
+    "姿态：千面变幻",
+    "姿态：闪耀星姿"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_17.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ahri_skin17.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/KDA Lumen 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003818.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/KDA Lumen 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年11月4日",
+    "endDate": "2027年5月8日前",
+    "description": "千面皆我活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

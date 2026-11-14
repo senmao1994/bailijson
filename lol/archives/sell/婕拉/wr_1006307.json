@@ -1,0 +1,54 @@
+{
+  "id": 1006307,
+  "name": "至臻 女帝 婕拉",
+  "roitName": "Prestige Battle Queen Zyra",
+  "sortName": "女帝",
+  "rarity": "神话",
+  "raritySubType": "至臻",
+  "price": "1000",
+  "priceUnit": "橙色原石",
+  "skinline": "女帝威仪",
+  "universe": "",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "那场遥远的鏖战中，维普里斯的将士几乎全都捐躯沙场。正当世人惋惜于这个往日帝国的余晖将尽时，女王婕拉却从战场中归来，那些同袍染血的剑戟甲胃，尽数凝成了她殷红的武装。逝者不去，与王同存。维普里斯的忠魂深埋地下，而她的王权，也正扎根于此。如今，她一人便是这个帝国，便是全部的忠诚与荣誉，人们也称她为“一人的女王”。",
+  "accessories": [
+    "边框",
+    "姿态：预演",
+    "姿态：傲视众生"
+  ],
+  "splashPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/zyra/女帝.jpg",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/zyra/女帝 头像-1.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/zyra/女帝 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年10月23日",
+    "endDate": "2026年11月5日",
+    "description": "首次上架8折(截止10月30日)",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

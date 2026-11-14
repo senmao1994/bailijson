@@ -16,7 +16,7 @@
   "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin01/images/mel_splash_uncentered_1.jpg",
   "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin01/images/mel_splash_tile_1.jpg",
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin01/images/mel_splash_centered_1.jpg",
-  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800001.png",
+  "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin01/chromapreview.chromaassetmigration.png",
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin01/melloadscreen_1.jpg",
   "roit": {
     "price": 1350,
@@ -27,6 +27,7 @@
   },
   "tencentPrice": 8900,
   "icon": "",
+  "emote": null,
   "tencent": {
     "price": 8900,
     "priceType": "直售",
@@ -59,8 +60,15 @@
         "description": ""
       },
       "riotName": "Arcane Councilor Mel (Ruby)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800002.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin02/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#D33528",
@@ -71,7 +79,7 @@
       "id": 800003,
       "name": "皮城议员 梅尔 残影青水晶",
       "sortName": "残影青水晶",
-      "colorName": "青色",
+      "colorName": "青绿色",
       "tencent": {
         "price": 2000,
         "priceType": "限时直售",
@@ -89,8 +97,15 @@
         "description": ""
       },
       "riotName": "Arcane Councilor Mel (Turquoise)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800003.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin03/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#73BFBE",
@@ -101,7 +116,7 @@
       "id": 800004,
       "name": "皮城议员 梅尔 折镜紫水晶",
       "sortName": "折镜紫水晶",
-      "colorName": "紫色",
+      "colorName": "深紫",
       "tencent": {
         "price": 2000,
         "priceType": "限时直售",
@@ -119,8 +134,15 @@
         "description": ""
       },
       "riotName": "Arcane Councilor Mel (Tanzanite)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800004.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin04/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#54209B",
@@ -131,7 +153,7 @@
       "id": 800005,
       "name": "皮城议员 梅尔 鎏金黄水晶",
       "sortName": "鎏金黄水晶",
-      "colorName": "黄色",
+      "colorName": "金黄",
       "tencent": {
         "price": 2000,
         "priceType": "限时直售",
@@ -149,8 +171,15 @@
         "description": ""
       },
       "riotName": "Arcane Councilor Mel (Catseye)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800005.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin05/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#FFEE59",
@@ -179,8 +208,15 @@
         "description": ""
       },
       "riotName": "Arcane Councilor Mel (Rose Quartz)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800006.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin06/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#E58BA5",
@@ -209,8 +245,15 @@
         "description": ""
       },
       "riotName": "Arcane Councilor Mel (Sapphire)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800007.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin07/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#2756CE",
@@ -221,7 +264,7 @@
       "id": 800008,
       "name": "皮城议员 梅尔 蚀日黑水晶",
       "sortName": "蚀日黑水晶",
-      "colorName": "黑色",
+      "colorName": "黑曜石",
       "tencent": {
         "price": 2000,
         "priceType": "限时直售",
@@ -239,8 +282,15 @@
         "description": ""
       },
       "riotName": "Arcane Councilor Mel (Obsidian)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800008.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin08/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#27211C",
@@ -251,7 +301,7 @@
       "id": 800009,
       "name": "皮城议员 梅尔 灼灼白水晶",
       "sortName": "灼灼白水晶",
-      "colorName": "白色",
+      "colorName": "珍珠白",
       "tencent": {
         "price": 0,
         "priceType": "暂无",
@@ -269,8 +319,15 @@
         "description": ""
       },
       "riotName": "Arcane Councilor Mel (Pearl)",
-      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800009.png",
+      "chromasPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin09/chromapreview.chromaassetmigration.png",
       "mythicIcon": null,
+      "type": "normal",
+      "borderPath": null,
+      "loadingMythicPath": null,
+      "splashMythicPath": null,
+      "modelPath": null,
+      "closeUpPath": null,
+      "emote": null,
       "wildRiftSell": null,
       "colors": [
         "#ECF9F8",
@@ -278,12 +335,13 @@
       ]
     }
   ],
-  "formsCount": null,
+  "formsCount": 0,
   "forms": [],
+  "tiers": [],
   "version": {
     "push": "25.02",
-    "update": "",
-    "updateChinese": "",
+    "update": "26.22",
+    "updateChinese": "中型更新(2026)",
     "updateName": "",
     "video": ""
   },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:34:57.059099",
+  "updatedAt": "2026-11-08T19:08:22.329597",
   "skins": [
     {
       "id": 1000,
@@ -10883,37 +10883,55 @@
       "championId": 27,
       "rarity": 3,
       "cost": 3,
-      "availability": 4,
+      "availability": 0,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-11-04",
+      "artists": [
+        3
+      ],
       "features": [
         0,
         2,
         3,
         4
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin65/images/evelynn_splash_tile_65.skins_evelynn_skin65.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin65/images/evelynn_splash_uncentered_65.skins_evelynn_skin65.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin65/evelynnloadscreen_65.skins_evelynn_skin65.jpg"
+      "lineIds": [
+        91
+      ],
+      "universeIds": [
+        79
+      ],
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin65/images/evelynn_splash_tile_65.skins_evelynn_skin65.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin65/images/evelynn_splash_uncentered_65.skins_evelynn_skin65.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin65/evelynnloadscreen_65.skins_evelynn_skin65.jpg"
     },
     {
       "id": 28066,
       "name": "K/DA 金曲制作人 伊芙琳",
       "championId": 27,
       "rarity": 1,
-      "cost": 0,
-      "availability": 4,
+      "cost": 1,
+      "availability": 1,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-11-04",
+      "artists": [
+        69
+      ],
       "features": [
         0,
         2,
         3,
         4
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_tile_66.skins_evelynn_skin66.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_uncentered_66.skins_evelynn_skin66.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/evelynnloadscreen_66.skins_evelynn_skin66.jpg"
+      "lineIds": [
+        91
+      ],
+      "universeIds": [
+        79
+      ],
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_tile_66.skins_evelynn_skin66.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/images/evelynn_splash_uncentered_66.skins_evelynn_skin66.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin66/evelynnloadscreen_66.skins_evelynn_skin66.jpg"
     },
     {
       "id": 29000,
@@ -14005,6 +14023,34 @@
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/images/sona_splash_tile_75.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/images/sona_splash_uncentered_75.jpg",
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin75/sonaloadscreen_75.jpg"
+    },
+    {
+      "id": 37077,
+      "name": "DJ 娑娜 终极混音版（暂译）",
+      "championId": 36,
+      "rarity": 1,
+      "cost": 1,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "artists": [
+        3
+      ],
+      "features": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "lineIds": [
+        173
+      ],
+      "universeIds": [
+        79
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/images/sona_splash_tile_77.skins_sona_skin77.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/images/sona_splash_uncentered_77.skins_sona_skin77.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/sonaloadscreen_77.skins_sona_skin77.jpg"
     },
     {
       "id": 38000,
@@ -27455,19 +27501,28 @@
       "name": "K/DA 生来惹火 焰火杀缭乱 阿卡丽",
       "championId": 74,
       "rarity": 1,
-      "cost": 0,
-      "availability": 4,
+      "cost": 1,
+      "availability": 1,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-11-04",
+      "artists": [
+        25
+      ],
       "features": [
         0,
         2,
         3,
         4
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin102/images/akali_splash_tile_102.skins_akali_skin102.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin102/images/akali_splash_uncentered_102.skins_akali_skin102.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin102/akaliloadscreen_102.skins_akali_skin102.jpg"
+      "lineIds": [
+        91
+      ],
+      "universeIds": [
+        79
+      ],
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin102/images/akali_splash_tile_102.skins_akali_skin102.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin102/images/akali_splash_uncentered_102.skins_akali_skin102.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin102/akaliloadscreen_102.skins_akali_skin102.jpg"
     },
     {
       "id": 84103,
@@ -32196,17 +32251,26 @@
       "championId": 86,
       "rarity": 2,
       "cost": 6,
-      "availability": 4,
+      "availability": 0,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-11-04",
+      "artists": [
+        3
+      ],
       "features": [
         2,
         3,
         4
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin97/images/ahri_splash_tile_97.skins_ahri_skin97.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin97/images/ahri_splash_uncentered_97.skins_ahri_skin97.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin97/ahriloadscreen_97.skins_ahri_skin97.jpg"
+      "lineIds": [
+        91
+      ],
+      "universeIds": [
+        79
+      ],
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin97/images/ahri_splash_tile_97.skins_ahri_skin97.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin97/images/ahri_splash_uncentered_97.skins_ahri_skin97.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin97/ahriloadscreen_97.skins_ahri_skin97.jpg"
     },
     {
       "id": 104000,
@@ -39581,6 +39645,33 @@
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin43/zoeloadscreen_43.jpg"
     },
     {
+      "id": 142045,
+      "name": "咖啡甜心 佐伊",
+      "championId": 109,
+      "rarity": 2,
+      "cost": 6,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "artists": [
+        3
+      ],
+      "features": [
+        2,
+        3,
+        4
+      ],
+      "lineIds": [
+        153
+      ],
+      "universeIds": [
+        51
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin45/images/zoe_splash_tile_45.skins_zoe_skin45.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin45/images/zoe_splash_uncentered_45.skins_zoe_skin45.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin45/zoeloadscreen_45.skins_zoe_skin45.jpg"
+    },
+    {
       "id": 143000,
       "name": "荆棘之兴",
       "championId": 110,
@@ -40259,13 +40350,21 @@
       "name": "K/DA 生来惹火 卡莎",
       "championId": 111,
       "rarity": 2,
-      "cost": 0,
-      "availability": 4,
+      "cost": 6,
+      "availability": 0,
       "lootEligible": 1,
-      "isUpcoming": 1,
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/images/kaisa_splash_tile_83.skins_kaisa_skin83.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/images/kaisa_splash_uncentered_83.skins_kaisa_skin83.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/kaisaloadscreen_83.skins_kaisa_skin83.jpg"
+      "artists": [
+        3
+      ],
+      "lineIds": [
+        91
+      ],
+      "universeIds": [
+        79
+      ],
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/images/kaisa_splash_tile_83.skins_kaisa_skin83.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/images/kaisa_splash_uncentered_83.skins_kaisa_skin83.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/kaisaloadscreen_83.skins_kaisa_skin83.jpg"
     },
     {
       "id": 147000,
@@ -50924,6 +51023,33 @@
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin49/images/neeko_splash_tile_49.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin49/images/neeko_splash_uncentered_49.jpg",
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin49/neekoloadscreen_49.jpg"
+    },
+    {
+      "id": 518050,
+      "name": "咖啡甜心 妮蔻",
+      "championId": 151,
+      "rarity": 2,
+      "cost": 6,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "artists": [
+        3
+      ],
+      "features": [
+        2,
+        3,
+        4
+      ],
+      "lineIds": [
+        153
+      ],
+      "universeIds": [
+        51
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin50/images/neeko_splash_tile_50.skins_neeko_skin50.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin50/images/neeko_splash_uncentered_50.skins_neeko_skin50.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin50/neekoloadscreen_50.skins_neeko_skin50.jpg"
     },
     {
       "id": 523000,

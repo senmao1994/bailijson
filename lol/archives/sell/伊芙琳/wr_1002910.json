@@ -1,0 +1,57 @@
+{
+  "id": 1002910,
+  "name": "至臻 K/DA Heatbringer 伊芙琳",
+  "roitName": "Prestige K/DA HEATBRINGER Evelynn",
+  "sortName": "至臻 K/DA Heatbringer",
+  "rarity": "神话",
+  "raritySubType": "至臻",
+  "price": "1000",
+  "priceUnit": "橙色原石",
+  "skinline": "K/DA",
+  "universe": "拳头唱片",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "伊芙琳已经记不清尝试过多少高定服装，但她的审美永远如一：性感、神秘而且致命，但今次，这位大腕天后也不介意走到聚光灯下，好好体会一下粉丝的渴慕与名利场的恭维。",
+  "accessories": [
+    "边框",
+    "姿态：S级",
+    "姿态：优雅舞步",
+    "姿态：天后气场"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Evelynn_9.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_evelynn_skin09.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/evelynn/至臻 KDA Heatbringer 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1002910.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/evelynn/至臻 KDA Heatbringer 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年11月4日",
+    "endDate": "2026年11月17日",
+    "description": "首周8折：800原石",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}

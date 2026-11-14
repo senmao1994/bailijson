@@ -1,0 +1,59 @@
+{
+  "id": 1003816,
+  "name": "K/DA Gilded 阿狸",
+  "roitName": "K/DA Gilded Ahri",
+  "sortName": "K/DA Gilded",
+  "rarity": "终极",
+  "raritySubType": "",
+  "price": "2500",
+  "priceUnit": "应援票根",
+  "skinline": "K/DA",
+  "universe": "拳头唱片",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "鎏金时代的绝世名伶，对他人来说是无法企及的幻梦，而对于阿狸，只是她风格尝试的其中一种。纵情于今夜吧！伴随着魅惑之声，在K/DA的金色梦乡中流连，直至长夜将尽。",
+  "accessories": [
+    "边框",
+    "姿态：星姿",
+    "姿态：华丽身姿",
+    "姿态：金辉时代",
+    "姿态：千面变幻",
+    "姿态：闪耀星姿"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Ahri_15.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_ahri_skin15.png",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/KDA Gilded 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1003816.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/ahri/KDA Gilded 边框.png",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年11月4日",
+    "endDate": "2027年5月8日前",
+    "description": "千面皆我活动",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
