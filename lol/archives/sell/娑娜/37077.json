@@ -1,0 +1,51 @@
+{
+  "id": 37077,
+  "name": "DJ 娑娜 终极混音",
+  "roitName": "DJ Sona Ultimate Remix",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "DJ",
+  "universe": "拳头唱片",
+  "pushDate": null,
+  "series": null,
+  "backstory": "娑娜拥有超凡脱俗的音乐才华，能够轻松驾驭各种音乐风格。每一位有幸欣赏其演出的人，都会为之深深着迷。这位“沉默的演奏家”擅长将不同风格巧妙融合，创造出令人意想不到的音乐奇迹，总能让全场观众随着节奏摇摆。娑娜从不需要用言语来表达自己。因为她的音乐早已胜过千言万语。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/images/sona_splash_uncentered_77.skins_sona_skin77.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/images/sona_splash_tile_77.skins_sona_skin77.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/images/sona_splash_centered_77.skins_sona_skin77.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/sonaloadscreen_77.skins_sona_skin77.jpg",
+  "roit": {
+    "price": 40,
+    "priceType": "圣堂抽奖",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 40,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 40,
+    "priceType": "圣堂抽奖",
+    "priceTypeChinese": "神话幻想",
+    "priceStartDay": "2026年11月19日",
+    "priceEndDay": "暂未公布下架时间",
+    "description": "",
+    "hasFullGiftPack": true
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "26.23",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
