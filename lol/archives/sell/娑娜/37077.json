@@ -40,7 +40,7 @@
   "formsCount": 3,
   "forms": [
     {
-      "name": "以我之名",
+      "name": "DJ 娑娜 终极混音 以我之名",
       "type": "",
       "icon": "7351",
       "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/CafeCuties/5220_Sona_Spins_It_Inventory.ACCESSORIES_16_23.png",
@@ -50,7 +50,7 @@
       "loadingPath": "",
       "splashHDPath": "",
       "trigger": "CTRL+5",
-      "description": "DJ Ultimate Remix Know My Name",
+      "description": "Know My Name",
       "note": "",
       "acquisition": "",
       "borderName": "",
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "name": "生来惹火",
+      "name": "DJ 娑娜 终极混音 生来惹火",
       "type": "",
       "icon": "7352",
       "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/CafeCuties/5221_Thats_My_Song_Inventory.ACCESSORIES_16_23.png",
@@ -77,7 +77,7 @@
       "loadingPath": "",
       "splashHDPath": "",
       "trigger": "CTRL+5",
-      "description": "DJ Ultimate Remix Firestarter",
+      "description": "Firestarter",
       "note": "",
       "acquisition": "",
       "borderName": "",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "name": "我行我路",
+      "name": "DJ 娑娜 终极混音 我行我路",
       "type": "",
       "icon": "7350",
       "emote": "/lol-game-data/assets/ASSETS/Loadouts/SummonerEmotes/Events/CafeCuties/5219_Jam_With_Me_Inventory.ACCESSORIES_16_23.png",
@@ -104,7 +104,7 @@
       "loadingPath": "",
       "splashHDPath": "",
       "trigger": "CTRL+5",
-      "description": "DJ Ultimate Remix Live My Life",
+      "description": "Live My Life",
       "note": "",
       "acquisition": "",
       "borderName": "",
