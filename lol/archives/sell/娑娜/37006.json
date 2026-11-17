@@ -37,8 +37,97 @@
     "hasFullGiftPack": false
   },
   "chromas": [],
-  "formsCount": 0,
-  "forms": [],
+  "formsCount": 3,
+  "forms": [
+    {
+      "name": "DJ 动感",
+      "type": "",
+      "icon": "780",
+      "emote": "",
+      "image": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sona/Sona_DJ_(Kinetic).png",
+      "illustrationUrl": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sona/Sona_DJSkin_HD.jpg",
+      "avatarUrl": "",
+      "loadingPath": "",
+      "splashHDPath": "",
+      "trigger": "CTRL+5切换形态",
+      "description": "Kinetic",
+      "note": "第一形态",
+      "acquisition": "",
+      "borderName": "",
+      "roitName": "",
+      "tencentPrice": 0,
+      "riotPrice": 0,
+      "tencentPriceStartDay": "",
+      "tencentPriceEndDay": "",
+      "riotPriceStartDay": "",
+      "riotPriceEndDay": "",
+      "tencentDescription": "",
+      "colors": [
+        "#00CED1"
+      ]
+    },
+    {
+      "name": "DJ 震荡",
+      "type": "",
+      "icon": "779",
+      "emote": "",
+      "image": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sona/Sona_DJ_(Concussive).png",
+      "illustrationUrl": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sona/Sona_DJSkin_Concussive_HD.jpg",
+      "avatarUrl": "",
+      "loadingPath": "",
+      "splashHDPath": "",
+      "trigger": "CTRL+5切换形态",
+      "description": "Concussive",
+      "note": "第二形态",
+      "acquisition": "",
+      "borderName": "",
+      "roitName": "",
+      "tencentPrice": 0,
+      "riotPrice": 0,
+      "tencentPriceStartDay": "",
+      "tencentPriceEndDay": "",
+      "riotPriceStartDay": "",
+      "riotPriceEndDay": "",
+      "tencentDescription": "",
+      "colors": [
+        "#FF0000"
+      ]
+    },
+    {
+      "name": "DJ 空灵",
+      "type": "",
+      "icon": "778",
+      "emote": "",
+      "image": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sona/Sona_DJ_(Ethereal).png",
+      "illustrationUrl": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/sona/Sona_DJSkin_Ethereal_HD.jpg",
+      "avatarUrl": "",
+      "loadingPath": "",
+      "splashHDPath": "",
+      "trigger": "CTRL+5切换形态",
+      "description": "Ethereal",
+      "note": "第三形态",
+      "acquisition": "",
+      "borderName": "",
+      "roitName": "",
+      "tencentPrice": 0,
+      "riotPrice": 0,
+      "tencentPriceStartDay": "",
+      "tencentPriceEndDay": "",
+      "riotPriceStartDay": "",
+      "riotPriceEndDay": "",
+      "tencentDescription": "",
+      "colors": [
+        "#673AB7"
+      ]
+    }
+  ],
   "tiers": [],
+  "version": {
+    "push": "5.4",
+    "update": "26.23",
+    "updateChinese": "音乐系统更新",
+    "updateName": "",
+    "video": ""
+  },
   "platform": "lol"
 }
