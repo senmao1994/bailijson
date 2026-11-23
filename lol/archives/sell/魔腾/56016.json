@@ -17,6 +17,7 @@
   "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin16/images/nocturne_splash_tile_16.jpg",
   "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin16/images/nocturne_splash_centered_16.jpg",
   "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin16/nocturneloadscreen_16.jpg",
+  "loadingSpecialEditionPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin07/nocturneloadscreen_7_le.jpg",
   "roit": {
     "price": 125,
     "priceType": "神话商店",
@@ -30,7 +31,7 @@
   "tencent": {
     "price": 125,
     "priceType": "神话商店",
-    "priceTypeChinese": "",
+    "priceTypeChinese": "海克斯",
     "priceStartDay": "2020年6月12日",
     "priceEndDay": "神话商店双周轮换",
     "description": "LPL全球总决赛夺冠限时半价兑换",
