@@ -1,0 +1,51 @@
+{
+  "id": 15009,
+  "name": "新创战纪 希维尔",
+  "roitName": "Neo PAX Sivir",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "PAX",
+  "universe": "PAX游戏展",
+  "pushDate": "2017年8月30日",
+  "series": null,
+  "backstory": "一款特殊的事件皮肤，在PAX West 2017上发放。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin09/images/sivir_splash_uncentered_9.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin09/images/sivir_splash_tile_9.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin09/images/sivir_splash_centered_9.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin09/sivirloadscreen_9.jpg",
+  "roit": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 125,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceTypeChinese": "海克斯",
+    "priceStartDay": "2017年8月28日",
+    "priceEndDay": "神话商店双周轮换",
+    "description": "LPL全球总决赛夺冠限时半价兑换",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "7.17",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
