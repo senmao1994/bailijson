@@ -1,8 +1,9 @@
 {
-  "id": 10151,
-  "name": "魔腾",
-  "alias": "moteng",
-  "key": "10151",
-  "title": "永恒梦魇",
-  "platform": "wr"
+  "lol": {
+    "id": "nocturne",
+    "name": "魔腾",
+    "alias": "Nocturne",
+    "key": 56,
+    "title": "永恒梦魇"
+  }
 }
