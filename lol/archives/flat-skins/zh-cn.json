@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T00:32:23.142628",
+  "updatedAt": "2026-11-23T15:28:08.564104",
   "skins": [
     {
       "id": 1000,
@@ -9841,8 +9841,8 @@
       "championId": 24,
       "rarity": 6,
       "cost": 13,
-      "availability": 0,
-      "lootEligible": 1,
+      "availability": 3,
+      "lootEligible": 0,
       "release": "2025-06-25",
       "artists": [
         25
@@ -14030,9 +14030,9 @@
       "championId": 36,
       "rarity": 1,
       "cost": 1,
-      "availability": 4,
+      "availability": 1,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-11-18",
       "artists": [
         3
       ],
@@ -14048,9 +14048,9 @@
       "universeIds": [
         79
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/images/sona_splash_tile_77.skins_sona_skin77.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/images/sona_splash_uncentered_77.skins_sona_skin77.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/sonaloadscreen_77.skins_sona_skin77.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/images/sona_splash_tile_77.skins_sona_skin77.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/images/sona_splash_uncentered_77.skins_sona_skin77.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin77/sonaloadscreen_77.skins_sona_skin77.jpg"
     },
     {
       "id": 38000,
@@ -26928,6 +26928,33 @@
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin50/yorickloadscreen_50.jpg"
     },
     {
+      "id": 83059,
+      "name": "圣诞老人 约里克",
+      "championId": 73,
+      "rarity": 2,
+      "cost": 6,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "artists": [
+        3
+      ],
+      "features": [
+        2,
+        3,
+        4
+      ],
+      "lineIds": [
+        48
+      ],
+      "universeIds": [
+        28
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin59/images/yorick_splash_tile_59.skins_yorick_skin59.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin59/images/yorick_splash_uncentered_59.skins_yorick_skin59.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin59/yorickloadscreen_59.skins_yorick_skin59.jpg"
+    },
+    {
       "id": 84000,
       "name": "离群之刺",
       "championId": 74,
@@ -27506,7 +27533,7 @@
       "lootEligible": 1,
       "release": "2026-11-04",
       "artists": [
-        3
+        25
       ],
       "features": [
         0,
@@ -29883,6 +29910,33 @@
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin63/images/riven_splash_tile_63.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin63/images/riven_splash_uncentered_63.jpg",
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin63/rivenloadscreen_63.jpg"
+    },
+    {
+      "id": 92073,
+      "name": "胜利之刃 锐雯",
+      "championId": 80,
+      "rarity": 0,
+      "cost": 1,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "artists": [
+        3
+      ],
+      "features": [
+        2,
+        3,
+        4
+      ],
+      "lineIds": [
+        7
+      ],
+      "universeIds": [
+        80
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin73/images/riven_splash_tile_73.skins_riven_skin73.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin73/images/riven_splash_uncentered_73.skins_riven_skin73.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin73/rivenloadscreen_73.skins_riven_skin73.jpg"
     },
     {
       "id": 96000,
@@ -33257,6 +33311,33 @@
       "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin29/images/volibear_splash_tile_29.jpg",
       "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin29/images/volibear_splash_uncentered_29.jpg",
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin29/volibearloadscreen_29.jpg"
+    },
+    {
+      "id": 106038,
+      "name": "冰雪节 沃利贝尔",
+      "championId": 89,
+      "rarity": 2,
+      "cost": 6,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "artists": [
+        3
+      ],
+      "features": [
+        2,
+        3,
+        4
+      ],
+      "lineIds": [
+        46
+      ],
+      "universeIds": [
+        28
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin38/images/volibear_splash_tile_38.skins_volibear_skin38.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin38/images/volibear_splash_uncentered_38.skins_volibear_skin38.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin38/volibearloadscreen_38.skins_volibear_skin38.jpg"
     },
     {
       "id": 107000,
@@ -39650,9 +39731,9 @@
       "championId": 109,
       "rarity": 2,
       "cost": 6,
-      "availability": 4,
+      "availability": 0,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-11-18",
       "artists": [
         3
       ],
@@ -39667,9 +39748,9 @@
       "universeIds": [
         51
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin45/images/zoe_splash_tile_45.skins_zoe_skin45.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin45/images/zoe_splash_uncentered_45.skins_zoe_skin45.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin45/zoeloadscreen_45.skins_zoe_skin45.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin45/images/zoe_splash_tile_45.skins_zoe_skin45.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin45/images/zoe_splash_uncentered_45.skins_zoe_skin45.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin45/zoeloadscreen_45.skins_zoe_skin45.jpg"
     },
     {
       "id": 143000,
@@ -47588,6 +47669,33 @@
       "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin68/namiloadscreen_68.jpg"
     },
     {
+      "id": 267069,
+      "name": "冬境仙灵 娜美",
+      "championId": 137,
+      "rarity": 2,
+      "cost": 6,
+      "availability": 4,
+      "lootEligible": 1,
+      "isUpcoming": 1,
+      "artists": [
+        3
+      ],
+      "features": [
+        2,
+        3,
+        4
+      ],
+      "lineIds": [
+        47
+      ],
+      "universeIds": [
+        28
+      ],
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin69/images/nami_splash_tile_69.skins_nami_skin69.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin69/images/nami_splash_uncentered_69.skins_nami_skin69.jpg",
+      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin69/namiloadscreen_69.skins_nami_skin69.jpg"
+    },
+    {
       "id": 268000,
       "name": "沙漠皇帝",
       "championId": 138,
@@ -51031,9 +51139,9 @@
       "championId": 151,
       "rarity": 2,
       "cost": 6,
-      "availability": 4,
+      "availability": 0,
       "lootEligible": 1,
-      "isUpcoming": 1,
+      "release": "2026-11-18",
       "artists": [
         3
       ],
@@ -51048,9 +51156,9 @@
       "universeIds": [
         51
       ],
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin50/images/neeko_splash_tile_50.skins_neeko_skin50.jpg",
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin50/images/neeko_splash_uncentered_50.skins_neeko_skin50.jpg",
-      "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin50/neekoloadscreen_50.skins_neeko_skin50.jpg"
+      "tilePath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin50/images/neeko_splash_tile_50.skins_neeko_skin50.jpg",
+      "splashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin50/images/neeko_splash_uncentered_50.skins_neeko_skin50.jpg",
+      "loadingPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin50/neekoloadscreen_50.skins_neeko_skin50.jpg"
     },
     {
       "id": 523000,

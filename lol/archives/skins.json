@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T00:32:23.018144",
-  "count": 2140,
+  "updatedAt": "2026-11-23T15:28:08.487415",
+  "count": 2144,
   "skins": [
     {
       "id": 1000,
@@ -5944,6 +5944,7 @@
       "transforming": true,
       "set": "Immortal Journey",
       "chromas": [
+        "Halcyon",
         "Obsidian",
         "Pearl",
         "Rose Quartz",
@@ -5951,7 +5952,7 @@
         "Tanzanite",
         "Turquoise"
       ],
-      "chromaCount": 6
+      "chromaCount": 7
     },
     {
       "id": 16044,
@@ -9916,7 +9917,7 @@
       "cost": 13,
       "release": "2025-06-25",
       "skinNum": 80,
-      "availability": "Available",
+      "availability": "Limited",
       "rpPrice": null,
       "newEffects": true,
       "newAnimations": true,
@@ -9926,9 +9927,10 @@
       "transforming": true,
       "set": "Spirit Blossom",
       "chromas": [
-        "Superbloom"
+        "Superbloom",
+        "Spirit Realm"
       ],
-      "chromaCount": 1
+      "chromaCount": 2
     },
     {
       "id": 25081,
@@ -14100,12 +14102,12 @@
       "name": "DJ 娑娜 终极混音",
       "championId": 37,
       "isBase": false,
-      "isUpcoming": 1,
+      "isUpcoming": 0,
       "rarity": 1,
       "cost": 1,
-      "release": null,
+      "release": "2026-11-18",
       "skinNum": 77,
-      "availability": "Upcoming",
+      "availability": "Rare",
       "rpPrice": null,
       "newEffects": true,
       "newAnimations": true,
@@ -14114,8 +14116,11 @@
       "newQuotes": false,
       "transforming": false,
       "set": "DJ",
-      "chromas": [],
-      "chromaCount": 0
+      "chromas": [
+        "FIRESTARTER",
+        "Live My Life"
+      ],
+      "chromaCount": 2
     },
     {
       "id": 38000,
@@ -14518,6 +14523,7 @@
       "chromas": [
         "Amethyst",
         "Aquamarine",
+        "Cloudmist",
         "Emerald",
         "Meteorite",
         "Obsidian",
@@ -14525,7 +14531,7 @@
         "Ruby",
         "Unflinching Zeal"
       ],
-      "chromaCount": 8
+      "chromaCount": 9
     },
     {
       "id": 39015,
@@ -15000,9 +15006,10 @@
         "Aquamarine",
         "Peridot",
         "Rose Quartz",
-        "Sapphire"
+        "Sapphire",
+        "Windborn"
       ],
-      "chromaCount": 4
+      "chromaCount": 5
     },
     {
       "id": 40013,
@@ -26847,6 +26854,37 @@
       "chromaCount": 8
     },
     {
+      "id": 83059,
+      "name": "圣诞老人 约里克",
+      "championId": 83,
+      "isBase": false,
+      "isUpcoming": 1,
+      "rarity": 2,
+      "cost": 6,
+      "release": null,
+      "skinNum": 59,
+      "availability": "Upcoming",
+      "rpPrice": 1350,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "transforming": false,
+      "set": "Snowdown Showdown",
+      "chromas": [
+        "Catseye",
+        "Emerald",
+        "Obsidian",
+        "Pearl",
+        "Rose Quartz",
+        "Ruby",
+        "Sapphire",
+        "Tanzanite"
+      ],
+      "chromaCount": 8
+    },
+    {
       "id": 84000,
       "name": "离群之刺",
       "championId": 84,
@@ -29795,6 +29833,38 @@
         "Turquoise"
       ],
       "chromaCount": 8
+    },
+    {
+      "id": 92073,
+      "name": "胜利之刃 锐雯",
+      "championId": 92,
+      "isBase": false,
+      "isUpcoming": 1,
+      "rarity": 0,
+      "cost": 1,
+      "release": null,
+      "skinNum": 73,
+      "availability": "Upcoming",
+      "rpPrice": null,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "transforming": false,
+      "set": "Victorious",
+      "chromas": [
+        "Bronze",
+        "Challenger",
+        "Diamond",
+        "Emerald",
+        "Gold",
+        "Grandmaster",
+        "Master",
+        "Platinum",
+        "Silver"
+      ],
+      "chromaCount": 9
     },
     {
       "id": 96000,
@@ -33136,6 +33206,37 @@
       "chromaCount": 8
     },
     {
+      "id": 106038,
+      "name": "冰雪节 沃利贝尔",
+      "championId": 106,
+      "isBase": false,
+      "isUpcoming": 1,
+      "rarity": 2,
+      "cost": 6,
+      "release": null,
+      "skinNum": 38,
+      "availability": "Upcoming",
+      "rpPrice": 1350,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "transforming": false,
+      "set": "Snow Day",
+      "chromas": [
+        "Citrine",
+        "Emerald",
+        "Obsidian",
+        "Pearl",
+        "Rose Quartz",
+        "Ruby",
+        "Sapphire",
+        "Tanzanite"
+      ],
+      "chromaCount": 8
+    },
+    {
       "id": 107000,
       "name": "傲之追猎者",
       "championId": 107,
@@ -34886,8 +34987,10 @@
       "newQuotes": false,
       "transforming": false,
       "set": "Immortal Journey",
-      "chromas": [],
-      "chromaCount": 0
+      "chromas": [
+        "Aureate"
+      ],
+      "chromaCount": 1
     },
     {
       "id": 114023,
@@ -39519,12 +39622,12 @@
       "name": "咖啡甜心 佐伊",
       "championId": 142,
       "isBase": false,
-      "isUpcoming": 1,
+      "isUpcoming": 0,
       "rarity": 2,
       "cost": 6,
-      "release": null,
+      "release": "2026-11-18",
       "skinNum": 45,
-      "availability": "Upcoming",
+      "availability": "Available",
       "rpPrice": 1350,
       "newEffects": true,
       "newAnimations": true,
@@ -47531,6 +47634,37 @@
       "chromaCount": 0
     },
     {
+      "id": 267069,
+      "name": "冬境仙灵 娜美",
+      "championId": 267,
+      "isBase": false,
+      "isUpcoming": 1,
+      "rarity": 2,
+      "cost": 6,
+      "release": null,
+      "skinNum": 69,
+      "availability": "Upcoming",
+      "rpPrice": 1350,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "transforming": false,
+      "set": "Winter Wonder",
+      "chromas": [
+        "Amethyst",
+        "Catseye",
+        "Emerald",
+        "Obsidian",
+        "Pearl",
+        "Rose Quartz",
+        "Ruby",
+        "Turquoise"
+      ],
+      "chromaCount": 8
+    },
+    {
       "id": 268000,
       "name": "沙漠皇帝",
       "championId": 268,
@@ -51015,12 +51149,12 @@
       "name": "咖啡甜心 妮蔻",
       "championId": 518,
       "isBase": false,
-      "isUpcoming": 1,
+      "isUpcoming": 0,
       "rarity": 2,
       "cost": 6,
-      "release": null,
+      "release": "2026-11-18",
       "skinNum": 50,
-      "availability": "Upcoming",
+      "availability": "Available",
       "rpPrice": 1350,
       "newEffects": true,
       "newAnimations": true,
