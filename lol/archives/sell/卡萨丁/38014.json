@@ -1,0 +1,51 @@
+{
+  "id": 38014,
+  "name": "海克斯科技 卡萨丁",
+  "roitName": "Hextech Kassadin",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "海克斯科技",
+  "universe": "海克斯科技",
+  "pushDate": "2020年10月15日",
+  "series": null,
+  "backstory": "卡萨丁几近着魔地沉浸在自己的工作中。他消失在自己迷宫般的工作室里已经有段时间了，并且已经从公众生活中消失了很多年。当他现身时，他向世界展示了一个令人震惊的海克斯科技发明：他自己的身体完全融入了他如此热爱的技术里。",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin14/images/kassadin_splash_uncentered_14.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin14/images/kassadin_splash_tile_14.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin14/images/kassadin_splash_centered_14.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin14/kassadinloadscreen_14.jpg",
+  "roit": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 125,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceTypeChinese": "",
+    "priceStartDay": "2020年10月16日",
+    "priceEndDay": "神话商店双周轮换",
+    "description": "LPL全球总决赛夺冠限时半价兑换",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "10.21",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
