@@ -30,15 +30,16 @@
   "tencent": {
     "price": 125,
     "priceType": "神话商店",
-    "priceTypeChinese": "",
+    "priceTypeChinese": "海克斯",
     "priceStartDay": "2018年3月27日",
-    "priceEndDay": "不定期轮换",
-    "description": "神话商店双周轮换",
+    "priceEndDay": "神话商店双周轮换",
+    "description": "LPL全球总决赛冠军活动限时半价",
     "hasFullGiftPack": false
   },
   "chromas": [],
-  "formsCount": null,
+  "formsCount": 0,
   "forms": [],
+  "tiers": [],
   "version": {
     "push": "8.6",
     "update": "",
