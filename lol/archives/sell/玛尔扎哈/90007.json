@@ -1,0 +1,51 @@
+{
+  "id": 90007,
+  "name": "海克斯科技 玛尔扎哈",
+  "roitName": "Hextech Malzahar",
+  "sortName": null,
+  "rarity": "神话",
+  "raritySubType": null,
+  "price": null,
+  "priceUnit": null,
+  "skinline": "海克斯科技",
+  "universe": "海克斯科技",
+  "pushDate": "2018年10月18日",
+  "series": null,
+  "backstory": "在听说海克斯科技的起源就在自己的家乡恕瑞玛之后，玛尔扎哈独自冒险进入了废土之中。﻿在承受了改变他一生的启示之后，玛尔扎哈成为了最伟大的信使，宣称他看到了海克斯科技第二次复兴的预言",
+  "accessories": [],
+  "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin07/images/malzahar_splash_uncentered_7.jpg",
+  "squarePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin07/images/malzahar_splash_tile_7.jpg",
+  "centeredPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin07/images/malzahar_splash_centered_7.jpg",
+  "loadingPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin07/malzaharloadscreen_7.jpg",
+  "roit": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 125,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 125,
+    "priceType": "神话商店",
+    "priceTypeChinese": "海克斯",
+    "priceStartDay": "2018年10月18日",
+    "priceEndDay": "神话商店双周轮换",
+    "description": "LPL全球总决赛夺冠限时半价兑换",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "version": {
+    "push": "8.20",
+    "update": "",
+    "updateChinese": "",
+    "updateName": "",
+    "video": ""
+  },
+  "platform": "lol"
+}
