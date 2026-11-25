@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T15:28:08.487415",
+  "updatedAt": "2026-11-25T19:20:21.001945",
   "count": 2144,
   "skins": [
     {
@@ -26855,7 +26855,7 @@
     },
     {
       "id": 83059,
-      "name": "圣诞老人 约里克",
+      "name": "圣诞老公公 约里克",
       "championId": 83,
       "isBase": false,
       "isUpcoming": 1,
@@ -27476,7 +27476,7 @@
       "newRecall": true,
       "newVoice": true,
       "newQuotes": false,
-      "transforming": false,
+      "transforming": true,
       "set": "K/DA",
       "chromas": [],
       "chromaCount": 0
@@ -29836,7 +29836,7 @@
     },
     {
       "id": 92073,
-      "name": "胜利之刃 锐雯",
+      "name": "胜利女神 锐雯",
       "championId": 92,
       "isBase": false,
       "isUpcoming": 1,
@@ -33207,7 +33207,7 @@
     },
     {
       "id": 106038,
-      "name": "冰雪节 沃利贝尔",
+      "name": "丑毛衣大赛冠军 沃利贝尔",
       "championId": 106,
       "isBase": false,
       "isUpcoming": 1,
@@ -47635,7 +47635,7 @@
     },
     {
       "id": 267069,
-      "name": "冬境仙灵 娜美",
+      "name": "虎鲸姬 娜美",
       "championId": 267,
       "isBase": false,
       "isUpcoming": 1,
