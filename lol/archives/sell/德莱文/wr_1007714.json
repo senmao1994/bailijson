@@ -1,0 +1,57 @@
+{
+  "id": 1007714,
+  "name": "终末锋芒 德莱文",
+  "roitName": "Soul Reaver Exquisite Edition Draven",
+  "sortName": "终末锋芒",
+  "rarity": "神话",
+  "raritySubType": "天选唯一",
+  "price": "388",
+  "priceUnit": "元",
+  "skinline": "联动皮肤",
+  "universe": "",
+  "pushDate": "7.3",
+  "series": null,
+  "backstory": "每一柄落回掌心的飞斧，都是他自少时便刻进骨子里的本能。一路收割，一路加冕，直到站上世界之巅，整座峡谷都在传颂他的名字。每座被斩获的奖杯，都披上了属于他的终末锋芒，他是年少成名，他是天选、也是唯一。",
+  "accessories": [
+    "边框",
+    "姿态：傲气",
+    "姿态：盯上你了",
+    "姿态：天选唯一"
+  ],
+  "splashPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/Posters/Draven_13.jpg",
+  "squarePath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/S_draven_skin13.jpg",
+  "circlePath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/draven/终末锋芒 头像.png",
+  "loadingPath": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/CardPictures/S_R_1007714.png",
+  "loadingSpecialEditionPath": "https://cdn.jsdelivr.net/gh/senmao1994/bailiGallery@main/heroes/draven/终末锋芒 边框-1.webp",
+  "roit": {
+    "price": 0,
+    "priceType": "直售",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": ""
+  },
+  "tencentPrice": 0,
+  "icon": "",
+  "emote": null,
+  "tencent": {
+    "price": 0,
+    "priceType": "",
+    "priceTypeChinese": "",
+    "priceStartDay": "",
+    "priceEndDay": "",
+    "description": "",
+    "hasFullGiftPack": false
+  },
+  "chromas": [],
+  "formsCount": 0,
+  "forms": [],
+  "tiers": [],
+  "sell": {
+    "startDate": "2026年11月25日",
+    "endDate": "2026年12月10日",
+    "description": "联动皮肤超前体验",
+    "activityTitle": "",
+    "price": "",
+    "priceUnit": ""
+  }
+}
